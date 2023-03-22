@@ -5,6 +5,22 @@
 
 Email: mawaywoo(at)126(dot)com
 
+源数据(一切理论根植于此，发展于此！)
+
+研究纯范畴论的乐趣在于：Seeing how to build things out step by step (via all kinds of limits and colimits).
+
+对已有的结果进行推广 —> 对原有的条件进行弱化 —> 对条件增加或放大“误差项”。放大或增加一个“误差项”之后可能可以统一和推广很多概念。
+
+多积累各种范畴的性质(从完备性、正合性、小性去考察)，多积累判定这些性质的各种准则，以备做研究时可以灵活调用。
+
+范畴间的函子/比较 = 寻找值域范畴的某个moduli范畴。
+
+可以利用函子做什么：借助函子去获取/构建/追踪/计算信息，要善于利用函子辅助计算。可以取一些简单的对象看看函子可以把它带去哪？简单对象通过函子可以给我们带来许多新信息。简单对象和函子可以使得我们可利用的信息变多。函子是要拿来用(计算)的。(所以我们一看到函子时应该借助它和简单对象去做一些事情)。见483-485.
+
+数学的乐趣在于**通过简单的对象去获取复杂的信息**。
+
+读论文的顺序=布局论文的顺序：主要结论 ——> 主要结论出现的概念放在预备知识部分 ——> 概念中又出现的概念再次往前放...... (见心得507条)
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
@@ -79,7 +95,35 @@ My research interests are in representation theory, (higher) topos theory, homot
 [分析哲学和语言哲学](https://www.bilibili.com/video/BV1Wb411c7hu?spm_id_from=333.337.search-card.all.click) | [分析哲学](https://www.bilibili.com/video/BV1Nt411d7S7?spm_id_from=333.337.search-card.all.click) | [英美分析哲学](https://www.bilibili.com/video/BV1W4411C7LU?spm_id_from=333.337.search-card.all.click) |
 [Cohomology of toposes](http://www.oliviacaramello.com/Teaching/Teaching.htm) | [Olivia Caramello's Teaching](http://www.oliviacaramello.com/Teaching/Teaching.htm) |[An elementary approach to elementary topos theory](http://128.2.67.219/toddtrimble/published/An+elementary+approach+to+elementary+topos+theory) |
 [SINGULAR-Try Online](https://www.singular.uni-kl.de/index.php/singular-download.html) | [Miscellaneous writing](https://www-users.cse.umn.edu/~bahra004/misc.html) | [Fibered Category and Representation Theory](http://www.las.osakafu-u.ac.jp/~yamaguti/archives/archives_en.html) |
-[Srikanth Iyengar's articles on arXiv](https://arxiv.org/a/iyengar_s_1.html) | [Derivator](http://fhoermann.org/) |
+[Srikanth Iyengar's articles on arXiv](https://arxiv.org/a/iyengar_s_1.html) | [Derivator](http://fhoermann.org/) | [Homotopy II (2020–2021)](https://www.youtube.com/playlist?list=PLTt5PyNwzdilR4GnUNxvTBGlKzma9imTf) |
+[Grothendieck Conference - Chapman University 2022](https://www.youtube.com/playlist?list=PLXlinOq24a9Q8GPa5_mQfLUEn8ZCg8pg-) | [Polymath 2021 Macaulay2 Demo Session](https://www.youtube.com/channel/UCe79OqOyHCvmX3VnJnw69IQ) | [CTNT 2020-A virtual tour of Magma](https://www.youtube.com/watch?v=iwhc1JzlPbA&t=8s) |
+[FSCD 2021](https://www.youtube.com/channel/UCAbIYY2zSLy3iU8IcEidEwQ/playlists) | [Counting conjectures and beyond](https://www.newton.ac.uk/event/gr2w01/) | [Blocks of finite groups](https://wiki.manchester.ac.uk/blocks/index.php/Main_Page) |
+[MAGMA online calculator](https://www.cesaregardito.eu/links/) | [International Mathematical Union](https://www.youtube.com/c/InternationalMathematicalUnion) | [Peter Cameron's Blog](https://cameroncounts.wordpress.com/2020/01/02/the-frattini-argument/) |
+[Peter Cameron (my favorite mathematician when working my master's degree)](https://cameroncounts.wordpress.com/contents/) | [Advanced Group Theory III](https://www.youtube.com/playlist?list=PLuL3A07nGD0FpgzbwAfx8nPAmL4oxJWZc) | [Christopher Parker's papers](https://arxiv.org/search/math?searchtype=author&query=Parker%2C+C) | 
+[Algebraic Groups Course](https://www.youtube.com/playlist?list=PLSpD-kj0MYUy_zFyen2hnp19azOrLCReW) | [American Mathematical Society](https://www.youtube.com/c/AmsOrg) | [Computational Algebraic Geometry](https://www.youtube.com/playlist?list=PL5ErEZ81Tyqc1RixHj65XA32ejrS2eEFK) |
+[GR2W02(Fusion System)](https://www.newton.ac.uk/event/gr2w02/) | [Functor Categories for Groups](https://www.lancaster.ac.uk/maths/fcg/) | [London Mathematical Society Joint Research Group](https://www.lancaster.ac.uk/maths/fcg/) |
+[INI Seminar Room 1](https://www.youtube.com/channel/UCGc4QqRcj5ApgXYhVkhaRpw/videos) | [INI Seminar Room 2](https://www.youtube.com/channel/UC-iCnlplSUpJDMWacrYnOqg) | [Cheryl Praeger - The pleasure of working with Jan Saxl](https://www.youtube.com/watch?v=8foH3ydxN1o) |
+[Jan Saxl Memorial Day](https://www.eventbrite.co.uk/e/jan-saxl-memorial-day-tickets-373234894617) | [Web-Workshop on Solvable and Nilpotent Groups](https://www.youtube.com/playlist?list=PLoqwd5bxqbGnzbcjM0tCW968phlI4gz97) | [NCMW - Finite groups of Lie type (2021)](https://www.youtube.com/playlist?list=PLzNx6FGVASN3M44gex6jYWyLl45xj9ffU) |
+[搜“导出范畴”](https://sx.cnu.edu.cn/portal) | [The finite simple groups-Lecture Notes](https://webspace.maths.qmul.ac.uk/r.a.wilson/fsgs.html) | [Robert A Wilson's Blog](https://robwilson1.wordpress.com/) |
+[HoTTEST Summer School 2022](https://www.youtube.com/playlist?list=PLtIZ5qxwSNnzpNqfXzJjlHI9yCAzRzKtx) | [Oral Interview I (Michael Aschbacher)](https://www.youtube.com/watch?v=9_ryS8IKf60) | [Oral Interview II (Michael Aschbacher)](https://www.youtube.com/results?search_query=michael+aschbacher) |
+[Robert Guralnick_Applications of the classification of finite simple groups](https://www.youtube.com/watch?v=2bDY6Nb0rvw&t=2034s) | [Cai Heng Li's Papers](https://dblp.org/pid/68/3711.html) | [Classical Groups and Representation Theory Seminar](https://www.youtube.com/channel/UC9HFs6AJm4qHnjcnogb3lVQ/videos) |
+[Remarks_on_CFSG_Part_1](https://www.youtube.com/watch?v=hkCxaXJ6A_Y) | [Remarks_on_CFSG_Part_2](https://www.youtube.com/watch?v=5FhV-x4KKkc) | [European Women in Mathematics](https://www.europeanwomeninmaths.org/) | [The Rising Sea_Daniel Murfet](http://therisingsea.org/) |
+[Philosophy](https://www.youtube.com/channel/UC4Ub4r8h7auWF7Hud4z_C0w/videos) | [quantum symmetry_Sarah Witherspoon](https://www.youtube.com/playlist?list=PLanmN44VwT5sJhKa_xlVkBglXkBGiHS8M) | [Koszul algebras_Aldo Conca](https://www.youtube.com/results?search_query=Aldo+Conca) |
+[IWoAT 2022-Infinity Category](https://www.youtube.com/playlist?list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy) | [Category Theory CT20->21](https://www.youtube.com/channel/UClruKBrlCOYmrzImohpE8kg/videos) | [AfMS aims at a weekly seminar for the whole of Africa](https://www.youtube.com/playlist?list=PLfXuF43MZZInpSmJubrafbWbLXfFVTPjN) |
+[TAPIRS(Rep. Stab.)](https://www.youtube.com/channel/UC8r1uLCt41RlIf05RQFdJJA/videos) | [Masaryk University Algebra Seminar](https://www.youtube.com/playlist?list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F) | [The lattice of torsion classes in SageMath (OCAMI talk Part II)](https://www.youtube.com/watch?v=2-y1a-_zEEA) |
+[String Applet (An interactive tool for computations with special biserial algebras, string algebras, and gentle algebras)](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/) | [An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo) | [Leavitt path algebra](https://www.youtube.com/playlist?list=PLi3i2WCOoL7uFRI7rktpqQZ-1EDTXtVt-) |
+[Scholar Mate 科研之友](https://www.scholarmate.com/psnweb/outside/homepage?des3PsnId=kcqLkl7bTghgpI57QFs3NA%3D%3D&module=pub) | [Kyiv Algebra 60](https://www.youtube.com/playlist?list=PLTqo_vr6Gq0HuJB9TV_bkLWsp80roSmEy) | [历史录音: 函子代数几何简介, 亚历山大·格罗滕迪克, 纽约州立大学布法罗分校 (SUNY at Buffalo), 1973](https://www.bilibili.com/video/BV1SU4y1S784/?spm_id_from=333.337.search-card.all.click) |
+[Stable infinity categories and algebraic surgery](https://www.bilibili.com/video/BV1d5411Y75F/?spm_id_from=333.337.search-card.all.click) | [IWoAT](https://space.bilibili.com/1888763963/video) | [【HSE】Derived Categories of Coherent Sheaves 凝聚层的导出范畴](https://www.bilibili.com/video/BV1uu411S7kt/?spm_id_from=333.337.search-card.all.click) |
+[The duality of Grothendieck toposes and their presentations](https://www.bilibili.com/video/BV1St4y1U7z3/?p=2&spm_id_from=pageDriver) | [模态逻辑 Modal Logic](https://space.bilibili.com/702260389/channel/seriesdetail?sid=545999) | [Differential graded categories and applications 微分分次范畴及其应用](https://www.bilibili.com/video/BV1wk4y1m7Wr/?spm_id_from=333.337.search-card.all.click) |
+[topos量子物理 Cecilia Flori](https://www.bilibili.com/video/BV1Sw411d7jv/?spm_id_from=333.337.search-card.all.click) | [Andreas Doering: "Topos mini-course 1"](https://www.youtube.com/watch?v=v1vtBYDWiB4&t=269s) | [Logic Association of Malaysia (PMM)](https://www.youtube.com/channel/UCcEsCKrLVV8RZ8V-RD4hzcg/playlists) |
+[PubMed Pro](https://www.pubmed.pro/home ) | [Marco Volpe - Six functor formalism for sheaves with non-presentable coefficients](https://mediathek2.uni-regensburg.de/playthis/617afcd486f0a0.07267824) | [Derived categories and perverse sheaves Pramod N Achar](https://www.youtube.com/playlist?list=PL6ud2X85OYNA4_sDq4TrLTm-Wtb_foDFj) |
+[The notion of singular support in DAG and its applications I (Sam Raskin)](https://www.youtube.com/watch?v=FGHJY0UOpTg&t=2041s) | [derived algebraic geometry](https://www.youtube.com/playlist?list=PLCe-H2N8-ny6KgQqZ_xLv0ZUg_8fnNjad) | [Six functors formalism in motivic homotopy theory Frédéric Déglise](https://www.youtube.com/playlist?list=PL-_cKNuVAYAUjf7zhqjehOeQFsPmmC3Hy) |
+[Free eBooks-Project Gutenberg](https://www.gutenberg.org/) | [Derived categories](https://www.youtube.com/playlist?list=PLCe-H2N8-ny5nIYCQevWaJsO3PP44uz03) | [ Monoidal categories and their representations](https://www.youtube.com/watch?v=ON_jn04Ifl8&list=PLn6dA-hP_G8SMX1-iqobFA31ux76zKW6y) |
+[Set Theory and Logic Lectures](https://www.youtube.com/playlist?list=PLPgKBibhNh73rAqxIaltEHw-qwMJISwOL) | [Essence of Set Theory](https://www.youtube.com/playlist?list=PL2m0OzES6Uw9zK-F8BX8HuGq7HAx9KhQb) | [Regular Languages and Model Theory](https://www.youtube.com/playlist?list=PL8nlk4F6cN8Ycoxurjdpf8_TvOWVjIffo) |
+[Logical Perspectives 2022 Open Lectures](https://www.youtube.com/playlist?list=PLUbD59ZHv1GTDHJovZbi7ok6NQnNoh-7f) | [Recent Applications of the Theory of O-Minimal Structures to Various Questions in Hodge Theory (Fall Emphasis 2020)](https://www.youtube.com/playlist?list=PLZut3oE4FI0y1BXocVN0iF250kOAYtHIH) | [Map of the Universe](https://www.forkinganddividing.com/) |
+[Théorie des catégories, séminaire CLE, etc...](https://www.youtube.com/playlist?list=PLGsF4lFaErIiLOuQDBJJ6VkMgLsW9O0fq) | [Jonathan Weinberger](https://www.youtube.com/results?search_query=+Jonathan+Weinberger) | [Jonathan Weinberger_synthetic higher category theory](https://sites.google.com/view/jonathanweinberger?pli=1) |
+[Logic](https://www.youtube.com/playlist?list=PL_vIhjXh1UToQY4_fgW4qrRnUMkc0-y0J) |
+
 
 
 
@@ -99,7 +143,13 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Conferences Related to Topology, Mirror Symmetry or Symplectic Geometry](https://www.hiroleetanaka.com/index.php?pageID=conferences) | [Categories List](https://www.mta.ca/~cat-dist/) | [Category Theory OctoberFest](https://ct-octoberfest.github.io/) | [Online Number Theory Seminar](http://www.mcm.ac.cn/events/seminars/202009/t20200901_599709.html) | [Toposes online](https://aroundtoposes.com/toposesonline/?contact-form-id=707&contact-form-sent=1256&contact-form-hash=bca8cd363af3e997281f9b02e80f12084c488124&_wpnonce=490d42af3e#contact-form-707) | [Gunter Malle](https://www.mathematik.uni-kl.de/agag/personen/leitung/malle/) |
 [Groups, representations and applications: new perspectives](https://www.newton.ac.uk/event/gra2/) | [Model Theory Conference](http://www.math.uni.wroc.pl/~pkowa/ln20.html) | [Differential Graded Algebra Techniques in Commutative Algebra on January 2-4, 2022](http://math.ipm.ac.ir/conferences/2022/18th_commalg/) | [MSRI Special Session on Combinatorial and Homological Methods in Commutative Algebra](https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_ss32.html#title) | 
 
+## Other stuff
 
+[最新SCI期刊查询及投稿分析系统](http://www.letpub.com.cn/index.php?page=journalapp&view=search) | [中国科学院文献情报中心期刊分区表](https://www.fenqubiao.com/Core/CategoryList.aspx) | [教育网联邦认证与资源共享基础设施](https://www.carsi.edu.cn/experience.html) | [CARSI校外访问电子资源](https://www.lib.stu.edu.cn/article-1470.html) | [科睿唯安](http://archive.sciencewatch.com/about/met/classpapmultijour/) | [Antikillerfarm Hacking](https://antkillerfarm.github.io/) |
+
+## CTeX and TeXstudio
+
+[ctx: 清华TUNA开源镜像(full.exe)](https://ctex.org/ctex/download/) | [TeXstudio](https://www.texstudio.org/) |
 
 ## Favorite mathematicians and students
 
@@ -122,12 +172,24 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Teena Gerhardt](https://users.math.msu.edu/users/gerhar18/home.html) | [Sibylle Schroll](https://www2.le.ac.uk/departments/mathematics/extranet/staff-material/staff-profiles/ss489) | [Pranav Pandit](https://www.icts.res.in/people/pranav-pandit) | [Emine Yıldırım](https://emine-yildirim.github.io/) | [Jens Niklas Eberhardt](https://jenseberhardt.com/) | [Anna Romanova](https://www.maths.usyd.edu.au/u/romanova/) | [Catharina Stroppel](https://www.math.uni-bonn.de/ag/stroppel/) | [Joel Gibson](https://www.jgibson.id.au/) | [Hal Schenck](http://webhome.auburn.edu/~hks0015/) | [Graham J. Leuschke](https://thecollege.syr.edu/people/faculty/leuschke-graham-j/) |
 [Mel Hochster](http://www.math.lsa.umich.edu/~hochster/) | [Tyler Anway](https://trmaths.com/anway) | [Keri Sather-Wagstaff](http://ssather.people.clemson.edu/) | [Eloísa Grifo](https://eloisagrifo.github.io/) | [Janet Vassilev](https://math.unm.edu/~jvassil/) | [Monica Lewis](https://sites.google.com/umn.edu/lewi1714) | [Gregory G. Smith](https://mast.queensu.ca/~ggsmith/) | [Alexandra Seceleanu](https://www.math.unl.edu/~aseceleanu2/) | [Janina C. Letz](https://www.math.uni-bielefeld.de/~jletz/) | [Josh Pollitz](https://www.math.utah.edu/~pollitz/) |
 [Wolfgang Lück](https://www.him.uni-bonn.de/lueck/) | [John McCleary](https://www.vassar.edu/faculty/mccleary) | [J.M.E. Hyland](https://www.dpmms.cam.ac.uk/~martin/)| [Nadia Mazza](https://www.lancaster.ac.uk/maths/people/nadia-mazza) | [Brita Nucinkis](http://www.ma.rhul.ac.uk/~uxah002/) | [Anton Fonarev](https://www.hse.ru/en/org/persons/26335729) | [Hideto Asashiba](https://wwp.shizuoka.ac.jp/asashiba/hideto-asashibas-website/) | [Joe Moeller](https://joemathjoe.wordpress.com/publications/) | [markkamsma](https://markkamsma.nl/math) | [Cihan Bahran](https://www-users.cse.umn.edu/~bahra004/) |
-[Atsushi Yamaguchi](http://www.las.osakafu-u.ac.jp/~yamaguti/archives/archives_en.html) | [Fritz Hörmann](http://fhoermann.org/) | [Lee DeVille](https://faculty.math.illinois.edu/~rdeville/) |
+[Atsushi Yamaguchi](http://www.las.osakafu-u.ac.jp/~yamaguti/archives/archives_en.html) | [Fritz Hörmann](http://fhoermann.org/) | [Lee DeVille](https://faculty.math.illinois.edu/~rdeville/) | [Richard Wong](https://web.ma.utexas.edu/users/richard.wong/Notes.html) | [Robert Michael Pawloski](https://dl.acm.org/profile/81319499316) | [Klaus M Lux](https://dl.acm.org/profile/81100377683) | [Gábor Ivanyos](http://math.bme.hu/~ig/) | [Benjamin Sambale](https://www.iazd.uni-hannover.de/de/sambale/) | [Charles Eaton](https://personalpages.manchester.ac.uk/staff/Charles.Eaton/) | [Cesare G. Ardito](https://www.cesaregardito.eu/personal-website/) |
+[Brian Conrad](http://math.stanford.edu/~conrad/) | [Li Liang](https://sites.google.com/site/lliangnju/publications) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Christopher Parker](https://web.mat.bham.ac.uk/C.W.Parker/?_ga=2.209845077.1995074698.1556376734-1617118950.1527411860) | [Inna Capdeboscq](https://warwick.ac.uk/fac/sci/maths/people/staff/inna_capdeboscq/) | [Ronald Solomon](https://math.osu.edu/people/solomon.1) | [Derek Holt](https://homepages.warwick.ac.uk/~mareg/) | [John Shareshian](https://www.math.wustl.edu/~shareshi/) | [Gareth Tracey](https://www.birmingham.ac.uk/staff/profiles/maths/tracey-gareth.aspx) | [Jan Saxl(读硕士时最喜欢数学家)](https://cameroncounts.wordpress.com/2020/05/04/jan-saxl/) |
+[Claire Amiot](https://www-fourier.ujf-grenoble.fr/~amiot/indexfr.html) | [Vipul Kakkar](http://www.curaj.ac.in/faculty/vipul-kakkar) | [Robert A Wilson](https://webspace.maths.qmul.ac.uk/r.a.wilson/homepage.html) | [Stephen Glasby](https://arxiv.org/a/glasby_s_1.html) | [Michael Giudici](https://www.researchgate.net/scientific-contributions/Michael-Giudici-14081523) | [李才恒](https://www.researchgate.net/profile/Cai-Li-12) | [Lei Wang](https://www.researchgate.net/scientific-contributions/Lei-Wang-2186305697) | [Maneesh Thakur](https://www.hri.res.in/~anlweb/academic_reports_maths/m_thakur_m/m_thakur_m.html) | [Rachel Skipper](https://sites.google.com/view/skippermath/about-me) | [Richard Lyons](https://sites.math.rutgers.edu/~lyons/) |
+[Gary Seitz](https://pages.uoregon.edu/seitz/) | [Ramji Lal](https://www.researchgate.net/profile/Ramji-Lal) | [Paul Seidel](https://math.mit.edu/~seidel/) | [Pablo Spiga](https://en.unimib.it/pablo-spiga) | [Elisa Lorenzo Garcia](https://www.europeanwomeninmaths.org/profile/elisa-lorenzo-garcia/) | [N. S. Narasimha Sastry](https://www.researchgate.net/profile/Narasimha-Sastry) | [Daniel Murfet](http://therisingsea.org/) | [Alex Lubotzky](http://www.ma.huji.ac.il/~alexlub/) | [Aldo Conca](https://www.dima.unige.it/~conca/) | [Matt Booth](http://mattbooth.info/) |
+[Beren Sanders](https://people.ucsc.edu/~beren/) | [Colva M. Roney-Dougal](http://www-groups.mcs.st-and.ac.uk/~colva/) | [Graham Manuell](https://www.researchgate.net/scientific-contributions/Graham-Manuell-2159843195) | [Peter Patzt](https://math.ou.edu/~ppatzt/) | [Jiří Rosický](https://www.muni.cz/en/people/2634-jiri-rosicky/publications) | [Julia Ramos González](https://juliaramosgonzalez.wordpress.com/) | [Wendy Lowen](https://win.uantwerpen.be/~wlowen/welcome.html) | [Ryo Takahashi](https://www.math.nagoya-u.ac.jp/~takahashi/) | [Susan Montgomery](https://dornsife.usc.edu/susan-montgomery/) | [Mikhail Khovanov](https://www.math.columbia.edu/~khovanov/) |
+[Alex Martsinkovsky](https://scholar.google.com/citations?hl=en&user=tx4_Ym4AAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=maway.woo%40gmail.com&gmla=AJsN-F5yJBfyaZ8jo0kHdlO92xPeu2gF_uM67Ipvx0CYbs_unEb3LqvG4JOyVjfukyxI3V6LhnyHORMayAuy67IXT1ZI46MQfYJuC3g4Um9yPvLSYTCk7Pp_46wYXQ2CP61yPVdXTGDZnHeEWf-hMn3TjsaUHCNgAJPt1NmkPWtouOvwvfCZHadQRF3EAHXJE02wcW8xTNNPYJ3kGKsWuuk--coO9x3YJ7OsOo1bL9XdeY4oJSA5DJRIr5cyQq3YrKr_qui6MOdu) | [Lander Hermans](https://www.uantwerpen.be/en/staff/lander-hermans/publications/) | [John D. Wiltshire-Gordon](https://jwiltshiregordon.github.io/) | [Fosco Loregian](https://tetrapharmakon.github.io/) | [Martin Gallauer](https://guests.mpim-bonn.mpg.de/gallauer/) | [Joseph Ayoub](http://user.math.uzh.ch/ayoub/) | [Luc Illusie](https://www.imo.universite-paris-saclay.fr/~luc.illusie/) | [Pramod N. Achar](https://www.math.lsu.edu/~pramod/) | [Sam Raskin](https://web.ma.utexas.edu/users/sraskin/) | [Yujiro Kawamata](https://www.u-tokyo.ac.jp/focus/en/people/k0001_03158.html) |
+[Frédéric Déglise](https://www.frias.uni-freiburg.de/en/people/fellows/current-fellows/deglise) | [Edward Poon](https://faculty.erau.edu/edward.poon) | [Qiaochu Yuan](https://math.berkeley.edu/~qchu/) | [Jonathan Weinberger](https://sites.google.com/view/jonathanweinberger?pli=1) | [Mamuka Jibladze‬ - ‪Google Scholar‬](https://scholar.google.com/citations?user=2pl3Im4AAAAJ&hl=en) | [Mamuka Jibladze](https://rmi.tsu.ge/~jib/) |
 
 
 ## Math-life balance
 
+[Behind the Name: The Meaning and History of First Names](https://www.behindthename.com/)
+
+[English Names](https://www.behindthename.com/names/usage/english)
+
 [Math Life Balance](https://www.youtube.com/channel/UCYRR0SgbYH59htIHkwTbqMw)
+
+[Richard Borcherds (Fields Medalist) on the Monster Group, String Theory, Self Studying and Moonshine](https://www.youtube.com/watch?v=xu15ZbxxnUQ)
 
 [Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 
@@ -157,14 +219,67 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [Free Site](https://free-ss.site/)
 
+[andehui's Blogger 每日更新218个免费节点V2rayN](https://blog.a169.org/2022/02/100.html)
+
+[zeelab](https://zeelab.xyz/)
+
 ## Radio
 
 [Toronto](https://tunein.com/radio/Stream-Toronto-r100597/)
+
+## 看论文时的古典音乐
+
+[Peaceful Classical Music | Bach, Mozart, Debussy...](https://www.youtube.com/watch?v=lA7TTnZhjdY)
+
+[The Best of Piano - 50 Greatest Pieces: Chopin, Debussy, Beethoven, Mozart...](https://www.youtube.com/watch?v=MuxB2zACza0)
+
+[30 Most Famous Classical Piano Pieces](https://www.youtube.com/watch?v=I0kVNMHo6fQ)
+
+[Chopin and Liszt | Classical Music | The Best of Romantic Piano](https://www.youtube.com/watch?v=XdZTAt6-O8E)
+
+[浪漫抒情古典音樂合集 - 舒曼. 孟德爾頌. 巴哈. 蕭邦 Relax Classical Music - Schumann . Mendelssohn . Bach . Chopin](https://www.youtube.com/watch?v=cX3Bi1TPXkM)
+
+[The Best of Piano: The most beautiful classical piano pieces for relax & study](https://www.youtube.com/watch?v=cGYyOY4XaFs)
+
+## 电影
+
+[不求上进的玉子](https://www.youtube.com/watch?v=-1-GTm5mo4g)
+
+[夏美的萤火虫](https://www.youtube.com/watch?v=zqIDhvlCCsQ&list=PLWxOqbSJOoIGFbIHkq18utnnJU0XXU1nV&index=2)
+
+## 音乐
+
+[半杯清茶社](https://www.youtube.com/channel/UCzYJ6f4wUfZ_PyXaOm_iEZA/videos)
+
+[音乐鉴赏-周海宏老师](https://www.youtube.com/playlist?list=PLKo9vo9CCy1w3YZ4md_pB7p2Bh85QvjU5)
+
+[音乐心理学](https://www.youtube.com/results?search_query=%E9%9F%B3%E4%B9%90%E5%BF%83%E7%90%86%E5%AD%A6)
+
+[键盘 —— 坐标 ——> 数学 & 音乐 = 钢琴键盘上的数学](https://www.youtube.com/playlist?list=PLt6xeHPISLq6DlI7LkEnq9kzu9YGik8s4)
+
+[焦元溥〈古典音樂史：中古到文藝復興：很重要，但為何我們不常聽？〉](https://www.youtube.com/watch?v=0dBqyxryhHc)
+
+[焦元溥〈古典音樂史：文藝復興時期的音樂：威尼斯樂派、蒙台威爾第與歌劇誕生〉](https://www.youtube.com/watch?v=GQ08X68we9U)
+
+[焦元溥〈古典音樂史：發刊詞：古典音樂：一種清醒、恆久的藝術〉](https://www.youtube.com/watch?v=unAOJWo4ZPs)
+
+[焦元溥 〔一聽就懂的古典音樂史〕第21集 _貝多芬：掐住命運咽喉的那雙手](https://www.youtube.com/watch?v=L7I9Sr3Xskg)
+
+[宋大叔教音樂 songdashu](https://www.youtube.com/c/%E5%AE%8B%E5%A4%A7%E5%8F%94%E6%95%99%E9%9F%B3%E6%A8%82songdashu/playlists)
+
+[音樂家的無聊人生 Musician Seacow](https://www.youtube.com/c/%E9%9F%B3%E6%A8%82%E5%AE%B6%E7%9A%84%E7%84%A1%E8%81%8A%E4%BA%BA%E7%94%9F)
+
+[叨叨冯聊音乐](https://www.youtube.com/channel/UCyh_y1SIGj_cUqMeoewO5_w)
+
+[HappyKeroMusic](https://www.youtube.com/channel/UCXwExSLMSpQUiFijSujdZiA/videos)
+
 
 
 ## 书法
 
 [柳公权-我最喜欢的书法家](https://www.bilibili.com/video/BV1744y1Y76k?spm_id_from=333.337.search-card.all.click)
+
+[草书百韵歌](https://www.youtube.com/playlist?list=PLAxiW80kxuWKbvEQJMXkkBGDrqmND3YsQ)
 
 [周观鱼Official channel](https://www.youtube.com/channel/UCxLjAM4TdTJnBhwB26q-3Dg)
 
@@ -202,10 +317,43 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 [国画教学](https://www.youtube.com/channel/UC6_nh3dpQG5V9MhOFd2Srvg)
 
+## 朗诵
+
+[閱讀經典](https://www.youtube.com/playlist?list=PLTA331gAcY6kgSeIlnnW2iUamt5woHUnl)
+
+## 手机维修
+
+[NorthridgeFix](https://www.youtube.com/c/NorthridgeFix/videos)
+
+## NET(2022-11-20 16:18)
+
+[Bandwagon Host](https://bwh81.net/) [49.99/year, mawaywoo at 126 dot com, 95.169.24.113, 97882^(-1), LPy2LjsKDapv^(-1)]
+
+[Download PuTTY: latest release (0.78)](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+
+[Windows下通过Putty建立SSH隧道代理上网](https://www.cmsoft.cn/resource/21.html) [root + password]
+
+[putty保持连接/防止自动断开连接](https://www.jianshu.com/p/d605d7efb2d5)
+
+[Firefox](https://www.mozilla.org/en-US/firefox/windows/)
+
+[站长工具](https://tool.chinaz.com/port)
+
+[搬瓦工VPS搭建V2Ray详细教程](https://www.bwgss.org/1419.html)
+
+[最新免费版 Xshell 和 Xftp 下载地址（中文版永久免费）](https://www.bwgss.org/13.html)
+
+[2022_抛弃VPN，小白专属V2Ray搭建+客户端配置教程！搬瓦工如何搭建V2Ray完整教程！](https://www.youtube.com/watch?v=rPTzORHg5lQ)
+
 
 ## French learning (math SGA)
 
-[𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡 𝗗𝗨 𝗦𝗘𝗠𝗜𝗡𝗔𝗜𝗥𝗘 𝗟𝗘𝗖𝗧𝗨𝗥𝗘𝗦 𝗚𝗥𝗢𝗧𝗛𝗘𝗡𝗗𝗜𝗘𝗖𝗞𝗜𝗘𝗡𝗡𝗘𝗦 𝟮𝟬𝟭𝟳-𝟮𝟬𝟭𝟴 ](https://www.youtube.com/playlist?list=PLt6rik8WDbuRC4pwgKQOnb7NPGG1oJ4Fo) 
+[𝗣𝗥𝗘𝗦𝗘𝗡𝗧𝗔𝗧𝗜𝗢𝗡 𝗗𝗨 𝗦𝗘𝗠𝗜𝗡𝗔𝗜𝗥𝗘 𝗟𝗘𝗖𝗧𝗨𝗥𝗘𝗦 𝗚𝗥𝗢𝗧𝗛𝗘𝗡𝗗𝗜𝗘𝗖𝗞𝗜𝗘𝗡𝗡𝗘𝗦 𝟮𝟬𝟭𝟳-𝟮𝟬𝟭𝟴](https://www.youtube.com/playlist?list=PLt6rik8WDbuRC4pwgKQOnb7NPGG1oJ4Fo) 
+
+[Théorie des catégories, séminaire CLE, etc...](https://www.youtube.com/playlist?list=PLGsF4lFaErIiLOuQDBJJ6VkMgLsW9O0fq) 
+
+[Stéphane Dugowson](https://www.youtube.com/@StephaneDugowson/playlists) 
+
 
 | French | Meaning | French | Meaning | French | Meaning | French | Meaning | French | Meaning |  
 |:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
@@ -904,7 +1052,520 @@ _____________________________________________________________________________
 277. 记笔记、书写、记录以及整理也是一种快乐(能力)？2022-4-26 13:38
 
 278. 整理和记录是我一直缺少的能力，自然也无法体会其中的快乐，或许这也是阻碍我前进的绊脚石。也许我应该开始尝试记录和整理自己所学过的知识？整理和记录至少不会让你感觉什么都没干？
+
+279. 范畴论中经常通过“完备化”获取各种“中间态”的子范畴。如考虑预层范畴PSh(C)，幂等完备化\bar{C}就是介于C和PSh(C)之间的范畴；Pro(C)和Ind(C)也是介于C和PSh(C)之间的范畴；对于模范畴，有正合完备化等等。所以在范畴论中各种奇怪的范畴其实都只是中间态的子范畴而已。比如拓扑斯的Point也是刻画C到Sh(C)之间的某个子范畴。2022-6-24 10:37 汕大图书馆三楼北区 4排9列2层。
+
+280. 已经可以比较轻松地阅读法语教材了，如SGA系列。2022-6-24 10:43 
+
+281. 自由模和投射模揭示的是模的【生成元和生成关系】，自由分解和投射分解也相当于把生成元和生成关系罗列出来。所以各种导出函子或者同调函子揭示的是函子在生成元上的作用效果，而不是作用在模本身的效果，后者更难以分析。所以自由分解和导出函子所体现的是“局部地去放大来看”的作用。即【一切都拉到生成元这个数量级上去看】，非生成元数量级就一直归纳地去一步步拉到那里去，自由分解就是在做这件事，而导出函子就是保证函子作用在生成元这个数量级上，因为总要保证作用对象是生成元级别，所以就需要不断地去作用，因此产生了一系列函子，即诱导出许多函子来。
+
+282. 研究一个对象的其中一个方法就是分析它的内部结构：生成元和生成关系，而同调代数的目的就是为了揭示这些生成元和生成关系。
+     ```diff 
+     同调代数 “=” 生成元 + 生成关系。
+     ```
+283. 把有限维代数A和幺半群M都看成范畴，则这两者的许多理论就非常相似，如A，Ae, eAe和M，Me, eMe以及Recollement理论等。所以可以先把Monoid的情形看清楚就基本理解了有限维代数的情形，低阶的幺半群的范畴可以画出来，所以它的各种元素和结构(如幂等元等)可以看得很清楚，低阶幺半群(看成范畴)的幂等完备化也可以画出来，可以将它与A的所有幂等元e决定的投射模Ae所产生的满子范畴进行比较，如End(Ae)=(eAe)^op以及幂等完备化中的对象e的自同态End(e)=eMe。可以参看 Benjamin Steinberg，Representation Theory of Finite Monoids，Springer 2016. 
+
+284. 终于弄懂同伦极限转化为等化子计算时的那两个态射\Phi,\Psi的作用规则，具体作用方式是【与值域的分量的指标态射相关】。[Micah Miller, A Primer on Homotopy Limits](https://www.youtube.com/watch?v=hF_T1JHaVpU)，[Homotopy Colimit](https://en.wikipedia.org/wiki/Homotopy_colimit), 2022-6-25 16:27 汕大图书馆 (这几天图书馆都是拍照的毕业生，有点儿吵，明天是他们的毕业典礼)。 
+
+285.  (代数结构)层范畴{F：C \to D}的许多性质由它的目标范畴D所决定的，范畴D有什么性质可对应地考虑D-层范畴是否具有该性质。不同的D决定的代数结构层范畴区别是很大的。 
+
+286.  箭图代数为什么好：当我们试图理清代数A的结构时，自然会把它的元素放大来看，比如把它的每一个元素都用一个箭头来表示，箭头比元素更直观。  
  
+287. 不管用什么方法(同调论、同伦论、支撑簇理论等)去探究表示论，最主要的目的都是要弄清每一个模和Buliding Block(不可分解投射模、单模、投射模、内射模、松弛模等)之间的关系，弄清每一个模是由这些基本构件通过怎样的方式组合而来的。核心理念就是用Building Block去解构每一个模，围绕Building Block去探索，如Cartan矩阵、投射维数等等都是为了揭示每个模里的这些基本构件的数量。今天在读论文：Robert Michael Pawloski，Computing the Cohomology Ring and Ext-Algebra of Group Algebras. 2022-6-30 17:08
+
+288. 在其他范畴中，也存在Building Block，如紧对象，模型范畴中的纤维对象和余纤维对象等。模表示论中的点、源也可以看成是Building Block。三角范畴中的组合方法: Loc(M), Thick(M)，阿贝尔范畴中的Add(M)，add(M)等。
+
+289. 在模表示论中，对群代数的块赋予各种“数据”(如亏群，惯性商，融合系，点群，Dade群，Picard群，同调群，块覆盖和群扩张技术等)的终极目的是希望提取出来的这些数据是能揭示块的本质的数据，从而利用它们对块进行分类。今天在读Cesare Giulio Ardito，Blocks with an elementary abelian defect group in characteristic two. 2022-7-3 11:39 于汕大图书馆三楼北区4排9列2层。
+
+290. 通过代数群研究有限群就好比通过复数域研究有限域，前者是无限的，拓扑的，几何的，结构丰富的，组合的，而后者是有限的，离散的，相对难处理的。
+
+291. 有限群的局部结构分析的比较高效的方法是：清楚地画出所有群形成的格结构。这样就会明白为什么需要考虑这些群，通过格结构就会发现这是很自然的。画出所有群的形成的图很重要，有助于理解和厘清群之间的关系！
+
+292. 在计算机实现代数时，实现为带关系的简图(它的Basic代数)要比实现为矩阵的形式好，因为前者的储存量更小。
+
+293. 如何研究一个范畴：可以取哪些子范畴？取哪些商范畴？取哪些熟知的范畴去和它比较？
+
+294. 别人定义的各种奇特的对象目的也只是为了划出一个子范畴来，通过该子范畴去探究整个范畴。所以要仔细体会和借鉴他人选取子范畴的方式。
+
+295. 同调群记录的信息是：简单对象是如何构造复杂对象的。如导出范畴考虑的是抹去同调群为0的复形，即不考虑通过可裂直和的方式构造的复形。
+
+296. 特殊三角是所有同构于标准三角的三角，所以所有特殊三角的性质都可以等价地在标准三角中考虑。
+
+297. 局部化比原来的对象更大，而不是减小！因为它利用原来的对象的子部分往里面添加更多的东西。一个错觉是往往会认为局部化是作商，从而信息变少。事实上，添加逆也就添加了更多的东西了。考虑Z的局部化Q。
+
+298. (代数簇)局部化 = (坐标环)扩大化。
+
+299. 要思考如何去探究一个范畴：选择该范畴的哪些对象去研究？利用哪些条件去选取相应的对象？理论上，任何合理的条件都可以用来筛出待研究范畴中的一些对象来。如单纯集范畴中选择标准单形，由标准单形进一步去研究∞-范畴。要仔细体会他人选取子对象的各种方式。
+
+300. 有限域上的圆是有限圆，有限域上的曲面是有限面，有限域上的代数簇是有限代数簇。因此，域扩大，其上的几何对象也随着变大。
+
+301. 同调代数中常用推出和拉回构造拟同构的复形。
+
+302. 推出和拉回是利用拟同构调整复形的重要手段之一。
+
+303. 拟同构导出范畴中重要的工具之一，利用它可以选取/调整到满意的复形或复形范畴，如投射分解，导出函子等。
+
+304. 导出范畴是商范畴A/B，因此必要的话，我们总可以把它调整为更好的商范畴C/D，使得C，D性质更好，更易操作，如导出范畴可以实现为同伦范畴(分母为0)等，使得导出函子的定义得更好(原来函子把分母映到分母)，或者C，D范畴更小。
+
+305. 范畴的等价好比三角形的相似，与点和线的大小长短粗细均无关，只与其结构有关。但在实际操作中，点线的大小粗细(对象和态射的大小及复杂程度)却往往阻碍和干扰我们分析三角形的相似性。
+
+306. 找出一个范畴等价相当于找到一个相似三角形。
+
+307. (1) 其实范畴论就是有向图论，范畴的各种特殊的对象和结构本质地看无非就是大图的某些特殊的子图，保持这些对象和结构就是保持这些子图不变。从图论的角度去理解范畴论的各种构造往往是最能抓住本质的，而且也最形象的。所以，尽量从有向图论的角度去理解范畴论中各种复杂的构造。
+ (2) 此外，还可以考虑把代数图论引入到范畴论的分类中去。
+ (3) 不要歧视图论，其实从图论的角度看范畴论才是最高的境界，因为那是最本质、最抽象地去理解范畴论中各种构造，排除了具体的范畴背景的干扰。
+ (4) 比如利用代数图论研究有限群的模范畴，或者研究层范畴等等。
+ (5) 如范畴中某对象的各种同调维数可看成是有向图中某个点的某种有向路。
+ (6) 抽象地、最本质地看同调维数。
+ (2022-7-27 10:42 于宿舍A627)。
+ 
+308. ```diff 
+     + 将范畴中的各种概念和构造都从(有向)图论的角度去理解，即理解为“大图中的某种特殊的子图”。这样的理解是最本质的、最抽象的，也是最好的。
+     ```
+309. 如何用图形简单形象地去表示和理解各种子群，如用正方形表示正规子群等。[Inna Capdeboscq](https://www.youtube.com/watch?v=MSAWOHKrp4w), [Groups of Even Type of Medium Size - Inna Capdeboscq](https://www.youtube.com/watch?v=rSAKSP1C1-E&t=2074s) 
+
+310. 经常利用某些特殊的元素/子群的中心化子的广义Fitting子群(=Fitting子群+分量)去分析它里面的Components，进而获取有限群G的有限单群的出现情况。
+
+311. 正规子群用正方形表示，商群用块划分表示……
+
+312. 整个群看成一个区域，每个子群和每个商群都对应于该区域上的一个确定的位置，精确定位出它们所在的位置在理解证明时是很关键的，因为精确的位置有助于弄清它们之间的关系，不至于搞混。
+
+313. 商群可以表示为对原来的群划块，然后再从每一块中取一个元素构成的群。
+
+314.  共轭关系是有限群的最重要的关系。正规化子、中心化子都和共轭关系相关。理解共轭关系可以想象成把一捆针丢到一个盒子里，针都落在盒子里表示作用封闭，针向上表示作用不变，针横跨表示针两头的元素共轭。
+
+315.  理解数学需要用寻找合适的模型去表示它，这样才能真正便于自己去灵活使用它，借助模型也更容易看清它。寻找模型去编码理论是非常重要的。
+
+316.  寻找模型就是在梳理所学理论的关系。
+
+317.  P的正规化子和中心化子可以理解为与P的自同构相关的信息。
+
+318.  dg范畴/代数的好处在于它具有更多的信息，它能提供更多的途径去解决原来的问题。就好比把整数的问题放到复数域上去看，又比如Keller证明导出等价时原来的环之间的导出等价都借助环范畴以为的dg范畴中的导出范畴作为中间桥梁以实现比较的目标。
+
+319.  群范畴中看可解群列、幂零群列就好比模范畴中的各种分解。幂零类长好比各种同调维数，抽象地看就是群范畴中某种特殊子图的长度。
+
+320.  可解群/幂零群有可解群列/中心群列好比模有投射分解/内射分解。
+
+321.  从群范畴角度去看可解群以及幂零群，好比在模范畴中看各个模一样，前者用各种群列去逼近，后者用各种模分解去逼近。
+
+322.  从范畴的角度去看各种子群的关联度(有向子图)，共轭之所以重要，在于共轭是产生子群的源泉，即群范畴中寻找与某个子群关联的各个子群的重要武器。
+
+323.  (1) 李形群、代数群、典型群比一般抽象群的优点在于前者可以利用几何结构去分析各种子群，而后者基本上利用的是共轭关系去刻画各种子群。  
+      (2) 如典型群中的向量空间的稳定子群，各种多项式型等都属于某种几何结构。 
+      (3) 有限群的局部分析常常需要借助各种群列，如幂零群的中心群列、正规化子群列等，通过群列中的某些具体的项可以推导出群本身的许多性质。群列还有正规p-子群群列等，群列中的各个子群为有限群本身的结构提供了许多比较信息。群列是有限群局部分析的利器，而且往往群列的某些项已足够。
+      (4) 借助群列比较各群的大小和联系。
+      (5) 有限群中当具有某种特殊性质的正规子群构造时，可以考虑在商群中继续考虑这种构造，如此往复以期获得该构造的某种群列。如中心群列，导群列等，任何的正规子群都可以考虑能否重复以产生群列。如弗拉梯尼子群，导群，p-正规子群等都可以在商群中继续考虑。
+      (6) 代数群可以统一各种单群，如典型群的各种form在代数群中可用多项式来表达。
+      (7) 代数群具有代数簇和群两种结构，结构更丰富，但同时也更能需要考虑更多，如作商时往往很难保持代数簇结构。但是对群来说每个元素的半单和unipotent分解很平凡，对代数簇结构来说却是非平凡的。
+      (8) 代数簇的结构和群的结构是相辅相成的，平凡的群分解产生了代数簇的分解，这对代数簇来说是非平凡的。
+      (9) 从群的角度可考虑最简单的半单部分，Torus，从代数簇的角度可考虑其切空间，产生李代数。Torus和李代数的信息可基本决定代数群的信息，且Torus和李代数有一定的关系，如前者可以作用在后者上。Torus和李代数都是代数的信息，是研究代数群重要工具。
+      (10) 正如考虑一个群可以去分析由其产生的群列，考虑一个模也可以去分析与它相关的某个模分解。通过群列(模分解)去获取群(模)本身的信息。
+
+324. 在比较各种同伦范畴、导出范畴、三角范畴、DG-范畴时，要弄清楚每个范畴要丢掉(忽略)什么？如丢掉同伦关系、无界复形、零调复形？明白各个范畴忽略掉的东西更有助于比较。 
+
+325. ```diff
+     + 数学中一个重要的技巧就是：重复。如群列以及模的各种分解等都是对某种操作/运算的重复。所以，只要你获得某种运算或构造时，就可以考虑重复该运算或构造的效果。
+     ```     
+326. (1) 把“重复”思维极致地应用到研究中，也许“重复思维”是研究的重要源泉。(2) 重复是产生新事物的一个重要手段，而研究就需要不断构造新事物。(3) 重复可以有不同复杂度的重复。
+
+327. 如何理解导出范畴中的各种子范畴：考虑其生成方式。如K^b(prj-R)实际上是由R生成的，即add(R)。所以各种子范畴本质上是由某些对象以及某些运算生成的子范畴，注意弄清楚使用的是哪些对象和哪些运算。如add用的对象是R，用的运算是有限直和和直和项。
+
+328. 各种版本的导出范畴、同伦范畴、奇点范畴等作比较时都可以统一放到无界同伦范畴中去看，这样更容易看。
+
+329. (1) 要从构造的角度去理解各种子范畴/对象，如投射模按定义很难理解，但从它的结构很容易理解它：它是由R产生的，即属于add(R)。(2) 如有限表现、有限生成、紧对象、有界复形等都是基于“生成方式”自然产生的定义。(3) 各种典型子范畴也可以从它生成方式去理解它，这样就能理解对该范畴的考察是自然的。如投射模范畴是add(R)是最简单的范畴，由R通过简单的运算生成的。
+
+330. (1) 和代数群一样，代数群中的李代数也是GLn中的子集，它们都是矩阵群，只是选取GLn中的不同部分。对于Tori，考虑其特征群，相当于Tori中的元素可以赋值，这在考虑T的作用时很有帮助。不管是T，Lie(G)，G，它们都是GLn中的某些元素组成的。(2) 对T赋值还会产生其他好处，如根数据。(3) T，Lie(G)，G都有共同的比较平台GLn，这有助于发现它们之间的联系和转化，如T在Lie(G)上的作用和分解，大家都是矩阵，可以考虑共轭作用。
+
+331. 研究代数群，李代数等都是通过它作用的对象来获取它的信息，如代数簇，带各种Form的向量空间，各种其他的组合或几何对象上的提供群(作用)。
+
+332. 了解某对象 = 把它实现为某对象的同构(同态)群 = 作用。
+
+333. 对被作用的东西的分析是最重要的，如各种域的选取本质上影响着被作用对象的大小和复杂程度。
+
+334. Dynkin图编码了李代数的生成元和生成关系。根数据编码的也是这部分数据。Verma模是李代数的无穷维表示，它的构造源自于李代数表示，是获取有限维表示的中间桥梁。李代数中的权与作用紧密相关。[André Henriques - Lie algebras and their representations](https://www.youtube.com/watch?v=Qw5jonrLbPU&t=523s)
+
+335. 研究置换群，代数群等结构时，一个重要的方法是通过分析它在某个对象(集合，代数簇，向量空间等)上作用来获取信息，把它们实现为某些对象的自同构群来分析，所以，此时，最重要的是对被作用对象的分析，焦点在于被作用的对象，通过它的各种独特性质去分解自同构群。[置换群](https://www.youtube.com/watch?v=hKMp1dKhekw&t=1815s)
+
+336. 代数群，李代数，置换群等结构以及量子代数的范畴实现，各种表示论等都是希望把抽象的对象实现为某种简单的对象的自同构或其上作用，以此通过解构被作用的对象来获取原来对象的信息。此时最重要的是【对被作用对象(可能是集合，几何或拓扑对象，向量空间，范畴等等)的分析】。
+
+337. 表示论中构造各种模，其本质上也是在处理被作用对象k-向量空间(k-模)，通过诱导，限制，合冲等各种运算去解构k-向量空间(k-模)。当把被作用的对象从向量空间升级为某个范畴时，就变成高阶表示论了。置换群论中的各种子群都是通过实现为被作用对象的某个子部分(某种结构)的稳定子群来分析等。典型群的结构也是依赖向量空间上的各种Form来分析的。例外代数群实现为某些代数(Octonion代数等)的自同构群来分析。
+
+338. 代数(环等)A的性质(如系数域的特征、大小，各种有限性条件等)为什么会对它的模范畴影响那么大？理由在于：代数(环等)A本身是构造它的各种表示(模、作用)的主要(唯一、终极)的原材料！
+
+339. 典型群实现为向量空间V的自同构群Aut(V)=GL(V)及其各种子群，因此分析被作用对象向量空间V是获取GL(V)的各种信息的最重要的手段。
+
+340. 有限群的局部分析最主要的是考虑共轭关系，因此融合系、传输范畴、轨道范畴等范畴中是最好的理解方式，在这些范畴中总能找到对应的局部数据。在融合系比群更形象，更容易看清各部分局部数据。
+
+341. 在有限李型群的表示中，会具体分析、细致地诱导(Induction)表示，诱导表示依赖于起点(从有限李型群的哪种子群以及哪种模开始诱导)，选择不同的具体起点会决定不同的诱导表示：如D-L诱导、抛物诱导等。[Representations of finite groups of Lie type by Dipendra Prasad](https://www.youtube.com/watch?v=LvOlEL9GAYE&list=PL04QVxpjcnjirVhbZtAdWjV6rHFhBIvL5&index=7)
+
+342. 虽然都叫诱导(Induction)表示，但是并不都是相同的构造方式，也并不都是张量积的形式，如D-L诱导、抛物诱导等。准确地说，诱导表示是相对于限制表示来说的，是在由小对象的表示诱导出大对象的表示，至于诱导方式可以不一样，不局限于张量积的形式。
+
+343. 在处理具体的层时，每个层都产自于具体的数据(如源于一个代数或者某几何对象上的某些函数)，这些都是很明确、很具体的，因此要弄清楚层的构成方式，产生它的终极原材料是什么，这些原材料就是我们可以具体操作的数据，因此层在实际应用中并不是很抽象的和不可捉摸的。
+
+344. 层和函子等一些复杂的结构是本来就自然存在的，不是我们人为定义出来的，恰恰是因为它先自然地出现了，我们再提炼出其本质性质以赋予它定义。所以，层是自然的，不可规避的，并不是我们人为需要它而造出来的。认识到这点对接受和理解层来说是很重要的。
+
+345. 层不是抽象的，它都是由具体的原材料构造出来的，只是有些层从原始材料出发通过简单的方式去构建，如Constructatble Sheaves，而有些层通过原始材料不是简单的方式构建。但不管怎样，这些层都是具体的，其构建都源于某个原始数据(可以是某个代数，也可以是某个代数簇等)。[Geordie Williamson, An illustrated guide to perverse sheaves](https://www.youtube.com/watch?v=H0a2fSXBpJE&list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG&index=2)。真正理解具体的层的构建方式和原材料才能真正理解和接纳层，层并不是抽象的存在，它是真真切切的、极其具体的一堆(取自某个原始数据的某部分)数据。
+
+346. 所有关于层的结论(层的导出范畴，层的分解，对偶性等等)都不是凭空造出来的，而是从具体的层看出来的现象(这里的看就需要真正弄清每个层具体源自哪部分数据，它是数据的哪部分)，并且从现象抽象出来的一般的、本质的东西。具体的层是指具有具体数学背景的层，如代数簇上的层，流形上的层等。
+
+347. 该如何去研究某个对象：用比较容易构造、比较容易了解的对象去和它建立联系。如要了解某个模范畴，总是要从各种子范畴去刻画它，所选的子范畴显然需要是比较容易理解且比较容易构造的，比如投射模范畴就是通过R可以构造出来。所以，做研究时需要时刻问自己哪些对象/结构是可以比较容易得到的，从而将待研究对象/结构与之建立联系。
+
+348. 考虑复形范畴，同伦范畴，导出范畴等有趣的地方在于：弄清楚原来范畴上比较复杂的信息(如同调信息)如何在这些高阶范畴中表达和对应转化(如何用高阶范畴中的结构去表示原来范畴中的信息)。好处在于在高阶范畴中用比较简单的运算(如Hom，shift等)足以替代原来范畴比较复杂的运算。研究这些范畴关键在于厘清这些转化机制(如何用高阶范畴的信息: 态射信息和shift运算等去表达原范畴计算出的复杂不变量: 同调群)。【导出范畴的大部分内容也是在阐述如何构建这部分对应】。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
+
+349. 【可表函子的重要意义就在于它将原来复杂的信息(可能很复杂，不易看清和计算)实现为纯范畴的信息(比较简单，就只是范畴中的态射信息)】。如同调信息常常实现为导出范畴或同伦范畴中的态射信息。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
+
+350. 将同调信息等复杂信息实现为态射信息等较简单的信息是复形范畴，同伦范畴和导出范畴等高阶范畴的主要目的。因此在阅读中抓住这两部分信息的转化机制是最关键的。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
+
+351. 将原来范畴中的信息都试图转化到复形范畴，同伦范畴和导出范畴等一些高阶范畴中去的理念在于：我们总认为原来的信息转化到高阶范畴后处理会变得简单，如比较同调信息转化后就只是比较平移而已。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
+
+352. 处理导出函子和同调函子时常用的手段：导出函子通过拟等价转化为正常函子；同调函子转化为Hom和平移函子；截断函子Gamma实现为Hom函子形式；复形进行比较和分析时直接约化到每个分次上去。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
+
+353. 建立导出函子和非导出函子之间的各种交换图也是导出范畴核心内容之一，因为通过这些交换图，关于导出函子的结论和关系就可以约化到非导出函子上去，这有助于验证，因为在非导出函子层面上，往往各种态射的定义是比较具体可操作的。这也是常用的技巧和套路。[Derived Categories Of Sheaves_Daniel Murfet](http://therisingsea.org/notes/DerivedCategoriesOfSheaves.pdf)
+
+354. Daniel Murfet [The Rising Sea](http://therisingsea.org/) 主页里有许多很好的关于具有代数结构的层的Notes，这对理解层和掌握层的各种技巧和套路很有帮助。
+
+355. 实际处理中我们往往希望范畴对于各种运算都是封闭的，比如完备和余完备的范畴，因为我们总不希望有超出我们的控制的因素出现。但从某种程度上，我们应该为某个范畴对某种运算不封闭感到高兴，因为这意味着我们利用该范畴中的对象和该运算就可以构造出范畴之外的新对象。
+
+356. 1. 钢琴的键盘赋予一个“坐标系”后，每个音都有唯一的一个坐标：如C，E#(升E)，Fb(降F)等；
+     2. 乐理里的每个概念和定义本质上都是在阐释某种数学模式/结构；
+     3. 音乐通过赋予坐标系后就是可以转化为数学语言来描述和研究；
+     4. 音乐 = 钢琴键盘上的数学(模式和结构)。
+     5. [键盘 —— 坐标 ——> 数学](https://www.youtube.com/playlist?list=PLt6xeHPISLq6DlI7LkEnq9kzu9YGik8s4)，2022-8-20 于汕头大学图书馆三楼。
+     6. 音乐虽是感性的，但通过赋予坐标系后，可以完全理性地、数学化地、精确地去研究音乐。比如：音乐的每个音你可能听不出差别，但它们却都有明确且唯一的坐标，因此它们并不是含糊不清、不可区分的。也许，从数学的角度，我才能感受到音乐的美：比如对称美。
+ 
+357. 五线谱等各种乐谱本质上也是在记录各种声音的“信息”：五线谱的音符记录了各个音的坐标和长短等信息。
+
+358. 范畴中的(余)极限就好比方程组(的解)，极限的存在性等同于解的存在性，各种不同的极限等同于复杂程度不同的方程组，算出极限等同于求出具体的解，否则极限就只是解的代号，具体是什么并没有求解出来。极限的约化等同于方程组的约化，极限的保持性等同于方程组可以通过系数变换进行求解。
+
+359. Hom集合可以理解为两个对象间的“亲密程度”、“共性”、“彼此看透对方的程度”、“了解对方的程度”、“连结程度”、“彼此吸引力”？ 
+
+360. Yoneda上同调比代数上同调更一般，前者完全从范畴出发，而后者则从代数出发。
+
+361. 许多代数的构造都可以从代数版本推广到更一般的范畴版本，如投射模到投射对象，代数的同调到范畴的同调等。
+
+362. 考虑群G的作用时，经常会考虑它的不动点。这是因为一来不动点可以选取更小的部分来研究，二来当G变动时，还可以起到分层的作用。
+
+363. 做研究就好比进行细胞分裂，找到一个原始细胞(源数据)，对原始细胞不断分裂变化(对源数据做各种变化，提取各种子数据)。所以，一要识别哪个是源数据，二要学会对源数据进行恰当的提取。如何从某个源数据出发？读文献时需要理清的问题。
+
+364. 由环/模出发，可以构造一个特殊的分解，Koszul分解。对于Koszul复形，有许多好的性质：如它是DG-代数(复形+代数)；从Koszul复形中可以提取各种不变量，如贝蒂数，希尔伯特多项式，庞加莱多项式等；对Koszul复形还可以进行不断调整(Tate构造)以使得某些上同调为零。利用Koszul复形和它的调整(Tate构造)可以用来刻画环的性质：如正则环，完全交环等。[Aldo Conca (University of Genova) / Koszul homology, Koszul algebras, and their syzygies II](https://www.youtube.com/watch?v=OyovNWoHozY)
+
+365. 做研究=抓住源数据(所有构造的源材料)+对源数据的进行提取和演化。比如考察拓扑斯的包络，(找出源数据)可表函子(Good Objects)，然后考虑这些好对象能生成哪些对象（源数据的演化）。[Mathieu Anel-The enveloping ∞-topos of a presheaf 1-topos](https://www.youtube.com/watch?v=PpfacHtBX8U)
+
+366. 拓扑斯有代数版和几何版，好比Frame版和Locale版。将拓扑斯与交换环作比较，其实比较的是代数版，而不是几何版。[Mathieu ANEL-Toposes are commutative rings](https://www.youtube.com/watch?v=wG5MZqj_JK8)
+
+367. 在研究环/代数等的同调性质时，往往平凡单模是最重要的，它往往起着决定性的作用。原因在于通过张量积，可以得到任何其他模。在导出范畴中也常常考虑它的投射分解，考虑的它的分解复形的各种性质，如复形的自同态代数等。在考虑函子范畴的同调性质时，也同样考虑平凡单模。各种环的性质的同调刻画：如正则性，Koszul性等等，平凡模都起着决定性作用。
+
+368. 环+谱=环谱/E1-环（这类似于：代数+复形=DG-代数）。谱——>同伦群，复形——>同调群。[Irakli Patchkoria-Classification of module spectra and Franke's algebraicity conjecture](https://www.youtube.com/watch?v=-YiHupBVzKE)
+
+369. 谱上具有环结构(=环谱/E1环)好比复形上具有代数结构(=DG-代数)，所以类似于DG-代数，我们可以考虑环谱/E1环的模范畴，导出范畴，张量积等等。[An introduction to spectra](https://www.youtube.com/watch?v=x7nZ9XOqHI0&t=1204s)
+
+370. 谱很重要，根据Brown可表性定理，任意上同调理论(符合某些条件的到Ab的函子，如H*(-)等)都可以由一个谱表出。
+
+371. 张量三角谱/Support理论是由三角范畴的某些子理想/范畴构成的拓扑空间，子范畴的生成方式与范畴的Size有关系，所以不同Size的范畴需要发展不同的支撑理论。[Stratification in tt geometry with applications to spectral Mackey functors - Beren Sanders (UCSC)](https://www.youtube.com/watch?v=oNmHk6TJdjA)
+
+372. 平坦函子是可表函子(终极构造材料)通过滤过余极限(构成方式)生成的。各种范畴的条件也是说明它是怎样生成的？如Accesible条件。[Tendas - Flat vs. filtered colimits](https://www.youtube.com/watch?v=hzdCWxXTnvY)
+
+373. 读论文时，一定要落实到终极源数据上去，如看到某个范畴等价时，一定要弄清楚该等价是怎么来的：它一定是源数据经过某种方式产生的，所以找到源数据和产生方式！
+
+374. 考虑Hopf代数的原因之一是可以考虑表示的张量积。[Ken Brown | What is a Hopf algebra, and why should we care?](https://www.youtube.com/watch?v=_jLBI63DFlA)
+
+375. **研究纯粹范畴论的乐趣在于：Seeing how to build things out step by step (via all kinds of limits and colimits). [Karol Szumilo, Infinity-groupoids in lextensive categories](https://www.youtube.com/watch?v=JjC_yNoKtHA&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=25)，[Masaryk University Algebra Seminar](https://www.youtube.com/channel/UCNfIKMe4pAhlq8bLb4Z8rQQ/videos)，[Ivan Di Liberti, Enriched Locally Generated Categories](https://www.youtube.com/watch?v=Lqt8skj9HmU&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=12)，2022-8-29 15:14 星期一 汕头大学图书馆三楼北区4排9列3层。I LOVE PURE CATEGORIES THEORIES!**
+
+376. 范畴论的美就在于：它可以**构建**各种理论，理论可能很复杂，涉及代数、拓扑、几何等，但它的构建源材料却很简单，**只是对象和箭头**。[Michael Ching, Tangent infinity-categories and Goodwille calculus](https://www.youtube.com/watch?v=ggtTAlrbYZo&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=28)
+
+377. 各种极限余极限都是范畴的生成方式，所以考虑函子的极限余极限保持性就是在比较范畴的生成方式。此外，函子的极限余极限保持性还意味着计算的约化。
+
+378. 高阶结构意味着增加源数据。[Christina Vasilakopoulou, Oplax Hopf Algebras](https://www.youtube.com/watch?v=64t8tfFLDFA&list=PLFbJZ8YL3loIsljtgGymeoo_mdp_Vlb1F&index=10)
+
+379. Slogan: Accessible categories are usually large but always "small generated". [Jiří Rosický: Accessible Categories 16:32](https://www.youtube.com/watch?v=ATS2dTdzG0g)，（说的还是范畴的生成方式）。更多视频：[Jiří Rosický - Combinatorial and accessible model categories](https://www.youtube.com/watch?v=mtV2jZQW-N4)，[Jiří Rosický, Towards a point free model theory](https://www.youtube.com/watch?v=Lcs9fl61pvk)，[Jiri Rosicky, Injectivity in metric enriched categories](https://www.youtube.com/watch?v=AZiJffeV3-s)，[Jiří Rosický, Metric monads](https://www.youtube.com/watch?v=otOLCik1Er0)，[Logic Webinar: Prof. Jiri Rosicky](https://www.youtube.com/watch?v=lfC_TViXcqQ)
+
+380. 研究范畴关键和乐趣在于从简单的对象去一步步构建出范畴来。[Dualities in Local Algebra (Lecture-1) by Srikanth Iyengar](https://www.youtube.com/watch?v=hIt3Eq2bpJk&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=21)，[Thick And Localising Subcategories Of Derived Categories (Lecture-2) by Srikanth Iyengar](https://www.youtube.com/watch?v=22S6330-Ipg&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=22)，[M-Cellular Approximations (Lecture-3) by Srikanth Iyengar](https://www.youtube.com/watch?v=D8hv1NPlCxQ&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=23)，[Gorenstein Rings In Local Algebra by Srikanth Iyengar](https://www.youtube.com/watch?v=jC2RPDMdVDA&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=18)
+
+381. 看乐谱对理解音乐很有帮助，能更形象地感受到各种细微的变化。[音樂家的無聊人生 Musician Seacow](https://www.youtube.com/c/%E9%9F%B3%E6%A8%82%E5%AE%B6%E7%9A%84%E7%84%A1%E8%81%8A%E4%BA%BA%E7%94%9F) 2022-8-31 13:45
+
+382. 高阶代数和通常的代数的理论大体类似，只是高阶代数的“源数据”比较大，多了一些同伦数据。[Duality in Higher Categories-I by Pranav Pandit](https://www.youtube.com/watch?v=fc4vsf1jeOU&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=9)
+
+383. 1. 借助单纯对象范畴和链复形范畴的等价(D-K correspondance)，可以比较两边范畴的“代数结构”，如左边环谱、单纯环和右边的DG-环等(左边是建立在单纯集范畴，是无穷范畴，所有考虑的代数高阶代数/同伦代数，右边是复形范畴，考虑的是DG-代数)。
+     
+     2. 高阶范畴与通常范畴的差别还在于：前者用于生成范畴的方式多了一些，如各种同伦极限和余极限。[Duality In Higher Categories II by Pranav Pandit](https://www.youtube.com/watch?v=w0M7synarxU&list=PL04QVxpjcnjiJ7mq5wFOoOWe7Ecxyt0ZH&index=13)
+ 
+384. 纯范畴地去构建表示理论。[Frobenius exact symmetric tensor categories - Pavel Etingof](https://www.youtube.com/watch?v=7L06K7SL5qw&t=3290s)
+ 
+385. 为什么要考虑Filtered Colimit以及Sifted Colimit这些特殊的余极限(后者对前者的条件极限弱化)：(1) 这些都是构建范畴的方式, (2) 这些余极限与极限这些构建方式具有很好的相容性，如滤过余极限和极限交换，Sifted余极限和有限积交换等。[Dustin Clausen - Toposes generated by compact projectives, and the example of condensed sets](https://www.youtube.com/watch?v=76Yqur6VP1g)
+ 
+386. 范畴的挠理论和半正交分解等本质上也是在分析范畴的构建方式。[A. Bodzenta -- Exact categories and abelian envelopes](https://www.youtube.com/watch?v=CBZ9SfZ0ngE)
+ 
+387. 同调维数本质上也是在分析范畴中各对象的构建方式，如整体维数有限意味着可以通过投射模经过有限步的“同调算子”构建出相关对象。[The singularity category of an exact category. Applications - Sergio Estrada](https://www.youtube.com/watch?v=wYQSfWAzy-Y)
+ 
+388. 利用不同的极限、余极限和导出函子(如Img, Ker, Cok, Ext等)可以构建各种不同的子范畴，即按不同方式生成的子范畴。[Computing various objects of an algebra from the poset of torsion classes Part I](https://www.youtube.com/watch?v=xH-ZlbSuhb0)
+ 
+389. 模范畴的计算软件：[String Applet (An interactive tool for computations with special biserial algebras, string algebras, and gentle algebras)](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/), [The lattice of torsion classes in SageMath (OCAMI talk Part II)](https://www.youtube.com/watch?v=2-y1a-_zEEA&t=914s)。【哥哥和二姐闹矛盾了，一地鸡毛的一天，2022-9-2 11:41】 
+ 
+390. 局部表现范畴存在大量的例子，对于这类范畴，它的生成方式是：表现对象的余极限。表现范畴是指可以用某些对象表示出来的范畴(表示为某些对象的余极限)，这些表现对象的Cardinalty可以是有限，可以是其他Cardinality lamda等。表现对象好比是范畴的“生成元”，Carndinality好比是“生成元”的数量。局部表现范畴具有许多好的性质。[An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo)
+ 
+391. 对于极限和余极限的指标范畴的限制可以是结构上的和数量Cardinality上的，前者如滤过余极限，后者如Lammda余极限。
+ 
+392. 环的凝聚模和拟凝聚模本质上也是在说它的(通过正则模)生产方式(某种有限的方式)或与有限生成方式的组合(如Ker和某些商的有限生成性)，而层则是将许多不同的环的模粘在一起，所以层的凝聚和拟凝聚性比较复杂，它需要局部地看用于粘接的各个环的模的凝聚性和拟凝聚性。[Schemes 31: Coherent sheaves](https://www.youtube.com/watch?v=_CQbjkDHLLI)
+ 
+393. 仿射概型上的层基本等同于一个环/代数的模，而射影概型则是许多仿射概型的粘接，**所以射影概型或者一般概型上的层往往是许多不同的环/代数的模的粘接**，自然它们的层也比较复杂，它们的各种性质需要局部地看各个环/代数的模的性质，如凝聚性和拟凝聚性等。
+ 
+394. 通常环/代数的模的处理出发的源数据就是一个环/代数，而模层的处理往往其源数据本质上多个环/代数。如射影概型往往就是在处理多个仿射概型，也就是多个环/代数。
+ 
+395. 几何和代数上的粘接本质上就是在源数据添加一部分表示“等同”的数据。如射影层同构仿射层的粘接就是多个环/代数的源数据中再添上一些同构。“等同”数据在高阶的时候可以是各种同伦等。[Coherent sheaves on the projective line](https://www.youtube.com/watch?v=VRkaYoMxvU0&list=PLgAugiET8rrJ7K7HgiXwh3KK4b2m6p_6V&index=4)
+ 
+396. 一个单独的层也是一片片构建起来的，所以它的性质好坏取决于用来构建它的各个部件的性质的好坏。因此代数几何中层的各个性质都是局部地定义的，其本质上是在说该层的构建方式。在实际处理中往往会约化到各个部件上去，所以局部地定义方式也是合理的。如各个部件是模、有限生成模构建出来的层的不一样的，这就是凝聚层和拟凝聚层的区别。通过选取不同复杂程度的模(如自由模、有限生成模、一般的模等)作为部件(注意此时各部件的模范畴往往来自不同的环/代数！)可以构建出复杂程度不一样的层。一个层的本质源数据 = 各个部件(一堆模) + 粘接同构(一堆同构)。层的各种运算(如直和、张量积等) = 各个部件的运算 + 粘接同构的匹配性。[Coherent sheaves on projective varieties](https://www.youtube.com/watch?v=kMRfky2iGMM&list=PLgAugiET8rrJ7K7HgiXwh3KK4b2m6p_6V&index=5)
+ 
+397. 伴随函子的存在性定理的条件是为了保证我们可以构建出伴随函子来。[What is...the adjoint functor theorem?](https://www.youtube.com/watch?v=fB9VOxJMGKY)
+ 
+398. 关于极限和余极限的交换性问题的简单例子。[Rings 13 Colimits and exactness](https://www.youtube.com/watch?v=cDrQpDXCGI4)
+ 
+399. 研究范畴的关键和乐趣就在于弄清楚它的构建和生成方式。[VCAS: Getting a module from another and classifying resolving subcategories](https://www.youtube.com/watch?v=nAmfmgUy82E&list=PLR3C3NSCyhZQpbBojrPraMrunr6axdEDs&index=9)
+ 
+400. 箭图表示的例子，箭图的表示的数据 = 一堆向量空间 + 匹配性条件(这点很容易被忽略，往往也是考虑的关键)。[Quiver Representations, Gabriel's Theorem, and Morita Equivalence (Zoom for Thought 03/09/21)](https://www.youtube.com/watch?v=JhLeAf_AlLA&t=157s)
+ 
+401. 几乎可裂序列等本质上也是在分析范畴中的对象的某种生成方式。[肖杰-学习代数表示论的一点心得体会](https://www.bilibili.com/video/BV1yv411b7dD?from=search&seid=16184737301564000848)
+ 
+402. 幂等元和自同态在模范畴中经常用于构造函子。满足一定同调维数的模的同调刻画条件可以考虑由其产生的函子的各种性质(如左右正合性等)以及由A及其A对偶产生的各种关系式去展开寻找。M是A-Mod的生成元或余生成元是指A属于add(M)或DA属于add(M)，即M可以生成A或DA。见方明的同调维数的Talk(在电脑G盘)。
+ 
+403. **箭图表示的许多例子**：[fdalgebra](https://github.com/mawaywoo/stu/blob/mawaywoo/Loewy%20Series_fdalgebras.pdf)。Ae表示从e出发的path(路从右往左合成)；单模就是只在某个点取值；单模的投射盖在各点的取值就看从单模所在的点可以投射多少的“光线”下来，有多少“光线”在改点的取值的维数就为几(见27页)，本质上是Ae，表示由e出发到个对应点f的道路数fAe(e到f的道路数为f点的维数)，Ae为e点单模的投射盖，继续用幂等元f等分到各点。幂等元相当于对模进行各点的精准再切分。不可分解内射模通过取对偶箭图的不可分解投射模再反向箭头得到(见29页)。Ae_i = e_iAe_i + +_ (j <> i) e_jAe_i, (不可分解投射盖=单模+根RadM), 由e_i出发的箭头的划分：投射盖为所有e_i出发的箭头，单模为e_i到自己的箭头，剩下的为根的箭头。矩阵中的元素a_ij中k^n表示j到i的箭头个数n(见35页中的矩阵J：由矩阵看出J^m表示所有长度大于大于m的道路，J/J^2表示所有大于1的道路去掉所有大于2的道路，即所有长度为1的道路)。 
+
+404. 范畴论的图追踪是另一个体现范畴乐趣的例子，因为它实际上也是在构建，只是此时构建的不是对象，而是态射。
+
+405. **拓扑斯(范畴)还可以去构建(我觉得用构建比用模拟这个词更能体现拓扑斯/范畴的强大，Model Theory中经常会说某Theory在某拓扑斯/范畴中的Model，用拓扑斯/范畴可以构建Theory的模型)语言、数字、逻辑。FUN！一步步构建出新事物来是一件很有趣的事。**[Jean BÉNABOU - Very, almost, and so on, ...](https://www.youtube.com/watch?v=_7uONqXQvp8&t=1374s)
+
+406. Type Theory和拓扑斯一样，美妙之处在于它的构建功能，如构建宇宙。所有Homotopy Type Theory和拓扑斯、范畴一样，乐趣在于使用它的构建能力。[Andrew Pitts - Models of Univalence in Toposes](https://www.youtube.com/watch?v=kfS_RSBP8u4&list=PLh_3Q6ZRqWs0LBptMGClJ8OArR0fBT6Pp&index=17&t=541s)
+
+407. 模的各种有限性条件：有限维、有限长、有限表现、有限生成、凝聚、拟凝聚等，其本质上也是描述模是如何生成、构建的。Artinian，Noetheian条件也是如此，比有限维更一般的概念。
+
+408. 各种态射的复杂定义其实本质上也是在阐释对象间的生成关系：如[Covers in the Canonical Grothendieck Topology](https://github.com/mawaywoo/stu/blob/mawaywoo/Covers%20in%20the%20Canonical%20Grothendieck%20Topology.pdf)，Recall that a morphism f : Y → X is called an effective epimorphism provided Y ×X Y exists, f is an epimorphism and c : Coeq (Y ×X Y −→−→ Y ) → X is an isomorphism。说的就是X可以由Y通过拉回和余等化子来构建。此外，X的Colim筛S也是说X可以由S通过Colimit构建出来。所以范畴论中的核心想法就是：怎样构建所有的东西。
+
+409. **范畴论目的之一就是：Build Things。** 带着这个想法去读文献会轻松许多。
+
+410. Giraud定理本质上就是在阐释Grothendieck拓扑斯里所具有的各种构建对象的方式以及构建方式间的关系。[Covers in the Canonical Grothendieck Topology](https://github.com/mawaywoo/stu/blob/mawaywoo/Covers%20in%20the%20Canonical%20Grothendieck%20Topology.pdf) 
+
+411. 代数K-理论将正合列和可裂正合列等同起来，都被模掉。所以代数K-理论=把(不可裂的)正合列可裂化。[Introduction to Algebraic K-Theory (Lecture 1)](https://www.youtube.com/watch?v=Kagy_cX4hDs)
+
+412. 如何看Type Theory和范畴论：看它如何一步步Build Things的。[On Voevodsky's univalence principle - André Joyal](https://www.youtube.com/watch?v=HRBShaxIblI&t=45s), [A cartesian closed category of algebraic theories André Joyal](https://www.youtube.com/watch?v=BO6jh2VC_mE)
+
+413. 粗略地说，一般的Galois对应就是建立作用对象(的某些子对象)与被作用对象(的扩张)之间的某种对应。这里的Galois理论不局限于经典的域的情形，可以是其他的更一般的Galois理论，如Hopf Galois Theory等。此时Hopf作用在代数上平行于群作用在域上，代数扩张平行于域的扩张。见SUSAN MONTGOMERY的工作。
+
+414. 逻辑的乐趣在于用字符去定义字符、用字符去构建字符。[Axiomatic Set Theory. Lecture 2](https://www.youtube.com/watch?v=qWDz1WmsSBo&list=PLt9lM2M6C7wMIgEU9tqsejAnVKwtzSLJO&index=45)
+
+415. One and first, cardinal and orsinal, 数量和位置，在无穷的情形下，**总数加一和位置加一效果是不一样的。** 位置比总数更敏感。对于ordinal，构建它的方式有加法、乘法、幂运算(增加位置的方式)。[Cardinals and ordinals, part 1](https://www.youtube.com/watch?v=CKNLZroBpsM), [Cardinals and ordinals, part 2](https://www.youtube.com/watch?v=nsE5uwOg1ck)
+
+416. Grothendieck Universe之所以称为Universe，是因为它可以让我们**构建**许多东西。[Grothendieck Conference - Mike Shulman](https://www.youtube.com/watch?v=9MLQDOpy190)
+
+417. Type Theory的乐趣在于：用某些Type去一步步**定义和构建**其他Type。[Towards elementary infinity-toposes - Michael Shulman](https://www.youtube.com/watch?v=ld4YL787dAk&t=1804s)
+
+418. Pure对象以及Brown可表性定理等都是为了使得函子范畴的某些性质或对象基本上可以由定义域范畴中的对象决定，即完全可以约化到定义域范畴，所考虑的函子范畴中信息不会多于定义域范畴中的信息。相当于对函子范畴的某种限制条件，希望在比较好的(**能被定义域范畴或它的某些“有限”子范畴“控制”**)函子范畴中去考虑问题。在比较好的函子范畴中，各函子的**构建**方式就比较简单可控，如凝聚函子等都可以通过定义域范畴的某些有限子范畴中的对象构建出来。[cohenrent functors](https://github.com/mawaywoo/stu/blob/mawaywoo/COHERENT%20FUNCTORS%20IN%20STABLE%20HOMOTOPY%20THEORY.pdf)
+
+419. 如何利用定义域范畴去研究函子范畴：用定义域范畴中的对象可以**构建**许多函子范畴中的对象，如用对象C可以构建函子Hom(-,C), C tensor -, Ext^i(-,C), Tor_i(-,C)等，再利用这些函子去刻画函子范畴中的其他更一般的函子。这些函子是函子范畴和定义域范畴的沟通桥梁，函子范畴的各种性质一般要**约化**到定义域范畴中的对象去考察,一般的函子要考虑将其约化到由定义域范畴中的对象产生的函子上去。[Coherent Functors_auslander1966](https://github.com/mawaywoo/stu/blob/mawaywoo/Coherent%20Functors_auslander1966.pdf)
+
+420. 给定一个短正合列，通常会考虑它所诱导的长正合列。这其实可以看成是给定一个短正合列，我们考虑由短正合列的各对象C所产生的函子Hom(-,C), Ext^i(-,C)等之间的关系。**将定义域范畴中的对象的正合列提升到函子范畴中去看。** [Coherent Functors_auslander1966](https://github.com/mawaywoo/stu/blob/mawaywoo/Coherent%20Functors_auslander1966.pdf)
+
+421. 凝聚函子。结合418,419,420中对函子范畴的理解。[Alex Martsinkovsky --- A Reflector in Search of a Category](https://www.youtube.com/watch?v=CaQO3H3iHy8&t=255s)，[Alex Martsinkovsky](https://www.youtube.com/results?search_query=Alex+Martsinkovsky)
+
+422. 一般的加法函子可以考虑它与0次导出函子的核和余核(也可以通过定义域范畴的对象产生的函子，如Tr(-), D(-), Ext^1(-,-)的组合。[Alex Martsinkovsky](https://www.youtube.com/results?search_query=Alex+Martsinkovsky)
+
+423. 函子的各种性质：如正合性、伴随性、各种结构的保持性等，本质上是由**函子的构建方式**决定的，所以，**研究函子的关键就在于分析它的构建方式**。层论和拓扑斯理论的各种函子的性质的分析就依赖于对函子构建方式的剖析(Funny!)：如对(赋环)座和(赋环)拓扑斯态射的讨论，对f_* 性质的讨论等。见[Stacks Project](https://stacks.math.columbia.edu/)。
+
+424. **如何分析一个函子：一切从它的构建方式着手。**
+
+425. 座、拓扑斯之间的各种函子的构建非常有意思。见Stacks Project。2022-9-22 19:45 于汕大图书馆。 
+
+426. 点、茎、摩天层等有纯范畴的定义(SP的结论往往都是最一般的情形，而不仅仅局限于拓扑空间)，拓扑斯的点就是由茎和摩天层的伴随函子来定义的，见Stacks Project 7.32 Points。
+
+427. Stacks Project的方法、结论往往是最一般的情形(不仅仅局限于空间上的层，而是更一般的座上的层的相关结论)：如 7.44. Sheaves of algebraic structures中的方法就把6.15中关于空间上的方法推广到一般座上的情形(该节告诉我们如何由集合层过渡到具有代数结构的层，相应的函子会有什么变化等)。如7.32关于茎的定义也有一般的情形。
+
+428. 连续/上连续函子可以用来**构建**座态射 ("∈" 拓扑斯态射)。
+
+429. 在比较各种上同调理论时，要注意区分各种上同调定义时是否取自**不同范畴**里的信息？如果同一个范畴，那么它们是否取自**同个范畴中的不同部分**的信息？弄清这些才能更好地区分和比较各种上同调理论。
+
+430. syntactic category中的对象{x | \phi(x)}可以理解为满足性质\phi的集合X，各种态射可以理解为满足不同性质的集合间的映射。从集合的角度可以更好地理解语法范畴的**构建**。[Classifying topoi and finite forcing](https://github.com/mawaywoo/stu/blob/mawaywoo/Classifying%20topoi%20and%20finite%20forcing.pdf)
+
+431. DG-范畴和一般范畴的区别在于：前者的态射空间不是杂乱无序的，而是有结构的，即可以整齐地进行分层，而且层与层之间有微分作联结；一般范畴的态射空间则是杂乱无序的，并非**结构工整**的。所以前者的态射空间在处理时常常可以条分缕析、**逐层剥离**。DG-范畴的同伦范畴等可以视为从DG-范畴的态射空间中**提取某一层的某部分信息**。
+
+432. 范畴论的魅力在于它的**构建**功能。[Colin McLarty : « Grothendieck’s two intuitions of topos : with reference to Serre and Deligne ».](https://www.youtube.com/watch?v=XZXeSfaozXI)
+
+433. MB语言(密文，无意义的符号) ————> Interpretation(解码，**按照一定的规则(集合的观点去看，拓扑斯的对象看成是集合，密文描述的是集合所满足的性质)**) ————> 拓扑斯中的箭头和对象(译文，有意义)。这基本上就是一个间谍的工作，最重要的是**掌握解码规则**。项、公式等是构建语言(密文)的部分。公式中的Context表示在哪个集合中取满足性质(公式所描述的性质)的子集，所以Context很重要。公式的蕴含关系 ———— 通过解码 ————> 对象(Extention)的包含关系(**这在验证公式的演绎推理的准确性中起着重要作用**)。[Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&t=1430s)。解码工作是很有趣的。2022-10-11 10:18 星期二 汕头大学图书馆三楼北区。
+
+434. Type Theory(和MB语言等)看起来很抽象，实际上**每一句(Gamma |- A)写下的都是一个类似于“设Gamma则A”的数学结论**(只是没有解码的密文看起来比较丑陋而已)，构建各种Type实际上就是在建立这些数学结论之间的关系了。所以**每一个Type Theory的句子不是毫无意义的符号，事实上它已经编码了一个数学结论，认识到这点，才能感受到Type Theory的每个句子的重要性**。[Emily Riehl: On the ∞-topos semantics of homotopy type theory: categorial semantics... - Lecture 1](https://www.youtube.com/watch?v=PejZfl5kOlU&t=1467s)
+
+435. Type Theory(或MB语言)的作用就是**把“设...则...”的数学结论转译为抽象的符号语言“Gamma |- A”(由此可见每一句Type Theory的句子是多么重要！)**，所有都转化之后，**数学结论的推导就变成了符号语言的“逻辑计算”**。Type Theory的句子“Gamma |- A”**前面的Context就是条件，后面的A就是结论(平时就需要这样去理解和阅读Type Theory的每个句子)**。整个句子就是数学结论“如果/设...则...”。[Emily Riehl: On the ∞-topos semantics of homotopy type theory: categorial semantics... - Lecture 1](https://www.youtube.com/watch?v=PejZfl5kOlU&t=1467s)2022-10-14 14:54
+
+436. **Type Theory在数学证明中的作用**：数学结论(明文) ——加密——> 转化为Type Theory的句子(密文)。给明文加防伪标志 = 给出密文的Type的Term = 给出原明文的真实性 = 给出数学结论的证明。[Reasoning in an ∞-topos with homotopy type theory , Dan Christensen](https://www.bilibili.com/video/BV1Hi4y1N7xg/?spm_id_from=333.337.search-card.all.click) 2022-10-15 13:04 于汕大图书馆。
+
+437. Theory T = 群，则T在拓扑斯Set的所有模型T-Mod(Set) = 群范畴(T的所有模型构成一个范畴)。理论的分类拓扑斯编码了该理论的所有Model信息，T-Mod(E) = Geo(E,E_T)。 
+
+438. 预层拓扑斯的点与某Theory在Set拓扑斯中的Model范畴有关；有限表现对象又与预层范畴的底范畴的幂等完备化有关；故预层拓扑斯的点(由它分类的理论的Model范畴)的有限表现对象形成的范畴与预层范畴的底范畴的幂等完备化有关。[The duality of Grothendieck toposes and their presentations](https://www.bilibili.com/video/BV1St4y1U7z3?p=4&spm_id_from=pageDriver) 见45分钟左右。
+
+439. Functor --> Function; Profunctor --> Relation。前者可以看成是后者的范畴化。
+
+440. Voevodsky在Type Theory的两大贡献：1. “同构/等价看成相同”这个非正式的数学思想用**精确的逻辑公式**写出来；2. **对Types进行分层**，h-level。[Anders Mortberg: "Cubical Methods in Homotopy Type Theory and Univalent Foundations"](https://www.youtube.com/watch?v=p9ANNglWMvc&t=382s)
+
+441. 很棒的报告：图式理解复形。[From Hochschild to Gerstenhaber-Schack, as told through drawings](https://www.youtube.com/watch?v=yjwBCe1JitQ&t=62s)
+
+442. 范畴化：Categorification is the process of replacing sets, functions, and equations with categories, functors, and natural isomorphims such that when one decategorifies, usuallyby taking the Grothendieck group K0 , we get back the sets, functions, and equations.
+
+443. 1.学习别人写文章时结构布局的连贯和流畅性。如行云流水，一环扣一环。先交代什么再交代什么。
+     
+     2.**学习他人写作的结构布局其实也是在锻炼向他人阐述自己工作的能力。都要想好先说什么再说什么。** 
+     
+     3.**可以通过看别人写的东西学习别人是如何阐述观点的，哪些该说？该怎样说？**
+     
+     4.如果是我，我会像他这么说吗？我自己能说得清楚吗？
+     
+     5.**自己你能说清楚都是自己掌握的，没掌握的是说不出来的。所以锻炼自己的写作能力就是在检测自己知道哪些？从而可以说出哪些东西来？** 
+     
+     6.终于明白徐老师叫我们写东西的路用心了。2022-10-27 21:32 汕大图书馆三楼。
+
+444. **先写/说什么，接着写/说什么，如何组织和布局自己的语言/思想。**  
+
+445. Type Theory是一种形式语言，所以**它也有不同丰富程度的结构**。[Homotopy Type Theory and Internal Languages of Higher Categories](https://www.youtube.com/watch?v=r3D03ZqQkj0&t=4155s)
+
+446. Grothendieck拓扑的Sieve的作用就是：**函子在覆盖筛里的态射的取值往往具有很好的“交互性”和“粘接性”**(这就类似于在经典拓扑空间上的Grothendieck拓扑一样，开集的相交处粘在一起)。如子对象的闭算子，A和E在在覆盖筛的态射中沟通起来了：c_J (A)(c) = {x ∈ E(c) | {f : d → c | E(f)(x) ∈ A(d)} ∈ J(c)} 见第7页：![Denseness conditions, morphisms and equivalences of toposes](https://github.com/mawaywoo/stu/blob/mawaywoo/Denseness%20conditions%2C%20morphisms%20and%20equivalences%20of%20toposes.pdf)
+
+447. 用座的性质去刻画拓扑斯/层的性质：**掰扯座、筛，就是类似于经典层论在掰扯“衔接处”的情况，筛就是“衔接口”**。所以Olivia把拓扑斯的各种性质归结为筛的描述，本质上就是把拓扑斯的性质归结为“衔接处”的情况:**确保衔接口处满足想要满足的性质**。
+
+448. **“存在某个J-覆盖满足...(性质)”** 可以等价地理解为 **“在各个接口处，想要满足的各个性质都能实现得很好”**。
+
+449. **从经典层论(拓扑空间的开覆盖)的角度去理解各种关于筛的计算**，如筛的拉回为空意味着交为空，这样更有助于理解，**覆盖筛再也不是一堆生硬的箭头，而是一个开覆盖，覆盖筛的描述不再只是箭头的选取，而是开集覆盖的选取，推导的时候也不再是抽象的箭头推导，而是有具体的几何含义的导向**。Olivia很多工作就会涉及各种覆盖筛的计算。
+
+450. **一般座上的关于Grothendieck拓扑的筛等各种推导，常常可以把它放到经典拓扑空间上的Grothendieck拓扑中去理解，这样往往会有很强的几何导向功能，可以更好地理解抽象的推导的背后的所依赖的原理**。
+
+451. **一切关于座上的层的相关推导都可以放到经典拓扑空间上的层论这个模型中去看，这样抽象的推导就会变得易于理解**。
+
+452. **经典层论是理解Grothendieck层论最好的模型，因为它可以让你“看清”抽象的理论背后所描述的几何现象，一般理论只是这些具体几何现象的抽象化而已，切记善于在拓扑空间中理解拓扑斯理论**。
+
+453. **对“Factor Through”的理解**：
+     (1). f: A ——> B可以通过C分解 “=”f(A)含有C所具有的性质。 
+
+     (2). 在Kripke-Joyal语义中就涉及\alpha: U ——> X可以通过对象{x | \phi(x)}分解，表示\alpha(U)具有{x | \phi(x)}所具有的性质，即性质\phi。而\aplha表示X的广义元素，故\alpah \in {x | \phi(x)}，即\phi(\alpha)。
+     
+454. **A category C is filtered if it has cocones on all finite diagrams.** Equivalently, if the following three conditions are satisfied. (1) There is at least one object c \in C. (2) For any two objects c1; c2 \in C, there is an object c' \in C and some arrows c1 ——> c', c2 ——> c''.(3) For any two parallel arrows f; g : c ——> c', there is an object c'' \in C and an arrow h : c' ——> c'' such that h f = h g. [Matthias Hutzler, Internal language and classified theories of toposes in algebraic geometry] Def.22.
+
+455. 内蕴构造(internal categories/functors等)为什么好：它可以将构造**随便移植**于不同的背景(ambient)范畴，通常的构造只是背景范畴为Set范畴的构造，所以**内蕴构造是通常构造的推广**。
+
+456. 不是仅有拓扑斯才能有内蕴逻辑/语言，**结构比它差一些的范畴同样有自己的内蕴逻辑和内蕴语言**，只是拓扑斯更接近集合范畴，有更多的内蕴构造，但有时后者对于我们想要考虑的构造来说已经足够了。
+
+457. 在谈论内蕴构造时，一定要弄清楚背景范畴是怎样的，因为内蕴构造就是基于背景范畴的内蕴逻辑/语言产生的构造。
+
+458. 有时内蕴构造和通常构造不一定是吻合的，如以下文章中的极限。[Enrico Ghiorzi, Complete Internal Categories]
+
+459. 在比较通常构造和内蕴构造时，一定要注意到**背景范畴的内蕴逻辑/语言的局限性(有些集合范畴能表达的构造在所考虑的背景范畴的内蕴语言中却无法表达)**。
+
+460. if we have a geometric morphism E ——> S we will think of E as a topos in the universe S and for this reason we can refer to such a topos E as a S-topos. [Mauro Mantegazza_Compactness in Toposes_Algant Master Thesis]
+
+461. **内蕴构造严重依赖于背景范畴的内蕴逻辑/语言**，如内蕴范畴在不同的背景范畴是很不一样的。[D. PATARAIA-INTERNAL CATEGORIES IN A LEFT EXACT COSIMPLICIAL CATEGORY]
+
+462. 这本书对各种余极限的比较解释得比较好。[J. Adamek, J. Rosicky, and E. M. Vitale_Algebraic Theories_A Categorical Introduction to General Algebra]
+
+463. A functor A: T → Set preserves finite limits iff ElA is filtered. (上面那本书Part I Sec. 4) 函子与极限的交换性 <——> 元素范畴的filtered、sifted性质 <——> 函子的左Kan扩张的指标范畴。(从而与某些极限交换的函子范畴实现为filtered、sifted余极限的完备化)
+
+464. 从某种程度上来说，**Logic比普通的数学理论(如代数、几何、拓扑、分析等)具有更高的观点，站在逻辑的高度，代数、几何、分析、拓扑等的界限就不再那么明显**。
+
+465. 看到J. Adamek, J. Rosicky, and E. M. Vitale_Algebraic Theories_A Categorical Introduction to General Algebra中的Algebraic Categories，想起Chen X.W.老师讲的Keller引入的代数三角范畴。代数范畴比局部有限表现范畴要狭窄一些，见书中的Remark 6.20。
+
+466. J. Adamek, J. Rosicky, and E. M. Vitale_Algebraic Theories_A Categorical Introduction to General Algebra是一本很好的书(**值得反复拜读**)，其中的观点站得比较高，如书中的Algebraic Categories的许多理论就很广，表示论中的模范畴只是它的特例。2022-11-6 11:35 于汕头大学图书馆三楼北区4排9列2层 PS 近来汕头疫情紧张，已是核酸第三天了。
+
+467.  Algebraic theories/varieties站得观点挺高的。[Algebraic theories](https://www.youtube.com/watch?v=lp1wh9ZxcmE)，J. Adamek, J. Rosicky, and E. M. Vitale_Algebraic Theories_A Categorical Introduction to General Algebra。
+
+468. **对已有的结果进行推广 —> 对原有的条件进行弱化 —> 对条件增加或放大“误差项”。放大或增加一个“误差项”之后可能可以统一和推广很多概念**。2022-11-9 15:56 
+
+469. 滤子(filter)是集合的“大”子集，所以能抓住集合的很多性质。如Model Theory中的各种超构造(超积等)就需要借助滤子的构造。
+
+470. 一个句子 = 一个定理，一个Theory = 所有定理的全体。可见Model Theory有多强大。
+
+471. 各种余极限之间的关系、约化。见(good book**值得反复拜读**)：J. Adamek, J. Rosicky - Locally presentable and accessible categories-Cambridge University Press (1994)
+
+472. 内射对象类可以看成是正交对象类的某种弱化，**可见“正交”是更一般的理解角度(范畴论中常常需要这种更一般的理解方式，它可以统一许多概念)**。见(Page 174)：J. Adamek, J. Rosicky - Locally presentable and accessible categories-Cambridge University Press (1994)
+
+473. **在范畴论中进行各种“构造”(构造函子时的取值、满足某种性质的对象等)时常常需要注意“唯一性”问题，其解决方式就是找到众多可能中挑出“之最”**。
+
+474. 如何刻画一个范畴：完备性、正合性、小性。completeness、exactness、smallness。accessible categories、locally presentable categories、toposes等范畴的刻画都是这种模式。所有范畴都可以从这三个角度去考察。
+
+475. **平时该积累什么**：多积累各种范畴的性质(从完备性、正合性、小性去考察)，多积累判定这些性质的各种准则，以备做研究时可以灵活调用。
+
+476. 1)函子范畴里的函子的各种有限性，如fg,fp,coh等，表达的都是它可以由domain范畴进行“生成”(通过Yoneda嵌入，可表函子指的就是domain范畴里的对象，而函子的各种有限性的刻画需要与可表函子进行比较)。2)函子范畴就是由domain范畴生成的，衡量函子的尺子就是domain范畴。3)函子范畴的各种性质(如正合性等)也许通过domain范畴进行衡量比较(即与可表函子进行比较)。所以，与可表函子比较、使用Yoneda嵌入就是在利用domain范畴进行比较和衡量。4)函子的domain范畴是研究函子范畴的“源材料”。5)用某些模范畴D的对象去构建函子范畴的对象，从而可将D视为函子范畴的“moduli范畴”，进而利用D去研究函子范畴的性质。6)**modui范畴的观点去研究函子范畴**。7)可以选择不同的moduli范畴去考察同一个函子范畴。8)moduli范畴可以自由选，这使得研究具有很大的自由度。9)找到合适的moduli范畴很重要。10)函子的性质转化到moduli范畴上的性质去。11)函子范畴约化到moduli范畴上去。
+
+477. Mike Prest的模型理论与模(model theory and modules)的理论中，**pp公式对范畴相当于研究函子范畴的Moduli范畴**，用pp公式在模M中取满足pp公式所描述性质的子集，从而一个pp公式对构建/参数化了一个函子。
+
+478. **Coend是一个高效的范畴论计算工具**！务必熟练掌握！能熟练计算才能看得更远，所以Coend计算技术很重要！不懂计算，一切都是空谈。范畴论之所以难掌握，原因在于不会熟练地进行计算，计算可以让你感觉范畴论其实也并没有那么抽象。
+
+479. **Coend计算统一了很多构造，更有助于我们站在更高的观点去看一些复杂的构造(如书中的Nerve-Realization架构就统一了许多复杂的伴随函子对)**。FOSCO LOREGIAN, THIS IS THE (CO)END, MY ONLY (CO)FRIEND.（好书！值得反复研读！）2022-11-17 20:02 于汕大图书馆三楼
+
+480. 各种范畴间的函子/比较可以看成是某种**moduli范畴**。Moduli的思想就是**抓取/追踪关键/本质的数据**。
+
+481. Moduli范畴可以是**多个范畴**，如Complete Torsion Pair。
+
+482. 这篇文章[Martin Gallauer，An introduction to six-functor formalisms](https://guests.mpim-bonn.mpg.de/gallauer/docs/m6ff.pdf)很好地诠释了six-functor formalisms的强大之处，如通过函子编码了各种上同调理论，六函子是比上同调**更丰富**的不变量(从更丰富的不变量可以得到稍低阶的不变量)。我喜欢！2022-11-27 09:08 于汕大图书馆三楼
+
+483. 可以利用函子做什么：借助函子去获取/构建/追踪/计算信息，要善于**利用函子辅助计算**。可以取一些简单的对象看看函子可以把它带去哪？简单对象通过函子可以给我们带来许多新信息。**简单对象和函子可以使得我们可利用的信息变多**。函子是要拿来用(计算)的。(所以我们一看到函子时应该借助它和简单对象去做一些事情)
+
+484. **简单对象**(局部系数系统、可构造层)**借助函子**(Grohendoeck六函子)去**构建/计算信息**(层的复形、导出范畴)。[Geordie Williamson, Lecture II - 21 January 2015](https://www.youtube.com/watch?v=H0a2fSXBpJE&list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG&index=2)
+
+485. 三角范畴的粘合提供了许多函子，因此我们可以选一些简单对象，然后借助这些函子可以构造/计算出许多新对象。[Geordie Williamson, Lecture III - 23 January 2015](https://www.youtube.com/watch?v=P67uAD2SW4g&list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG&index=3)
+
+486. 将不变量提升，如上同调提升为复形，复形提升为导出函子。**不变量等级：上同调 —> 复形 —> 导出函子**。
+
+487. Hom或Ext为0可以理解为对象/复形没有子对象和商对象。复形=它的上同调复形，所以在考虑复形时，只需考虑上同调复形。
+
+488. 复形范畴的**Hom和Ext函子为0可以看成不含有非平凡的子对象和商对象**，三角范畴中的正交范畴也可以理解为不包含某些子对象/商对象的对象所形成的范畴。
+
+489. **左(右)伴随=取反作用的最大(小)效果**；反作用有很多，取最值可以保证唯一性，从而保证函子是良定义的。**可以用这种思想去构造伴随函子**。
+
+490. 取(余)极限效果也是相当于取最值，这样也可以保证唯一性，进而保证构造的是良定义的。
+
+491. 取(余)极限就是为了保证**唯一性**，从而实现“平均化”、“统一性”、“代表性”、“典范性”。如Cech上同调中，任何覆盖都可以计算，但不取极限统一的话，这样大家的计算就会千差万别，很难沟通和交流，需要统一一下，取出“代表元”来，这样大家的计算就都一致了。
+
+492. 在赋环座的这个**最高架构**下去理解赋环空间、概型、代数簇会变得非常简单(弄清楚赋环座的各个概念在概型中具体对应是什么后，一般的赋环座理论就可以帮助我们更好地理解概型理论中的结论，而不会被具体的形式绕晕)，概型可以当作赋环座的**具体例子**来辅助理解。
+
+493. 学了赋环座理论的人，应该很容易学会赋环空间、概型、代数簇的理论，因为后者只是前者的例子而已。
+
+494. 从赋环座的角度去理解概型理论(对概型的理解将更容易)。[Algebraic geometry II: Schemes](https://www.youtube.com/playlist?list=PL8yHsr3EFj50Un2NpfPySgXctRQK7CLG-)
+
+495. Grothendieck六函子和谱序列。[Derived categories](https://www.youtube.com/playlist?list=PLCe-H2N8-ny5nIYCQevWaJsO3PP44uz03)
+
+496. 数学的乐趣在于**通过简单的对象去获取复杂的信息**。2022-12-17 21:30 汕头大学图书馆三楼，疫情放开，不能留校，明天番禺。
+
+497. 集合太复杂了，必须加上额外的结构(比如序结构)才能去分析它。[Ordinal Numbers, 5 Essence of Set Theory](https://www.youtube.com/watch?v=As8rTENUOy0&list=PL2m0OzES6Uw9zK-F8BX8HuGq7HAx9KhQb&index=6)
+
+498. internal即对象内部的元素，external即与其他对象的关系。
+
+499. 自然性指的是不但仅对某个对象成立，而且对所有对象成立(要求变更多了)。[Olivia Caramello - 4/4 ntroduction to categorical logic, classifying toposes...(第54分钟的例子) ](https://www.youtube.com/watch?v=aWDbXKmk1Io&t=484s) (广州番禺旧水坑 2023-1-20 0:30)
+
+500. 弄清楚一般理论在具体例子中的含义的难度和意义不容忽视。**将一般理论落实到各种具体的例子中去同样有趣和充满挑战**。
+
+501. 在谈论internal概念时总是**相对于某个固定的ambient范畴的，缺乏背景范畴，内蕴概念无从谈起**。不同的背景范畴决定的内蕴对象可能是不一样的。内蕴总意味着内蕴于某个范畴。2023-2-7 9:00 广州番禺旧水坑村
+
+502. 范畴论在计算机程序中的作用就是提取相同模式以**简化程序**，程序=输入+输出。Monad在计算机上就起着简化程序模式的作用。[What is a Monad? - Computerphile](https://www.youtube.com/watch?v=t1e8gqXLbsU)
+
+503. 计算机程序(Type Theory)=环境，模式，输入，输出。
+
+504. enriched category对mor有要求，而internal category对obj和mor都有要求。
+
+505. 重心放在多看新文献上，比如ArXiv上的文章。不要再花太多的时间去听各种报告了。听油管的报告可以提高见识，开阔视野，但需要看文献去补充各种细节，比如报告通常就不会给出证明的相关信息。我之所以感觉很混乱是因为缺乏细节上的积累，只知道大概。
+
+506. 写毕业论文的心得：详细=补充上所有已有的结果，概念、想法的来源，不仅仅写新的结论。行文上但凡当前叙述中涉及到而之前又未出现的概念都往前加，层层往前加。先可以不分章节，直接按自己想的逻辑顺序先通篇写下来，最后再分章节，做微调。这样可以保障讲故事的连贯性。
+
+507.【如何看文章】a.看别人论文的时候，通过看主要结论涉及到的概念去逐步找和推测预备知识的内容。这样有主次地看论文才是高效的，不然扎在预备知识里出不来。b.如果是我，我该交代哪些预备知识(由主要结论涉及到的概念一层层往前加)。c.看别人的预备知识时还可以思考为什么需要交代这个概念，去推测后面哪里会用到，从而进一步确认交代此概念的必要性。d.看文章应该要去多推测，这样才有趣且高效。e.每一处介绍概念的时候都去思考作者为什么要交代这个概念？何用？f.看文章的顺序应该先看结论，然后看条件。
+
+508. [轨道/传输范畴上的Grothendieck拓扑计算的一些GAP代码](https://github.com/mawaywoo/stu/blob/mawaywoo/grotop.txt)，[另一个网址](https://github.com/maweiwu/grotop/blob/main/grotop.txt)
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
 
 
 
@@ -929,6 +1590,36 @@ _____________________________________________________________________________
  
   
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
