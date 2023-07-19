@@ -1774,7 +1774,7 @@ _____________________________________________________________________________
 
 547. 下降数据和（同伦）余极限的想法就是将局部数据“粘成”整体数据。[André JOYAL - 4/4 A crash course in topos theory : the big picture](https://www.youtube.com/watch?v=xzyxgJBNW8w&t=2548s)
 
-548. 类比于交换环去**获取**拓扑斯的信息和构造（**有趣的是学习他人如何一步步地去获取信息**）。[André Joyal. Geometric aspects of topos theory in relation with logical doctrines](https://www.youtube.com/watch?v=kaZpOEOAUzE)
+548. 类比于交换环去**获取**拓扑斯的信息和构造（**有趣的是学习他人如何一步步地去获取信息**）。[André Joyal. Geometric aspects of topos theory in relation with logical doctrines](https://www.youtube.com/watch?v=kaZpOEOAUzE) 2023-7-19 10:24 于旧水坑
 
 
 
