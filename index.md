@@ -23,15 +23,17 @@ Email: mawaywoo(at)126(dot)com
 
 我的兴趣在homotopy type theory，higher category theory，topos theory，internal category theory (internalization)。**坚持靠自己啃出来**。找到自己真正的兴趣，不唯文章。
 
+博士毕业 2023-6-21 
+
+---
 **做研究就是想尽办法用尽各种手段去获取未知对象的各种局部信息**[Chromatic homotopy theory - Jacob Lurie](https://www.youtube.com/watch?v=HRsDJPzl_Hg) (见心得545条)
 
 **看论文 = 为了学习别人获取局部信息的手段，从而借用去获取自己感兴趣的未知对象的部分信息**。
 
 做研究就是**用尽手段去获取未知对象的各种信息**。这是一件极其有趣的事情。2023-7-6 广州番禺旧水坑
 
-博士毕业 2023-6-21 
+**学习拓扑斯理论要和加法范畴、阿贝尔范畴、三角范畴等类比**，有些构建只是**范畴论构造在这些不同范畴下的不同表现**（除此之外还有如凝聚函子、正合性等概念在这些不同的范畴下表现形式也不一样），**它们背后都是同样的构建方式**。见心得 549 条中的视频的加法范畴和拓扑斯的类比阐述得很好。2023-7-20 9:30 于旧水坑
 
----
 
 ## Personal information
 
