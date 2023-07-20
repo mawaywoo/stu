@@ -1776,6 +1776,8 @@ _____________________________________________________________________________
 
 548. 类比于交换环去**获取**拓扑斯的信息和构造（**有趣的是学习他人如何一步步地去获取信息**）。第 30 分钟的分类拓扑斯的类比构造就很精彩。[André Joyal. Geometric aspects of topos theory in relation with logical doctrines](https://www.youtube.com/watch?v=kaZpOEOAUzE) 2023-7-19 10:24 于旧水坑
 
+549. **学习拓扑斯理论要和加法范畴、阿贝尔范畴、三角范畴等类比**，有些构建只是**范畴论构造在这些不同范畴下的不同表现**（除此之外还有如凝聚函子、正合性等概念在这些不同的范畴下表现形式也不一样，但它们背后所应用的构建方式都是一样的），它们背后都是同样的构建方式。见 [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/watch?v=sQyDI76ppY4&t=3388s) 第 53 分钟。
+
 
 
 
