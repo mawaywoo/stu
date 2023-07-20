@@ -40,6 +40,8 @@ Email: mawaywoo(at)126(dot)com
 
 需要意识到：许多知识只不过是**相同理论（概念、构造）在不同范畴中的表现**。
 
+**类比，或者说搞懂相同概念、构造在不同范畴下的不同表现，是学习和理解范畴论、拓扑斯理论的一个重要工具**。
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
