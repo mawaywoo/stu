@@ -46,7 +46,7 @@ Email: mawaywoo(at)126(dot)com
 
 Good Lecture! [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/watch?v=sQyDI76ppY4&t=3388s)
 
-为何要学习双范畴或者高阶范畴：因为它们能让我们**同时编码多组数据**（这有利于我们更好地**展开和理清**数据之间的关系）。见 550 条。
+为何要学习双范畴或者高阶范畴：因为它们能让我们**同时编码多组数据**（这有利于我们更好地**展开和理清**数据之间的关系，好比**平面图和立体图**的关系，后者能将多组平面图间的关系展示得更清楚）。见 550 条。
 
 ## Personal information
 
