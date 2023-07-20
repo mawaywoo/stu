@@ -44,6 +44,8 @@ Email: mawaywoo(at)126(dot)com
 
 范畴论很多时候是在考虑**相同**理论（概念、构造）在不同范畴下的不同表现。（即通常所谓的类比、推广已有的结论）
 
+Good Lecture! [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/watch?v=sQyDI76ppY4&t=3388s)
+
 ## Personal information
 
 Currently I'm doing my PhD in China. 
