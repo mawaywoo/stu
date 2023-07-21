@@ -1793,7 +1793,9 @@ _____________________________________________________________________________
 
 549. **学习拓扑斯理论要和加法范畴、阿贝尔范畴、三角范畴等类比**，有些构建只是**范畴论构造在这些不同范畴下的不同表现**（除此之外还有如凝聚函子、正合性等概念在这些不同的范畴下表现形式也不一样，但它们背后所应用的构建方式都是一样的），它们背后都是同样的构建方式。见 [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/watch?v=sQyDI76ppY4&t=3388s) 第 53 分钟。
 
-550.  为什么要在意双范畴或者高阶范畴（学习双范畴的意义何在）：因为我们有时确实**需要同时编码多组数据**。交换图中的**每一个箭头都代表着一堆数据**。[Robert Paré: Some things about double categories](https://www.youtube.com/watch?v=ArC7wBqHp5Q) 
+550.  为什么要在意双范畴或者高阶范畴（学习双范畴的意义何在）：因为我们有时确实**需要同时编码多组数据**。交换图中的**每一个箭头都代表着一堆数据**。[Robert Paré: Some things about double categories](https://www.youtube.com/watch?v=ArC7wBqHp5Q)
+
+551. 用 549 视频中 R-Mod 和 拓扑斯理论的类比（**R ——> Mod-R ——> Mod-R[S^(-1)] and C ——> PSh(C) ——> Sh(C)**），可以更好地理解拓扑斯理论而不至于迷失。[Olivia Caramello: “Introduction to relative topos theory”](https://www.youtube.com/watch?v=Gm4T_yFr6tk)
 
 
 
