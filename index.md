@@ -49,7 +49,7 @@ Good Lecture! [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/w
 
 为何要学习双范畴或者高阶范畴：因为它们能让我们**同时编码多组数据**（这有利于我们更好地**展开和理清**数据之间的关系，好比**平面图和立体图**的关系，后者能将多组平面图间的关系展示得更清楚、也更简洁）。见 550 条。
 
-数学研究就是考虑**相同模式（相同概念、构造）在不同数学背景下的应用（在不同范畴中的表现）**。
+数学研究就是考虑**相同模式（相同概念、构造）在不同数学背景下的应用（在不同范畴中的表现）**。[Olivia Caramello: “Introduction to relative topos theory”](https://www.youtube.com/watch?v=Gm4T_yFr6tk&t=4295s)
 
 
 ## Personal information
@@ -1801,7 +1801,8 @@ _____________________________________________________________________________
 
 551. 用 549 视频中 R-Mod 和 拓扑斯理论的类比（**R ——> Mod-R ——> Mod-R[S^(-1)] and C ——> PSh(C) ——> Sh(C)**），可以更好地理解拓扑斯理论而不至于迷失。[Olivia Caramello: “Introduction to relative topos theory”](https://www.youtube.com/watch?v=Gm4T_yFr6tk)
 
-552. 数学研究就是考虑**相同模式（相同概念、构造）在不同数学背景下的应用（在不同范畴中的表现）**。
+552. 数学研究就是考虑**相同模式（相同概念、构造）在不同数学背景下的应用（在不同范畴中的表现）**。[Olivia Caramello: “Introduction to relative topos theory”](https://www.youtube.com/watch?v=Gm4T_yFr6tk&t=4295s)
+
 
 
 
