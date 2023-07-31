@@ -184,8 +184,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 ---
 | D | E | F |
 |:---------|:---------------------|:---------------|
-[Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) | [国际基础科学大会](https://www.icbs.cn/en/web/program/18009) | [Formalization of Mathematics (SLMath) June 05, 2023 - June 16, 2023](https://www.msri.org/summer_schools/1021/schedules) |
-[Formalization of Cohomology Theories](http://www.birs.ca/events/2023/5-day-workshops/23w5124/videos) |
+[Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) | [国际基础科学大会](https://www.icbs.cn/en/web/program/18009) | [Formalization of Cohomology Theories](http://www.birs.ca/events/2023/5-day-workshops/23w5124/videos) |
+[Formalization of Mathematics (SLMath) June 05, 2023 - June 16, 2023](https://www.msri.org/summer_schools/1021/schedules) |
 
 
 
