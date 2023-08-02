@@ -1805,7 +1805,11 @@ _____________________________________________________________________________
 
 552. 数学研究就是考虑**相同模式（相同概念、构造）在不同数学背景下的应用（在不同范畴中的表现）**。[Olivia Caramello: “Introduction to relative topos theory”](https://www.youtube.com/watch?v=Gm4T_yFr6tk&t=4295s)
 
-553. 左、右伴随是很不一样的：**左伴随 “=” 加东西，右伴随 “=” 减东西**。（如自由函子和遗忘函子，余极限（加、并）和极限（乘、交））[In category theory why is a right adjoint not a left adjoint?](https://math.stackexchange.com/questions/84417/in-category-theory-why-is-a-right-adjoint-not-a-left-adjoint)
+553. 左、右伴随是很不一样的：
+    
+     (1) **左伴随 “=” 加东西，右伴随 “=” 减东西**。（如自由函子和遗忘函子，余极限（加、并）和极限（乘、交））[In category theory why is a right adjoint not a left adjoint?](https://math.stackexchange.com/questions/84417/in-category-theory-why-is-a-right-adjoint-not-a-left-adjoint)
+   
+     (2) **寻找伴随 “=” 寻找逼近**[What is an intuitive view of adjoints? (version 1: category theory)}(https://mathoverflow.net/questions/6551/what-is-an-intuitive-view-of-adjoints-version-1-category-theory?_gl=1*vjiu7s*_ga*Njc4NTU5Mjg4LjE2NzczOTEwOTg.*_ga_S812YQPLT2*MTY5MDk5MjIxNy4zNi4xLjE2OTA5OTM0NDMuMC4wLjA.)
 
 
 
