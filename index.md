@@ -1805,6 +1805,8 @@ _____________________________________________________________________________
 
 552. 数学研究就是考虑**相同模式（相同概念、构造）在不同数学背景下的应用（在不同范畴中的表现）**。[Olivia Caramello: “Introduction to relative topos theory”](https://www.youtube.com/watch?v=Gm4T_yFr6tk&t=4295s)
 
+553. 左、右伴随是很不一样的：**左伴随 “=” 加东西，右伴随 “=” 减东西**。（如自由函子和遗忘函子，余极限（加、并）和极限（乘、交））[In category theory why is a right adjoint not a left adjoint?](https://math.stackexchange.com/questions/84417/in-category-theory-why-is-a-right-adjoint-not-a-left-adjoint)
+
 
 
 
