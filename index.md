@@ -51,6 +51,9 @@ Good Lecture! [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/w
 
 数学研究就是考虑**相同模式（相同概念、构造）在不同数学背景下的应用（在不同范畴中的表现）**。[Olivia Caramello: “Introduction to relative topos theory”](https://www.youtube.com/watch?v=Gm4T_yFr6tk&t=4295s)
 
+**数学研究 = 已有理论在别的数学背景（范畴）下如何“重现”**。
+
+
 
 ## Personal information
 
