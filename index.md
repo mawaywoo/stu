@@ -344,6 +344,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 
 ---
 
+[艺术绵长人生短暂，坂本龙一的音乐](https://www.youtube.com/watch?v=aYFTnJF8aPM) 2023-8-22 23:49 于番禺旧水坑村
+
 ## 电影
 
 [不求上进的玉子](https://www.youtube.com/watch?v=-1-GTm5mo4g)
