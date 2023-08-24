@@ -1818,7 +1818,7 @@ _____________________________________________________________________________
 
 554. 数学研究就是考虑**相同模式在不同的数学 context 下的重现**。如交换环背景下的支撑簇换成群上同调的 context , 同样会有对应的支撑簇理论。[Homological algebra and group representations](https://www.msri.org/workshops/817/schedules/23498#5-Carlson)
 
-555. 群概型有“**几何的**”和“**代数的**”两个等价的定义（因此群概型会有**函子**和**代数、代数的对偶**等互相等价的定义，不要搞混），它推广了 **Hopf 代数**和**群代数**。[Julia Pevtsova, "Support theories for the stable module category of a finite group scheme, part 1"](https://www.youtube.com/watch?v=9cYyMJYUnGU)  
+555. 群概型有“**几何的**”和“**代数的**”两个等价的定义（因此群概型会有**函子**和**代数、代数的对偶**等互相等价的定义，不要搞混），它推广了 **Hopf 代数（群代数）**和**李代数**。[Julia Pevtsova, "Support theories for the stable module category of a finite group scheme, part 1"](https://www.youtube.com/watch?v=9cYyMJYUnGU)  
 
 
 
