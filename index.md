@@ -1816,7 +1816,9 @@ _____________________________________________________________________________
    
      (2) **寻找伴随 “=” 寻找逼近**[What is an intuitive view of adjoints? (version 1: category theory)}(https://mathoverflow.net/questions/6551/what-is-an-intuitive-view-of-adjoints-version-1-category-theory?_gl=1*vjiu7s*_ga*Njc4NTU5Mjg4LjE2NzczOTEwOTg.*_ga_S812YQPLT2*MTY5MDk5MjIxNy4zNi4xLjE2OTA5OTM0NDMuMC4wLjA.)
 
-554. 数学研究就是考虑**相同模式在不同的数学 context 下的重现**。如交换环背景下的支撑簇换成群上同调的 context , 同样会有对应的支撑簇理论。[Homological algebra and group representations](https://www.msri.org/workshops/817/schedules/23498#5-Carlson)     
+554. 数学研究就是考虑**相同模式在不同的数学 context 下的重现**。如交换环背景下的支撑簇换成群上同调的 context , 同样会有对应的支撑簇理论。[Homological algebra and group representations](https://www.msri.org/workshops/817/schedules/23498#5-Carlson)
+
+555. 群概型有“**几何的**”和“**代数的**”两个等价的定义。[Julia Pevtsova, "Support theories for the stable module category of a finite group scheme, part 1"](https://www.youtube.com/watch?v=9cYyMJYUnGU)  
 
 
 
