@@ -65,6 +65,14 @@ Currently I'm doing my PhD in China.
 
 [岭南师范学院数学与统计学院 2023-9-1](http://d.lingnan.edu.cn/sxytjxy/info/1383/1893.htm)
 
+## Teaching
+
+2023-2024 学年第 1 学期: 
+
+高等代数 I , 2023 数学与应用数学 9 班, 64 学时
+
+高等数学 I , 2023 化学 3 班, 48 学时
+
 ## Research
 
 My research interests are in representation theory, (higher) topos theory, homotopy type theory. 
