@@ -1833,6 +1833,10 @@ _____________________________________________________________________________
 
 556. 意识到等价的两个范畴的“**差异性**”，会让我们对两个范畴之间存在等价感到更加惊喜。2023-9-28 22:14 于岭南师范学院崇德苑。
 
+557. 有趣的文章标题：[Why most papers on filters are really trivial (including this one)](https://arxiv.org/pdf/2309.15022.pdf) 2023-9-29 23:35
+
+558. 趁假期，重学 Model Theory, 一定要搞懂它以及 Mike Prest 和 Olivia Caramello 的工作。博士时一直在学 Logic， Thopos Theory 和 Homotopy Type Theory，Higher category Theory 等理论，务必高透，不然就半途而废了。务必开拓出自己的一个研究方向来。没必要追随他人的研究热点，拾人牙穗，缺乏新意。 [Introduction to Model Theory](https://www.youtube.com/playlist?list=PLoWHl5YajIf5ZwhGrgiZkM_9X_UGCkbm7) 2023-9-29 23:41
+
 
 
 
