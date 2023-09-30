@@ -1837,6 +1837,8 @@ _____________________________________________________________________________
 
 558. 趁假期，重学 Model Theory, 一定要搞懂它以及 Mike Prest 和 Olivia Caramello 的工作。博士时一直在学 Logic， Thopos Theory 和 Homotopy Type Theory，Higher category Theory 等理论，务必高透，不然就半途而废了。务必开拓出自己的一个研究方向来。没必要追随他人的研究热点，拾人牙穗，缺乏新意。 [Introduction to Model Theory](https://www.youtube.com/playlist?list=PLoWHl5YajIf5ZwhGrgiZkM_9X_UGCkbm7) 2023-9-29 23:41
 
+559. 考虑某些**模范畴上**的(等变)层范畴，这是我一直想要考虑的问题，即考虑**模范畴上的拓扑斯**，用拓扑斯理论去研究模范畴。[Jens Hemelaer: Toposes in arithmetic noncommutative geometry](https://www.youtube.com/watch?v=grdIPiXRP44&t=1676s) 2023-9-30 22:16 于岭南师范学院崇德苑 209 室。
+
 
 
 
