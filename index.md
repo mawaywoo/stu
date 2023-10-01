@@ -1825,21 +1825,24 @@ _____________________________________________________________________________
     
      (1) **左伴随 “=” 加东西，右伴随 “=” 减东西**。（如自由函子和遗忘函子，余极限（加、并）和极限（乘、交））[In category theory why is a right adjoint not a left adjoint?](https://math.stackexchange.com/questions/84417/in-category-theory-why-is-a-right-adjoint-not-a-left-adjoint)
    
-     (2) **寻找伴随 “=” 寻找逼近**[What is an intuitive view of adjoints? (version 1: category theory)}(https://mathoverflow.net/questions/6551/what-is-an-intuitive-view-of-adjoints-version-1-category-theory?_gl=1*vjiu7s*_ga*Njc4NTU5Mjg4LjE2NzczOTEwOTg.*_ga_S812YQPLT2*MTY5MDk5MjIxNy4zNi4xLjE2OTA5OTM0NDMuMC4wLjA.)
+     (2) **寻找伴随 “=” 寻找逼近**[What is an intuitive view of adjoints? (version 1: category theory)}(https://mathoverflow.net/questions/6551/what-is-an-intuitive-view-of-adjoints-version-1-category
+     theory?_gl=1*vjiu7s*_ga*Njc4NTU5Mjg4LjE2NzczOTEwOTg.*_ga_S812YQPLT2*MTY5MDk5MjIxNy4zNi4xLjE2OTA5OTM0NDMuMC4wLjA.)
 
-554. 数学研究就是考虑**相同模式在不同的数学 context 下的重现**。如交换环背景下的支撑簇换成群上同调的 context , 同样会有对应的支撑簇理论。[Homological algebra and group representations](https://www.msri.org/workshops/817/schedules/23498#5-Carlson)
+555. 数学研究就是考虑**相同模式在不同的数学 context 下的重现**。如交换环背景下的支撑簇换成群上同调的 context , 同样会有对应的支撑簇理论。[Homological algebra and group representations](https://www.msri.org/workshops/817/schedules/23498#5-Carlson)
 
-555. 群概型有“**几何的**”和“**代数的**”两个等价的定义（因此群概型会有**函子**和**代数、代数的对偶**等互相等价的定义，不要搞混），它推广了 **Hopf 代数（群代数）**和**李代数**（群概型是**更一般**的情形，涵盖了许多已有的代数）。[Julia Pevtsova, "Support theories for the stable module category of a finite group scheme, part 1"](https://www.youtube.com/watch?v=9cYyMJYUnGU)
+556. 群概型有“**几何的**”和“**代数的**”两个等价的定义（因此群概型会有**函子**和**代数、代数的对偶**等互相等价的定义，不要搞混），它推广了 **Hopf 代数（群代数）**和**李代数**（群概型是**更一般**的情形，涵盖了许多已有的代数）。[Julia Pevtsova, "Support theories for the stable module category of a finite group scheme, part 1"](https://www.youtube.com/watch?v=9cYyMJYUnGU)
 
-556. 意识到等价的两个范畴的“**差异性**”，会让我们对两个范畴之间存在等价感到更加惊喜。2023-9-28 22:14 于岭南师范学院崇德苑。
+557. 意识到等价的两个范畴的“**差异性**”，会让我们对两个范畴之间存在等价感到更加惊喜。2023-9-28 22:14 于岭南师范学院崇德苑。
 
-557. 有趣的文章标题：[Why most papers on filters are really trivial (including this one)](https://arxiv.org/pdf/2309.15022.pdf) 2023-9-29 23:35
+558. 有趣的文章标题：[Why most papers on filters are really trivial (including this one)](https://arxiv.org/pdf/2309.15022.pdf) 2023-9-29 23:35
 
-558. 趁假期，重学 Model Theory, 一定要搞懂它以及 Mike Prest 和 Olivia Caramello 的工作。博士时一直在学 Logic， Thopos Theory 和 Homotopy Type Theory，Higher category Theory 等理论，务必高透，不然就半途而废了。务必开拓出自己的一个研究方向来。没必要追随他人的研究热点，拾人牙穗，缺乏新意。 [Introduction to Model Theory](https://www.youtube.com/playlist?list=PLoWHl5YajIf5ZwhGrgiZkM_9X_UGCkbm7) 2023-9-29 23:41
+559. 趁假期，重学 Model Theory, 一定要搞懂它以及 Mike Prest 和 Olivia Caramello 的工作。博士时一直在学 Logic， Thopos Theory 和 Homotopy Type Theory，Higher category Theory 等理论，务必高透，不然就半途而废了。务必开拓出自己的一个研究方向来。没必要追随他人的研究热点，拾人牙穗，缺乏新意。 [Introduction to Model Theory](https://www.youtube.com/playlist?list=PLoWHl5YajIf5ZwhGrgiZkM_9X_UGCkbm7) 2023-9-29 23:41
 
-559. 考虑某些**模范畴上**的(等变)层范畴，这是我一直想要考虑的问题，即考虑**模范畴上的拓扑斯**，用拓扑斯理论去研究模范畴。[Jens Hemelaer: Toposes in arithmetic noncommutative geometry](https://www.youtube.com/watch?v=grdIPiXRP44&t=1676s) 2023-9-30 22:16 于岭南师范学院崇德苑 209 室。
+560. 考虑某些**模范畴上**的(等变)层范畴，这是我一直想要考虑的问题，即考虑**模范畴上的拓扑斯**，用拓扑斯理论去研究模范畴。[Jens Hemelaer: Toposes in arithmetic noncommutative geometry](https://www.youtube.com/watch?v=grdIPiXRP44&t=1676s) 2023-9-30 22:16 于岭南师范学院崇德苑 209 室。
 
-560. Model Theory 经常需要研究 Theory/Sentence 和 Model 的关系。**Model 虽然不一样，但有些 Sentences 却不随 Model 的变化而变化**，因为 Sentence 的基本"构件"不随着模型的变化而变化。见 [#13 - "Model Theory (General Theory of Model Companions : Examples Part I)" by Piotr Kowalski](https://www.youtube.com/watch?v=p-vQWBUXbvU&list=PLoWHl5YajIf5ZwhGrgiZkM_9X_UGCkbm7&index=13) 的第 37 秒左右的 Fact 及第 40 秒左右的 Corollary 。 2023-10-1 16:08 于岭南师范学院，今天买了升降式电脑桌(200 元)，可以站立学习了。
+561. Model Theory 经常需要研究 Theory/Sentence 和 Model 的关系。**Model 虽然不一样，但有些 Sentences 却不随 Model 的变化而变化**，因为 Sentence 的基本"构件"不随着模型的变化而变化。见 [#13 - "Model Theory (General Theory of Model Companions : Examples Part I)" by Piotr Kowalski](https://www.youtube.com/watch?v=p-vQWBUXbvU&list=PLoWHl5YajIf5ZwhGrgiZkM_9X_UGCkbm7&index=13) 的第 37 秒左右的 Fact 及第 40 秒左右的 Corollary 。 2023-10-1 16:08 于岭南师范学院，今天买了升降式电脑桌(200 元)，可以站立学习了。
+
+562. 模型论中**句子的结构特点**与它**在不同大小的模型中的真值**是否能保持紧密相关。
 
 
 
