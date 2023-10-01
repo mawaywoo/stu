@@ -1839,6 +1839,8 @@ _____________________________________________________________________________
 
 559. 考虑某些**模范畴上**的(等变)层范畴，这是我一直想要考虑的问题，即考虑**模范畴上的拓扑斯**，用拓扑斯理论去研究模范畴。[Jens Hemelaer: Toposes in arithmetic noncommutative geometry](https://www.youtube.com/watch?v=grdIPiXRP44&t=1676s) 2023-9-30 22:16 于岭南师范学院崇德苑 209 室。
 
+560. Model Theory 经常需要研究 Theory/Sentence 和 Model 的关系。**Model 虽然不一样，但有些 Sentences 却不随 Model 的变化而变化**，因为 Sentence 的基本"构件"不随着模型的变化而变化。见 [#13 - "Model Theory (General Theory of Model Companions : Examples Part I)" by Piotr Kowalski](https://www.youtube.com/watch?v=p-vQWBUXbvU&list=PLoWHl5YajIf5ZwhGrgiZkM_9X_UGCkbm7&index=13) 的第 37 秒左右的 Fact 。
+
 
 
 
