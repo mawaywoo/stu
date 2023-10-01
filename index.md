@@ -1842,7 +1842,7 @@ _____________________________________________________________________________
 
 561. Model Theory 经常需要研究 Theory/Sentence 和 Model 的关系。**Model 虽然不一样，但有些 Sentences 却不随 Model 的变化而变化**，因为 Sentence 的基本"构件"不随着模型的变化而变化。见 [#13 - "Model Theory (General Theory of Model Companions : Examples Part I)" by Piotr Kowalski](https://www.youtube.com/watch?v=p-vQWBUXbvU&list=PLoWHl5YajIf5ZwhGrgiZkM_9X_UGCkbm7&index=13) 的第 37 秒左右的 Fact 及第 40 秒左右的 Corollary 。 2023-10-1 16:08 于岭南师范学院，今天买了升降式电脑桌(200 元)，可以站立学习了。
 
-562. 模型论中**句子的结构特点**与它**在不同大小的模型中的真值**是否能保持紧密相关。
+562. 模型论中**句子的结构特点**与它**在不同大小的模型中的真值**是否能保持紧密相关，见上一条中的例子。
 
 
 
