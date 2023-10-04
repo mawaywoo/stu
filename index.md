@@ -1850,6 +1850,8 @@ _____________________________________________________________________________
 
 565. Kripke-Joyal 只是**某种特殊的 Model** 而已（由范畴出发可以得到其内蕴语言、Theory，KJ- Model 就是**直接利用范畴构造了该 Theory 的一个模型**）。2023-10-3 于岭南师范学院崇德苑 209 室
 
+566. [Jiří Rosický - Inaccessible cardinals and accessible categories](https://www.youtube.com/watch?v=9mrEWSMVEiw&t=43s)
+
 
 
 
