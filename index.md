@@ -1863,6 +1863,8 @@ _____________________________________________________________________________
 
 568. 搞清楚三个范畴**Mod-R, (R-mod, Ab), (R-mod, Ab)^fp**以及**它们的特殊子范畴与局部化(如第 37 分钟**)之间的关系（函子），**弄清楚这些范畴之间的转化和对应至关重要**。[Mike PREST - Model-theoretic imaginaries and localisation for additive categories](https://www.youtube.com/watch?v=P0BmJT5J19I&t=1060s) 2023-10-5 17:04 于岭南师范学院崇德苑 209 室。
 
+569. 纯结构(pure object)的意义(纯对象全体是一个集合，整个模范畴的对象是一个类，更少的对象，第 2 页)：The pure structure enables one to reduce many classification problems from studying **proper classes** to understanding the structure of a particular **set** of objects. [Definable functors between triangulated categories with applications to tensor-triangular geometry and representation theory](https://arxiv.org/pdf/2310.02159.pdf)
+
 
 
 
