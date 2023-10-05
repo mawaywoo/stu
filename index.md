@@ -200,7 +200,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 |:---------|:---------------------|:---------------|
 [Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) | [国际基础科学大会](https://www.icbs.cn/en/web/program/18009) | [Formalization of Cohomology Theories](http://www.birs.ca/events/2023/5-day-workshops/23w5124/videos) |
 [Formalization of Mathematics (SLMath) June 05, 2023 - June 16, 2023](https://www.msri.org/summer_schools/1021/schedules) | [Dualities in Topology and Algebra 2023](https://www.youtube.com/playlist?list=PL04QVxpjcnjiGuRyRCJc_h4CEVul8_HFA) | [Joshua Wrigley - Topological groupoids for classifying toposes](https://www.bilibili.com/video/BV1Vu4y1t7Lq/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
-[[SYCO11] Morgan Rogers - 模型的自同态：模型论的又一个范畴化](https://www.bilibili.com/video/BV1eo4y1b7sk/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[[SYCO11] Morgan Rogers - 模型的自同态：模型论的又一个范畴化](https://www.bilibili.com/video/BV1eo4y1b7sk/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Hutzler - Gluing classifying toposes](https://www.youtube.com/watch?v=Ghrhwldyau8) |
 
 
 
