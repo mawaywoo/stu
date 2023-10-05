@@ -199,7 +199,8 @@ My research interests are in representation theory, (higher) topos theory, homot
 | D | E | F |
 |:---------|:---------------------|:---------------|
 [Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) | [国际基础科学大会](https://www.icbs.cn/en/web/program/18009) | [Formalization of Cohomology Theories](http://www.birs.ca/events/2023/5-day-workshops/23w5124/videos) |
-[Formalization of Mathematics (SLMath) June 05, 2023 - June 16, 2023](https://www.msri.org/summer_schools/1021/schedules) | [Dualities in Topology and Algebra 2023](https://www.youtube.com/playlist?list=PL04QVxpjcnjiGuRyRCJc_h4CEVul8_HFA) |
+[Formalization of Mathematics (SLMath) June 05, 2023 - June 16, 2023](https://www.msri.org/summer_schools/1021/schedules) | [Dualities in Topology and Algebra 2023](https://www.youtube.com/playlist?list=PL04QVxpjcnjiGuRyRCJc_h4CEVul8_HFA) | [Joshua Wrigley - Topological groupoids for classifying toposes](https://www.bilibili.com/video/BV1Vu4y1t7Lq/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[[SYCO11] Morgan Rogers - 模型的自同态：模型论的又一个范畴化](https://www.bilibili.com/video/BV1eo4y1b7sk/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -1851,6 +1852,16 @@ _____________________________________________________________________________
 565. Kripke-Joyal 只是**某种特殊的 Model** 而已（由范畴出发可以得到其内蕴语言、Theory，KJ- Model 就是**直接利用范畴构造了该 Theory 的一个模型**）。2023-10-3 于岭南师范学院崇德苑 209 室
 
 566. [Jiří Rosický - Inaccessible cardinals and accessible categories](https://www.youtube.com/watch?v=9mrEWSMVEiw&t=43s)
+
+567. 构造分类拓扑斯的层表示：**由 Theory 的 Model 为原材料**去构造相应的拓扑群胚及其上的等变层范畴。[Joshua Wrigley - Topological groupoids for classifying toposes](https://www.bilibili.com/video/BV1Vu4y1t7Lq/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2)
+
+    1、善于发现用于新构造的原材料：**从目标处诱导出来原材料**。
+
+    2、如何一步步出发，由树根一直到各个树杈，所有的结论都是由某个通道发展得到的，平时要把这些出发的通道理清楚，这样才有可能在别的土壤上由根部出发，发展出另一颗大树。即，平行发展另一套平行理论需要搞清原理论是如何成长起来的，各个脉络是怎么发展的，其成长通道是怎样的。
+
+    3、原来的树根是如何发枝散叶的（理清各个**通道**），找到另一个树根就可考虑相同的成长路径。
+
+568. 
 
 
 
