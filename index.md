@@ -1861,7 +1861,7 @@ _____________________________________________________________________________
 
     3、原来的树根是如何发枝散叶的（理清各个**通道**），找到另一个树根就可考虑相同的成长路径。
 
-568. 搞清楚三个范畴**Mod-R, (R-mod, Ab), (R-mod, Ab)^fp**以及**它们的局部化**之间的关系（函子）。[Mike PREST - Model-theoretic imaginaries and localisation for additive categories](https://www.youtube.com/watch?v=P0BmJT5J19I&t=1060s)
+568. 搞清楚三个范畴**Mod-R, (R-mod, Ab), (R-mod, Ab)^fp**以及**它们的特殊子范畴与局部化(如第 37 分钟**)之间的关系（函子）。[Mike PREST - Model-theoretic imaginaries and localisation for additive categories](https://www.youtube.com/watch?v=P0BmJT5J19I&t=1060s) 2023-10-5 17:04 于岭南师范学院崇德苑 209 室。
 
 
 
