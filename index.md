@@ -1865,6 +1865,8 @@ _____________________________________________________________________________
 
 569. **纯结构(pure object)的意义**(纯对象全体是一个集合，整个模范畴的对象是一个类，更少的对象，第 2-3 页，除了节选的这句，后面紧跟的几段都对纯结构的重要性阐释得非常好)：The pure structure enables one to reduce many classification problems from studying **proper classes** to understanding the structure of a particular **set** of objects. [Definable functors between triangulated categories with applications to tensor-triangular geometry and representation theory](https://arxiv.org/pdf/2310.02159.pdf)
 
+570. **语言的威力**，如 1:04:00 左右，拓扑斯的性质由一个语句完全决定，**拓扑斯的结构与其内蕴语言的威力是相互关联的**。（很有趣的老头） [Jean BÉNABOU - Very, almost, and so on, ...](https://www.youtube.com/watch?v=_7uONqXQvp8&t=2136s) 2023-10-6 于岭南师范学院 209 室，明天国庆假期补课，补周四周五的课，最多课的两天。
+
 
 
 
