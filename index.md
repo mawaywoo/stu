@@ -1867,6 +1867,8 @@ _____________________________________________________________________________
 
 570. **语言的威力**，如 1:04:00 左右，拓扑斯的性质由一个语句完全决定，**拓扑斯的结构与其内蕴语言的威力是相互关联的**。（很有趣的老头） [Jean BÉNABOU - Very, almost, and so on, ...](https://www.youtube.com/watch?v=_7uONqXQvp8&t=2136s) 2023-10-6 于岭南师范学院 209 室，明天国庆假期补课，补周四周五的课，最多课的两天。
 
+571. **范畴（拓扑斯）起着两重作用**：一是它**提供了语言**，如范畴的对象表示语言的 Sort/Type；二是范畴**提供了语言的某种特殊模型**，Kripke-Joyal 语义。 [Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&t=21305s) 2023-10-9 16:18 岭南师范学院崇德苑 209 室。
+
 
 
 
