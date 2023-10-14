@@ -201,6 +201,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 [Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) | [国际基础科学大会](https://www.icbs.cn/en/web/program/18009) | [Formalization of Cohomology Theories](http://www.birs.ca/events/2023/5-day-workshops/23w5124/videos) |
 [Formalization of Mathematics (SLMath) June 05, 2023 - June 16, 2023](https://www.msri.org/summer_schools/1021/schedules) | [Dualities in Topology and Algebra 2023](https://www.youtube.com/playlist?list=PL04QVxpjcnjiGuRyRCJc_h4CEVul8_HFA) | [Joshua Wrigley - Topological groupoids for classifying toposes](https://www.bilibili.com/video/BV1Vu4y1t7Lq/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [[SYCO11] Morgan Rogers - 模型的自同态：模型论的又一个范畴化](https://www.bilibili.com/video/BV1eo4y1b7sk/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Hutzler - Gluing classifying toposes](https://www.youtube.com/watch?v=Ghrhwldyau8) | [The geometry of permutation modules - Paul Balmer (UCLA)](https://www.youtube.com/watch?v=g0G_4EIUQjQ) |
+[Category Theory For Beginners: Fibrations and Lenses](https://www.youtube.com/watch?v=Y2l2wBEfrJw&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=30) |
 
 
 
@@ -1870,6 +1871,8 @@ _____________________________________________________________________________
 571. **范畴（拓扑斯）起着两重作用**：一是它**提供了语言**，如范畴的对象表示语言的 Sort/Type；二是范畴**提供了语言的某种特殊模型**，Kripke-Joyal 语义。 [Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&t=21305s) 2023-10-9 16:18 岭南师范学院崇德苑 209 室。
 
 572. 重学，对 Enriched Category 的定义阐释的很好，见 31 分钟左右。[Enriched Category Theory For Beginners](https://www.youtube.com/watch?v=NgZfay8nKCg&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=26&t=1380s) 2023-20-24 14:40 岭南师范学院崇德苑 209 室。
+
+573. [Category Theory For Beginners: Fibrations and Lenses](https://www.youtube.com/watch?v=Y2l2wBEfrJw&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=30) 2023-10-14 16:34 岭南师范学院崇德苑 209 室。
 
 
 
