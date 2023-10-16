@@ -1874,6 +1874,8 @@ _____________________________________________________________________________
 
 573. [Category Theory For Beginners: Fibrations and Lenses](https://www.youtube.com/watch?v=Y2l2wBEfrJw&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=30) 2023-10-14 16:34 岭南师范学院崇德苑 209 室。
 
+574. 最近在看 Mike Prest 的文章，希望把 Model Theory 搞清楚。[Vlad Patryshev - A Gentle Introduction to Modern Model Theory - λC 2018](https://www.youtube.com/watch?v=xNJHw8E_36g) 2023-10-16 16:21 
+
 
 
 
