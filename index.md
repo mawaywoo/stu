@@ -285,7 +285,7 @@ My research interests are in representation theory, (higher) topos theory, homot
 ---
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |:---------|:---------------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
-[Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Piotr Kowalski](https://philpeople.org/profiles/piotr-kowalski) |
+[Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Piotr Kowalski](https://philpeople.org/profiles/piotr-kowalski) | [Vlad Patryshev](https://www.researchgate.net/profile/Vlad-Patryshev) |
 
 ## Math-life balance
 
