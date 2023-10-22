@@ -1879,6 +1879,8 @@ _____________________________________________________________________________
 
 575. [Model Theory (Spring 2021)](https://www.bilibili.com/video/BV1WB4y1T7QS/?p=4&spm_id_from=pageDriver&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2023-10-17 岭南师范学院崇德苑 209 室。
 
+576. 为什么用一阶逻辑而不用别的逻辑：见视频的 22 分钟开始的解释（简单来说就是它是满足需求的最大的逻辑见 28:34 ）。[Model Theory (Spring 2021)](https://www.bilibili.com/video/BV1WB4y1T7QS/?p=8&spm_id_from=pageDriver&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2023-10-22 12:22 于岭南师范学院崇德苑 209 室。
+
 
 
 
