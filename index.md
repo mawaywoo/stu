@@ -1881,6 +1881,8 @@ _____________________________________________________________________________
 
 576. 为什么用一阶逻辑而不用别的逻辑：见视频的 22 分钟开始的解释（简单来说就是它是具有某些好的性质的最大的逻辑 见 28:34 ）。[Model Theory (Spring 2021)](https://www.bilibili.com/video/BV1WB4y1T7QS/?p=8&spm_id_from=pageDriver&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2023-10-22 12:22 于岭南师范学院崇德苑 209 室。
 
+577. 一个函子保持极限，就是把极限映到极限，一个函子创造极限则反过来，源范畴的极限可以通过目标范畴的极限产生。[How to understand the "create limit"?](https://math.stackexchange.com/questions/41472/how-to-understand-the-create-limit) 2023-10-23 21:51
+
 
 
 
