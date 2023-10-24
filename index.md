@@ -1883,6 +1883,8 @@ _____________________________________________________________________________
 
 577. 一个函子保持极限，就是把极限映到极限，一个函子创造极限则反过来，源范畴的极限可以通过目标范畴的极限产生。[How to understand the "create limit"?](https://math.stackexchange.com/questions/41472/how-to-understand-the-create-limit) 2023-10-23 21:51
 
+578. 每次看都有新的收获。我希望搞清楚拓扑斯的一般理论在与群有关的范畴（如融合系等）中的具体含义：如融合系上的拓扑斯的子对象分类子的具体结构是怎样的。[Francis Borceux - 拓扑斯理论的非正式概述, 第 1-5 课](https://www.bilibili.com/video/BV1CV4y1k7EA/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2)
+
 
 
 
