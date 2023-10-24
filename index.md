@@ -1883,7 +1883,9 @@ _____________________________________________________________________________
 
 577. 一个函子保持极限，就是把极限映到极限，一个函子创造极限则反过来，源范畴的极限可以通过目标范畴的极限产生。[How to understand the "create limit"?](https://math.stackexchange.com/questions/41472/how-to-understand-the-create-limit) 2023-10-23 21:51
 
-578. 每次看都有新的收获。我希望搞清楚拓扑斯的一般理论在与群有关的范畴（如融合系等）中的具体含义：如融合系上的拓扑斯的子对象分类子的具体结构是怎样的。[Francis Borceux - 拓扑斯理论的非正式概述, 第 1-5 课](https://www.bilibili.com/video/BV1CV4y1k7EA/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2)
+578. 每次看都有新的收获。**非常棒的视频** 我希望搞清楚拓扑斯的一般理论在与群有关的范畴（如融合系等）中的具体含义：如融合系上的拓扑斯的子对象分类子的具体结构是怎样的。[Francis Borceux - 拓扑斯理论的非正式概述, 第 1-5 课](https://www.bilibili.com/video/BV1CV4y1k7EA/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2)
+
+579. 切片范畴 C/c 复杂度不是比 C 小，反而比 C 更复杂。C / c = C^c ，表示 C 中对象簇，指标为 c , 如果 E 是拓扑斯，则 E / I 也是拓扑斯。这不是一个平凡的结论。[Francis Borceux - 拓扑斯理论的非正式概述 44 分钟左右](https://www.bilibili.com/video/BV1kh4y1J7ty/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2 ) 2023-10-24 23:42
 
 
 
