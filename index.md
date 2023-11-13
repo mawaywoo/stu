@@ -233,6 +233,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ---
 
+[项目指南](https://www.nsfc.gov.cn/publish/portal0/tab1418/) | [科学基金项目管理常见问答](https://www.nsfc.gov.cn/publish/portal0/wd/01-04/) |
+
 ## CTeX and TeXstudio
 
 [ctx: 清华TUNA开源镜像(full.exe)](https://ctex.org/ctex/download/) | [TeXstudio](https://www.texstudio.org/) | [latex 模板](https://www.overleaf.com/latex/templates/tagged/math/) |
