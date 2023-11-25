@@ -1919,7 +1919,7 @@ _____________________________________________________________________________
 
 594. Sh_X = **X 上的正变函子范畴**，X 上的闭集和开集分别为下闭和上闭子集，这定义了 X 的拓扑，**关于拓扑的开集来说，层是反变函子**(见 Sect. 2.2 层的定义)。偏序集的 Hasse 图就是**偏序集的子部分**，就是**平时画出来的表示偏序集的图**。见 [On Derived Equivalences of Categories of Sheaves Over Finite Posets](https://arxiv.org/abs/math/0610685) 2023-11-25 13:07
 
-595. 区分清楚两点就不至于迷失：1. 分清楚是在**单复形范畴还是在双复形范畴**；2. 弄清楚是**由 T 生成，与 T 分离（正交）的范畴**。见 [derived equivalences of functor categories](https://www.sciencedirect.com/science/article/abs/pii/S0022404918301397)
+595. 区分清楚三点就不至于迷失：1. 分清楚是在**单复形范畴还是在双复形范畴**；2. 弄清楚是**由 T 生成，与 T 分离（正交）的范畴**。3. **是在单复形范畴中生成还是在双复形范畴中考虑生成**。见 [derived equivalences of functor categories](https://www.sciencedirect.com/science/article/abs/pii/S0022404918301397)
 
 
 
