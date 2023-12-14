@@ -288,7 +288,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 ---
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |:---------|:---------------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
-[Homepage of Wendy Lowen](https://win.uantwerpen.be/~wlowen/publications.html) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Piotr Kowalski](https://philpeople.org/profiles/piotr-kowalski) | [Vlad Patryshev](https://www.researchgate.net/profile/Vlad-Patryshev) |
+[Homepage of Wendy Lowen](https://win.uantwerpen.be/~wlowen/publications.html) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Piotr Kowalski](https://philpeople.org/profiles/piotr-kowalski) | [Vlad Patryshev](https://www.researchgate.net/profile/Vlad-Patryshev) | [Farida Kachapova](https://www.researchgate.net/profile/Farida-Kachapova) | [Razieh Vahed](https://scholar.google.com/citations?user=YOJkKdcAAAAJ&hl=en) | [Laurent Théry](https://www.researchgate.net/profile/Laurent-Thery-2) |
 
 ## Math-life balance
 
@@ -1932,7 +1932,8 @@ _____________________________________________________________________________
      v) 类似于子拓扑斯和 Grothendieck 拓扑的**对应**，本质也是借助 Grothendieck 拓扑对子拓扑斯进行**分类**。建立的**对应通常都是一边比较复杂，另一边比较简单**。如子范畴与环的幂等元，子拓扑斯与座上的拓扑。
 
      vi) **建立对应 “=” 进行分类** 2023-12-6 1:06
-
+     
+597. 对复杂的范畴进行**分割**的方法：挠理论，t-结构，谱理论，拓扑等。
 
 
 
