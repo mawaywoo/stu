@@ -1979,7 +1979,7 @@ _____________________________________________________________________________
 
 609. 导出范畴和同伦范畴的等价(见[Theorem 4.5.](https://ncatlab.org/nlab/show/derived+category))可以视为“**标准正交化**”的过程(好比向量空间中基的标准正交化)：所有导出范畴的复形**标准化为某种复形**(如投射复形),通过标准化后，**原来复形间的关系就会变得简化**(导出范范畴里的拟等价关系就简化为通论范畴的同伦关系)。2024-1-14 8:06 岭南师范学院图书馆 6 楼西区 3 座位 002。
 
-610. Gorenstein 模(CM-模)的定义依赖 Totally acyclic complex TAC, **TAC 复形可以视为 CM-模的“标准化”**；TAC 复形=**自身及其对偶的“长度”都为 0 的复形**。复形的逼近可以视为**把复形与“标准化”复形作比较**。[Tyler Anway: Classification of Totally Acyclic Complexes over Local Gorenstein Rings ](https://www.youtube.com/watch?v=QjZR8_348DU&t=2362s)；[Peder Thompson: Using totally acyclic complexes to extend work of Buchweitz to a non-affine setting](https://www.youtube.com/watch?v=g_XPvB7vqx0)  2024-1-14 20:10 岭南师范学院图书馆 6 楼西区 3 座位 002. 
+610. Gorenstein 模(CM-模)的定义依赖 Totally acyclic complex TAC, **TAC 复形可以视为 CM-模的“标准化”**；TAC 复形=**自身及其“Hom 对偶”的“长度”都为 0 的复形**。复形的逼近可以视为**把复形与“标准化”复形作比较**。[Tyler Anway: Classification of Totally Acyclic Complexes over Local Gorenstein Rings ](https://www.youtube.com/watch?v=QjZR8_348DU&t=2362s)；[Peder Thompson: Using totally acyclic complexes to extend work of Buchweitz to a non-affine setting](https://www.youtube.com/watch?v=g_XPvB7vqx0)  2024-1-14 20:10 岭南师范学院图书馆 6 楼西区 3 座位 002. 
 
 
 
