@@ -289,7 +289,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 ---
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
 |:---------|:---------------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
-[Homepage of Wendy Lowen](https://win.uantwerpen.be/~wlowen/publications.html) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Piotr Kowalski](https://philpeople.org/profiles/piotr-kowalski) | [Vlad Patryshev](https://www.researchgate.net/profile/Vlad-Patryshev) | [Farida Kachapova](https://www.researchgate.net/profile/Farida-Kachapova) | [Razieh Vahed](https://scholar.google.com/citations?user=YOJkKdcAAAAJ&hl=en) | [Laurent Théry](https://www.researchgate.net/profile/Laurent-Thery-2) |
+[Homepage of Wendy Lowen](https://win.uantwerpen.be/~wlowen/publications.html) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Piotr Kowalski](https://philpeople.org/profiles/piotr-kowalski) | [Vlad Patryshev](https://www.researchgate.net/profile/Vlad-Patryshev) | [Farida Kachapova](https://www.researchgate.net/profile/Farida-Kachapova) | [Razieh Vahed](https://scholar.google.com/citations?user=YOJkKdcAAAAJ&hl=en) | [Laurent Théry](https://www.researchgate.net/profile/Laurent-Thery-2) | [Michal Hrbek](https://users.math.cas.cz/~hrbek/) | [Jan Trlifaj](https://www.karlin.mff.cuni.cz/~trlifaj/en/index.html) | [Yann Palu](https://www.lamfa.u-picardie.fr/palu/) |
 
 ## Math-life balance
 
