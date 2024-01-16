@@ -204,6 +204,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Category Theory For Beginners: Fibrations and Lenses](https://www.youtube.com/watch?v=Y2l2wBEfrJw&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=30) | [Jan 30th, Grisha Taroian, Elementary topoi](https://www.youtube.com/watch?v=usCK4jC0OSw) | [Abstract homotopy theory and applications](https://www.youtube.com/playlist?list=PLkY8aHDt-5vxJSGj-8uhZqbL8ITF0nq7j) |
 [Model Theory (Spring 2021)](https://www.bilibili.com/video/BV1WB4y1T7QS/?p=4&spm_id_from=pageDriver&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [HoTT from the Jar](https://www.youtube.com/playlist?list=PLkY8aHDt-5vyuiTIwC9TbEv16npnV4SbZ) | [Foundations S2 - Seminar 9 - Morgan Rogers on Morita equivalences and topological monoids](https://www.youtube.com/watch?v=m9c7erfocTE) |
 [The Eighth Isfahan Seminar on Representation of Algebras, December 12-14, 2023](https://www.youtube.com/@ISRA-VIII-nd1ic/videos) | [Orthogonal modules and homological dimensions- Online workshop](http://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/activities/orthodim.html) | [String Applet](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/),[The lattice of torsion classes in SageMath (OCAMI talk Part II)](https://www.youtube.com/watch?v=2-y1a-_zEEA&t=121s) |
+[The On-Line Encyclopedia of Integer Sequences](https://oeis.org/) |
 
 
 
