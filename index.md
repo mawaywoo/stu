@@ -1990,6 +1990,8 @@ _____________________________________________________________________________
 
 614. **对 t-structure, torsion pair, heart, HSR tilt. 的解释很形象**，还富有图形。还和前面关于 代数的 torsion classes 有关系。[Rosanna Laking | Wide intervals and mutation](https://www.youtube.com/watch?v=0gHi1c2MayE) and [Mutation, t-structures, and torsion pairs - Jan Šťovíček (Charles University, Prague)](https://www.youtube.com/watch?v=bjbLQWYTj9k&t=1344s) and [MUTATION AND TORSION PAIRS](https://arxiv.org/pdf/2201.02147.pdf) 2024-1-17 16:48 岭南师范学院图书馆六楼西区 3 座位 002.
 
+615. **cosilting object=derived injective cogenerator**. 见 [Mutation, t-structures, and torsion pairs - Jan Šťovíček (Charles University, Prague)](https://www.youtube.com/watch?v=bjbLQWYTj9k&t=1344s) 第 27:19 及稍前部分。2024-1-17 17:08 岭南师范学院图书馆六楼。
+
 
 
 
