@@ -1984,7 +1984,7 @@ _____________________________________________________________________________
 
 611. 边作报告边打字。[Finitistic dimension, generation of injectives, and dualizing complexes - Liran Shaul (Prague)](https://www.youtube.com/watch?v=myA3iOzUTNo&t=3s)
 
-612. 像这种对某些特殊子范畴的分类，思路：这类子范畴满足某些闭性质，而这些**闭运算可以看成是一些生成方式**(如 ICE-闭就是关于余核、像、扩张运算是封闭的)，**对这类范畴进行分类，我们只需寻找这类范畴的“生成元”**(见第 2 个视频的第 26 分钟左右的 progenerator)以及第 36 分钟左右的 support tilting module，第 1 小时 15 分钟左右的 tau-tilting theory, 由生成元出发，通过这些运算可以生成相应的范畴(**子范畴比较复杂，而模比较简单**，因此把关于某些子范畴的分类归结为某些模(如 **progenerator,support tilting module,rigid module,tau-tilting** 等))。大概思路就是通过**生成元**对这类范畴进行分类(生成方式都是一样的，关于某些特定的运算封闭。所以范畴由生成元决定)。[ICE-closed subcategories over module categories (Kyoto representation seminar)](https://www.youtube.com/watch?v=Hvr4Yjj_HMM) and [ICE-closed subcategories and wide tau-tilting modules (ICRA 2020 talk)](https://www.youtube.com/watch?v=rRise7HzqS8) 2024-1-16 9:46 岭南师范学院图书馆六楼西区 3 座位 002.
+612. 像这种对某些特殊子范畴的分类，思路：这类子范畴满足某些闭性质，而这些**闭运算可以看成是一些生成方式**(如 ICE-闭就是关于余核、像、扩张运算是封闭的)，**对这类范畴进行分类，我们只需寻找这类范畴的“生成元”**(见第 2 个视频的第 26 分钟左右的 progenerator)以及第 36 分钟左右的 support tilting module，第 1 小时 15 分钟左右的 tau-tilting module, tau-rigid module, support tau-tilting module, 由生成元出发，通过这些运算可以生成相应的范畴(**子范畴比较复杂，而模比较简单**，因此把关于某些子范畴的分类归结为某些模(如 **progenerator,support tilting module,rigid module,tau-tilting module,tau-rigid module,support tau-tilting module** 等))。大概思路就是通过**生成元**对这类范畴进行分类(生成方式都是一样的，关于某些特定的运算封闭。所以范畴由生成元决定)。[ICE-closed subcategories over module categories (Kyoto representation seminar)](https://www.youtube.com/watch?v=Hvr4Yjj_HMM) and [ICE-closed subcategories and wide tau-tilting modules (ICRA 2020 talk)](https://www.youtube.com/watch?v=rRise7HzqS8) 2024-1-16 9:46 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
