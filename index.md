@@ -1988,6 +1988,8 @@ _____________________________________________________________________________
 
 613. 将**对某些范畴的刻画归结为范畴中的某个对象**这是常见的思路：如投射生成元，倾斜对象，以及 612 所提到的各种对象。**对某些范畴进行刻画————归结为————>范畴中某个特殊的对象**。2024-1-17 9:50 岭南师范学院图书馆六楼西区 3 座位 002.
 
+614. **对 t-structure, torsion pair, heart, HSR tilt. 的解释很形象**，还富有图形。还和前面关于 代数的 torsion classes 有关系。[Rosanna Laking | Wide intervals and mutation](https://www.youtube.com/watch?v=0gHi1c2MayE) and [Mutation, t-structures, and torsion pairs - Jan Šťovíček (Charles University, Prague)](https://www.youtube.com/watch?v=bjbLQWYTj9k&t=1344s) and [MUTATION AND TORSION PAIRS](https://arxiv.org/pdf/2201.02147.pdf) 2024-1-17 16:48 岭南师范学院图书馆六楼西区 3 座位 002.
+
 
 
 
