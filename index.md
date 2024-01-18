@@ -1994,7 +1994,7 @@ _____________________________________________________________________________
 
 616. 同伦范畴的局部化得到局部化，即导出范畴会出现 sizes 问题。一个解决办法就是 dg-范畴的方法，**dg-范畴的局部化不会出现 sizes 问题**。见 第 19:20 的 idea. [A new model for dg-categories](https://www.youtube.com/watch?v=i2WchlhEf0I&t=220s) 2024-1-18 8:34 岭南师范学院图书馆六楼西区 3 座位 002.
 
-617. 对象 M 的**紧性**，即保持余积，是为了使得函子 Hom(M,-) **保持相同的“生成方式”：余积、直和、直和项**。这样两边的范畴生成方式一致就可能产生等价的范畴。**倾斜复形中的小投射模构成也是为了保持相同的生产方式，以实现范畴的等价性**。[Morita Theory in Stable Homotopy Theory](https://www.youtube.com/watch?v=o8GvkhFd-30) 2024-1-18 9:46 岭南师范学院图书馆六楼西区 3 座位 002.
+617. 对象 M 的**紧性**，即保持余积，是为了使得函子 Hom(M,-) **保持相同的“生成方式”：余积、直和、直和项**。这样两边的范畴生成方式一致就可能产生等价的范畴。**倾斜复形中的小投射模构成也是为了保持相同的生产方式，以实现范畴的等价性**。[Morita Theory in Stable Homotopy Theory](https://www.youtube.com/watch?v=o8GvkhFd-30) and [Paolo Stellari: Morita theory: interplay between dg and weakly approximable triangulated categories](https://www.youtube.com/watch?v=mx_PEVTcSPA) 2024-1-18 9:46 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
