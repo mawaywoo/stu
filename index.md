@@ -1992,6 +1992,8 @@ _____________________________________________________________________________
 
 615. **cosilting object=derived injective cogenerator**. 见 [Mutation, t-structures, and torsion pairs - Jan Šťovíček (Charles University, Prague)](https://www.youtube.com/watch?v=bjbLQWYTj9k&t=1344s) 第 27:19 及稍前部分。2024-1-17 17:08 岭南师范学院图书馆六楼。
 
+616. 同伦范畴的局部化得到局部化，即导出范畴会出现 sizes 问题。一个解决办法就是 dg-范畴的方法，**dg-范畴的局部化不会出现 sizes 问题**。见 第 19:20 的 idea. [A new model for dg-categories](https://www.youtube.com/watch?v=i2WchlhEf0I&t=220s) 2024-1-18 8:34 岭南师范学院图书馆六楼西区 3 座位 002.
+
 
 
 
