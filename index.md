@@ -1998,6 +1998,8 @@ _____________________________________________________________________________
 
 618. extriangulated 范畴解释得挺好。[Mutation via Hovey twin cotorsion pairs and model structures in extriangulated categories](http://www.birs.ca/events/2016/5-day-workshops/16w5040/videos/watch/201606201645-Nakaoka.html)
 
+619. exact structure = **选取**某些 inflations, deflations and conflations, model structure = **选取**某些 fibrations,cofibrations and weak equivalences. 所以，**对于同一个范畴，会有许多不同的 exact structure 和 model structure, 这依赖选取**。  
+
 
 
 
