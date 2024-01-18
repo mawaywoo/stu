@@ -2000,7 +2000,7 @@ _____________________________________________________________________________
 
 619. exact structure = **选取**某些 inflations, deflations and conflations, model structure = **选取**某些 fibrations,cofibrations and weak equivalences. 所以，**对于同一个范畴，会有许多不同的 exact structure 和 model structure, 这依赖选取**。
 
-620. Ext(M,-)=0 刻画的是对象 M 的**生成复杂度**，即“生成” M 的链复形的**长度**。[Tilting theory in exact categories - Julia Sauter (Universität Bielefeld)](https://www.youtube.com/watch?v=t9IcBKjRzVg) 结合 607-608 条。2024-1-18 16:19 岭南师范学院图书馆六楼西区 3 座位 002.
+620. Ext(M,-)=0 刻画的是对象 M 的**生成复杂度**，即“生成” M 的链复形的**长度**。perpendicular category 用 Ext 定义，所以垂直范畴刻画的也是该范畴中对象“**生成”的复杂度**，即生成该对象的链复形的长度。[Tilting theory in exact categories - Julia Sauter (Universität Bielefeld)](https://www.youtube.com/watch?v=t9IcBKjRzVg) 结合 607-608 条。2024-1-18 16:19 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
