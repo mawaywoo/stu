@@ -1974,9 +1974,9 @@ _____________________________________________________________________________
 
      i) M 是 d-cluster tilting 模是指使得由 M **按两种不同方式“生成”的模范畴** addM 和按导出函子 Ext 生成的模范畴相等的对象 M。
 
-     j) 一种是**直和+直和项**的生成方式，一种是**同调的**生成方式。2024-1-10 23:36
+     j) 一种是**直和+直和项**的生成方式，一种是**同调的**生成方式。2024-1-10 23:36 结合 620 条。
      
-608. dg-范畴的态射是一个复形，而复形的复杂度是由它的**长度**(或它的**非零同调群的位置分布**)决定的，故一个 **dg-范畴的复杂度**是由它的**各个态射复形的长度(或复形的同调群的位置**)决定的。dg-范畴中常常考虑 H^0, 其本质就是截出态射复形的某一部分来考虑。2024-1-13 0:17
+608. dg-范畴的态射是一个复形，而复形的复杂度是由它的**长度**(或它的**非零同调群的位置分布**)决定的，故一个 **dg-范畴的复杂度**是由它的**各个态射复形的长度(或复形的同调群的位置**)决定的。dg-范畴中常常考虑 H^0, 其本质就是截出态射复形的某一部分来考虑。2024-1-13 0:17 结合 620 条。
 
 609. 导出范畴和同伦范畴的等价(见[Theorem 4.5.](https://ncatlab.org/nlab/show/derived+category))可以视为“**标准正交化**”的过程(好比向量空间中基的标准正交化)：所有导出范畴的复形**标准化为某种复形**(如投射复形),通过标准化后，**原来复形间的关系就会变得简化**(导出范范畴里的拟等价关系就简化为通论范畴的同伦关系)。2024-1-14 8:06 岭南师范学院图书馆 6 楼西区 3 座位 002。
 
@@ -1998,7 +1998,9 @@ _____________________________________________________________________________
 
 618. extriangulated 范畴解释得挺好。[Mutation via Hovey twin cotorsion pairs and model structures in extriangulated categories](http://www.birs.ca/events/2016/5-day-workshops/16w5040/videos/watch/201606201645-Nakaoka.html)
 
-619. exact structure = **选取**某些 inflations, deflations and conflations, model structure = **选取**某些 fibrations,cofibrations and weak equivalences. 所以，**对于同一个范畴，会有许多不同的 exact structure 和 model structure, 这依赖选取**。  
+619. exact structure = **选取**某些 inflations, deflations and conflations, model structure = **选取**某些 fibrations,cofibrations and weak equivalences. 所以，**对于同一个范畴，会有许多不同的 exact structure 和 model structure, 这依赖选取**。
+
+620. Ext(M,-)=0 刻画的是对象 M 的**生成复杂度**，即“生成” M 的链复形的**长度**。[Tilting theory in exact categories - Julia Sauter (Universität Bielefeld)](https://www.youtube.com/watch?v=t9IcBKjRzVg) 结合 607-608 条。2024-1-18 16:19 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
