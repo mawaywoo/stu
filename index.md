@@ -94,7 +94,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 |:---------|:---------------------|:---------------|
 [SCI-HUB](https://sci-hub.se/) | [Library Genesis](http://libgen.st/) | [MathOverflow](https://mathoverflow.net/) |
 [Mathematics Stack Exchange](https://math.stackexchange.com/) | [Research Gate](https://www.researchgate.net/) | [International Conference Alerts - ICA](https://conferencealert.com/) |
-[MSRI](https://www.msri.org/videos/dashboard) | [BIRS](http://www.birs.ca/) | [IHES](https://www.ihes.fr/) |
+[MSRI](https://www.slmath.org/video) | [BIRS](http://www.birs.ca/) | [IHES](https://www.ihes.fr/) |
 [HCM](https://www.hcm.uni-bonn.de/) | [HIM](https://www.him.uni-bonn.de/programs/past-programs/) | [ICTP](https://www.ictp.it/) |
 [MFO](https://www.mfo.de/) | [Joyal's CatLab](https://ncatlab.org/joyalscatlab/published/HomePage) | [John Baez’s Stuff](https://math.ucr.edu/home/baez/) |
 [nLab](https://ncatlab.org/nlab/show/HomePage) | [Como](https://ncatlab.org/nlab/show/Como) | [Seminar on Derived Categories](https://www2.karlin.mff.cuni.cz/~stovicek/index.php/en/2021zs-derived-cat) |
