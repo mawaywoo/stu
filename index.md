@@ -2006,7 +2006,7 @@ _____________________________________________________________________________
 
 622. a. 这也是考虑“**生成**”方式，只是这里的生成方式是**借用代数几何中的“粘接”**，不同于倾斜理论中的 add 和 Ext 的生成关系。**两种不同的生成范畴的方式：同调的方式和代数几何的方式**。[The geometry of tensor triangulated categories of representations](https://www.slmath.org/workshops/405/schedules/2835) 岭南师范学院教三 205，2024-1-20 10:44
 
-     b. 同调维数可以用于衡量各对象通过同调的方式的“**生成”复杂度**。张量三角谱是衡量各对象通过代数几何的方式的“**生成”复杂度**。[The representation dimension of a finite dimensional algebra](https://www.slmath.org/workshops/405/schedules/2848)
+     b. 同调维数可以用于衡量各对象通过同调的方式的“**生成”复杂度**。张量三角谱是衡量各对象通过代数几何的方式的“**生成”复杂度**。[The representation dimension of a finite dimensional algebra](https://www.slmath.org/workshops/405/schedules/2848) and [Stratification in tt geometry with applications to spectral Mackey functors - Beren Sanders (UCSC)](https://www.youtube.com/watch?v=oNmHk6TJdjA)
      
 623. **同调的方式生成各对象的复杂度通过同调维数来衡量，代数几何的方式生成各对象的复杂度通过支撑簇（张量三角谱）来衡量。同调维数限制各对象的生成“长度”，支撑簇限制各对象的生成“邻域”**。结合 622 条。
 
