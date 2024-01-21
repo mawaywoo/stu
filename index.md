@@ -2010,7 +2010,9 @@ _____________________________________________________________________________
      
 623. **同调的方式生成各对象的复杂度通过同调维数来衡量，代数几何的方式生成各对象的复杂度通过支撑簇（张量三角谱）来衡量。同调维数限制各对象的生成“长度”，支撑簇限制各对象的生成“邻域”**。结合 622 条。
 
-624. 范畴中的对象“**生成”复杂度**通常可以通过某种维数来衡量(即通过“几步”可以生成该对象)。[Dimension for triangulated categories - Alexey Elagin (University of Edinburgh)](https://www.youtube.com/watch?v=z0xpbNXtDVk&t=338s) 
+624. 范畴中的对象“**生成”复杂度**通常可以通过某种维数来衡量(即通过“几步”可以生成该对象)。[Dimension for triangulated categories - Alexey Elagin (University of Edinburgh)](https://www.youtube.com/watch?v=z0xpbNXtDVk&t=338s)
+
+625. AR-quiver 抓住的是**不可分解**对象和**不可约**态射，即抓住范畴的 **building blocks**. [Ext-projectives in subcategories of triangulated categories - Francesca Fedele (University of Leeds)](https://www.youtube.com/watch?v=34ew3LloW_0&t=516s)
 
 
 
