@@ -2012,7 +2012,7 @@ _____________________________________________________________________________
 
 624. 范畴中的对象“**生成”复杂度**通常可以通过某种维数来衡量(即通过“几步”可以生成该对象)。[Dimension for triangulated categories - Alexey Elagin (University of Edinburgh)](https://www.youtube.com/watch?v=z0xpbNXtDVk&t=338s)
 
-625. AR-quiver 抓住的是**不可分解**对象和**不可约**态射，即抓住范畴的 **building blocks**. [Ext-projectives in subcategories of triangulated categories - Francesca Fedele (University of Leeds)](https://www.youtube.com/watch?v=34ew3LloW_0&t=516s)
+625. AR-quiver 抓住的是**不可分解**对象和**不可约**态射，即抓住范畴的 **building blocks**. [Ext-projectives in subcategories of triangulated categories - Francesca Fedele (University of Leeds)](https://www.youtube.com/watch?v=34ew3LloW_0&t=516s) 2024-1-21 17:43 岭南师范学院教三 205.
 
 
 
