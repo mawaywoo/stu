@@ -2016,6 +2016,8 @@ _____________________________________________________________________________
 
 626. 一个重要的推广思路就是：**重复**，即考虑已有结论或运算的 2-重（或 n-重）情形。另一种推广思路是：**细化**。2024-1-22 14:39 岭南师范学院教三 205.
 
+627. d-cluster tiltng subcategory 衡量的也是三角范畴中对象的**生成复杂度**，见 27:13 任意对象 x 可以通过 cluster tilting subcategory C 中的对象通过**三角拼接**“生成”。[(Non-)uniqueness of strong enhancements - Gustavo Jasso (Lund)](https://www.youtube.com/watch?v=AUv05yQWxJE&t=426s)
+
 
 
 
