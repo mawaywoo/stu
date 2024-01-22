@@ -2014,6 +2014,8 @@ _____________________________________________________________________________
 
 625. AR-quiver 抓住的是**不可分解**对象和**不可约**态射，即抓住范畴的 **building blocks**. [Ext-projectives in subcategories of triangulated categories - Francesca Fedele (University of Leeds)](https://www.youtube.com/watch?v=34ew3LloW_0&t=516s) 2024-1-21 17:43 岭南师范学院教三 205.
 
+626. 一个重要的推广思路就是：**重复**，即考虑已有结论或运算的 2-重（或 n-重）情形。另一种推广思路是：**细化**。
+
 
 
 
