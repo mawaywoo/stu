@@ -2018,6 +2018,8 @@ _____________________________________________________________________________
 
 627. d-cluster tiltng subcategory 衡量的也是三角范畴中对象的**生成复杂度**，见 27:13 任意对象 x 可以通过 cluster tilting subcategory C 中的对象通过**三角拼接**“生成”。[(Non-)uniqueness of strong enhancements - Gustavo Jasso (Lund)](https://www.youtube.com/watch?v=AUv05yQWxJE&t=426s)
 
+628. 对箭图的表示范畴以及它的导出范畴解释得很好。[Emine Yildirim - Cluster Categories](https://www.youtube.com/watch?v=wK0aJOH9llc)
+
 
 
 
