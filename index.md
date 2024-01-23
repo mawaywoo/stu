@@ -2020,6 +2020,24 @@ _____________________________________________________________________________
 
 628. 对箭图的表示范畴以及它的导出范畴解释得很好。[Emine Yildirim - Cluster Categories](https://www.youtube.com/watch?v=wK0aJOH9llc)
 
+629. a. 偏序集上的层范畴的导出等价证明的本质是通过对模进行“**切割**”，把切割出来的模拼装成一个倾斜复形。文献[On derived equivalences of categories of sheaves over finite posets](https://www.sciencedirect.com/science/article/pii/S0022404907001491)中的各种三角范畴间的函子的作用效果就是“切割”。而另一方面，常常用**幂等元去切割模**，也能得到倾斜复形。[Tilting complexes associated with a sequence of idempotents](https://www.sciencedirect.com/science/article/pii/S0022404903000124)所以，能否通过幂等元的角度去看偏序集上的层范畴的导出等价，进而把它推广？
+
+     b. **切割 + 组装 = 倾斜复形**。
+     
+     c. **Grothendieck 六函子的其中一个效果就是“切割”**。
+     
+     d. 幂等元也是“切割”的一种手段。
+     
+     e. **把切割出来的模组装为两项倾斜复形**。
+     
+     f. 六函子的切割其本质也是幂等元切割，**函子的合成产生幂等元**。
+     
+     g. **幂等元 = 切割**。
+     
+     h. **一个幂等元 = 一个切割 = 组装一个两项的倾斜复形(two term tilting complex)**，可以选一系列幂等元，从而可以组装任意长的倾斜复形。
+
+     2024-1-23 14:41 岭南师范学院图书馆六楼西区 3 座位 002，虽然降温了，图书馆还是很暖和，教室和宿舍都没这么舒服。我就是我比较喜欢待在图书馆的原因：冬暖夏凉。
+
 
 
 
