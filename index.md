@@ -204,7 +204,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Category Theory For Beginners: Fibrations and Lenses](https://www.youtube.com/watch?v=Y2l2wBEfrJw&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=30) | [Jan 30th, Grisha Taroian, Elementary topoi](https://www.youtube.com/watch?v=usCK4jC0OSw) | [Abstract homotopy theory and applications](https://www.youtube.com/playlist?list=PLkY8aHDt-5vxJSGj-8uhZqbL8ITF0nq7j) |
 [Model Theory (Spring 2021)](https://www.bilibili.com/video/BV1WB4y1T7QS/?p=4&spm_id_from=pageDriver&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [HoTT from the Jar](https://www.youtube.com/playlist?list=PLkY8aHDt-5vyuiTIwC9TbEv16npnV4SbZ) | [Foundations S2 - Seminar 9 - Morgan Rogers on Morita equivalences and topological monoids](https://www.youtube.com/watch?v=m9c7erfocTE) |
 [The Eighth Isfahan Seminar on Representation of Algebras, December 12-14, 2023](https://www.youtube.com/@ISRA-VIII-nd1ic/videos) | [Orthogonal modules and homological dimensions- Online workshop](http://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/activities/orthodim.html) | [String Applet](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/),[The lattice of torsion classes in SageMath (OCAMI talk Part II)](https://www.youtube.com/watch?v=2-y1a-_zEEA&t=121s),[ICE-closed subcategories over module categories (Kyoto representation seminar)](https://www.youtube.com/watch?v=Hvr4Yjj_HMM) |
-[The On-Line Encyclopedia of Integer Sequences](https://oeis.org/) | [Instructional Course in Commutative Algebra 2021](https://www.youtube.com/playlist?list=PLTegae_TuVUVvW877gqFD3NDic9z0FyM7) |
+[The On-Line Encyclopedia of Integer Sequences](https://oeis.org/) | [Instructional Course in Commutative Algebra 2021](https://www.youtube.com/playlist?list=PLTegae_TuVUVvW877gqFD3NDic9z0FyM7) | [Deconstructible classes, approximations, and AECs of modules - Jan Trlifaj (Charles Univ, Prague)](https://www.youtube.com/watch?v=7rOxZV-SD-Q&t=463s) |
 
 
 
@@ -2042,7 +2042,7 @@ _____________________________________________________________________________
 
 631. 除了之前从**同调的(Ext,正交范畴)** 和**代数几何(支撑簇)** 的角度对范畴加一些限制条件，从而可以依据限制条件讨论各对象的生成复杂度。这是从**度量**的角度对范畴加一些限制条件，进而从度量的角度去控制各对象的生成复杂度。[Finite approximations as a tool for studying triangulated categories - Amnon Neeman (ANU, Canberra)](https://www.youtube.com/watch?v=TMjuGAY3vKg&t=219s)
 
-632. 模的各种“**生成**”方式。[Deconstructible classes, approximations, and AECs of modules - Jan Trlifaj (Charles Univ, Prague)](https://www.youtube.com/watch?v=7rOxZV-SD-Q&t=463s) and [Jan Trlifaj](https://www.youtube.com/results?search_query=Jan+Trlifaj)
+632. 模的各种“**生成**”方式（该生成方式和集合论有关）。[Deconstructible classes, approximations, and AECs of modules - Jan Trlifaj (Charles Univ, Prague)](https://www.youtube.com/watch?v=7rOxZV-SD-Q&t=463s) and [Jan Trlifaj](https://www.youtube.com/results?search_query=Jan+Trlifaj)
 
 
 
