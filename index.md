@@ -2040,6 +2040,8 @@ _____________________________________________________________________________
 
 630. 研究 t-结构和 torsion classes and torsion free classes 是自然的，且很有用，因为**任意的对象 X 都可以通过它们分解**，t-结构，挠类和无挠类就是任意对象的一种“**生成**”方式。[Amnon Neeman: Bounded t-structures on the category of perfect complexes](https://www.youtube.com/watch?v=w9bjxbZGrE8) 2014-1-24 16:16 岭南师范学院教三 205.
 
+631. 除了之前从**同调的(Ext,正交范畴)**和**代数几何(支撑簇)**的角度对范畴加一些限制条件，从而可以依据限制条件讨论各对象的生成复杂度。这是从**度量**的角度对范畴加一些限制条件，进而从度量的角度去控制各对象的生成复杂度。[Finite approximations as a tool for studying triangulated categories - Amnon Neeman (ANU, Canberra)](https://www.youtube.com/watch?v=TMjuGAY3vKg&t=219s)
+
 
 
 
