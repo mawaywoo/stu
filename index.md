@@ -2038,7 +2038,7 @@ _____________________________________________________________________________
 
 （2024-1-23 14:41 岭南师范学院图书馆六楼西区 3 座位 002，虽然降温了，图书馆还是很暖和，教室和宿舍都没这么舒服。这就是我比较喜欢待在图书馆的原因：冬暖夏凉。）
 
-630. 
+630. 研究 t-结构和 torsion classes and torsion free classes 是自然的，且很有用，因为**任意的对象 X 都可以通过它们分解**，t-结构，挠类和无挠类就是任意对象的一种“**生成**”方式。[Amnon Neeman: Bounded t-structures on the category of perfect complexes](https://www.youtube.com/watch?v=w9bjxbZGrE8) 2014-1-24 16:16 岭南师范学院教三 205.
 
 
 
