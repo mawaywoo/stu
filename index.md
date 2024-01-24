@@ -2042,7 +2042,7 @@ _____________________________________________________________________________
 
 631. 除了之前从**同调的(Ext,正交范畴)** 和**代数几何(支撑簇)** 的角度对范畴加一些限制条件，从而可以依据限制条件讨论各对象的生成复杂度。这是从**度量**的角度对范畴加一些限制条件，进而从度量的角度去控制各对象的生成复杂度。[Finite approximations as a tool for studying triangulated categories - Amnon Neeman (ANU, Canberra)](https://www.youtube.com/watch?v=TMjuGAY3vKg&t=219s)
 
-632. 模的各种“**生成**”方式。[Deconstructible classes, approximations, and AECs of modules - Jan Trlifaj (Charles Univ, Prague)](https://www.youtube.com/watch?v=7rOxZV-SD-Q&t=463s)
+632. 模的各种“**生成**”方式。[Deconstructible classes, approximations, and AECs of modules - Jan Trlifaj (Charles Univ, Prague)](https://www.youtube.com/watch?v=7rOxZV-SD-Q&t=463s) and [Jan Trlifaj](https://www.youtube.com/results?search_query=Jan+Trlifaj)
 
 
 
