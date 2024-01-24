@@ -2045,7 +2045,7 @@ _____________________________________________________________________________
 
 632. 模的各种“**生成**”方式（该生成方式和集合论有关）。[Deconstructible classes, approximations, and AECs of modules - Jan Trlifaj (Charles Univ, Prague)](https://www.youtube.com/watch?v=7rOxZV-SD-Q&t=463s) and [Jan Trlifaj](https://www.youtube.com/results?search_query=Jan+Trlifaj)
 
-633. [**tilting**](https://www.youtube.com/watch?v=P0MBTJJpWaY&list=PLh-VcufO5ZXGkUiPJYP4ijxFY9Dj7in8f&index=10) 对**倾斜**解释得很好，如 14:28。
+633. [**tilting**](https://www.youtube.com/watch?v=P0MBTJJpWaY&list=PLh-VcufO5ZXGkUiPJYP4ijxFY9Dj7in8f&index=10) 对**倾斜**解释得很好，如 14:28，16:28。
 
 
 
