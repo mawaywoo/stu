@@ -2064,7 +2064,7 @@ _____________________________________________________________________________
 
      h. [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/watch?v=sQyDI76ppY4&list=PLR6S6vLGnUbwLA1LiN5ctwXYQwyTXH0pg&index=12) 2024-1-25 14:36 岭南师范学院教三 205.
 
-635. 除了同调的、代数几何的、度量的“**生成**”方式(见 631 条)，还有**集合论**(正向极限)的生成方式。[Abstract elementary classes – an introduction](http://www.fields.utoronto.ca/talks/Abstract-elementary-classes-%E2%80%93-introduction) and [Miniworkshop on set-theoretic methods in module theory and homological algebra](http://www.fields.utoronto.ca/activities/22-23/set-module)
+635. 除了同调的、代数几何的、度量的“**生成**”方式(见 631 条)，还有**集合论**(正向极限)的生成方式。pure submodule 是**通过 model theory 的角度对子模进行限制(纯子模是特殊的子模)**，pure "=" 大的模中方程组有解可以推出小的模(纯子模)中方程组依然有解(保持模型论中结构的真值)。[Abstract elementary classes – an introduction](http://www.fields.utoronto.ca/talks/Abstract-elementary-classes-%E2%80%93-introduction) and [Miniworkshop on set-theoretic methods in module theory and homological algebra](http://www.fields.utoronto.ca/activities/22-23/set-module)
 
 
 
