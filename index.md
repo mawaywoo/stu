@@ -2066,7 +2066,9 @@ _____________________________________________________________________________
 
 635. a. 除了**同调**的、**代数几何**的、**度量**的“**生成**”方式(见 631 条)，还有**集合论**(正向极限)的生成方式。pure submodule 是**通过 model theory 的角度对子模进行限制(纯子模是特殊的子模)**，pure "=" 大的模中方程组有解可以推出小的模(纯子模)中方程组依然有解(保持模型论中结构的真值)。[Abstract elementary classes – an introduction](http://www.fields.utoronto.ca/talks/Abstract-elementary-classes-%E2%80%93-introduction) and [Miniworkshop on set-theoretic methods in module theory and homological algebra](http://www.fields.utoronto.ca/activities/22-23/set-module)
 
-     b. 对范畴采用**不同的角度**(同调的、代数几何的、度量的、集合论的、模型论的)去限制、去解构，会产生不同的理论(因为限制的角度不同，各对象的“**生成”材料**和“**生成”方式**就不同：如模型论的角度，任意对象可以分解为纯子模的正向极限，同调的角度，任意模可以通过不同的同调群的长度的复形来生成等等)。 
+     b. 对范畴采用**不同的角度**(同调的、代数几何的、度量的、集合论的、模型论的)去限制、去解构，会产生不同的理论(因为限制的角度不同，各对象的“**生成”材料**和“**生成”方式**就不同：如模型论的角度，任意对象可以分解为纯子模的正向极限，同调的角度，任意模可以通过不同的同调群的长度的复形来生成等等)。
+
+636. 熟悉其中的证明手段。[AEC's of roots of Ext](http://www.fields.utoronto.ca/talks/AECs-roots-Ext)
 
 
 
