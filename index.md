@@ -2047,6 +2047,22 @@ _____________________________________________________________________________
 
 633. [**tilting-Jan Trlifaj**](https://www.youtube.com/watch?v=P0MBTJJpWaY&list=PLh-VcufO5ZXGkUiPJYP4ijxFY9Dj7in8f&index=10) 对**倾斜**解释得很好，如 14:28，16:28。里面还有 tilting class 和 tilting module 的关系。值得反复观看理解。2024-1-24 20:12 岭南师范学院教三 205.
 
+634. a. F ～ M，Hom(-, x) ～ Ae，S ～ I，1 ～ A，J ～ ideals，…… **类比 topos 理论和模论**，理解各种构造的“**共通性**”。
+
+     b. 如**模论版本的 Yoneda 引理**: Hom(Ae, M)=Me。
+
+     c. 实际上就是在**理解 Grothndieck topos  和Grothndieck category 的各种构造的“共通性”**。
+
+     d. **座态射 ～ 与某些理想集相匹配的环同态，限制函子的左右伴随 ～ 张量和 Hom 函子，层 ～ 模的局部化，层化 ～ 模范畴的局部化**，……
+
+     e. 以此去理解李利平等关于原子座上模范畴的工作。
+
+     f. directsum_x Hom(-, x) ～ directsum_e Ae = A，**projective generator**; subobject classifier ～？directsum ideals; 幂等完备化 ～ (R —> proj-R)
+
+     g. 通过**环的模论的各种构造去类比理解 topos 理论的各种构造**：如 Ore 条件和局部化，Gabriel 拓扑，生成子，torsion 模(李关于原子拓扑上的挠模层)等等。Grothendieck 拓扑的作用等同于环中理想的作用，座等于赋予某些理想(Gabriel 拓扑)的环。
+
+     h. [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/watch?v=sQyDI76ppY4&list=PLR6S6vLGnUbwLA1LiN5ctwXYQwyTXH0pg&index=12) 2024-1-25 14:36 岭南师范学院教三 205.
+
 
 
 
