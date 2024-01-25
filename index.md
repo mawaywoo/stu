@@ -2052,7 +2052,7 @@ _____________________________________________________________________________
 
      b. 如**模论版本的 Yoneda 引理**: Hom(Ae, M)=Me。
 
-     c. 实际上就是在**理解 Grothndieck topos  和Grothndieck category 的各种构造的“共通性”**。
+     c. 实际上就是在**理解 Grothndieck topos  和 Grothndieck category 的各种构造的“共通性”**。
 
      d. **座态射 ～ 与某些理想集相匹配的环同态，限制函子的左右伴随 ～ 张量和 Hom 函子，层 ～ 模的局部化，层化 ～ 模范畴的局部化**，……
 
@@ -2064,6 +2064,7 @@ _____________________________________________________________________________
 
      h. [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/watch?v=sQyDI76ppY4&list=PLR6S6vLGnUbwLA1LiN5ctwXYQwyTXH0pg&index=12) 2024-1-25 14:36 岭南师范学院教三 205.
 
+635. 除了同调的、代数几何的、度量的“**生成**”方式(见 631 条)，还有**集合论**(正向极限)的生成方式。[Abstract elementary classes – an introduction](http://www.fields.utoronto.ca/talks/Abstract-elementary-classes-%E2%80%93-introduction) and [Miniworkshop on set-theoretic methods in module theory and homological algebra](http://www.fields.utoronto.ca/activities/22-23/set-module)
 
 
 
