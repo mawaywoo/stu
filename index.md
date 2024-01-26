@@ -2077,11 +2077,13 @@ _____________________________________________________________________________
 
      b. 对范畴采用**不同的角度**(同调的、代数几何的、度量的、集合论的、模型论的)去限制、去解构，会产生不同的理论(因为限制的角度不同，各对象的“**生成”材料**和“**生成”方式**就不同：如模型论的角度，任意对象可以分解为纯子模的正向极限，同调的角度，任意模可以通过不同的同调群的长度的复形来生成等等)。
 
-636. 熟悉其中的证明手段。[AEC's of roots of Ext](http://www.fields.utoronto.ca/talks/AECs-roots-Ext)
+     c. 见 639 条，另一个角度去限制范畴是：**图论**的角度。
 
-637. 纯性 (pure) 是**通过 model theory 的角度**加到模范畴的一个限制，**pure 对象往往比通常的对象限制条件更强**，如纯子模比一般的子模更强，N < M，且 Ax=b 在 M 可解必有它在 N 可解。model theory 考虑的是在不同的结构中真值的保持性。pure 投射模比投射模更强，**还需保证额外的条件，即 Hom 条件的保持性**。所以，**纯对象 = 通常对象 + 保持额外“结构”**。[Pure extensions](https://stacks.math.columbia.edu/tag/06ZX) and [Yusuf Alagöz, I-pure projective dimensions of modules](https://www.youtube.com/watch?v=kxRPGqFCcqc) 2024-1-26 15:58 岭南师范学院图书馆六楼西区 3 座位 002.
+637. 熟悉其中的证明手段。[AEC's of roots of Ext](http://www.fields.utoronto.ca/talks/AECs-roots-Ext)
 
-638. Leavitt 路代数及其表示的研究思路是：研究路代数的“**图论性质**”和“**代数性质和表示性质**”之间的关系。这可以视为从**图论**的角度对模范畴进行限制，**复杂的模范畴的性质研究约化为对图的处理**，这是有趣的地方。**图是处理复杂模范畴的着手点和操控点**。[CIMPA Floripa - Injective modules over Leavitt path algebras](https://www.youtube.com/watch?v=s9HzTKghsec) and [An Introduction to Leavitt Path Algebras: Dr Ashish K Srivastava](https://www.youtube.com/watch?v=g9w8oBvnjbs)
+638. 纯性 (pure) 是**通过 model theory 的角度**加到模范畴的一个限制，**pure 对象往往比通常的对象限制条件更强**，如纯子模比一般的子模更强，N < M，且 Ax=b 在 M 可解必有它在 N 可解。model theory 考虑的是在不同的结构中真值的保持性。pure 投射模比投射模更强，**还需保证额外的条件，即 Hom 条件的保持性**。所以，**纯对象 = 通常对象 + 保持额外“结构”**。[Pure extensions](https://stacks.math.columbia.edu/tag/06ZX) and [Yusuf Alagöz, I-pure projective dimensions of modules](https://www.youtube.com/watch?v=kxRPGqFCcqc) 2024-1-26 15:58 岭南师范学院图书馆六楼西区 3 座位 002.
+
+639. Leavitt 路代数及其表示的研究思路是：研究路代数的“**图论性质**”和“**代数性质和表示性质**”之间的关系。这可以视为从**图论**的角度对模范畴进行限制，**复杂的模范畴的性质研究约化为对图的处理**，这是有趣的地方。**图是处理复杂模范畴的着手点和操控点**。图是各种模对象的“**生成**”材料。路代数有趣的点也在此：**由图去操控模范畴**。这是对范畴的另一种限制方式，见 635 条。[CIMPA Floripa - Injective modules over Leavitt path algebras](https://www.youtube.com/watch?v=s9HzTKghsec) and [An Introduction to Leavitt Path Algebras: Dr Ashish K Srivastava](https://www.youtube.com/watch?v=g9w8oBvnjbs)
 
 
 
