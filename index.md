@@ -2079,6 +2079,8 @@ _____________________________________________________________________________
 
 636. 熟悉其中的证明手段。[AEC's of roots of Ext](http://www.fields.utoronto.ca/talks/AECs-roots-Ext)
 
+637. 纯性 (pure) 是**通过 model theory 的角度**加到模范畴的一个限制，**pure 对象往往比通常的对象限制条件更强**，如纯子模比一般的子模更强，N < M，且 Ax=b 在 M 可解必有它在 N 可解。model theory 考虑的是在不同的结构中真值的保持性。pure 投射模比投射模更强，**还需保证额外的条件，即 Hom 条件的保持性**。[Pure extensions](https://stacks.math.columbia.edu/tag/06ZX) and [Yusuf Alagöz, I-pure projective dimensions of modules](https://www.youtube.com/watch?v=kxRPGqFCcqc) 2024-1-26 15:58 岭南师范学院图书馆六楼西区 3 座位 002.
+
 
 
 
