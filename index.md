@@ -2081,7 +2081,7 @@ _____________________________________________________________________________
 
 637. 纯性 (pure) 是**通过 model theory 的角度**加到模范畴的一个限制，**pure 对象往往比通常的对象限制条件更强**，如纯子模比一般的子模更强，N < M，且 Ax=b 在 M 可解必有它在 N 可解。model theory 考虑的是在不同的结构中真值的保持性。pure 投射模比投射模更强，**还需保证额外的条件，即 Hom 条件的保持性**。所以，**纯对象 = 通常对象 + 保持额外“结构”**。[Pure extensions](https://stacks.math.columbia.edu/tag/06ZX) and [Yusuf Alagöz, I-pure projective dimensions of modules](https://www.youtube.com/watch?v=kxRPGqFCcqc) 2024-1-26 15:58 岭南师范学院图书馆六楼西区 3 座位 002.
 
-638. Leavitt 路代数及其表示的研究思路是：研究路代数的“**图论性质**”和“**代数性质和表示性质**”之间的关系。[CIMPA Floripa - Injective modules over Leavitt path algebras](https://www.youtube.com/watch?v=s9HzTKghsec)
+638. Leavitt 路代数及其表示的研究思路是：研究路代数的“**图论性质**”和“**代数性质和表示性质**”之间的关系。[CIMPA Floripa - Injective modules over Leavitt path algebras](https://www.youtube.com/watch?v=s9HzTKghsec) and [An Introduction to Leavitt Path Algebras: Dr Ashish K Srivastava](https://www.youtube.com/watch?v=g9w8oBvnjbs)
 
 
 
