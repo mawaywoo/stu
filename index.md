@@ -2087,6 +2087,8 @@ _____________________________________________________________________________
 
 640. 预盖、预包络、余挠对、倾斜对象、倾斜类等等都属于**逼近理论**，见这两本书的前言部分：[Approximations and Endomorphism Algebras of Modules](http://library.lol/main/A5823CBF9984A55EC068AE5FE064C6DE) and [Approximations and Endomorphism Algebras of Modules: Volume 1 – Approximations / Volume 2 – Predictions](http://library.lol/main/18FC8095E84B7EE24536C9750822B79C) 2024-1-29 14:37 岭南师范学院教三 205.
 
+641. **torsion pair** 的各种性质可以在阿贝尔群中的**挠群、无挠群**中去理解；**cotorsion pair** 的相关性质可以在**投射对象、内射对象**这个具体的例子中去理解 28:58 ；Abelian category ＜ exact category ＜ **Waldhausen category**. [Maru Sarazola (Cornell University)- Cotorsion pairs and a K-theory localization theorem](https://www.youtube.com/watch?v=_Gbt6DJapns)
+
 
 
 
