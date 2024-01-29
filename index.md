@@ -2085,6 +2085,8 @@ _____________________________________________________________________________
 
 639. Leavitt 路代数及其表示的研究思路是：研究路代数的“**图论性质**”和“**代数性质和表示性质**”之间的关系。这可以视为从**图论**的角度对模范畴进行限制，**复杂的模范畴的性质研究约化为对图的处理**，这是有趣的地方。**图是处理复杂模范畴的着手点和操控点**。图是各种模对象的“**生成**”材料。路代数有趣的点也在此：**由图去操控模范畴**。这是对范畴的另一种限制方式，见 635 条。[CIMPA Floripa - Injective modules over Leavitt path algebras](https://www.youtube.com/watch?v=s9HzTKghsec) and [An Introduction to Leavitt Path Algebras: Dr Ashish K Srivastava](https://www.youtube.com/watch?v=g9w8oBvnjbs)
 
+640. 预盖、预包络、余挠对、倾斜对象、倾斜类等等都属于**逼近理论**，见这两本书的前言部分：[Approximations and Endomorphism Algebras of Modules](http://library.lol/main/A5823CBF9984A55EC068AE5FE064C6DE) and [Approximations and Endomorphism Algebras of Modules: Volume 1 – Approximations / Volume 2 – Predictions](http://library.lol/main/18FC8095E84B7EE24536C9750822B79C) 2024-1-29 14:37 岭南师范学院教三 205.
+
 
 
 
