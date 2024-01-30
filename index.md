@@ -92,13 +92,13 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 ## Useful links
 <style>
 table th:first-of-type {
-    width: 33.3%;
+    width: 4cm;
 }
 table th:nth-of-type(2) {
-    width: 33.4%;
+    width: 150pt;
 }
 table th:nth-of-type(3) {
-    width: 33.3%;
+    width: 8em;
 }
 </style>
 | A | B | C |
