@@ -90,17 +90,6 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ---
 ## Useful links
-<style>
-table th:first-of-type {
-    width: 4cm;
-}
-table th:nth-of-type(2) {
-    width: 150pt;
-}
-table th:nth-of-type(3) {
-    width: 8em;
-}
-</style>
 | A | B | C |
 |:---------------------:|:---------------------:|:---------------------:|
 [SCI-HUB](https://sci-hub.se/) | [Library Genesis](http://libgen.st/) | [Google Scholar](https://scholar.google.com/) | 
