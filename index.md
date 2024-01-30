@@ -197,7 +197,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ---
 | D | E | F |
-|:---------------------|:---------------------|:---------------------|
+|---------------------|---------------------|---------------------|
 <style>
 table th:first-of-type {
     width: 33.3%;
