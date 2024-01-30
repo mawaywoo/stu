@@ -92,8 +92,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 ## Useful links
 | A | B | C |
 |:---------|:---------------------|:---------------|
-[SCI-HUB](https://sci-hub.se/) | [Library Genesis](http://libgen.st/) | [MathOverflow](https://mathoverflow.net/) |
-[Mathematics Stack Exchange](https://math.stackexchange.com/) | [Research Gate](https://www.researchgate.net/) | [International Conference Alerts - ICA](https://conferencealert.com/) |
+[SCI-HUB](https://sci-hub.se/) | [Library Genesis](http://libgen.st/) | [Google Scholar](https://scholar.google.com/) | 
+[Research Gate](https://www.researchgate.net/) | [Mathematics Stack Exchange](https://math.stackexchange.com/) | [MathOverflow](https://mathoverflow.net/) |
 [MSRI](https://www.slmath.org/video) | [BIRS](http://www.birs.ca/) | [IHES](https://www.ihes.fr/) |
 [HCM](https://www.hcm.uni-bonn.de/) | [HIM](https://www.him.uni-bonn.de/programs/past-programs/) | [ICTP](https://www.ictp.it/) |
 [MFO](https://www.mfo.de/) | [Joyal's CatLab](https://ncatlab.org/joyalscatlab/published/HomePage) | [John Baez’s Stuff](https://math.ucr.edu/home/baez/) |
@@ -191,7 +191,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [天元表示论讨论班](https://space.bilibili.com/7037545/channel/series) | [sheaves and logic](https://sites.google.com/view/pssl-107-athens/schedule) | [Virtual Double Categories Workshop](https://www.youtube.com/@DoubleCategoriesWorkshop/featured) |
 [Francis Borceux - 拓扑斯理论的非正式概述 1-5](https://www.bilibili.com/video/BV1CV4y1k7EA/?spm_id_from=333.788.recommend_more_video.-1) | [The Topos Institute Colloquium](https://topos.site/topos-colloquium/) | [Categories and Companions Symposium - 2022](https://www.youtube.com/@CaCS2022) |
 [FMF Foundations seminar](https://www.youtube.com/@fmffoundationsseminar6878/videos) | [An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo) | [EPDF](https://epdf.tips/) |
-[Flash Talks in Representation Theory 2023](https://www.youtube.com/playlist?list=PLcLpn3xOEb-nKh4woEQFKxMEOTbqWUTCl) | 
+[Flash Talks in Representation Theory 2023](https://www.youtube.com/playlist?list=PLcLpn3xOEb-nKh4woEQFKxMEOTbqWUTCl) | [International Conference Alerts - ICA](https://conferencealert.com/) |
 
 博士毕业 2023-6-21 
 
