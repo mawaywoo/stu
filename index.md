@@ -91,7 +91,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 ---
 ## Useful links
 | A | B | C |
-|:---------|:---------------------|:---------------|
+|:---------------------|:---------------------|:---------------------|
 [SCI-HUB](https://sci-hub.se/) | [Library Genesis](http://libgen.st/) | [Google Scholar](https://scholar.google.com/) | 
 [Research Gate](https://www.researchgate.net/) | [Mathematics Stack Exchange](https://math.stackexchange.com/) | [MathOverflow](https://mathoverflow.net/) |
 [MSRI](https://www.slmath.org/video) | [BIRS](http://www.birs.ca/) | [IHES](https://www.ihes.fr/) |
