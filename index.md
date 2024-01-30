@@ -217,7 +217,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ## Upcoming meeting
 | I | II | III | IV | V |
-|:---------|:---------------------|:---------------|:---------------|:---------------|
+|:---------:|:---------------------:|:---------------:|:---------------:|:---------------:|
 [Homotopy Type Theory Electronic Seminar Talks](https://uwo.ca/math/faculty/kapulkin/seminars/hottest.html) | [Workshop on Homotopy Type Theory/ Univalent Foundations](https://hott-uf.github.io/2021/) | [Reading Seminar: Homotopical Algebra](https://www.math.uwo.ca/faculty/kapulkin/seminars/homotopical_algebra.html) | [Operads](https://operads.com/) | [Matrix Online Seminars](https://www.matrix-inst.org.au/events-01/online-seminars/) | [Higher Invariants](https://www-app.uni-regensburg.de/Fakultaeten/MAT/sfb-higher-invariants/index.php/Main_Page) | 
 [Summer School on Higher Topos Theory and Univalent Foundations](https://conferences.leeds.ac.uk/httuf/) | [Network on Silting Theory](https://networkonsilting.wordpress.com/activities/) | [Zassenhaus Groups and Friends Conference](https://sites.google.com/a/oswego.edu/zassenhaus/archive) | [Paige Randall North](https://paigenorth.github.io/) | [Algebraic Geometry in East Asia Online Seminar](http://www.math.ntu.edu.tw/~jkchen/agea-seminar) | 
 [Upcoming conferences (and courses) in algebraic geometry](http://math.stanford.edu/~vakil/conferences.html) | [Combinatorial Algebraic Geometry](https://icerm.brown.edu/programs/sp-s21/) | [CRM](https://www.crm.cat/irp-higher-homotopical-structures/) | [Meetings Related to Representation Theory of Algebras](https://folk.ntnu.no/oyvinso/FDList/Conferences/conferencelist.php) | [Homological Methods in Representation Theory](http://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/activities/hmrt/hmrt.html) | 
@@ -230,7 +230,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ---
 | VI | VII | VIII | IX | X |
-|:---------|:---------------------|:---------------|:---------------|:---------------|
+|:---------:|:---------------------:|:---------------:|:---------------:|:---------------:|
 [International Conference on Homological Methods in Representation Theory](https://sites.google.com/view/hmrt2024) | [Lars Winther Christensen](https://www.math.ttu.edu/~lchriste/) |
 
 ## Other stuff
@@ -262,7 +262,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 ## Favorite mathematicians and students
 
 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|:---------|:---------------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
+|:---------:|:---------------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | [Paul Balmer](https://www.math.ucla.edu/~balmer/) | [Jacob Lurie](https://www.math.ias.edu/~lurie/) | [Peter Webb](http://www-users.math.umn.edu/~webb/) | [Emily Riehl](https://math.jhu.edu/~eriehl/) | [Dominic Verity](https://researchers.mq.edu.au/en/persons/dominic-verity) | [Dan Christensen](https://jdc.math.uwo.ca/) | [Luis Scoccola](http://luisscoccola.github.io/) | [Denis-Charles Cisinski](http://www.mathematik.uni-regensburg.de/cisinski/) | [J. Peter May](https://www.math.uchicago.edu/~may/) | [Inna Zakharevich](http://pi.math.cornell.edu/~zakh/) | 
 [Peter Scholze](http://www.math.uni-bonn.de/people/scholze/) | [Michael Shulman](https://home.sandiego.edu/~shulman/) | [Mathieu ANEL](http://mathieu.anel.free.fr/) | [André Joyal](https://professeurs.uqam.ca/professeur/joyal.andre/) | [Charles Rezk](https://faculty.math.illinois.edu/~rezk/) | [Srikanth B. Iyengar](https://www.math.utah.edu/~iyengar/) | [Olivia Caramello](https://www.oliviacaramello.com/) | [Laurent Lafforgue](https://www.laurentlafforgue.org/) | [Vladimir Voevodsky](https://www.math.ias.edu/vladimir/home) | [Bernhard Keller](https://webusers.imj-prg.fr/~bernhard.keller/indexe.html) |
 [Bob Oliver](https://www.math.univ-paris13.fr/~bobol/) | [Jon F. Carlson](http://alpha.math.uga.edu/~jfc/) | [Sarah Witherspoon](https://www.math.tamu.edu/~sarah.witherspoon/) | [Steffen Koenig](https://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/Koenig/index.html) | [Gustavo Jasso](http://www.math.uni-bonn.de/people/gjasso/) | [Osamu Iyama](https://www.math.nagoya-u.ac.jp/~iyama/) | [S. Paul Smith](https://sites.math.washington.edu/~smith/) | [Henning Krause](https://www.math.uni-bielefeld.de/~hkrause/) | [Birge Huisgen-Zimmermann](http://web.math.ucsb.edu/~birge/) | [Aslak Bakke Buan](http://web.math.ucsb.edu/~birge/) |
@@ -295,7 +295,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ---
 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 |
-|:---------|:---------------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|:---------------|
+|:---------:|:---------------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 [Homepage of Wendy Lowen](https://win.uantwerpen.be/~wlowen/publications.html) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Piotr Kowalski](https://philpeople.org/profiles/piotr-kowalski) | [Vlad Patryshev](https://www.researchgate.net/profile/Vlad-Patryshev) | [Farida Kachapova](https://www.researchgate.net/profile/Farida-Kachapova) | [Razieh Vahed](https://scholar.google.com/citations?user=YOJkKdcAAAAJ&hl=en) | [Laurent Théry](https://www.researchgate.net/profile/Laurent-Thery-2) | [Michal Hrbek](https://users.math.cas.cz/~hrbek/) | [Jan Trlifaj](https://www.karlin.mff.cuni.cz/~trlifaj/en/index.html) | [Yann Palu](https://www.lamfa.u-picardie.fr/palu/) |
 [Jenny August](https://orcid.org/0000-0001-7999-3858) | [Liran Shaul](https://www.researchgate.net/profile/Liran-Shaul) | [Haruhisa Enomoto](https://haruhisa-enomoto.github.io/) | [Arashi Sakai](https://www.semanticscholar.org/author/Arashi-Sakai/1994206056) | [Jan Stovicek](https://www.karlin.mff.cuni.cz/~stovicek/index.php/en/publications) | [Paolo Stellari](https://sites.unimi.it/stellari/) | [Hiroyuki Nakaoka](https://www.sci.kagoshima-u.ac.jp/nakaoka/) | [Javad Asadollahi](https://ipm.ac.ir/personalinfo.jsp?PeopleCode=IP9900182) | [Grigory Garkusha](https://www.swansea.ac.uk/staff/g.garkusha/) | [Bethany Marsh](http://www1.maths.leeds.ac.uk/~marsh/) |
 [Lars Winther Christensen](https://www.math.ttu.edu/~lchriste/) | [Rune Haugseng](https://folk.ntnu.no/runegha/papers.html) | [Francesca Mantese](https://www.di.univr.it/?ent=persona&lang=en&id=211) | [Maru Sarazola](https://sites.google.com/view/msarazola/home) |
