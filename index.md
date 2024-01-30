@@ -2089,6 +2089,8 @@ _____________________________________________________________________________
 
 641. **torsion pair** 的各种性质可以在阿贝尔群中的**挠群、无挠群**中去理解；**cotorsion pair** 的相关性质可以在**投射对象、内射对象**这个具体的例子中去理解 28:58 ；Abelian category ＜ exact category ＜ **Waldhausen category**; 在**内射和投射对象这个具体的例子中去理解 cotorsion pair 和 model structure 之间的关系**。[Maru Sarazola (Cornell University)- Cotorsion pairs and a K-theory localization theorem](https://www.youtube.com/watch?v=_Gbt6DJapns)
 
+642. **Auslander transpose Tr 的解释：源于矩阵的转置**(P1 ——> P0 ——> N ——> 0，N 有限表现，其中左边的态射是两个自由模之间的态射，可以表示为矩阵 M，再作用 (-, R), 便得到 0 ——> N* ——> P0* ——> P1* ——> Tr N ——> 0，右二态射就是 M 的转置矩阵)。见 44:29 。[Alex Martsinkovsky --- Stabilization of additive functors](https://www.youtube.com/watch?v=bfwvMvxw7Xc) 2024-1-30 9:41 岭南师范学院图书馆六楼西区3座位002.
+
 
 
 
