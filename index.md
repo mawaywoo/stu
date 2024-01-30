@@ -200,14 +200,14 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 |:---------------------:|:---------------------:|:---------------------:|
 [Pete L. Clark](http://alpha.math.uga.edu/~pete/expositions2012.html) | [国际基础科学大会](https://www.icbs.cn/en/web/program/18009) | [HoTT from the Jar](https://www.youtube.com/playlist?list=PLkY8aHDt-5vyuiTIwC9TbEv16npnV4SbZ)  |
 [Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) | [Joshua Wrigley - Topological groupoids for classifying toposes](https://www.bilibili.com/video/BV1Vu4y1t7Lq/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Dualities in Topology and Algebra 2023](https://www.youtube.com/playlist?list=PL04QVxpjcnjiGuRyRCJc_h4CEVul8_HFA) |
-[Formalization of Cohomology Theories](http://www.birs.ca/events/2023/5-day-workshops/23w5124/videos) | []() | [Formalization of Mathematics (SLMath) June 05, 2023 - June 16, 2023](https://www.msri.org/summer_schools/1021/schedules) |
+[Formalization of Cohomology Theories](http://www.birs.ca/events/2023/5-day-workshops/23w5124/videos) | [Free Resolutions and Representation Theory](https://icerm.brown.edu/topical_workshops/tw-20-frrt/#lecturevideos) | [Formalization of Mathematics (SLMath) June 05, 2023 - June 16, 2023](https://www.msri.org/summer_schools/1021/schedules) |
 [[SYCO11] Morgan Rogers - 模型的自同态：模型论的又一个范畴化](https://www.bilibili.com/video/BV1eo4y1b7sk/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Hutzler - Gluing classifying toposes](https://www.youtube.com/watch?v=Ghrhwldyau8) | [The geometry of permutation modules - Paul Balmer (UCLA)](https://www.youtube.com/watch?v=g0G_4EIUQjQ) |
 [Category Theory For Beginners: Fibrations and Lenses](https://www.youtube.com/watch?v=Y2l2wBEfrJw&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=30) | [Jan 30th, Grisha Taroian, Elementary topoi](https://www.youtube.com/watch?v=usCK4jC0OSw) | [Abstract homotopy theory and applications](https://www.youtube.com/playlist?list=PLkY8aHDt-5vxJSGj-8uhZqbL8ITF0nq7j) |
-[Model Theory (Spring 2021)](https://www.bilibili.com/video/BV1WB4y1T7QS/?p=4&spm_id_from=pageDriver&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | []() | [Foundations S2 - Seminar 9 - Morgan Rogers on Morita equivalences and topological monoids](https://www.youtube.com/watch?v=m9c7erfocTE) |
+[Model Theory (Spring 2021)](https://www.bilibili.com/video/BV1WB4y1T7QS/?p=4&spm_id_from=pageDriver&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [International Category Theory Conference 2023 (CT2023)](https://www.youtube.com/playlist?list=PLu4STGsfbix9l6rPxGsjG6Gl822k1hj2X) | [Foundations S2 - Seminar 9 - Morgan Rogers on Morita equivalences and topological monoids](https://www.youtube.com/watch?v=m9c7erfocTE) |
 [The Eighth Isfahan Seminar on Representation of Algebras, December 12-14, 2023](https://www.youtube.com/@ISRA-VIII-nd1ic/videos) | [Orthogonal modules and homological dimensions- Online workshop](http://pnp.mathematik.uni-stuttgart.de/iaz/iaz1/activities/orthodim.html) | [String Applet](https://www.math.uni-bielefeld.de/~jgeuenich/string-applet/),[The lattice of torsion classes in SageMath (OCAMI talk Part II)](https://www.youtube.com/watch?v=2-y1a-_zEEA&t=121s),[ICE-closed subcategories over module categories (Kyoto representation seminar)](https://www.youtube.com/watch?v=Hvr4Yjj_HMM) |
 [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/) | [Instructional Course in Commutative Algebra 2021](https://www.youtube.com/playlist?list=PLTegae_TuVUVvW877gqFD3NDic9z0FyM7) | [Deconstructible classes, approximations, and AECs of modules - Jan Trlifaj (Charles Univ, Prague)](https://www.youtube.com/watch?v=7rOxZV-SD-Q&t=463s) |
 [Second International Meeting in Commutative Algebra and its Related Areas](https://www.youtube.com/playlist?list=PLh-VcufO5ZXGkUiPJYP4ijxFY9Dj7in8f) | [SIMCARA-Jan Trlifaj / Minicourse tilting modules](https://www.youtube.com/watch?v=P0MBTJJpWaY&list=PLh-VcufO5ZXGkUiPJYP4ijxFY9Dj7in8f&index=10) | [Miniworkshop on set-theoretic methods in module theory and homological algebra](http://www.fields.utoronto.ca/activities/22-23/set-module) |
-[]() | [Free Resolutions and Representation Theory](https://icerm.brown.edu/topical_workshops/tw-20-frrt/#lecturevideos) | [International Category Theory Conference 2023 (CT2023)](https://www.youtube.com/playlist?list=PLu4STGsfbix9l6rPxGsjG6Gl822k1hj2X) |
+[]() | []() | []() |
 
 
 
@@ -523,7 +523,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 
 | French | Meaning | French | Meaning | French | Meaning | French | Meaning | French | Meaning |  
-|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|:---------|
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
 | dans | 在... | plus | 更 | souvent | 经常地 | connues | 知道 | constamment | 经常地 |
 | suite | 跟随 | leur | 他们 | connaissance | 认识, 知道 | quelques | 一些(很, 大约) | lecteur | 读者 |
 | pressé | 急速的 | pouvoir | 能够, 会 | première | 首次放映 | premier | 第一 | ensemble | 集合 |
