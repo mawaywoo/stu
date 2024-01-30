@@ -198,17 +198,6 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 ---
 | D | E | F |
 |---------------------|---------------------|---------------------|
-<style>
-table th:first-of-type {
-    width: 33.3%;
-}
-table th:nth-of-type(2) {
-    width: 33.3%;
-}
-table th:nth-of-type(3) {
-    width: 33.3%;
-}
-</style>
 [Pete L. Clark](http://alpha.math.uga.edu/~pete/expositions2012.html) | [国际基础科学大会](https://www.icbs.cn/en/web/program/18009) | [HoTT from the Jar](https://www.youtube.com/playlist?list=PLkY8aHDt-5vyuiTIwC9TbEv16npnV4SbZ)  |
 [Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) | [Joshua Wrigley - Topological groupoids for classifying toposes](https://www.bilibili.com/video/BV1Vu4y1t7Lq/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Dualities in Topology and Algebra 2023](https://www.youtube.com/playlist?list=PL04QVxpjcnjiGuRyRCJc_h4CEVul8_HFA) |
 [Formalization of Cohomology Theories](http://www.birs.ca/events/2023/5-day-workshops/23w5124/videos) | []() | [Formalization of Mathematics (SLMath) June 05, 2023 - June 16, 2023](https://www.msri.org/summer_schools/1021/schedules) |
