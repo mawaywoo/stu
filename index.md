@@ -197,20 +197,9 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ---
 | D | E | F |
-|---------------------|---------------------|---------------------|
-<style>
-table th:first-of-type {
-    width: 4cm;
-}
-table th:nth-of-type(2) {
-    width: 150pt;
-}
-table th:nth-of-type(3) {
-    width: 8em;
-}
-</style>
-| [Pete L. Clark](http://alpha.math.uga.edu/~pete/expositions2012.html) | [国际基础科学大会](https://www.icbs.cn/en/web/program/18009) | [HoTT from the Jar](https://www.youtube.com/playlist?list=PLkY8aHDt-5vyuiTIwC9TbEv16npnV4SbZ)  |
-| [Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) | [Joshua Wrigley - Topological groupoids for classifying toposes](https://www.bilibili.com/video/BV1Vu4y1t7Lq/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Dualities in Topology and Algebra 2023](https://www.youtube.com/playlist?list=PL04QVxpjcnjiGuRyRCJc_h4CEVul8_HFA) |
+|:---------------------|:---------------------|:---------------------|
+[Pete L. Clark](http://alpha.math.uga.edu/~pete/expositions2012.html) | [国际基础科学大会](https://www.icbs.cn/en/web/program/18009) | [HoTT from the Jar](https://www.youtube.com/playlist?list=PLkY8aHDt-5vyuiTIwC9TbEv16npnV4SbZ)  |
+[Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) | [Joshua Wrigley - Topological groupoids for classifying toposes](https://www.bilibili.com/video/BV1Vu4y1t7Lq/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Dualities in Topology and Algebra 2023](https://www.youtube.com/playlist?list=PL04QVxpjcnjiGuRyRCJc_h4CEVul8_HFA) |
 [Formalization of Cohomology Theories](http://www.birs.ca/events/2023/5-day-workshops/23w5124/videos) | []() | [Formalization of Mathematics (SLMath) June 05, 2023 - June 16, 2023](https://www.msri.org/summer_schools/1021/schedules) |
 [[SYCO11] Morgan Rogers - 模型的自同态：模型论的又一个范畴化](https://www.bilibili.com/video/BV1eo4y1b7sk/?spm_id_from=333.880.my_history.page.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Hutzler - Gluing classifying toposes](https://www.youtube.com/watch?v=Ghrhwldyau8) | [The geometry of permutation modules - Paul Balmer (UCLA)](https://www.youtube.com/watch?v=g0G_4EIUQjQ) |
 [Category Theory For Beginners: Fibrations and Lenses](https://www.youtube.com/watch?v=Y2l2wBEfrJw&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=30) | [Jan 30th, Grisha Taroian, Elementary topoi](https://www.youtube.com/watch?v=usCK4jC0OSw) | [Abstract homotopy theory and applications](https://www.youtube.com/playlist?list=PLkY8aHDt-5vxJSGj-8uhZqbL8ITF0nq7j) |
