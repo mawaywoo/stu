@@ -2094,6 +2094,18 @@ _____________________________________________________________________________
 
 643. 打算至少每学期写一篇论文。2024-2-2 14:41 岭南师范学院图书馆六楼西区 3 座位 002，明天回广州。
 
+644. Your arXiv.org account: wumawei
+
+E-mail: 19mwwu@stu.edu.cn 	Affiliation: Lingnan Normal University
+
+Name: Mawei Wu 	URL:
+
+Default Category: math.RT 	Country: People's Republic of China
+
+Groups: math 	Career Status: Staff
+
+2024-2-14 23:01 guangzhou (QQ code . -> _)
+
 
 
 
