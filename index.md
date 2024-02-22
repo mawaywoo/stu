@@ -1895,7 +1895,7 @@ _____________________________________________________________________________
 
 571. **范畴（拓扑斯）起着两重作用**：一是它**提供了语言**，如范畴的对象表示语言的 Sort/Type；二是范畴**提供了语言的某种特殊模型**，Kripke-Joyal 语义。 [Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&t=21305s) 2023-10-9 16:18 岭南师范学院崇德苑 209 室。
 
-572. 重学，对 Enriched Category 的定义阐释的很好，见 31 分钟左右。[Enriched Category Theory For Beginners](https://www.youtube.com/watch?v=NgZfay8nKCg&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=26&t=1380s) 2023-20-24 14:40 岭南师范学院崇德苑 209 室。
+572. 重学，对 Enriched Category 的定义阐释的很好，见 31 分钟左右。[Enriched Category Theory For Beginners](https://www.youtube.com/watch?v=NgZfay8nKCg&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=26&t=1380s) 2023-10-14 14:40 岭南师范学院崇德苑 209 室。
 
 573. [Category Theory For Beginners: Fibrations and Lenses](https://www.youtube.com/watch?v=Y2l2wBEfrJw&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=30) 2023-10-14 16:34 岭南师范学院崇德苑 209 室。
 
@@ -2124,6 +2124,8 @@ Groups: math 	Career Status: Staff
 647. 明天回湛江，于广州。2024-2-18 23:57
 
 648. 舒服。2024-2-20 8:55 岭南师范学院图书馆六楼西区3座位002.
+
+649. [汕大邮箱](https://my.stu.edu.cn/) (用户名为邮箱@前面部分) 2024-2-24 16:38 岭南师范学院崇德苑 209 室。
 
 
 
