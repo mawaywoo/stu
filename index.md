@@ -2131,6 +2131,8 @@ Groups: math 	Career Status: Staff
 
      2）赋环座上的模可以理解为双模，Grothendieck构造上的模可以理解为包络代数上的模。层可以理解为商环上的模。Grothendieck拓扑可以理解为环的局部化。2024-2-27 13:35 岭南师范学院图书馆六楼西区 3 座位 005.
 
+651. [Higher Auslander-Gorenstein Algebras And Gabriel Topologies](https://arxiv.org/pdf/2402.17803.pdf) 第 7 页中的 Gabriel 拓扑是线性 Grothendieck 拓扑的特殊情况。Grothendieck 拓扑和 Torsion 的关系由这里的离散拓扑还容易感受到：被拓扑“kill”掉的模是脑部分，无挠部分则需要“kill”掉拓扑的作用，即商掉拓扑的影响，见其中无挠部分的定义。所以，**slogan: Grothendieck toplogy = torsion = quotient = localization**. 2024-2-29 16:18 岭南师范学院图书馆六楼西区 3 座位 002.    
+
 
 
 
