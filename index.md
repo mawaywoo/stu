@@ -74,6 +74,14 @@ Currently I'm doing my PhD in China.
 
 高等数学 I , 2023 化学 3 班, 48 学时
 
+2023-2024 学年第 2 学期: 
+
+高等代数 II , 2023 数学与应用数学 9 班, 80 学时
+
+线性代数 , 2023 行政管理 1, 2 班, 32 学时
+
+考研辅导课高代（不计入教学任务量）， 42 学时（2-15 周，3 学时/周）
+
 ## Research
 
 My research interests are in representation theory, (higher/elementary/Grothendieck) topos theory, homotopy type theory, logic, model theory, constructive mathematic.
