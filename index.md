@@ -99,7 +99,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 ## Useful links
 | A | B | C |
 |:---------------------:|:---------------------:|:---------------------:|
-[SCI-HUB](https://sci-hub.se/) | [Library Genesis](http://libgen.st/) | [Google Scholar](https://scholar.google.com/) | 
+[SCI-HUB](https://sci-hub.se/) | [Library Genesis](http://libgen.st/) [Z-Library](https://zh.z-library.se/) | [Google Scholar](https://scholar.google.com/) | 
 [Research Gate](https://www.researchgate.net/) | [Mathematics Stack Exchange](https://math.stackexchange.com/) | [MathOverflow](https://mathoverflow.net/) |
 [MSRI](https://www.slmath.org/video) | [BIRS](http://www.birs.ca/) | [IHES](https://www.ihes.fr/) |
 [HCM](https://www.hcm.uni-bonn.de/) | [HIM](https://www.him.uni-bonn.de/programs/past-programs/) | [ICTP](https://www.ictp.it/) |
@@ -2137,7 +2137,9 @@ Groups: math 	Career Status: Staff
 
 653. **Artin Side vs Auslander Side**: 前者：用各种子范畴描述，如 proj^*, Proj^*, Gproj^*, GProj^* 是 Abelian 范畴等， pre-cluste tilting subcategry, n-tilting subcategory 等；后者：用各种同调性质描述，如各种同调维数，Ext 函子等。对两边进行各种推广，如 [Higher Auslander-Gorenstein Algebras And Gabriel Topologies](https://arxiv.org/pdf/2402.17803.pdf) 和 [Characterizing higher Auslander(-Gorenstein) Algebras](https://arxiv.org/pdf/2402.17293.pdf) 等。
 
-654. 国家自然科学基金：汕大邮箱，密码无小数点。2024-3-1 11:19 岭南师范学院图书馆六楼西区 3 座位 002. 
+654. 国家自然科学基金：汕大邮箱，密码无小数点。2024-3-1 11:19 岭南师范学院图书馆六楼西区 3 座位 002.
+
+655. [Z-Library](https://zh.z-library.se/) （QQ 邮箱注册）2024-3-2 12:34 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
