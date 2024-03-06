@@ -2153,6 +2153,8 @@ Groups: math 	Career Status: Staff
 
 657. wumawei at lingnan dot edu dot cn 今天开通了学校邮箱（**S**huxuenopi），2024-3-5 16:05 岭南师范学院图书馆六楼西区 3 座位 002.
 
+658. **Tilting 和 Torsion 的关系**：Tilting Object 可以认为是范畴中的**某个关键点**；Torsion Pair 可以认为是范畴中被分割出的**两个关键的面**。**点可以生成面**，所以由 Tilting Object P 可以诱导一个 Torsion Pair (Gen(P), P^{\perp})。2024-3-6 10:50 岭南师范学院图书馆六楼西区 3 座位 002. 
+
 
 
 
