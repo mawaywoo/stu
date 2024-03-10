@@ -372,7 +372,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ---
 
-## 看论文时的古典音乐
+## 看论文时的音乐
 
 [Peaceful Classical Music | Bach, Mozart, Debussy...](https://www.youtube.com/watch?v=lA7TTnZhjdY)
 
@@ -389,6 +389,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 博士毕业 2023-6-21 
 
 ---
+
+[Greatest Heavy Metal rock 2000s - 50 Years Heavy Metal Rock Song](https://www.youtube.com/watch?v=-qEla3eow3c)
 
 [艺术绵长人生短暂，坂本龙一的音乐](https://www.youtube.com/watch?v=aYFTnJF8aPM) 2023-8-22 23:49 于番禺旧水坑村
 
