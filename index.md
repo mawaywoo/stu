@@ -2097,6 +2097,8 @@ _____________________________________________________________________________
 
      c. 见 638 条，另一个角度去限制范畴是：**图论**的角度。
 
+     d. 见 663 条，**组合**的角度去衡量范畴。
+
 637. 熟悉其中的证明手段。[AEC's of roots of Ext](http://www.fields.utoronto.ca/talks/AECs-roots-Ext)
 
 638. 纯性 (pure) 是**通过 model theory 的角度**加到模范畴的一个限制，**pure 对象往往比通常的对象限制条件更强**，如纯子模比一般的子模更强，N < M，且 Ax=b 在 M 可解必有它在 N 可解。model theory 考虑的是在不同的结构中真值的保持性。pure 投射模比投射模更强，**还需保证额外的条件，即 Hom 条件的保持性**。所以，**纯对象 = 通常对象 + 保持额外“结构”**。[Pure extensions](https://stacks.math.columbia.edu/tag/06ZX) and [Yusuf Alagöz, I-pure projective dimensions of modules](https://www.youtube.com/watch?v=kxRPGqFCcqc) 2024-1-26 15:58 岭南师范学院图书馆六楼西区 3 座位 002.
@@ -2188,6 +2190,8 @@ Groups: math 	Career Status: Staff
 *(Grants584763SN:36008079)*
 
 2024-3-10 10:57 岭南师范学院图书馆六楼西区 3 座位 002.
+
+663.这是从**组合的角度**对范畴进行衡量。还有其他衡量范畴的角度，如拓扑，同调等其他方式。见第 635 条。[Torsion pairs, t-structures, and co-t-structures for completions of discrete cluster categories](https://arxiv.org/pdf/2403.08735.pdf) 2024-3-14 20:57 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
