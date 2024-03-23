@@ -2115,7 +2115,7 @@ _____________________________________________________________________________
 
 644. Your arXiv.org account: wumawei
 
-E-mail: 19mwwu@stu.edu.cn 	Affiliation: Lingnan Normal University
+E-mail: 19mwwu at stu.edu.cn (change to: wumawei at lingnan.edu.cn) 	Affiliation: Lingnan Normal University
 
 Name: Mawei Wu 	URL:
 
