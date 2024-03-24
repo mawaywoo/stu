@@ -2193,7 +2193,7 @@ Groups: math 	Career Status: Staff
 
 663.这是从**组合的角度**对范畴进行衡量。还有其他衡量范畴的角度，如拓扑，同调等其他方式。见第 635 条。[Torsion pairs, t-structures, and co-t-structures for completions of discrete cluster categories](https://arxiv.org/pdf/2403.08735.pdf) 2024-3-14 20:57 岭南师范学院图书馆六楼西区 3 座位 002.
 
-664. 刚刚在 arXiv 提交了我用 overleaf 写的第一批 paper. 2024-3-22 15:30 岭南师范学院图书馆六楼西区 3 座位 002.
+664. 刚刚在 arXiv 提交了我用 overleaf 写的第一篇 paper. 2024-3-22 15:30 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
