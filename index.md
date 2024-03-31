@@ -2197,6 +2197,9 @@ Groups: math 	Career Status: Staff
 
 664. 刚刚在 arXiv 提交了我用 overleaf 写的第一篇 paper. 2024-3-22 15:30 岭南师范学院图书馆六楼西区 3 座位 002.
 
+665. 刚刚在 [Journal of Algebra](https://www.sciencedirect.com/journal/journal-of-algebra) 上第一次投稿. 2024-3-31 11:13 岭南师范学院图书馆六楼西区 3 座位 002.
+
+
 
 
 
