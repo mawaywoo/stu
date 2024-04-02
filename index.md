@@ -2199,6 +2199,8 @@ Groups: math 	Career Status: Staff
 
 665. 刚刚在 [Journal of Algebra](https://www.sciencedirect.com/journal/journal-of-algebra) 上第一次投稿. 2024-3-31 11:13 岭南师范学院图书馆六楼西区 3 座位 002.
 
+666. Under Review. 2024-4-2 8:13 岭南师范学院图书馆六楼西区 3 座位 002.
+
 
 
 
