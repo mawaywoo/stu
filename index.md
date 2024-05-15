@@ -2203,6 +2203,8 @@ Groups: math 	Career Status: Staff
 
 667. 她 19 岁生日：2024 年 3 月 21 日，我们确立关系：2024 年 4 月 11 日（农历三月初三[上巳节：中国古代最浪漫的节日](https://zhuanlan.zhihu.com/p/364749480)），**下一年(2025 年 4 月 11 日)补她一个表白**，周四通识课下课后，大哭一场，南门。2024-4-24 8:39 岭南师范学院图书馆六楼西区 3 座位 002.
 
+668. 高阶范畴就是把恒等、同构放松，而**放松之后映射有两个方向**，会有两种不同的放松方式，即两种不同版本的高阶范畴，如 lax 和 oplax。[Edoardo Lanari, Gray tensor products and lax functors of (infinity,2)-categories](https://www.youtube.com/watch?v=2NIayvr3I8k) 2024-5-15 10:51 岭南师范学院图书馆六楼西区 3 座位 002.
+
 
 
 
