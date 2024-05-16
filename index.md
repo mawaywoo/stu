@@ -2207,7 +2207,7 @@ Groups: math 	Career Status: Staff
 
 669. **bicategory 和 double category 的区别**：2-cell 放松程度不同，前者放松为一个 **globe (球状)**，后者放松为一个 **square (方形)**。[Juan Orendain --- Canonical squares in fully faithful and absolutely dense equipments.](https://www.youtube.com/watch?v=i5a9p9iuY0E) 2024-5-16 8:40 岭南师范学院图书馆六楼西区 3 座位 002.
 
-670. **2-category 是特殊的 bicategory，后者又是特殊的 double category**. [Robert Pare --- The horizontal/vertical synergy of double categories.](https://www.youtube.com/watch?v=R9DXd9usc5o) 2024-5-16 9:25 岭南师范学院图书馆六楼西区 3 座位 002.
+670. **2-category 是特殊的 bicategory，后者又是特殊的 double category**. [Robert Pare --- The horizontal/vertical synergy of double categories.](https://www.youtube.com/watch?v=R9DXd9usc5o) 和 [Robert Paré: Some things about double categories](https://www.youtube.com/watch?v=ArC7wBqHp5Q&t=2233s) 2024-5-16 9:25 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
