@@ -2205,6 +2205,8 @@ Groups: math 	Career Status: Staff
 
 668. 高阶范畴就是把恒等、同构放松，而**放松之后映射有两个方向**，会有两种不同的放松方式，即两种不同版本的高阶范畴，如 lax 和 oplax。所以会有**各种高阶范畴的版本**(注意区分！)，取决于你“**弱化、放松”条件的方式**。[Edoardo Lanari, Gray tensor products and lax functors of (infinity,2)-categories](https://www.youtube.com/watch?v=2NIayvr3I8k) 2024-5-15 10:51 岭南师范学院图书馆六楼西区 3 座位 002.
 
+669. **bicategory 和 double category 的区别**：2-cell 放松程度不同，前者放松为一个 **globe (球状)**，后者放松为一个 **square (方形)**。[Juan Orendain --- Canonical squares in fully faithful and absolutely dense equipments.](https://www.youtube.com/watch?v=i5a9p9iuY0E) 2024-5-16 8:40 岭南师范学院图书馆六楼西区 3 座位 002.
+
 
 
 
