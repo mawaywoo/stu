@@ -2209,6 +2209,8 @@ Groups: math 	Career Status: Staff
 
 670. **2-category 是特殊的 bicategory，后者又是特殊的 double category**. [Robert Pare --- The horizontal/vertical synergy of double categories.](https://www.youtube.com/watch?v=R9DXd9usc5o) 和 [Robert Paré: Some things about double categories](https://www.youtube.com/watch?v=ArC7wBqHp5Q&t=2233s) 2024-5-16 9:25 岭南师范学院图书馆六楼西区 3 座位 002.
 
+671. 昨天去北二门吃饭的路上，她收到她外公去世的消息，在图书馆后面哭了好久，然后我们去北二门走到东门买饺子，然后回崇德苑 209 室，今天早上她又去上课了，早 10 的体育课。2024-5-17 12:21 岭南师范学院图书馆六楼西区 3 座位 002.
+
 
 
 
