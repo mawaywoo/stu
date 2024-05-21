@@ -2213,7 +2213,7 @@ Groups: math 	Career Status: Staff
 
 672. 今天是她外公下葬的日子，她昨晚一晚没睡，今天下午上完课又在鹏园门口看着送葬的照片哭了一阵。**2024-5-20** 19:46 岭南师范学院图书馆六楼西区 3 座位 002.
 
-673. [Maru Sarazola: Two model structures for double categories](https://www.youtube.com/watch?v=Q_J7jlvm8J0&t=340s) **2024-5-21** 20:31 岭南师范学院图书馆六楼西区 3 座位 002.
+673. 2Cat 和 Double Cat 的差别：前者是特殊的后者，即竖直箭头平凡。 [Maru Sarazola: Two model structures for double categories](https://www.youtube.com/watch?v=Q_J7jlvm8J0&t=340s) **2024-5-21** 20:31 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
