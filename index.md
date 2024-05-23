@@ -2215,11 +2215,11 @@ Groups: math 	Career Status: Staff
 
 673. 2Cat 和 Double Cat 的差别：前者是特殊的后者，即竖直箭头平凡。 [Maru Sarazola: Two model structures for double categories](https://www.youtube.com/watch?v=Q_J7jlvm8J0&t=340s) **2024-5-21** 20:31 岭南师范学院图书馆六楼西区 3 座位 002.
 
-674. a) 对于范畴 I 上的函子 M 以及 I 的子范畴 P， 函子 M 的限制有两种情形：**限制到 P 上和限制到 I/P 上，取 I/P 上的部分即去掉 P 内的部分，去掉的方式可以用商，即 Cokernel 运算**；
+674. a) 对于范畴 I 上的函子 M 以及 I 的子范畴 P， 函子 M 的限制有两种情形：**限制到 P 上和限制到 I/P 上，取 I/P 上的部分即去掉 P 内的部分，去掉的方式可以用商，即 Cokernel 运算**，见 13 也的 cok 函子的定义（**其思想是去掉 P 中所有信息的“并”**，文中的定义应该是有误的，不需要 M_\theta）；
 
      b) 限制到某个对象分两步：先限制到子范畴，再限到一个对象： I 到 P， P 再到 x；
 
-     c) 2.14 Remark 局部的信息粘接成整体的信息，这里的局部可以是只有一个对象的平凡子范畴上的函子（就是函子，没有自同态作用），也可以是只有一个对象的满子范畴上的函子（函子加上了对象自同态的作用），如： EI-范畴上只有一个对象上的函子，**可以是 R_x-模， 也可以是 R_x[C_x]-模。这是文中 stalk 和 lift 函子的区别: 前者没有自同态作用，只是平凡范畴上的函子，后者有自同态作用**。 [Representations over diagrams of abelian categories I: Global structure and homological objects](https://arxiv.org/abs/2210.08558) 2024-5-23 11:12 岭南师范学院图书馆六楼西区 3 座位 002.
+     c) 2.14 Remark **局部的信息粘接成整体的信息（Lemma 2.7）**（我的博士论文也有在赋环座上的结果：即将投射生成元粘成大的投射生成元），这里的局部可以是只有一个对象的平凡子范畴上的函子（就是函子，没有**自同态作用**），也可以是只有一个对象的满子范畴上的函子（函子加上了对象自同态的作用），如： 设 (C,R) 为赋环座， EI-范畴 C 上只有一个对象上的函子，**可以是 R_x-模， 也可以是 R_x[C_x]-模。这是文中 stalk 和 lift 函子的区别: 前者没有自同态作用，只是平凡范畴上的函子，后者有自同态作用**。 [Representations over diagrams of abelian categories I: Global structure and homological objects](https://arxiv.org/abs/2210.08558) 2024-5-23 11:12 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
