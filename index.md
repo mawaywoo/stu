@@ -2223,6 +2223,9 @@ Groups: math 	Career Status: Staff
      
 675. 为什么需要高阶范畴去 model 逻辑？[Nicola Gambino: "Monoidal bicategories, differential linear logic, and analytic functors"](https://www.youtube.com/watch?v=DAPQ05KcQrA) 2024-5-24 9:40 岭南师范学院图书馆六楼西区 3 座位 002.
 
+676. **如何决定/求出张量函子**：可以通过它的伴随函子 Hom 函子来决定。[Bojana Femić: Gray-type monoidal product and Bifunctor Theorem for double categories](https://www.youtube.com/watch?v=O_XBfDsYILQ&t=13s) 2024-5-24 11:34 岭南师范学院图书馆六楼西区 3 座位 002.
+
+
 
 
 
