@@ -2220,7 +2220,8 @@ Groups: math 	Career Status: Staff
      b) 限制到某个对象分两步：先限制到子范畴，再限到一个对象： I 到 P， P 再到 x；
 
      c) 2.14 Remark **局部的信息粘接成整体的信息（Lemma 2.7）**（我的博士论文也有在赋环座上的结果：即将投射生成元粘成大的投射生成元），这里的局部可以是只有一个对象的平凡子范畴上的函子（就是函子，没有**自同态作用**），也可以是只有一个对象的满子范畴上的函子（函子加上了对象自同态的作用），如： 设 (C,R) 为赋环座， EI-范畴 C 上只有一个对象上的函子，**可以是 R_x-模， 也可以是 R_x[C_x]-模。这是文中 stalk 和 lift 函子的区别: 前者没有自同态作用，只是平凡范畴上的函子，后者有自同态作用**。 [Representations over diagrams of abelian categories I: Global structure and homological objects](https://arxiv.org/abs/2210.08558) 2024-5-23 11:12 岭南师范学院图书馆六楼西区 3 座位 002.
-
+     
+675. 为什么需要高阶范畴去 model 逻辑？[Nicola Gambino: "Monoidal bicategories, differential linear logic, and analytic functors"](https://www.youtube.com/watch?v=DAPQ05KcQrA) 2024-5-24 9:40 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
