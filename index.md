@@ -2225,7 +2225,7 @@ Groups: math 	Career Status: Staff
 
 676. **如何决定/求出张量函子**：可以通过它的伴随函子 Hom 函子来决定。[Bojana Femić: Gray-type monoidal product and Bifunctor Theorem for double categories](https://www.youtube.com/watch?v=O_XBfDsYILQ&t=13s) 2024-5-24 11:34 岭南师范学院图书馆六楼西区 3 座位 002.
 
-677. 通过**伴随函子**由旧的 Model Structure **构造新的 Model Structure**，即诱导模型结构，诱导模型结构**比较清楚**，因为模型结构里的 C, W, F 态射类由旧的态射类产生。 [ Maru Sarazola: Two model structures for double categories ](https://www.youtube.com/watch?v=Q_J7jlvm8J0&t=854s) 2024-5-25 10:00 岭南师范学院图书馆六楼西区 3 座位 002.
+677. 通过**伴随函子**由旧的 Model Structure **构造新的 Model Structure**，即诱导模型结构，诱导模型结构**比较清楚**，因为模型结构里的 C, W, F 态射类由旧的态射类产生。从 **2Cat** 的模型结构诱导/构造 **DblCat** 上的模型结构。[ Maru Sarazola: Two model structures for double categories ](https://www.youtube.com/watch?v=Q_J7jlvm8J0&t=854s) 2024-5-25 10:00 岭南师范学院图书馆六楼西区 3 座位 002.
 
 
 
