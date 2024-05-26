@@ -2229,6 +2229,8 @@ Groups: math 	Career Status: Staff
 
 678. **Abelian model structure 也可以通过伴随函子构造，即诱导模型结构/左、右提升模型结构**。 [Chrysostomos Psaroudakis: Lifting recollements of abelian categories and model structures](https://www.youtube.com/watch?v=LlhNeXyj38U) 2024-5-26 12:35 岭南师范学院图书馆六楼西区 3 座位 002.
 
+679. **tilting category (see Definition 8.) 的定义类似于向量空间的基：1. 自身无关，2. 可以表达任意别的对象**。[Tilting theory and functor categories I. Classical tilting](https://arxiv.org/pdf/1110.4785) 2024-5-26 16:51 岭南师范学院图书馆六楼西区 3 座位 002.
+
 
 
 
