@@ -2231,7 +2231,7 @@ Groups: math 	Career Status: Staff
 
 679. tilting category (see Definition 8.) 的定义类似于向量空间的基：1. **自身**线性无关，2. 可以**表达任意别的对象**。**倾斜范畴 “=” 向量空间的基**。[Tilting theory and functor categories I. Classical tilting](https://arxiv.org/pdf/1110.4785) 2024-5-26 16:51 岭南师范学院图书馆六楼西区 3 座位 002.
 
-680. [广东省科学技术厅](https://pro.gdstc.gd.gov.cn/egrantweb/) Shuxue31415927
+680. [广东省科学技术厅](https://pro.gdstc.gd.gov.cn/egrantweb/) Shuxue31415927 2024-6-21 16:40 崇德苑 209 室
 
 
 
