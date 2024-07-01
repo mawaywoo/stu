@@ -100,6 +100,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [Torsion Pairs in Categories of Modules on Ringed Finite Sites](https://arxiv.org/abs/2403.15001)
 
+[Pseudoskew category algebras and modules over representations of small categories](https://arxiv.org/abs/2406.19883)
+
 ## Overleaf
 
 [Overleaf, Online LaTeX Editor](https://www.overleaf.com/project)
