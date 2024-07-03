@@ -227,6 +227,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/) | [Instructional Course in Commutative Algebra 2021](https://www.youtube.com/playlist?list=PLTegae_TuVUVvW877gqFD3NDic9z0FyM7) | [Deconstructible classes, approximations, and AECs of modules - Jan Trlifaj (Charles Univ, Prague)](https://www.youtube.com/watch?v=7rOxZV-SD-Q&t=463s) |
 [Second International Meeting in Commutative Algebra and its Related Areas](https://www.youtube.com/playlist?list=PLh-VcufO5ZXGkUiPJYP4ijxFY9Dj7in8f) | [SIMCARA-Jan Trlifaj / Minicourse tilting modules](https://www.youtube.com/watch?v=P0MBTJJpWaY&list=PLh-VcufO5ZXGkUiPJYP4ijxFY9Dj7in8f&index=10) | [Miniworkshop on set-theoretic methods in module theory and homological algebra](http://www.fields.utoronto.ca/activities/22-23/set-module) |
 [How to write a thesis using LaTeX **full tutorial** Overleaf](https://www.youtube.com/watch?v=zqQM66uAig0) | [Bibliography management with bibtex](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex) | [International Conference [TRHW02]](https://www.youtube.com/playlist?list=PLGYCoKMjmercOfHDOFhpuGH87VmEk21lM) |
+[DG Methods in Commutative Algebra and Representation Theory](https://www.math.utah.edu/~briggs/dgsession) |
 
 
 
