@@ -82,6 +82,11 @@ Currently I'm doing my PhD in China.
 
 考研辅导课高代（不计入教学任务量）， 42 学时（2-15 周，3 学时/周）
 
+
+**2024-2025 学年第 1 学期**: 
+
+解析几何，2024 ...
+
 ## Research
 
 My research interests are in representation theory, (higher/elementary/Grothendieck) topos theory, homotopy type theory, logic, model theory, constructive mathematic, tilting theory, torsion theory.
