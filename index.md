@@ -2245,6 +2245,8 @@ Groups: math 	Career Status: Staff
 
 681. [Arthur Pander Maat: The Eilenberg-Watts theorem and Morita theory for C*-categories](https://www.youtube.com/watch?v=atg4YR16qbY) 考虑 **Eilenberg-Watts theorem** 是因为我希望把 pseudoskew category algebras 那篇文章推广到 dg-范畴的情形。2024-7-4 0:15 崇德苑 209 室
 
+682. 昨天她回家了，今天我装了网络。2024-7-11 21:53 崇德苑 209 室
+
 
 
 
