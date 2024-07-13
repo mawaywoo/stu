@@ -2247,7 +2247,9 @@ Groups: math 	Career Status: Staff
 
 682. 昨天她回家了，今天我装了网络。2024-7-11 21:53 崇德苑 209 室
 
-683. [Maru Sarazola (Cornell University)- Cotorsion pairs and a K-theory localization theorem](https://www.youtube.com/watch?v=_Gbt6DJapns&t=264s) abelian, exact, waldhausen 范畴的差别在于：**选取的态射**类的不断增大。如阿贝尔范畴是每个单态射都有余核，而正和范畴**只挑出**那些有余核的单态射，**不要求所有**的单态射都有余核。2024-7-13 10:00 崇德苑 209 室
+683. [Maru Sarazola (Cornell University)- Cotorsion pairs and a K-theory localization theorem](https://www.youtube.com/watch?v=_Gbt6DJapns&t=264s) abelian, exact, waldhausen 范畴的差别在于：**选取的态射**类的不断增大。如阿贝尔范畴是每个单态射都有余核，而正和范畴**只挑出**那些有余核的单态射，**不要求所有**的单态射都有余核。cotorsion pair 也是**选取某些态射类对原范畴进行“度量”**。2024-7-13 10:00 崇德苑 209 室
+
+684. **选取某些态射类对原范畴进行“度量**”是同调代数很重要的方法，关键点在于我们怎么**比较所选取的态射类的范围和差异**。2024-7-13 10:13 崇德苑 209 室
 
 
 
