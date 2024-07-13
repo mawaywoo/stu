@@ -2255,6 +2255,20 @@ Groups: math 	Career Status: Staff
 
 686. 比较所选取的子态射类的**范围大小**：看选取态射的定义中的**限制条件的松紧程度**，如：是要求**所有**单(满)态射满足还是只要求对**部分**单(满)态射满足的性质。2024-7-13 10:51 崇德苑 209 室
 
+687. [Homological Algebra for Enriched Grothendieck Categories - Grigory Garkusha (Swansea University)](https://www.youtube.com/watch?v=yxbeqztyB0U) 生成元 4:58，Cotensor:
+
+     [How to define the internal hom between presheaves valued in cotensored categories?](https://mathoverflow.net/questions/214863/how-to-define-the-internal-hom-between-presheaves-valued-in-cotensored-categorie?rq=1)
+
+     [Can we do away with cotensors when exploring the equivalence between closed V-modules and strongly tensored V-categories?](https://mathoverflow.net/questions/450130/can-we-do-away-with-cotensors-when-exploring-the-equivalence-between-closed-ma?rq=1)
+
+     [Examples of enriched categories which are (co)powered or (co)tensored](https://mathoverflow.net/questions/266964/examples-of-enriched-categories-which-are-copowered-or-cotensored)
+
+     [Morphisms of cotensors](https://mathoverflow.net/questions/263214/morphisms-of-cotensors?noredirect=1&lq=1)
+
+     [(Co)tensoring of enriched slice categories](https://mathoverflow.net/questions/350752/cotensoring-of-enriched-slice-categories?rq=1)
+
+     2024-7-13 21:04 崇德苑 209 室
+
 
 
 
