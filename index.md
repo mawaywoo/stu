@@ -517,6 +517,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [Bandwagon Host](https://bwh81.net/) [49.99/year, mawaywoo at 126 dot com, 152.92.128.104, 97882^(-1), LPy2LjsKDapv^(-1)]
 
+[putty + firefox](https://blog.csdn.net/chm2920/article/details/84756697)
+
 [Download PuTTY: latest release (0.78)](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 
 [Windows下通过Putty建立SSH隧道代理上网](https://www.cmsoft.cn/resource/21.html) [root + password]
