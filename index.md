@@ -2271,7 +2271,9 @@ Groups: math 	Career Status: Staff
 
      2024-7-13 21:04 崇德苑 209 室
 
-688. [ORCID](https://orcid.org/my-orcid?orcid=0009-0009-1417-9420&justRegistered=true) ID: 0009-0009-1417-9420; E-mail: wumawei at lingnan dot edu dot cn 2024-7-14 23:36 崇德苑 209 室    
+688. [ORCID](https://orcid.org/my-orcid?orcid=0009-0009-1417-9420&justRegistered=true) ID: 0009-0009-1417-9420; E-mail: wumawei at lingnan dot edu dot cn 2024-7-14 23:36 崇德苑 209 室
+
+689. [ICE-closed subcategories over module categories (Kyoto representation seminar)](https://www.youtube.com/watch?v=Hvr4Yjj_HMM) 子范畴比子模复杂些，子范畴可以由某些特殊的子模“生成”，**子范畴可以被子模分类**；投射 “=” 生成元，他是**相对某个范畴来说的**，它相对 C 来说投射的对象，对比 C 大的范畴 D 来说就未必是投射的，见 19:33。 2024-7-16 13:50 崇德苑 209 室  
 
 
 
