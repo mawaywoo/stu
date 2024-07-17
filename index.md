@@ -406,6 +406,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [Greatest Heavy Metal rock 2000s - 50 Years Heavy Metal Rock Song](https://www.youtube.com/watch?v=-qEla3eow3c) 2024-3-10 8:12 岭南师范学院图书馆六楼西区 3 座位 002
 
+[【胡彦斌Tiger Hu】盘点胡彦斌音乐“骚操作” 被他神级改编的歌曲简直让人忘记原唱 [ 超人气歌手特辑 ] /浙江卫视官方HD/](https://www.youtube.com/watch?v=mzYf63WnsUg&t=241s) 2024-7-17 18:48 于岭南师范学院崇德苑 209 室
+
 ## 电影
 
 [不求上进的玉子](https://www.youtube.com/watch?v=-1-GTm5mo4g)
