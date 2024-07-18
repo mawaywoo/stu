@@ -408,6 +408,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [【胡彦斌Tiger Hu】盘点胡彦斌音乐“骚操作” 被他神级改编的歌曲简直让人忘记原唱 [ 超人气歌手特辑 ] /浙江卫视官方HD/](https://www.youtube.com/watch?v=mzYf63WnsUg&t=241s) 2024-7-17 18:48 于岭南师范学院崇德苑 209 室
 
+[【#胡彦斌·珍藏版纯享合辑】醉人烟嗓磁性抓耳 走心演绎才改编的“神” ｜全明星舞台回顾｜#声生不息家年华｜MangoTV](https://www.youtube.com/watch?v=_i6Hn-SmfN0) 2024-7-19 3:25 于岭南师范学院崇德苑 209 室
+
 ## 电影
 
 [不求上进的玉子](https://www.youtube.com/watch?v=-1-GTm5mo4g)
