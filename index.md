@@ -2277,7 +2277,7 @@ Groups: math 	Career Status: Staff
 
 689. [ICE-closed subcategories over module categories (Kyoto representation seminar)](https://www.youtube.com/watch?v=Hvr4Yjj_HMM) 子范畴比子模复杂些，子范畴可以由某些特殊的子模“生成”，**子范畴可以被子模分类**；投射 “=” 生成元，他是**相对某个范畴来说的**，它相对 C 来说投射的对象，对比 C 大的范畴 D 来说就未必是投射的，见 19:33。 2024-7-16 13:50 崇德苑 209 室
 
-690. [Hiroyuki Nakaoka, Localization of extriangulated categories](https://www.youtube.com/watch?v=Irx2iRNJAYI) extriangulated categories 定义（5:30）主要记录的是 ET-三角的信息，a —x—> b —y—> c --\delta->，**E 记得的是 delta, s 记录的是 x, y**。2024-7-18 12:52 崇德苑 209 室  
+690. [Hiroyuki Nakaoka, Localization of extriangulated categories](https://www.youtube.com/watch?v=Irx2iRNJAYI) extriangulated categories 定义（5:30）主要记录的是 ET-三角的信息，a —x—> b —y—> c --\delta->，**E 记得的是 delta, s 记录的是 x, y**。**Cone "=" Cokernel**. 2024-7-18 12:52 崇德苑 209 室  
 
 
 
