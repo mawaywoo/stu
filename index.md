@@ -2283,6 +2283,8 @@ Groups: math 	Career Status: Staff
 
 691. 准确地说，**做（相对）同调代数是“选”而不是“切”出某些态射或子范畴**，如 Cotorsion Pair (Proj, All) 就是“选”出两个子范畴，而不是“切”出两个子范畴，因为“切”出的子范畴是没有重合的部分的。2024-7-19 10:55 崇德苑 209 室
 
+692. [How to make Ext vanish](https://www.researchgate.net/profile/Jan-Trlifaj/publication/2603930_How_to_Make_Ext_Vanish/links/53e4dbd90cf21cc29fc93190/How-to-Make-Ext-Vanish.pdf) **递归地构造**满足统计的模：满足条件的**初始步** + 满足条件的**递归步**。2024-7-19 17:35 崇德苑 209 室
+
 
 
 
