@@ -2285,6 +2285,8 @@ Groups: math 	Career Status: Staff
 
 692. [How to make Ext vanish](https://www.researchgate.net/profile/Jan-Trlifaj/publication/2603930_How_to_Make_Ext_Vanish/links/53e4dbd90cf21cc29fc93190/How-to-Make-Ext-Vanish.pdf) **递归地构造**满足统计的模：满足条件的**初始步** + 满足条件的**递归步**。2024-7-19 17:35 崇德苑 209 室
 
+693. [2021 J. August: Higher torsion classes and -tilting theory](https://www.bilibili.com/video/BV1Aq4y1f7jU/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 对挠类的刻画：关于商和扩张封闭，这其实是很方便的。见 6:00，此外挠理论是**选取**某些子范畴来研究整个范畴，对这样选取你的好处需要好好体会，进而考虑选取其他的子范畴，已达到推广的目的。2024-7-20 23:28 崇德苑 209 室
+
 
 
 
