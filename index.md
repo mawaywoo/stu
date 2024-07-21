@@ -215,7 +215,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [天元表示论讨论班](https://space.bilibili.com/7037545/channel/series) | [sheaves and logic](https://sites.google.com/view/pssl-107-athens/schedule) | [Virtual Double Categories Workshop](https://www.youtube.com/@DoubleCategoriesWorkshop/featured) |
 [Francis Borceux - 拓扑斯理论的非正式概述 1-5](https://www.bilibili.com/video/BV1CV4y1k7EA/?spm_id_from=333.788.recommend_more_video.-1) | [The Topos Institute Colloquium](https://topos.site/topos-colloquium/) | [Categories and Companions Symposium - 2022](https://www.youtube.com/@CaCS2022) |
 [FMF Foundations seminar](https://www.youtube.com/@fmffoundationsseminar6878/videos) | [An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo) | [EPDF](https://epdf.tips/) |
-[Flash Talks in Representation Theory 2023](https://www.youtube.com/playlist?list=PLcLpn3xOEb-nKh4woEQFKxMEOTbqWUTCl) | [International Conference Alerts - ICA](https://conferencealert.com/) |
+[Flash Talks in Representation Theory 2023](https://www.youtube.com/playlist?list=PLcLpn3xOEb-nKh4woEQFKxMEOTbqWUTCl) | [International Conference Alerts - ICA](https://conferencealert.com/) | 
+
 
 博士毕业 2023-6-21 
 
@@ -232,7 +233,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [The On-Line Encyclopedia of Integer Sequences](https://oeis.org/) | [Instructional Course in Commutative Algebra 2021](https://www.youtube.com/playlist?list=PLTegae_TuVUVvW877gqFD3NDic9z0FyM7) | [Deconstructible classes, approximations, and AECs of modules - Jan Trlifaj (Charles Univ, Prague)](https://www.youtube.com/watch?v=7rOxZV-SD-Q&t=463s) |
 [Second International Meeting in Commutative Algebra and its Related Areas](https://www.youtube.com/playlist?list=PLh-VcufO5ZXGkUiPJYP4ijxFY9Dj7in8f) | [SIMCARA-Jan Trlifaj / Minicourse tilting modules](https://www.youtube.com/watch?v=P0MBTJJpWaY&list=PLh-VcufO5ZXGkUiPJYP4ijxFY9Dj7in8f&index=10) | [Miniworkshop on set-theoretic methods in module theory and homological algebra](http://www.fields.utoronto.ca/activities/22-23/set-module) |
 [How to write a thesis using LaTeX **full tutorial** Overleaf](https://www.youtube.com/watch?v=zqQM66uAig0) | [Bibliography management with bibtex](https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex) | [International Conference [TRHW02]](https://www.youtube.com/playlist?list=PLGYCoKMjmercOfHDOFhpuGH87VmEk21lM) |
-[DG Methods in Commutative Algebra and Representation Theory](https://www.math.utah.edu/~briggs/dgsession) |
+[DG Methods in Commutative Algebra and Representation Theory](https://www.math.utah.edu/~briggs/dgsession) | [BIMSA](https://www.youtube.com/@BIMSA-yz9ce) | [ICBS 2024](https://www.youtube.com/playlist?list=PLg7CTkYyb582wrSa6Tm64tV6nIr6CXvYT) |
 
 
 
