@@ -2289,6 +2289,8 @@ Groups: math 	Career Status: Staff
 
 693. [2021 J. August: Higher torsion classes and -tilting theory](https://www.bilibili.com/video/BV1Aq4y1f7jU/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 对挠类的刻画：关于商和扩张封闭，这其实是很方便的。见 6:00，此外挠理论是**选取**某些子范畴来研究整个范畴，对这样选取你的好处需要好好体会，进而考虑选取其他的子范畴，已达到推广的目的。通常可以**用好多种方式选择子范畴**，这里用的是同调函子 Ext 来选取。2024-7-20 23:28 崇德苑 209 室
 
+694. [Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw&list=PLg7CTkYyb582wrSa6Tm64tV6nIr6CXvYT&index=39) 2024-7-21 8:54 崇德苑 209 室
+
 
 
 
