@@ -412,6 +412,10 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [【#胡彦斌·珍藏版纯享合辑】醉人烟嗓磁性抓耳 走心演绎才改编的“神” ｜全明星舞台回顾｜#声生不息家年华｜MangoTV](https://www.youtube.com/watch?v=_i6Hn-SmfN0) 2024-7-19 3:25 于岭南师范学院崇德苑 209 室
 
+[【吴克群】精选吴克群30首热门好听的歌曲，有歌词！](https://www.bilibili.com/video/BV1RG4y1a7wB/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-7-21 11:00 于岭南师范学院崇德苑 209 室
+
+
+
 ## 电影
 
 [不求上进的玉子](https://www.youtube.com/watch?v=-1-GTm5mo4g)
