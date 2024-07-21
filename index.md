@@ -414,6 +414,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [【吴克群】精选吴克群30首热门好听的歌曲，有歌词！](https://www.bilibili.com/video/BV1RG4y1a7wB/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-7-21 11:00 于岭南师范学院崇德苑 209 室
 
+[【吴克群】经典好听的音乐合集 带歌词](https://www.youtube.com/watch?v=3RRe2bou0ak) 2024-7-21 11:03 于岭南师范学院崇德苑 209 室
+
 
 
 ## 电影
