@@ -2297,7 +2297,7 @@ Groups: math 	Career Status: Staff
 
 694. **很好地介绍了各种 silting 理论：supp. til. 2-term til. tau til.**: [Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw&list=PLg7CTkYyb582wrSa6Tm64tV6nIr6CXvYT&index=39) silting 由弱化 tilting 条件而来；silting mutation 是由老的 silting 构造新的 silting 的方法，是替换某个不可分解 silting 分量得到，见 28:30. 2024-7-21 8:54 崇德苑 209 室（今天她一家子去上官塘玩）
 
-695. [Torsion and torsion-free classes from objects of finite type in Grothendieck categories](https://arxiv.org/abs/2201.02224) 第 1.4 节：**一步步构造满足条件的子范畴：Gen(-) 构造商和余积封闭的子范畴，Ext/per 构造扩张闭的子范畴**。2024-7-21 22:05 崇德苑 209 室
+695. [Torsion and torsion-free classes from objects of finite type in Grothendieck categories](https://arxiv.org/abs/2201.02224) 第 1.4 节：**一步步构造满足条件的子范畴：Gen(-) 构造商和余积封闭的子范畴，Ext/per 构造扩张闭的子范畴**。思考**采取的“运算”可以保证构造出的子范畴对哪些“运算”封闭**：如 Gen 保证关于余积和商封闭 directsum_i T ——> M ——> 0，因此可以作为挠类的备选范畴。2024-7-21 22:05 崇德苑 209 室
 
 
 
