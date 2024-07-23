@@ -2299,6 +2299,8 @@ Groups: math 	Career Status: Staff
 
 695. [Torsion and torsion-free classes from objects of finite type in Grothendieck categories](https://arxiv.org/abs/2201.02224) 第 1.4 节：**一步步构造满足条件的子范畴：Gen(-) 构造商和余积封闭的子范畴，Ext/per 构造扩张闭的子范畴**。思考**采取的“运算”可以保证构造出的子范畴对哪些“运算”封闭**：如 Gen 保证关于余积和商封闭 directsum_i T ——> M ——> 0，因此可以作为挠类的备选范畴。2024-7-21 22:05 崇德苑 209 室
 
+696. 上述的 Gen 和 Ext 可以**推广到高阶的情形**，即 Gen_n （高阶 quotient） 和 Ext^n （高阶 perpendicular cat.），见第 3 页。[Tilting theory in exact categories](https://arxiv.org/pdf/2208.06381) 2024-7-23 13:14 崇德苑 209 室
+
 
 
 
