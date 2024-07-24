@@ -2301,6 +2301,8 @@ Groups: math 	Career Status: Staff
 
 696. 上述的 Gen 和 Ext 可以**推广到高阶的情形**，即 Gen_n （高阶 quotient） 和 Ext^n （高阶 perpendicular cat.），见第 3 页。[Tilting theory in exact categories](https://arxiv.org/pdf/2208.06381) 2024-7-23 13:14 崇德苑 209 室
 
+697. [noc20 ma20 lec18 Noetherian induction and **Transfinite induction**](https://www.youtube.com/watch?v=6FISrZAO5Ek) 2024-7-24 18:08 崇德苑 209 室
+
 
 
 
