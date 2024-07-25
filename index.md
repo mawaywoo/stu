@@ -2304,6 +2304,8 @@ Groups: math 	Career Status: Staff
 
 697. [noc20 ma20 lec18 Noetherian induction and **Transfinite induction**](https://www.youtube.com/watch?v=6FISrZAO5Ek) 2024-7-24 18:08 崇德苑 209 室
 
+698. [Progetto ItaCa](https://www.youtube.com/@ProgettoItaCaCT/videos) 2024-7-26 1:41 崇德苑 209 室
+
 
 
 
