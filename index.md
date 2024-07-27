@@ -417,6 +417,18 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [【吴克群】经典好听的音乐合集 带歌词](https://www.youtube.com/watch?v=3RRe2bou0ak) 2024-7-21 11:03 于岭南师范学院崇德苑 209 室
 
+[毛不易歌曲合集 2023 | 2023 流行 歌曲 毛 不 易 | 毛 不 易精選歌曲10首 | 毛 不 易2023年最新单曲合集](https://www.youtube.com/watch?v=1cD0Bb-O6-A&t=2360s)
+
+[【毛不易 Mao Buyi】-經典歌曲串燒合輯歌單](https://www.youtube.com/watch?v=NN-ZllYdf_w)
+
+[毛不易 原创歌曲五首:《 像我这样的人》《消愁》《无问》《一荤一素》《项羽虞姬》流行音乐×民乐，混搭出奇迹 Mao bu yi (带中文字幕）](https://www.youtube.com/watch?v=TcHcpOamZ5s)
+
+[毛不易精选歌曲合集，超爱选秀时期的消愁/二零三/像我这样的人/盛夏](https://www.youtube.com/watch?v=j80K57Xcmu4)
+
+[精选27首毛不易经典音乐合集](https://www.youtube.com/watch?v=anfukjhJ3YQ)
+
+[用歌声缓缓讲述每个人的故事，#毛不易 在华语乐坛用真诚“杀”出一条属于自己“血路”｜实力唱将&优质音乐为你而来｜MangoTV #maobuyi](https://www.youtube.com/watch?v=8tN-hSZEHFU&t=2526s)
+
 
 
 ## 电影
