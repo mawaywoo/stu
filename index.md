@@ -2318,6 +2318,8 @@ Groups: math 	Career Status: Staff
 
 698. [Progetto ItaCa](https://www.youtube.com/@ProgettoItaCaCT/videos) 2024-7-26 1:41 崇德苑 209 室
 
+699. 重新学习集合论，一切基于“**公理化**”，不要启用直觉和尝试，理解集合论的各条公理很有趣。[Set Theory](https://www.youtube.com/watch?v=KfKRRCVbtW0&list=PLt9lM2M6C7wN3doDusZ9JhXZBRNJsu1rR&index=49) 2024-7-31 2:26 崇德苑 209 室
+
 
 
 
