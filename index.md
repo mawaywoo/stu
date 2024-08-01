@@ -2320,7 +2320,7 @@ Groups: math 	Career Status: Staff
 
 699. 重新学习集合论，一切基于“**公理化**”，不要启用直觉和尝试，理解集合论的各条公理很有趣。注意区分“形”和“义”。[Set Theory](https://www.youtube.com/watch?v=KfKRRCVbtW0&list=PLt9lM2M6C7wN3doDusZ9JhXZBRNJsu1rR&index=49) 2024-7-31 2:26 崇德苑 209 室
 
-700. 范畴化的思想是**用较复杂的对象研究简单对象**，将**集合论语言叙述的结论提升到范畴理论中的结论**。[U (so (8, C)) 向量表示的范畴化](https://journal.bjut.edu.cn/bjgydxxb/cn/article/pdf/preview/c6e778e2-2d39-4c79-b506-8bbb4d90a7c7.pdf) and [李超代数 osp (1| 2) 的范畴化](https://journal.bjut.edu.cn/bjgydxxb/cn/article/pdf/preview/64bf6bf6-a03f-4923-a983-a4c44a63e480.pdf) 2024-8-1 14:52 崇德苑 209 室
+700. 范畴化的思想是**用较复杂的对象研究简单对象**，将**集合论语言叙述的结论提升到范畴理论中的结论**。[U (so (8, C)) 向量表示的范畴化](https://journal.bjut.edu.cn/bjgydxxb/cn/article/pdf/preview/c6e778e2-2d39-4c79-b506-8bbb4d90a7c7.pdf) and [李超代数 osp (1| 2) 的范畴化](https://journal.bjut.edu.cn/bjgydxxb/cn/article/pdf/preview/64bf6bf6-a03f-4923-a983-a4c44a63e480.pdf) and [Volodymyr Mazorchuk: Introduction to 2 representation theory](https://www.youtube.com/watch?v=sR2riytfWNo&t=756s) 2024-8-1 14:52 崇德苑 209 室
 
 
 
