@@ -2326,6 +2326,8 @@ Groups: math 	Career Status: Staff
 
 702. 倾斜复形：尺寸最小，K^b(prj)，它给出导出等价；而silting复形则对 Ext-距离有限制，silting对mutation运算表现很好（即mutation之后还是silting的），但不能给出导出等价。[Jenny August: Silting and Tilting Theory for Weakly Symmetric Algebras](https://www.youtube.com/watch?v=npngbgZbrYQ) 2024-8-2 22:37 崇德苑 209 室
 
+703. 倾斜子范畴（21:57）[Tilting theory in exact categories - Julia Sauter (Universität Bielefeld)](https://www.youtube.com/watch?v=t9IcBKjRzVg) 2024-8-3 0:07 崇德苑 209 室
+
 
 
 
