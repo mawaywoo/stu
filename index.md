@@ -2322,7 +2322,7 @@ Groups: math 	Career Status: Staff
 
 700. 范畴化的思想是**用较复杂的对象研究简单对象**，将**集合论语言叙述的结论提升到范畴理论中的结论**。[U (so (8, C)) 向量表示的范畴化](https://journal.bjut.edu.cn/bjgydxxb/cn/article/pdf/preview/c6e778e2-2d39-4c79-b506-8bbb4d90a7c7.pdf) and [李超代数 osp (1| 2) 的范畴化](https://journal.bjut.edu.cn/bjgydxxb/cn/article/pdf/preview/64bf6bf6-a03f-4923-a983-a4c44a63e480.pdf) and [Volodymyr Mazorchuk: Introduction to 2 representation theory](https://www.youtube.com/watch?v=sR2riytfWNo&t=756s) 2024-8-1 14:52 崇德苑 209 室
 
-701. 倾斜模 T 的定义：投射摸可以生成 T，T 和自己的 Copy 间有 Ext-**距离**，A 可被 Add T 生成；对 T 的**尺寸控制**有 T 是否 f.g，Add T 还是 add T，T_i 是否 f.g 等。T 的尺寸足够小，可以得到范畴等价，尺寸不太好，只能得到粘合。 [Changсhang Xi. Good tilting modules and recollements](https://www.youtube.com/watch?v=0O5qAjnxvC8) 2024-8-2 21:35 崇德苑 209 室
+701. 倾斜模 T 的定义（3:34）：投射摸可以生成 T，T 和自己的 Copy 间有 Ext-**距离**，A 可被 Add T 生成；对 T 的**尺寸控制**有 T 是否 f.g，Add T 还是 add T。T 的尺寸足够小，可以得到范畴等价，尺寸不太好，只能得到粘合。 [Changсhang Xi. Good tilting modules and recollements](https://www.youtube.com/watch?v=0O5qAjnxvC8) 2024-8-2 21:35 崇德苑 209 室
 
 
 
