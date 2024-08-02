@@ -2324,6 +2324,8 @@ Groups: math 	Career Status: Staff
 
 701. 倾斜模 T 的定义（3:34）：投射摸可以生成 T，T 和自己的 Copy 间有 Ext-**距离**，A 可被 Add T 生成；对 T 的**尺寸控制**有 T 是否 f.g，Add T 还是 add T。T 的尺寸足够小，可以得到范畴等价，尺寸不太好，只能得到粘合。 [Changсhang Xi. Good tilting modules and recollements](https://www.youtube.com/watch?v=0O5qAjnxvC8) 2024-8-2 21:35 崇德苑 209 室
 
+702. 倾斜复形：尺寸最小，K^b(prj)，它给出导出等价；而silting复形则对 Ext-距离有限制，silting对mutation运算表现很好（即mutation之后还是silting的），但不能给出导出等价。[Jenny August: Silting and Tilting Theory for Weakly Symmetric Algebras](https://www.youtube.com/watch?v=npngbgZbrYQ) 2024-8-2 22:37 崇德苑 209 室
+
 
 
 
