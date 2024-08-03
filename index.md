@@ -2332,6 +2332,9 @@ Groups: math 	Career Status: Staff
      ![tilt](https://github.com/mawaywoo/stu/blob/mawaywoo/tilt.jpg)
 
 704. [2021 J. August: Higher torsion classes and -tilting theory](https://www.bilibili.com/video/BV1Aq4y1f7jU/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-8-3 11:45 崇德苑 209 室
+     ![tor-til](https://github.com/mawaywoo/stu/blob/mawaywoo/tor-til.jpg)
+
+705. 
      
 
 
