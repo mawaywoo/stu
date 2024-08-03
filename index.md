@@ -2331,7 +2331,7 @@ Groups: math 	Career Status: Staff
      终于理解了倾斜模、倾斜复形、倾斜对象、倾斜子范畴的定义（定义中各个条件的含义）：**思想就是：T 属于（小）投射对象，T^perp 包含所有内射对象 I，T^perp （或 I）能余生成整个范畴**。
      ![tilt](https://github.com/mawaywoo/stu/blob/mawaywoo/tilt.jpg)
 
-704. [2021 J. August: Higher torsion classes and -tilting theory](https://www.bilibili.com/video/BV1Aq4y1f7jU/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-8-3 11:45 崇德苑 209 室
+704. [2021 J. August: Higher torsion classes and -tilting theory](https://www.bilibili.com/video/BV1Aq4y1f7jU/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) **推广投射模类和内射模类的方法：用高阶 Ext-零化类（即用高阶 Ext 取出来的子范畴往往含有投射类或内射类）**。2024-8-3 11:45 崇德苑 209 室
      ![tor-til](https://github.com/mawaywoo/stu/blob/mawaywoo/tor-til.jpg)
 
 705. 
