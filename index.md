@@ -2330,6 +2330,8 @@ Groups: math 	Career Status: Staff
 
      终于理解了倾斜模、倾斜复形、倾斜对象、倾斜子范畴的定义（定义中各个条件的含义）：
      ![tilting](https://github.com/mawaywoo/stu/blob/mawaywoo/tilting.jpg)
+     and
+     ![til](https://github.com/mawaywoo/stu/blob/mawaywoo/til.jpg)
      
 
 
