@@ -2334,7 +2334,7 @@ Groups: math 	Career Status: Staff
 704. [2021 J. August: Higher torsion classes and -tilting theory](https://www.bilibili.com/video/BV1Aq4y1f7jU/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) **推广投射模类和内射模类的方法：用高阶 Ext-零化类（即用高阶 Ext 取出来的子范畴往往含有投射类或内射类）**。2024-8-3 11:45 崇德苑 209 室
      ![tor-til](https://github.com/mawaywoo/stu/blob/mawaywoo/tor-til.jpg)
 
-705. 
+705. totally acyclic complexes, Gorestein projective modules (MCM), sigular categories 之间的**关系和转化**(12:46)。[Peder Thompson: Using totally acyclic complexes to extend work of Buchweitz to a non-affine setting](https://www.youtube.com/watch?v=g_XPvB7vqx0) and [Tyler Anway: Classification of Totally Acyclic Complexes over Local Gorenstein Rings](https://www.youtube.com/watch?v=QjZR8_348DU) 2024-8-4 1:32 崇德苑 209 室
      
 
 
