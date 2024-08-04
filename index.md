@@ -2335,6 +2335,8 @@ Groups: math 	Career Status: Staff
      ![tor-til](https://github.com/mawaywoo/stu/blob/mawaywoo/tor-til.jpg)
 
 705. totally acyclic complexes, Gorestein projective modules (MCM), sigular categories 之间的**关系和转化**(12:46)。[Peder Thompson: Using totally acyclic complexes to extend work of Buchweitz to a non-affine setting](https://www.youtube.com/watch?v=g_XPvB7vqx0) and [Tyler Anway: Classification of Totally Acyclic Complexes over Local Gorenstein Rings](https://www.youtube.com/watch?v=QjZR8_348DU) 2024-8-4 1:32 崇德苑 209 室
+
+706. silting theory [Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw) 2024-8-4 11:46 崇德苑 209 室
      
 
 
