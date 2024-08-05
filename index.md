@@ -2339,7 +2339,8 @@ Groups: math 	Career Status: Staff
 706. silting theory [Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw) 2024-8-4 11:46 崇德苑 209 室
      duality, Nakayama functor, Auslander-Reiten translation
      ![functor](https://github.com/mawaywoo/stu/blob/mawaywoo/functor.jpg)
-708. 
+
+708. 倾斜复形 [Topological derived Morita theory and some applications - Michal Hrbek (Czech Academy of Sciences)](https://www.youtube.com/watch?v=Ys7yubo-yfM) 2024-8-5 12:55 崇德苑 209 室
      
 
 
