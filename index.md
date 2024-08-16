@@ -429,6 +429,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [用歌声缓缓讲述每个人的故事，#毛不易 在华语乐坛用真诚“杀”出一条属于自己“血路”｜实力唱将&优质音乐为你而来｜MangoTV #maobuyi](https://www.youtube.com/watch?v=8tN-hSZEHFU&t=2526s)
 
+[經典廣東歌 - 二十首鄭中基經典歌曲｜90年代必聽精選 ｜ 80，90年代香港流行歌曲｜好歌永遠不會過時｜鄭中基經典歌曲合集串燒](https://www.youtube.com/watch?v=T86nGNksLLs)
+
 
 
 ## 电影
