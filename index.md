@@ -431,6 +431,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [經典廣東歌 - 二十首鄭中基經典歌曲｜90年代必聽精選 ｜ 80，90年代香港流行歌曲｜好歌永遠不會過時｜鄭中基經典歌曲合集串燒](https://www.youtube.com/watch?v=T86nGNksLLs)
 
+[側田20首必聽廣東歌 I Justin Best 20 Cantopop Hits](https://www.youtube.com/watch?v=q6LJiCop9J8)
+
 
 
 ## 电影
@@ -2343,6 +2345,8 @@ Groups: math 	Career Status: Staff
      ![functor](https://github.com/mawaywoo/stu/blob/mawaywoo/functor.jpg)
 
 708. 倾斜复形 [Topological derived Morita theory and some applications - Michal Hrbek (Czech Academy of Sciences)](https://www.youtube.com/watch?v=Ys7yubo-yfM) 2024-8-5 12:55 崇德苑 209 室
+
+709. 暑假: 8.10-8.18，今天回来湛江，因为明天要参加“岗前培训课程”，shit! 回家前(8.9)上次到 arXiv 的论文现在还是 on hold 状态，第一次遇见这种情况。2024-8-18 18:19 崇德苑 209 室
      
 
 
