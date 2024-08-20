@@ -2347,6 +2347,8 @@ Groups: math 	Career Status: Staff
 708. 倾斜复形 [Topological derived Morita theory and some applications - Michal Hrbek (Czech Academy of Sciences)](https://www.youtube.com/watch?v=Ys7yubo-yfM) 2024-8-5 12:55 崇德苑 209 室
 
 709. 暑假: 8.10-8.18，今天回来湛江，因为明天要参加“岗前培训课程”，shit! 回家前(8.9)上次到 arXiv 的论文现在还是 on hold 状态，第一次遇见这种情况。2024-8-18 18:19 崇德苑 209 室
+
+710. 这学期上《解析几何》，重新回顾一下这门课的“精神”。[Analytic geometry and the continuum (a) | Math History | NJ Wildberger](https://www.youtube.com/watch?v=kAyAADExL9Q) 2024-8-20 22:29 崇德苑 209 室
      
 
 
