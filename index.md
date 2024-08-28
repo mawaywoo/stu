@@ -236,6 +236,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [DG Methods in Commutative Algebra and Representation Theory](https://www.math.utah.edu/~briggs/dgsession) | [BIMSA](https://www.youtube.com/@BIMSA-yz9ce) | [ICBS 2024](https://www.youtube.com/playlist?list=PLg7CTkYyb582wrSa6Tm64tV6nIr6CXvYT) |
 [Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw&list=PLg7CTkYyb582wrSa6Tm64tV6nIr6CXvYT&index=39) | [Higher torsion classes and silting complexes - Sondre Kvamme (NTNU Trondheim)](https://www.youtube.com/watch?v=tENYD_BUBus&t=24s) | [Set Theory](https://www.youtube.com/watch?v=REi9Qaby_vQ&list=PLt9lM2M6C7wN3doDusZ9JhXZBRNJsu1rR&index=48) |
 [ItaCa Fest IV](https://www.youtube.com/playlist?list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App) | [Progetto ItaCa](https://www.youtube.com/@ProgettoItaCaCT/videos) | [International Conference on Representations of Algebras (ICRA 21, 2024)](https://icra21.sjtu.edu.cn/index.html) |
+[TRHW01 | Prof. Christoph Schweigert | Module categories over tensor categories: Part I](https://www.youtube.com/watch?v=o4f9rNSqiqg) |
 
 
 
@@ -2353,6 +2354,9 @@ Groups: math 	Career Status: Staff
 710. 这学期上《解析几何》，重新回顾一下这门课的“精神”。1. 坐标；2. 代数 VS 几何；3. 坐标系变换使几何的表达式变成标准形式；4. 根据方程(代数)，提取代数不变量对几何按标准形式进行分类。[Analytic geometry and the continuum (a) | Math History | NJ Wildberger](https://www.youtube.com/watch?v=kAyAADExL9Q) 2024-8-20 22:29 崇德苑 209 室
 
 711. 刚刚注册了 JPAA, Mawei Wu, Wumaweipi7. [Journal of Pure and Applied Algebra](https://www2.cloud.editorialmanager.com/jpaa/default2.aspx) 2024-8-24 19:47 崇德苑 209 室
+
+712. [TRHW01 | Prof. Christoph Schweigert | Module categories over tensor categories: Part I](https://www.youtube.com/watch?v=o4f9rNSqiqg) 2024-8-28 18:37 崇德苑 209 室
+
      
 
 
