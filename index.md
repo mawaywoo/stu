@@ -236,7 +236,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [DG Methods in Commutative Algebra and Representation Theory](https://www.math.utah.edu/~briggs/dgsession) | [BIMSA](https://www.youtube.com/@BIMSA-yz9ce) | [ICBS 2024](https://www.youtube.com/playlist?list=PLg7CTkYyb582wrSa6Tm64tV6nIr6CXvYT) |
 [Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw&list=PLg7CTkYyb582wrSa6Tm64tV6nIr6CXvYT&index=39) | [Higher torsion classes and silting complexes - Sondre Kvamme (NTNU Trondheim)](https://www.youtube.com/watch?v=tENYD_BUBus&t=24s) | [Set Theory](https://www.youtube.com/watch?v=REi9Qaby_vQ&list=PLt9lM2M6C7wN3doDusZ9JhXZBRNJsu1rR&index=48) |
 [ItaCa Fest IV](https://www.youtube.com/playlist?list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App) | [Progetto ItaCa](https://www.youtube.com/@ProgettoItaCaCT/videos) | [International Conference on Representations of Algebras (ICRA 21, 2024)](https://icra21.sjtu.edu.cn/index.html) |
-[TRHW01 | Prof. Christoph Schweigert | Module categories over tensor categories: Part I](https://www.youtube.com/watch?v=o4f9rNSqiqg) |
+[TRHW01 Prof. Christoph Schweigert Module categories over tensor categories: Part I](https://www.youtube.com/watch?v=o4f9rNSqiqg) |
 
 
 
