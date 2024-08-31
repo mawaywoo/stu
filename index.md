@@ -450,6 +450,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [野草莓](https://www.youtube.com/watch?v=TxBY5kmUZR0&t=3s)
 
+[I, Robot](https://www.youtube.com/watch?v=T_j86uJWyyk)
+
 ## 音乐
 
 [半杯清茶社](https://www.youtube.com/channel/UCzYJ6f4wUfZ_PyXaOm_iEZA/videos)
