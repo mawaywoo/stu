@@ -2361,7 +2361,7 @@ Groups: math 	Career Status: Staff
 
 712. [TRHW01 | Prof. Christoph Schweigert | Module categories over tensor categories: Part I](https://www.youtube.com/watch?v=o4f9rNSqiqg) and [TRHW01 | Prof. Christoph Schweigert | Module categories over tensor categories: Part II](https://www.youtube.com/watch?v=yD65DgfsJHI) 2024-8-28 18:37 崇德苑 209 室
 
-713. [Monoidal cats and their reps. Lecture 3: monoidal functors and strictness (by Walter Mazorchuk)](https://www.youtube.com/watch?v=lNwJXJ6aliE) 2024-9-3 19:45 崇德苑 209 室
+713. [Monoidal categories and their representations (by Walter Mazorchuk)](https://www.youtube.com/playlist?list=PLn6dA-hP_G8SMX1-iqobFA31ux76zKW6y) 2024-9-3 19:45 崇德苑 209 室
 
      
 
