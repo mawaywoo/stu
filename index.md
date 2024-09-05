@@ -454,6 +454,10 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [I, Robot](https://www.youtube.com/watch?v=T_j86uJWyyk)
 
+## 动漫
+
+[樱花动漫](http://m.yinghua8.io/) 2024-9-5 16:49
+
 ## 音乐
 
 [半杯清茶社](https://www.youtube.com/channel/UCzYJ6f4wUfZ_PyXaOm_iEZA/videos)
