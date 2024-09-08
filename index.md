@@ -2369,6 +2369,8 @@ Groups: math 	Career Status: Staff
 
 713. [Monoidal categories and their representations (by Walter Mazorchuk)](https://www.youtube.com/playlist?list=PLn6dA-hP_G8SMX1-iqobFA31ux76zKW6y) 2024-9-3 19:45 崇德苑 209 室
 
+714. arXiv 的那篇文章 on hold 了一个月，今天终于 submitted 了。今天一天考完了高等教育岗前培训的 6 门考试，明天上午还要去博雅苑迎新。2024-9-8 23:28 崇德苑 209 室 
+
      
 
 
