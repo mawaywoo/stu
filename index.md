@@ -107,7 +107,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [Pseudoskew category algebras and modules over representations of small categories](https://arxiv.org/abs/2406.19883)
 
-[A characterization of modules over dg-representations of small categories](https://www.researchgate.net/publication/383703709_A_characterization_of_modules_over_dg-representations_of_small_categories#fullTextFileContent)
+[A characterization of modules over dg-representations of small categories](https://arxiv.org/abs/2409.04442)
 
 ## Overleaf
 
