@@ -2369,7 +2369,29 @@ Groups: math 	Career Status: Staff
 
 713. [Monoidal categories and their representations (by Walter Mazorchuk)](https://www.youtube.com/playlist?list=PLn6dA-hP_G8SMX1-iqobFA31ux76zKW6y) 2024-9-3 19:45 崇德苑 209 室
 
-714. arXiv 的那篇文章 on hold 了一个月，今天终于 submitted 了。今天一天考完了高等教育岗前培训的 6 门考试，明天上午还要去博雅苑迎新。2024-9-8 23:28 崇德苑 209 室 
+714. arXiv 的那篇文章 on hold 了一个月，今天终于 submitted 了。今天一天考完了高等教育岗前培训的 6 门考试，明天上午还要去博雅苑迎新。2024-9-8 23:28 崇德苑 209 室
+
+715. 被拒稿了，有点小失落。貌似一直找不到审稿人，发出 4 封邀请函都没有人接受。2024-7-6 到 2024-9-13。2024-9-14 2:25 崇德苑 209 室
+
+    Quick opinion:
+
+It appears to me that a representation R of C in the sense of Def. 2.1.1 is a “quiver with local coefficients".
+
+Indeed, if k is a commutative ring considered as a preadditive category with one object and C is the path category
+of a quiver Q, then we can let R have the constant value k on objects and the constant value id_k on morphisms.
+Then I think an R-module in the sense of Def. 2.1.3 is, in effect, a representation of Q with values in Mod(k).
+
+In these circumstances, it seems the R[C] of Def. 2.2.2 is the path algebra kQ while Gr(R) of Def. 2.2.1 is the
+k-linear path category of Q, and Thms. A and C are the known statements that representations of Q with values in
+Mod(k) are equivalent to R[C]-modules, respectively additive functors Gr(R)->Ab.
+
+Thms. A and C are more general than these special cases, but it would have been useful to point out that they can
+be specialised like this.
+
+It would also have been useful to provide one or more applications of the general results. In their absence, I am
+not sure that this is suitable for the Journal of Algebra.
+
+716. 
 
      
 
