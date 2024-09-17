@@ -2391,7 +2391,23 @@ be specialised like this.
 It would also have been useful to provide one or more applications of the general results. In their absence, I am
 not sure that this is suitable for the Journal of Algebra.
 
-716. 
+716. 论文又被 JPAA 拒稿了，刚刚又投到了 Bulletin of the London Mathematical Society. 2024-9-17 13:41 崇德苑 209 室
+      
+Pseudoskew category algebras and modules over representations of small categories 
+
+Dear Dr. Wu,    
+
+Thank you for submitting your paper for consideration in the Journal of Pure and Applied Algebra.  However, I am returning this without soliciting any referee reports, for we are already processing on of your papers, on a very similar topic, submitted  recently to the JPAA. It is very difficult to find referees anyway, and finding two for closely related papers in short span of time is almost impossible. 
+
+I kindly request you to consider another outlet for your work.
+
+Best,
+
+Srikanth Iyengar
+Managing Editor
+JPAA
+
+717. 
 
      
 
