@@ -2409,7 +2409,7 @@ Srikanth Iyengar
 Managing Editor
 JPAA
 
-717. 
+717. [An invitation to topos-theoretic model theory](https://www.oliviacaramello.com/Videos/Videos.htm) 2024-9-27 17:11 崇德苑 209 室 
 
      
 
