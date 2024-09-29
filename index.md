@@ -217,7 +217,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [天元表示论讨论班](https://space.bilibili.com/7037545/channel/series) | [sheaves and logic](https://sites.google.com/view/pssl-107-athens/schedule) | [Virtual Double Categories Workshop](https://www.youtube.com/@DoubleCategoriesWorkshop/featured) |
 [Francis Borceux - 拓扑斯理论的非正式概述 1-5](https://www.bilibili.com/video/BV1CV4y1k7EA/?spm_id_from=333.788.recommend_more_video.-1) | [The Topos Institute Colloquium](https://topos.site/topos-colloquium/) | [Categories and Companions Symposium - 2022](https://www.youtube.com/@CaCS2022) |
 [FMF Foundations seminar](https://www.youtube.com/@fmffoundationsseminar6878/videos) | [An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo) | [EPDF](https://epdf.tips/) |
-[Flash Talks in Representation Theory 2023](https://www.youtube.com/playlist?list=PLcLpn3xOEb-nKh4woEQFKxMEOTbqWUTCl) | [International Conference Alerts - ICA](https://conferencealert.com/) | 
+[Flash Talks in Representation Theory 2023](https://www.youtube.com/playlist?list=PLcLpn3xOEb-nKh4woEQFKxMEOTbqWUTCl) | [International Conference Alerts - ICA](https://conferencealert.com/) | [Feb 3d, Grisha Taroian, Homological algebra in topoi](https://www.youtube.com/watch?v=SxLvhz-WI4E&list=PLkY8aHDt-5vxJSGj-8uhZqbL8ITF0nq7j&index=12) |
 
 
 博士毕业 2023-6-21 
@@ -2409,7 +2409,9 @@ Srikanth Iyengar
 Managing Editor
 JPAA
 
-717. [An invitation to topos-theoretic model theory](https://www.oliviacaramello.com/Videos/Videos.htm) 2024-9-27 17:11 崇德苑 209 室 
+717. [An invitation to topos-theoretic model theory](https://www.oliviacaramello.com/Videos/Videos.htm) 2024-9-27 17:11 崇德苑 209 室
+
+718. [Feb 3d, Grisha Taroian, Homological algebra in topoi](https://www.youtube.com/watch?v=SxLvhz-WI4E&list=PLkY8aHDt-5vxJSGj-8uhZqbL8ITF0nq7j&index=12) 2024-9-29 18:26 崇德苑 209 室
 
      
 
