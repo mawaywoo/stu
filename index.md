@@ -2413,6 +2413,8 @@ JPAA
 
 718. [Feb 3d, Grisha Taroian, Homological algebra in topoi](https://www.youtube.com/watch?v=SxLvhz-WI4E&list=PLkY8aHDt-5vxJSGj-8uhZqbL8ITF0nq7j&index=12) 2024-9-29 18:26 崇德苑 209 室
 
+719. torsion pairs 那篇文章被代数杂志拒了，今晚转投了 Bulletin of the American Mathematical Society. 2024-10-8 23:54 崇德苑 209 室
+
      
 
 
