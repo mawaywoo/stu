@@ -2415,6 +2415,8 @@ JPAA
 
 719. torsion pairs 那篇文章被代数杂志拒了，今晚转投了 Bulletin of the American Mathematical Society. 2024-10-8 23:54 崇德苑 209 室
 
+720. 发现 BAMS 的期刊收稿范围不符合我的论文，于是写信撤稿了，刚刚转投了 Communications in Algebra，Wumaweipi7 2024-10-9 19:58 崇德苑 209 室 
+
      
 
 
