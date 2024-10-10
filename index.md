@@ -238,7 +238,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [DG Methods in Commutative Algebra and Representation Theory](https://www.math.utah.edu/~briggs/dgsession) | [BIMSA](https://www.youtube.com/@BIMSA-yz9ce) | [ICBS 2024](https://www.youtube.com/playlist?list=PLg7CTkYyb582wrSa6Tm64tV6nIr6CXvYT) |
 [Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw&list=PLg7CTkYyb582wrSa6Tm64tV6nIr6CXvYT&index=39) | [Higher torsion classes and silting complexes - Sondre Kvamme (NTNU Trondheim)](https://www.youtube.com/watch?v=tENYD_BUBus&t=24s) | [Set Theory](https://www.youtube.com/watch?v=REi9Qaby_vQ&list=PLt9lM2M6C7wN3doDusZ9JhXZBRNJsu1rR&index=48) |
 [ItaCa Fest IV](https://www.youtube.com/playlist?list=PLwOJoZOlTAm_UQhrLlaC53FgqC4-k9App) | [Progetto ItaCa](https://www.youtube.com/@ProgettoItaCaCT/videos) | [International Conference on Representations of Algebras (ICRA 21, 2024)](https://icra21.sjtu.edu.cn/index.html) |
-[TRHW01 Prof. Christoph Schweigert Module categories over tensor categories: Part I](https://www.youtube.com/watch?v=o4f9rNSqiqg) | [TRHW01 Prof. Christoph Schweigert Module categories over tensor categories: Part II](https://www.youtube.com/watch?v=yD65DgfsJHI) |
+[TRHW01 Prof. Christoph Schweigert Module categories over tensor categories: Part I](https://www.youtube.com/watch?v=o4f9rNSqiqg) | [TRHW01 Prof. Christoph Schweigert Module categories over tensor categories: Part II](https://www.youtube.com/watch?v=yD65DgfsJHI) | [Vanessa Miemietz: Cell 2 representations and categorification at roots of u](https://www.youtube.com/watch?v=swa-yrBKWhg) |
 
 
 
@@ -331,7 +331,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Homepage of Wendy Lowen](https://win.uantwerpen.be/~wlowen/publications.html) | [Valentina Grazian](https://grazianvalentina.wordpress.com/) | [Piotr Kowalski](https://philpeople.org/profiles/piotr-kowalski) | [Vlad Patryshev](https://www.researchgate.net/profile/Vlad-Patryshev) | [Farida Kachapova](https://www.researchgate.net/profile/Farida-Kachapova) | [Razieh Vahed](https://scholar.google.com/citations?user=YOJkKdcAAAAJ&hl=en) | [Laurent Théry](https://www.researchgate.net/profile/Laurent-Thery-2) | [Michal Hrbek](https://users.math.cas.cz/~hrbek/) | [Jan Trlifaj](https://www.karlin.mff.cuni.cz/~trlifaj/en/index.html) | [Yann Palu](https://www.lamfa.u-picardie.fr/palu/) |
 [Jenny August](https://orcid.org/0000-0001-7999-3858) | [Liran Shaul](https://www.researchgate.net/profile/Liran-Shaul) | [Haruhisa Enomoto](https://haruhisa-enomoto.github.io/) | [Arashi Sakai](https://www.semanticscholar.org/author/Arashi-Sakai/1994206056) | [Jan Stovicek](https://www.karlin.mff.cuni.cz/~stovicek/index.php/en/publications) | [Paolo Stellari](https://sites.unimi.it/stellari/) | [Hiroyuki Nakaoka](https://www.sci.kagoshima-u.ac.jp/nakaoka/) | [Javad Asadollahi](https://ipm.ac.ir/personalinfo.jsp?PeopleCode=IP9900182) | [Grigory Garkusha](https://www.swansea.ac.uk/staff/g.garkusha/) | [Bethany Marsh](http://www1.maths.leeds.ac.uk/~marsh/) |
 [Lars Winther Christensen](https://www.math.ttu.edu/~lchriste/) | [Rune Haugseng](https://folk.ntnu.no/runegha/papers.html) | [Francesca Mantese](https://www.di.univr.it/?ent=persona&lang=en&id=211) | [Maru Sarazola](https://sites.google.com/view/msarazola/home) | [Ryo Kanda](https://ryokanda.net/) | [Harry Gulliver](http://www.hgulliver.uk/) | [Silvana Bazzoni](https://www.math.unipd.it/~bazzoni/) | [Dorette Pronk](https://www.dal.ca/faculty/science/math-stats/faculty-staff/our-faculty/mathematics/dorette-pronk.html) | [Susan Niefield](https://www.math.union.edu/~niefiels/) |[Bojana Femic](https://scholar.google.com/citations?user=LkSF7pMAAAAJ&hl=en) |
-[Bojana Femic](http://www.mi.sanu.ac.rs/~bfemic/) | [Yuri Berest](https://math.cornell.edu/yuri-berest) | [Luchezar L. Avramov](https://scholar.google.com/citations?user=IZ2PlOAAAAAJ&hl=en) | [Geoffrey Powell](https://math.univ-angers.fr/~powell/home/prepub/) |
+[Bojana Femic](http://www.mi.sanu.ac.rs/~bfemic/) | [Yuri Berest](https://math.cornell.edu/yuri-berest) | [Luchezar L. Avramov](https://scholar.google.com/citations?user=IZ2PlOAAAAAJ&hl=en) | [Geoffrey Powell](https://math.univ-angers.fr/~powell/home/prepub/) | [Vanessa Miemietz](https://research-portal.uea.ac.uk/en/persons/vanessa-miemietz) |
 
 
 
@@ -2418,6 +2418,8 @@ JPAA
 720. 发现 BAMS 的期刊收稿范围不符合我的论文，于是写信撤稿了，刚刚转投了 Communications in Algebra，Wumaweipi7 2024-10-9 19:58 崇德苑 209 室
 
 721. [Chris Heunen - 张量拓扑 1: 幺半范畴和中心](https://www.bilibili.com/video/BV1ks4y1w7ij/?spm_id_from=333.788&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-10-9 21:16 崇德苑 209 室
+
+722. [Vanessa Miemietz: Cell 2 representations and categorification at roots of u](https://www.youtube.com/watch?v=swa-yrBKWhg) 2024-10-10 10:24 崇德苑 209 室
 
      
 
