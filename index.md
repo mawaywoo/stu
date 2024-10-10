@@ -2419,7 +2419,7 @@ JPAA
 
 721. [Chris Heunen - 张量拓扑 1: 幺半范畴和中心](https://www.bilibili.com/video/BV1ks4y1w7ij/?spm_id_from=333.788&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-10-9 21:16 崇德苑 209 室
 
-722. [Vanessa Miemietz: Cell 2 representations and categorification at roots of u](https://www.youtube.com/watch?v=swa-yrBKWhg) 2024-10-10 10:24 崇德苑 209 室
+722. [Vanessa Miemietz: Cell 2 representations and categorification at roots of u](https://www.youtube.com/watch?v=swa-yrBKWhg) and [Higher representation theory, Vanessa Miemietz - 12/10/23](https://www.youtube.com/watch?v=BlXoh1ZS0qA&list=PLUbgZHsSoMEUpxOvS_HbBthivoEsmzs0U&index=11) 2024-10-10 10:24 崇德苑 209 室
 
      
 
