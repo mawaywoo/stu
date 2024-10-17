@@ -2422,6 +2422,8 @@ JPAA
 
 722. [Vanessa Miemietz: Cell 2 representations and categorification at roots of u](https://www.youtube.com/watch?v=swa-yrBKWhg) and [Higher representation theory, Vanessa Miemietz - 12/10/23](https://www.youtube.com/watch?v=BlXoh1ZS0qA&list=PLUbgZHsSoMEUpxOvS_HbBthivoEsmzs0U&index=11) 2024-10-10 10:24 崇德苑 209 室
 
+723. [Virgile Constantin - Exploring Topos Theory: From Generalized Spaces to Universal Algebra](https://www.youtube.com/watch?v=8fX1emNOM2A) 2024-10-17 10:53 崇德苑 209 室
+
      
 
 
