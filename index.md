@@ -2428,6 +2428,8 @@ JPAA
 
 725. [Lesson 4 : Internal logic of a topos](https://www.youtube.com/watch?v=L9SVYm3Nfm4) 通过英语来类比和解释内蕴语言，很生动、形象。2024-10-19 21:11 崇德苑 209 室
 
+726. 一定要区分清楚：哪个是内蕴语言的世界，哪个是**模拟这些内蕴语言**的世界，这两个世界可以看成是镜像世界，一模一样，可以自由穿梭，互相调用、滥用彼此的语言，它们所指的都是同一个东西，但要区分是**在哪个世界中描述**这一个东西。[Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=21) 2024-10-19 23:24 崇德苑 209 室
+
      
 
 
