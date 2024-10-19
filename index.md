@@ -2426,6 +2426,8 @@ JPAA
 
 724. 拓扑斯的**内蕴语言** <————灵活穿梭于两个“一样的”世界————> Interpretation 为拓扑斯中的**层**。2024-10-19 1:26 崇德苑 209 室
 
+725. [Lesson 4 : Internal logic of a topos](https://www.youtube.com/watch?v=L9SVYm3Nfm4) 通过英语来类比和解释内蕴语言，很生动、形象。2024-10-19 21:11 崇德苑 209 室
+
      
 
 
