@@ -2424,7 +2424,7 @@ JPAA
 
 723. [Virgile Constantin - Exploring Topos Theory: From Generalized Spaces to Universal Algebra](https://www.youtube.com/watch?v=8fX1emNOM2A) 对 topos 看作拓扑空间解释得挺好，见 22:20. 对 theory 也解释得很好，见 41:56. 2024-10-17 10:53 崇德苑 209 室
 
-724. 拓扑斯的**内蕴语言** <————灵活穿梭于两个“一样的”世界————> Interpretation 为拓扑斯中的**层**。2024-10-19 1:26 崇德苑 209 室
+724. 拓扑斯的**内蕴语言** <————灵活穿梭于两个“一样的”世界————> Interpretation 为拓扑斯中的**层**，两个“一样的”世界的交互：语言、字符的世界与**模拟**该语言和字符的世界。2024-10-19 1:26 崇德苑 209 室
 
 725. [Lesson 4 : Internal logic of a topos](https://www.youtube.com/watch?v=L9SVYm3Nfm4) 通过英语来类比和解释内蕴语言，很生动、形象。2024-10-19 21:11 崇德苑 209 室
 
