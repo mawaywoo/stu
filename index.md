@@ -2432,6 +2432,8 @@ JPAA
 
 727. **Interpretation "=" 模拟**. 2024-10-19 23:31 崇德苑 209 室
 
+728. 在 [Olivia Caramello - 1/4 Introduction to categorical logic, classifying toposes](https://www.youtube.com/watch?v=KtNlItQOE9E) 30:28 中的 A **|——**_X B, 意味着 for all X，A ——> B，而在 [Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=21) 中是有对应的 Interpretation(模拟) 的。2024-10-20 17:26 崇德苑 209 室  
+
      
 
 
