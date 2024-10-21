@@ -2438,6 +2438,8 @@ JPAA
 
 730. 模范畴中 Model Theory 和拓扑斯的内蕴语言类似，分为两个世界：语法和语义，只是这里的语言是 pp 公式，在**模范畴中 Interpretation (模拟)**. [Mike PREST - Model-theoretic imaginaries and localisation for additive categories](https://www.youtube.com/watch?v=P0BmJT5J19I&t=488s) 2024-10-21 15:13 崇德苑 209 室
 
+731. Homotopy Type Theory 是语法，是语言，它可以在单纯形范畴中 Interpretation (模拟)。[Emily Riehl: On the ∞-topos semantics of homotopy type theory: categorial semantics... - Lecture 1](https://www.youtube.com/watch?v=PejZfl5kOlU&t=2141s) 2024-10-22 1:13 崇德苑 209 室
+
      
 
 
