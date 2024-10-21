@@ -2434,7 +2434,9 @@ JPAA
 
 728. 在 [Olivia Caramello - 1/4 Introduction to categorical logic, classifying toposes](https://www.youtube.com/watch?v=KtNlItQOE9E) 30:28 中的 A **|——**_X B, 意味着 for all X，A ——> B，而在 [Category Theory For Beginners: Internal Language of a Topos (Mitchell-Bénabou Language)](https://www.youtube.com/watch?v=66glvnHX-a8&list=PLCTMeyjMKRkoS699U0OJ3ymr3r01sI08l&index=21) 中是有对应的 Interpretation(模拟) 的。2024-10-20 17:26 崇德苑 209 室
 
-729. {a|\phi(a)} 的 type 是 \Omega^A, why? 见 14:29, 子对象和特征映射是1-1的. [Some glances at topos theory, Francis Borceux](https://www.bilibili.com/video/BV1ot4y1i7Ah?spm_id_from=333.788.videopod.episodes&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=5) 2024-10-21 9:35 崇德苑 209 室 
+729. {a|\phi(a)} 的 type 是 \Omega^A, why? 见 14:29, 子对象和特征映射是1-1的. [Some glances at topos theory, Francis Borceux](https://www.bilibili.com/video/BV1ot4y1i7Ah?spm_id_from=333.788.videopod.episodes&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=5) 2024-10-21 9:35 崇德苑 209 室
+
+730. 模范畴中 Model Theory 和拓扑斯的内蕴语言类似，分为两个世界：语法和语义，只是这里的语言是 pp 公式，在**模范畴中 Interpretation (模拟)**. [Mike PREST - Model-theoretic imaginaries and localisation for additive categories](https://www.youtube.com/watch?v=P0BmJT5J19I&t=488s) 2024-10-21 15:13 崇德苑 209 室
 
      
 
