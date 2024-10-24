@@ -2443,6 +2443,8 @@ JPAA
 
 732. [Thierry Coquand: "Sheaf Cohomology in Univalent Type Theory"](https://www.bilibili.com/video/BV1SY411T7mC/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-10-23 19:02 崇德苑 209 室
 
+733. 在 monoidal category 中找到“开集”，并且把范畴中**巧妙地“融入”这些“开集”**(A \otimes U ——> B, **I think of "U ——> (A,B)"限制到 U**)，能否推广到一般的 site 上呢？怎么将 sieve 融入到 monoidal category 中？[Chris Heunen: "Sheaf representation of monoidal categories"](https://www.youtube.com/watch?v=XHCa8vk_T00&t=2354s) 2024-10-24 23:23 崇德苑 209 室
+
 
      
 
