@@ -2447,7 +2447,7 @@ JPAA
 
 734. [Nonetheless one should learn the language of topos: Grothendieck... - Colin McLarty [2018]](https://www.youtube.com/watch?v=vmcbm5FxRJE&t=147s) 2024-10-25 15:50 崇德苑 209 室
 
-735. [Steve Vickers: "The Fundamental Theorem of Calculus: point-free"](https://www.youtube.com/watch?v=L6LPEFteLts) 2024-10-25 18:22 崇德苑 209 室
+735. 无点拓扑、拓扑斯、内蕴语言。[Steve Vickers: "The Fundamental Theorem of Calculus: point-free"](https://www.youtube.com/watch?v=L6LPEFteLts) 2024-10-25 18:22 崇德苑 209 室
 
 
 
