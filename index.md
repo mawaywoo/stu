@@ -241,6 +241,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [TRHW01 Prof. Christoph Schweigert Module categories over tensor categories: Part I](https://www.youtube.com/watch?v=o4f9rNSqiqg) | [TRHW01 Prof. Christoph Schweigert Module categories over tensor categories: Part II](https://www.youtube.com/watch?v=yD65DgfsJHI) | [Vanessa Miemietz: Cell 2 representations and categorification at roots of u](https://www.youtube.com/watch?v=swa-yrBKWhg) |
 [Virgile Constantin - Exploring Topos Theory: From Generalized Spaces to Universal Algebra](https://www.youtube.com/watch?v=8fX1emNOM2A) | [Programs from proofs 1/3 by Ingo Blechschmidt: Introduction to constructive mathematics](https://www.youtube.com/watch?v=zkMeX1O9pEw) | [Topos Theory: A Unified Approach to Independence](https://www.youtube.com/playlist?list=PLN71BuiwBivAtJG2ELAVuDP1OdL7wqihY) |
 [Thierry Coquand: "Sheaf Cohomology in Univalent Type Theory"](https://www.bilibili.com/video/BV1SY411T7mC/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Steve Vickers: "The Fundamental Theorem of Calculus: point-free"](https://www.youtube.com/watch?v=L6LPEFteLts) | [Andrew Pitts - Toposes of Finitely Supported M-Sets](https://www.youtube.com/watch?v=n30O84Anisg) |
+[Luca Mesiti - Towards elementary 2-toposes](https://www.youtube.com/watch?v=keWb__gt2gk) |
 
 
 
