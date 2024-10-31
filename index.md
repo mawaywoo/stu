@@ -2450,6 +2450,8 @@ JPAA
 
 735. 无点拓扑、拓扑斯、内蕴语言。[Steve Vickers: "The Fundamental Theorem of Calculus: point-free"](https://www.youtube.com/watch?v=L6LPEFteLts) 2024-10-25 18:22 崇德苑 209 室
 
+736. 在 tribe (语义) 这个范畴中“模拟、解释” HoTT (语法). [What is an elementary higher topos?](https://www.slmath.org/video-details/689/18227) 2024-10-31 11:22 崇德苑 209 室
+
 
 
      
