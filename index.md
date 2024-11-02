@@ -2455,6 +2455,8 @@ JPAA
 
 737. 能否把 topos 理论用在代数图论上？[Lecture 1.Cayley graphs and digraphs; Circulant graphs](https://www.youtube.com/watch?v=RCxQxGPhhRM) and [A Guided Tour in the Topos of Graphs](https://arxiv.org/pdf/math/0306394) and [A Taste of Topos Theory - Mark Hopkins](https://www.youtube.com/watch?v=SuWY3xCktpE) 2024-11-2 10:24 崇德苑 209 室
 
+738. 在 Stack Category 或 Model Category 中 interprate/模拟 Type Theory. [Michael Shulman: "Two-dimensional semantics of homotopy type theory"](https://www.youtube.com/watch?v=0uzk-hIuwXA&t=3840s) 2024-11-2 21:24 崇德苑 209 室
+
 
 
      
