@@ -2453,6 +2453,8 @@ JPAA
 
 736. 在 tribe (语义) 这个范畴中“模拟、解释” HoTT (语法). [What is an elementary higher topos?](https://www.slmath.org/video-details/689/18227) 2024-10-31 11:22 崇德苑 209 室
 
+737. 能否把 topos 理论用在代数图论上？[Lecture 1.Cayley graphs and digraphs; Circulant graphs](https://www.youtube.com/watch?v=RCxQxGPhhRM) and [A Guided Tour in the Topos of Graphs](https://arxiv.org/pdf/math/0306394) and [A Taste of Topos Theory - Mark Hopkins](https://www.youtube.com/watch?v=SuWY3xCktpE) 2024-11-2 10:24 崇德苑 209 室
+
 
 
      
