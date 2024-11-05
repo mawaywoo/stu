@@ -2458,6 +2458,8 @@ JPAA
 
 738. 在 Stack Category 或 Model Category 中 interprate/模拟 Type Theory. [Michael Shulman: "Two-dimensional semantics of homotopy type theory"](https://www.youtube.com/watch?v=0uzk-hIuwXA&t=3840s) 2024-11-2 21:24 崇德苑 209 室
 
+739. [Model Theory (Spring 2021)](https://www.bilibili.com/video/BV1WB4y1T7QS/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-11-5 23:38 崇德苑 209 室
+
 
 
      
