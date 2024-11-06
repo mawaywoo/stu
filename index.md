@@ -2460,6 +2460,8 @@ JPAA
 
 739. [Model Theory (Spring 2021)](https://www.bilibili.com/video/BV1WB4y1T7QS/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-11-5 23:38 崇德苑 209 室
 
+740. [1st Order Logic and Model Theory - Lecture 1](https://www.youtube.com/watch?v=0e9GRFJbcJM) 2024-11-6 17:55 崇德苑 209 室
+
 
 
      
