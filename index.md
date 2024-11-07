@@ -2462,6 +2462,8 @@ JPAA
 
 740. [1st Order Logic and Model Theory - Lecture 1](https://www.youtube.com/watch?v=0e9GRFJbcJM) 2024-11-6 17:55 崇德苑 209 室
 
+741. [范畴论讨论班 (1) Lawvere 理论](https://www.bilibili.com/video/BV1iJ4m1V7BE/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-11-7 11:19 崇德苑 209 室
+
 
 
      
