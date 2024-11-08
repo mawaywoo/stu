@@ -245,7 +245,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Luca Mesiti - Towards elementary 2-toposes](https://www.youtube.com/watch?v=keWb__gt2gk) | [Cohomology of monoidal categories](https://www.slmath.org/video-details/1054/34865) | [Model theory talks](https://www.youtube.com/playlist?list=PL54Pt_mZzBqgrUbiLcL6QjtXpc_PxfSt4) |
 [Chris Grossack - Life in Johnstone's Topological Topos](https://richardblute.ca/wp-content/uploads/2024/10/grossack-video.mp4) | [Lecture 1.Cayley graphs and digraphs; Circulant graphs](https://www.youtube.com/watch?v=RCxQxGPhhRM) | [Australasian Association for Logic](https://www.youtube.com/@australasianassociationfor2842/videos) |
 [VDCW 2024](https://www.youtube.com/playlist?list=PLXArNQrZuz626-CJKtJNGP6QI3z4rzRtL) | [Topos Institute Colloquium (2024)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7zHLNA3RAzfavdi5fZdw_P) | [Evan Patterson: Double-categorical logic in theory and practice](https://www.youtube.com/watch?v=BBeaSPG6MaY) |
-[Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) |
+[Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) | [Evan Patterson (Topos Inst.): Toward Formalizing Scientific Theories/Models Using Categorical Logic](https://www.youtube.com/watch?v=IZcrASzCybs) |
 
 
 
