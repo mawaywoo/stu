@@ -218,7 +218,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Francis Borceux - 拓扑斯理论的非正式概述 1-5](https://www.bilibili.com/video/BV1CV4y1k7EA/?spm_id_from=333.788.recommend_more_video.-1) | [The Topos Institute Colloquium](https://topos.site/topos-colloquium/) | [Categories and Companions Symposium - 2022](https://www.youtube.com/@CaCS2022) |
 [FMF Foundations seminar](https://www.youtube.com/@fmffoundationsseminar6878/videos) | [An invitation to the theory of locally presentable categories](https://www.youtube.com/watch?v=xslKzNxh2bo) | [EPDF](https://epdf.tips/) |
 [Flash Talks in Representation Theory 2023](https://www.youtube.com/playlist?list=PLcLpn3xOEb-nKh4woEQFKxMEOTbqWUTCl) | [International Conference Alerts - ICA](https://conferencealert.com/) | [Feb 3d, Grisha Taroian, Homological algebra in topoi](https://www.youtube.com/watch?v=SxLvhz-WI4E&list=PLkY8aHDt-5vxJSGj-8uhZqbL8ITF0nq7j&index=12) |
-[Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) |
+
 
 
 博士毕业 2023-6-21 
@@ -245,7 +245,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Luca Mesiti - Towards elementary 2-toposes](https://www.youtube.com/watch?v=keWb__gt2gk) | [Cohomology of monoidal categories](https://www.slmath.org/video-details/1054/34865) | [Model theory talks](https://www.youtube.com/playlist?list=PL54Pt_mZzBqgrUbiLcL6QjtXpc_PxfSt4) |
 [Chris Grossack - Life in Johnstone's Topological Topos](https://richardblute.ca/wp-content/uploads/2024/10/grossack-video.mp4) | [Lecture 1.Cayley graphs and digraphs; Circulant graphs](https://www.youtube.com/watch?v=RCxQxGPhhRM) | [Australasian Association for Logic](https://www.youtube.com/@australasianassociationfor2842/videos) |
 [VDCW 2024](https://www.youtube.com/playlist?list=PLXArNQrZuz626-CJKtJNGP6QI3z4rzRtL) | [Topos Institute Colloquium (2024)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7zHLNA3RAzfavdi5fZdw_P) | [Evan Patterson: Double-categorical logic in theory and practice](https://www.youtube.com/watch?v=BBeaSPG6MaY) |
-
+[Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) |
 
 
 
