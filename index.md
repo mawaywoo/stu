@@ -2467,6 +2467,8 @@ JPAA
 
 742. [Evan Patterson: Double-categorical logic in theory and practice](https://www.youtube.com/watch?v=BBeaSPG6MaY) 2024-11-8 14:19 崇德苑 209 室
 
+743. Graphic Calculus. [Monoidal categories and categorification (Jonathan Brundan) 1](https://www.youtube.com/watch?v=Qii0s-wYmUM) 2024-11-8 15:59 崇德苑 209 室
+
 
 
      
