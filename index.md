@@ -2464,6 +2464,8 @@ JPAA
 
 741. [范畴论讨论班 (1) Lawvere 理论](https://www.bilibili.com/video/BV1iJ4m1V7BE/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-11-7 11:19 崇德苑 209 室
 
+742. [Evan Patterson: Double-categorical logic in theory and practice](https://www.youtube.com/watch?v=BBeaSPG6MaY) 2024-11-8 14:19 崇德苑 209 室
+
 
 
      
