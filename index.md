@@ -2469,6 +2469,9 @@ JPAA
 
 743. Graphic Calculus. [Monoidal categories and categorification (Jonathan Brundan) 1](https://www.youtube.com/watch?v=Qii0s-wYmUM) 2024-11-8 15:59 崇德苑 209 室
 
+744. 用**作用的轨道**去理解内射模、可除模和本质扩张的概念。轨道闭。见 Section 1.2 [Model theory and modules (Book #130 in the London Mathematical Society Lecture Note Series)
+by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mathematical-society-lecture-note-series_mike-prest/14580362/item/20338280/?mkwid=%7cdc&pcrid=76897258815619&pkw=&pmt=be&slid=&product=20338280&plc=&pgrid=1230353765528421&ptaid=pla-4580496734886475&utm_source=bing&utm_medium=cpc&utm_campaign=Shopping+%7c+NEW+condition+books&utm_term=&utm_content=%7cdc%7cpcrid%7c76897258815619%7cpkw%7c%7cpmt%7cbe%7cproduct%7c20338280%7cslid%7c%7cpgrid%7c1230353765528421%7cptaid%7cpla-4580496734886475%7c&msclkid=767f1367b49917eacc5d74561c746aa9#idiq=20338280&edition=15462326) 2024-11-11 14:47 崇德苑 209 室
+
 
 
      
