@@ -2476,7 +2476,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 746. [Mathematician Explains Infinity in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=Vp570S6Plt8&t=11s) 2024-11-15 12:54 崇德苑 209 室
 
-747. 给出了各种**无穷的“模型”**。[Essence of Set Theory](https://www.youtube.com/watch?v=-fMPiNEwsoc&list=PL2m0OzES6Uw9zK-F8BX8HuGq7HAx9KhQb&index=3) 2024-11-15 17:13 崇德苑 209 室
+747. 给出了各种**无穷的“模型”**。既然实数的无穷比有理数的无穷大，也就是说，有些无穷比某些无穷大，那么可以一直延伸下去，**有没有最大的无穷呢**？Grothendieck Universe 或者范畴论都是**在取某种量级的无穷**。[Essence of Set Theory](https://www.youtube.com/watch?v=-fMPiNEwsoc&list=PL2m0OzES6Uw9zK-F8BX8HuGq7HAx9KhQb&index=3) 2024-11-15 17:13 崇德苑 209 室
 
 
 
