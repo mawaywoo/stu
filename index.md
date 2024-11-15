@@ -245,7 +245,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Luca Mesiti - Towards elementary 2-toposes](https://www.youtube.com/watch?v=keWb__gt2gk) | [Cohomology of monoidal categories](https://www.slmath.org/video-details/1054/34865) | [Model theory talks](https://www.youtube.com/playlist?list=PL54Pt_mZzBqgrUbiLcL6QjtXpc_PxfSt4) |
 [Chris Grossack - Life in Johnstone's Topological Topos](https://richardblute.ca/wp-content/uploads/2024/10/grossack-video.mp4) | [Lecture 1.Cayley graphs and digraphs; Circulant graphs](https://www.youtube.com/watch?v=RCxQxGPhhRM) | [Australasian Association for Logic](https://www.youtube.com/@australasianassociationfor2842/videos) |
 [VDCW 2024](https://www.youtube.com/playlist?list=PLXArNQrZuz626-CJKtJNGP6QI3z4rzRtL) | [Topos Institute Colloquium (2024)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7zHLNA3RAzfavdi5fZdw_P) | [Evan Patterson: Double-categorical logic in theory and practice](https://www.youtube.com/watch?v=BBeaSPG6MaY) |
-[Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) | [Evan Patterson (Topos Inst.): Toward Formalizing Scientific Theories/Models Using Categorical Logic](https://www.youtube.com/watch?v=IZcrASzCybs) |
+[Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) | [Evan Patterson (Topos Inst.): Toward Formalizing Scientific Theories/Models Using Categorical Logic](https://www.youtube.com/watch?v=IZcrASzCybs) | [【中国科学院】王崧《代数群介绍》](https://www.bilibili.com/video/BV1KB4y1m7DY/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -2477,6 +2477,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 746. [Mathematician Explains Infinity in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=Vp570S6Plt8&t=11s) 2024-11-15 12:54 崇德苑 209 室
 
 747. 给出了各种**无穷的“模型”**。既然实数的无穷比有理数的无穷大，也就是说，有些无穷比某些无穷大，那么可以一直延伸下去，**有没有最大的无穷呢**？Grothendieck Universe 或者范畴论都是**在取某种量级的无穷**。[Essence of Set Theory](https://www.youtube.com/watch?v=-fMPiNEwsoc&list=PL2m0OzES6Uw9zK-F8BX8HuGq7HAx9KhQb&index=3) 2024-11-15 17:13 崇德苑 209 室
+
+748. [【中国科学院】王崧《代数群介绍》](https://www.bilibili.com/video/BV1KB4y1m7DY/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-11-15 21:42 崇德苑 209 室
+
 
 
 
