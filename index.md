@@ -2476,6 +2476,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 746. [Mathematician Explains Infinity in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=Vp570S6Plt8&t=11s) 2024-11-15 12:54 崇德苑 209 室
 
+747. 给出了各种**无穷的“模型”**。[Essence of Set Theory](https://www.youtube.com/watch?v=-fMPiNEwsoc&list=PL2m0OzES6Uw9zK-F8BX8HuGq7HAx9KhQb&index=3) 2024-11-15 17:13 崇德苑 209 室
+
 
 
 
