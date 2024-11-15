@@ -2474,6 +2474,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 745. [【访谈】专访Laurent Lafforgue：每天骑自行车上班的菲尔兹数学家](https://www.bilibili.com/video/BV1nfmhYDEez/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [Laurent Lafforgue - Grothendieck拓扑斯作为连接几何，意义与形式语言的桥梁](https://www.bilibili.com/video/BV18wmYYqEXf/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-11-12 23:13 崇德苑 209 室
 
+746. [Mathematician Explains Infinity in 5 Levels of Difficulty | WIRED](https://www.youtube.com/watch?v=Vp570S6Plt8&t=11s) 2024-11-15 12:54 崇德苑 209 室
+
 
 
 
