@@ -247,6 +247,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [VDCW 2024](https://www.youtube.com/playlist?list=PLXArNQrZuz626-CJKtJNGP6QI3z4rzRtL) | [Topos Institute Colloquium (2024)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7zHLNA3RAzfavdi5fZdw_P) | [Evan Patterson: Double-categorical logic in theory and practice](https://www.youtube.com/watch?v=BBeaSPG6MaY) |
 [Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) | [Evan Patterson (Topos Inst.): Toward Formalizing Scientific Theories/Models Using Categorical Logic](https://www.youtube.com/watch?v=IZcrASzCybs) | [【中国科学院】王崧《代数群介绍》](https://www.bilibili.com/video/BV1KB4y1m7DY/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [【陈所】几何群论 杨文元](https://www.bilibili.com/video/BV1EV411p7Kc?spm_id_from=333.788.recommend_more_video.3&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [lecture_1_(1_2)_topos_theory_(2023) (1080p)](https://www.bilibili.com/video/BV15g4y157u2/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[HoTT/UF 2023](https://www.youtube.com/playlist?list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn) |
 
 
 
@@ -2482,6 +2483,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 748. [【中国科学院】王崧《代数群介绍》](https://www.bilibili.com/video/BV1KB4y1m7DY/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [【陈所】几何群论 杨文元](https://www.bilibili.com/video/BV1EV411p7Kc?spm_id_from=333.788.recommend_more_video.3&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-11-15 21:42 崇德苑 209 室
 
 749. [lecture_1_(1_2)_topos_theory_(2023) (1080p)](https://www.bilibili.com/video/BV15g4y157u2/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-11-15 22:16 崇德苑 209 室
+
+750. [Computing Cohomology Rings in Cubical Agda -- Thomas Lamiaux](https://www.youtube.com/watch?v=DUGGBKUfh_E&list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn&index=9) 2024-11-16 15:19 崇德苑 209 室
+
 
 
 
