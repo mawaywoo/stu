@@ -448,6 +448,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [小提琴协奏曲《梁祝》，民族音乐与西方交响乐的完美融合 | Relaxing violin music | 好聽的中國古典音樂 深睡音樂 安靜音樂 瑜伽音樂 轻柔安静的音乐](https://www.youtube.com/watch?v=jqA6cyl2vRI)
 
+[Soft Melodies: : Romantic Guitar Music for Your Heart's Serenity 💖 Relaxing Guitar Music 🎻](https://www.youtube.com/watch?v=GPO9UmhUJlI)
+
 
 
 ## 电影
