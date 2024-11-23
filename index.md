@@ -2490,6 +2490,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 750. [Computing Cohomology Rings in Cubical Agda -- Thomas Lamiaux](https://www.youtube.com/watch?v=DUGGBKUfh_E&list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn&index=9) 2024-11-16 15:19 崇德苑 209 室
 
+751. [Niels van der Weide, The internal languages of univalent categories](https://www.youtube.com/watch?v=Yk09KrBNUt4) 2024-11-23 11:52 崇德苑 209 室
+
 
 
 
