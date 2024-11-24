@@ -246,8 +246,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Chris Grossack - Life in Johnstone's Topological Topos](https://richardblute.ca/wp-content/uploads/2024/10/grossack-video.mp4) | [Lecture 1.Cayley graphs and digraphs; Circulant graphs](https://www.youtube.com/watch?v=RCxQxGPhhRM) | [Australasian Association for Logic](https://www.youtube.com/@australasianassociationfor2842/videos) |
 [VDCW 2024](https://www.youtube.com/playlist?list=PLXArNQrZuz626-CJKtJNGP6QI3z4rzRtL) | [Topos Institute Colloquium (2024)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7zHLNA3RAzfavdi5fZdw_P) | [Evan Patterson: Double-categorical logic in theory and practice](https://www.youtube.com/watch?v=BBeaSPG6MaY) |
 [Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) | [Evan Patterson (Topos Inst.): Toward Formalizing Scientific Theories/Models Using Categorical Logic](https://www.youtube.com/watch?v=IZcrASzCybs) | [【中国科学院】王崧《代数群介绍》](https://www.bilibili.com/video/BV1KB4y1m7DY/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
-[【陈所】几何群论 杨文元](https://www.bilibili.com/video/BV1EV411p7Kc?spm_id_from=333.788.recommend_more_video.3&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [lecture_1_(1_2)_topos_theory_(2023) (1080p)](https://www.bilibili.com/video/BV15g4y157u2/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
-[HoTT/UF 2023](https://www.youtube.com/playlist?list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn) |
+[【陈所】几何群论 杨文元](https://www.bilibili.com/video/BV1EV411p7Kc?spm_id_from=333.788.recommend_more_video.3&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [lecture_1_(1_2)_topos_theory_(2023) (1080p)](https://www.bilibili.com/video/BV15g4y157u2/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The deformation theory of t-dg-categories - Julie Symons](https://www.youtube.com/watch?v=bwokpH5E208) |
+[HoTT/UF 2023](https://www.youtube.com/playlist?list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn) | 
 
 
 
@@ -2491,6 +2491,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 750. [Computing Cohomology Rings in Cubical Agda -- Thomas Lamiaux](https://www.youtube.com/watch?v=DUGGBKUfh_E&list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn&index=9) 2024-11-16 15:19 崇德苑 209 室
 
 751. [Niels van der Weide, The internal languages of univalent categories](https://www.youtube.com/watch?v=Yk09KrBNUt4) 2024-11-23 11:52 崇德苑 209 室
+
+752. [From Hochschild to Gerstenhaber-Schack, as told through drawings](https://www.youtube.com/watch?v=yjwBCe1JitQ) and [The deformation theory of t-dg-categories - Julie Symons](https://www.youtube.com/watch?v=bwokpH5E208) 2024-11-24 11:29 崇德苑 209 室
 
 
 
