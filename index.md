@@ -290,6 +290,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ---
 
+[chinese beamer](https://cn.overleaf.com/latex/templates?q=chinese+beamer) 2024-11-25 14:37
+
 ## Talks
 
 [研究生学术论坛](http://math.stu.edu.cn/info/1053/2702.htm)
