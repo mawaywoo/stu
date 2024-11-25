@@ -270,7 +270,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 ---
 | VI | VII | VIII | IX | X |
 |:---------:|:---------------------:|:---------------:|:---------------:|:---------------:|
-[International Conference on Homological Methods in Representation Theory](https://sites.google.com/view/hmrt2024) | [Lars Winther Christensen](https://www.math.ttu.edu/~lchriste/) |
+[International Conference on Homological Methods in Representation Theory](https://sites.google.com/view/hmrt2024) | [Lars Winther Christensen](https://www.math.ttu.edu/~lchriste/) | [未来论坛](https://space.bilibili.com/650922239/channel/series) |
 
 ## Other stuff
 
