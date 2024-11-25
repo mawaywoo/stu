@@ -2496,6 +2496,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 753. Profunctor, Gothendieck construction, Abelian recollement, Xu's category extention, Olivia's slice category, gluing of theory and model 所有都是关于“**范畴的粘合**”，它们之间有什么关系？[Monoid extensions and the Grothendieck construction, Graham Manuell, 21/04/2022](https://www.youtube.com/watch?v=x19zKKOz0do)
 
+754. [未来论坛](https://space.bilibili.com/650922239/channel/series) 2024-11-25 13:34 崇德苑 209 室
+
 
 
 
