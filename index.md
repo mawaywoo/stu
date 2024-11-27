@@ -247,7 +247,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [VDCW 2024](https://www.youtube.com/playlist?list=PLXArNQrZuz626-CJKtJNGP6QI3z4rzRtL) | [Topos Institute Colloquium (2024)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7zHLNA3RAzfavdi5fZdw_P) | [Evan Patterson: Double-categorical logic in theory and practice](https://www.youtube.com/watch?v=BBeaSPG6MaY) |
 [Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) | [Evan Patterson (Topos Inst.): Toward Formalizing Scientific Theories/Models Using Categorical Logic](https://www.youtube.com/watch?v=IZcrASzCybs) | [【中国科学院】王崧《代数群介绍》](https://www.bilibili.com/video/BV1KB4y1m7DY/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [【陈所】几何群论 杨文元](https://www.bilibili.com/video/BV1EV411p7Kc?spm_id_from=333.788.recommend_more_video.3&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [lecture_1_(1_2)_topos_theory_(2023) (1080p)](https://www.bilibili.com/video/BV15g4y157u2/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The deformation theory of t-dg-categories - Julie Symons](https://www.youtube.com/watch?v=bwokpH5E208) |
-[HoTT/UF 2023](https://www.youtube.com/playlist?list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn) | [【课程】Laurent Lafforgue - Grothendieck拓扑的生成与一阶可证性](https://www.youtube.com/watch?v=ILTzJe-AoDE) | 
+[HoTT/UF 2023](https://www.youtube.com/playlist?list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn) | [【课程】Laurent Lafforgue - Grothendieck拓扑的生成与一阶可证性](https://www.youtube.com/watch?v=ILTzJe-AoDE) | [Nadia Romero: Hochschild cohomology for functors on linear symmetric monoidal categories](https://www.youtube.com/watch?v=lDKQqNaZy4s) |
 
 
 
@@ -2499,6 +2499,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 753. Profunctor, Gothendieck construction, Abelian recollement, Xu's category extention, Olivia's slice category, gluing of theory and model 所有都是关于“**范畴的粘合**”，它们之间有什么关系？[Monoid extensions and the Grothendieck construction, Graham Manuell, 21/04/2022](https://www.youtube.com/watch?v=x19zKKOz0do)
 
 754. [未来论坛](https://space.bilibili.com/650922239/channel/series) 2024-11-25 13:34 崇德苑 209 室
+
+755. **范畴论中的各种构造**（如：Grothendieck 构造）很有趣，它们常常意味着对各种结构/数据的“**打碎-重组**”。2024-11-27 12:57 崇德苑 209 室
 
 
 
