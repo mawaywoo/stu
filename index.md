@@ -55,6 +55,9 @@ Good Lecture! [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/w
 
 意识到等价的两个范畴的“**差异性**”，会让我们对两个范畴之间存在等价感到更加惊喜。(见 556 条)
 
+**范畴论中的各种构造**（如：Grothendieck 构造）很有趣，它们常常意味着对各种结构/数据的“**打碎-重组**”。(见 755 条)
+
+
 
 ## Personal information
 
