@@ -251,6 +251,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) | [Evan Patterson (Topos Inst.): Toward Formalizing Scientific Theories/Models Using Categorical Logic](https://www.youtube.com/watch?v=IZcrASzCybs) | [【中国科学院】王崧《代数群介绍》](https://www.bilibili.com/video/BV1KB4y1m7DY/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [【陈所】几何群论 杨文元](https://www.bilibili.com/video/BV1EV411p7Kc?spm_id_from=333.788.recommend_more_video.3&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [lecture_1_(1_2)_topos_theory_(2023) (1080p)](https://www.bilibili.com/video/BV15g4y157u2/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The deformation theory of t-dg-categories - Julie Symons](https://www.youtube.com/watch?v=bwokpH5E208) |
 [HoTT/UF 2023](https://www.youtube.com/playlist?list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn) | [【课程】Laurent Lafforgue - Grothendieck拓扑的生成与一阶可证性](https://www.youtube.com/watch?v=ILTzJe-AoDE) | [Nadia Romero: Hochschild cohomology for functors on linear symmetric monoidal categories](https://www.youtube.com/watch?v=lDKQqNaZy4s) |
+[Chrysostomos Psaroudakis: Homological invariants of the arrow removal operation (05/05/2022)](https://www.youtube.com/watch?v=bfrtOJxeyaQ) |
 
 
 
