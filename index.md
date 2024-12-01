@@ -251,7 +251,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Introducing CatColab](https://www.localcharts.org/t/introducing-catcolab/32128/1) | [Evan Patterson (Topos Inst.): Toward Formalizing Scientific Theories/Models Using Categorical Logic](https://www.youtube.com/watch?v=IZcrASzCybs) | [【中国科学院】王崧《代数群介绍》](https://www.bilibili.com/video/BV1KB4y1m7DY/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [【陈所】几何群论 杨文元](https://www.bilibili.com/video/BV1EV411p7Kc?spm_id_from=333.788.recommend_more_video.3&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [lecture_1_(1_2)_topos_theory_(2023) (1080p)](https://www.bilibili.com/video/BV15g4y157u2/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The deformation theory of t-dg-categories - Julie Symons](https://www.youtube.com/watch?v=bwokpH5E208) |
 [HoTT/UF 2023](https://www.youtube.com/playlist?list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn) | [【课程】Laurent Lafforgue - Grothendieck拓扑的生成与一阶可证性](https://www.youtube.com/watch?v=ILTzJe-AoDE) | [Nadia Romero: Hochschild cohomology for functors on linear symmetric monoidal categories](https://www.youtube.com/watch?v=lDKQqNaZy4s) |
-[Chrysostomos Psaroudakis: Homological invariants of the arrow removal operation (05/05/2022)](https://www.youtube.com/watch?v=bfrtOJxeyaQ) |
+[Chrysostomos Psaroudakis: Homological invariants of the arrow removal operation (05/05/2022)](https://www.youtube.com/watch?v=bfrtOJxeyaQ) | [【北京师范大学】分析哲学（全59讲）江怡](https://www.bilibili.com/video/BV1MX4y187oQ/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -2505,6 +2505,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 754. [未来论坛](https://space.bilibili.com/650922239/channel/series) 2024-11-25 13:34 崇德苑 209 室
 
 755. **范畴论中的各种构造**（如：Grothendieck 构造）很有趣，它们常常意味着对各种结构/数据的“**打碎-重组**”。2024-11-27 12:57 崇德苑 209 室
+
+756. [【北京师范大学】分析哲学（全59讲）江怡](https://www.bilibili.com/video/BV1MX4y187oQ/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-12-1 12:30 崇德苑 209 室
 
 
 
