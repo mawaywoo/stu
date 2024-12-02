@@ -2508,6 +2508,15 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 756. [【北京师范大学】分析哲学（全59讲）江怡](https://www.bilibili.com/video/BV1MX4y187oQ/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2024-12-1 12:30 崇德苑 209 室
 
+757. [Chris Heunen: "Sheaf representation of monoidal categories"](https://www.youtube.com/watch?v=XHCa8vk_T00&t=9s) 2024-12-2 15:44 崇德苑 209 室
+
+     1. 用拓扑空间的开集和交运算来理解中心幂等元的定义。
+      
+     2. 出发点就是一个monoidal范畴C，到单位对象I的一些态射集构成中心幂等元集。
+     
+     3. 每个开集U上放“原来的范畴C限制到U的部分”：所放范畴C|_U的态射为：A到B的态射“限制到U”上(张量理解为交运算)。
+
+758.
 
 
 
