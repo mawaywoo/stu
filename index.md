@@ -2516,7 +2516,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
      
      3. 每个开集U上放“原来的范畴C限制到U的部分”：所放范畴C|_U的态射为：A到B的态射“限制到U”上(张量理解为交运算)。
 
-758.
+     4. 是将monoidal范畴表示为**层的截断**，而不是表示为**层**。 
+
+759.
 
 
 
