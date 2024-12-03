@@ -57,6 +57,8 @@ Good Lecture! [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/w
 
 **范畴论中的各种构造**（如：Grothendieck 构造）很有趣，它们常常意味着对各种结构/数据的“**打碎-重组**”。(见 755 条)
 
+把范畴的表示为**层的截断**（不是层本身）=“**对原范畴先切割再组装/粘接**”。(见 757 条)
+
 
 
 ## Personal information
