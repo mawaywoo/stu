@@ -2520,6 +2520,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
      5. 所谓表示，就是“**把原来的范畴切割后，再用某个空间粘起来**”。
 
+     6. 表示=**切割再组装**。
+
 759.
 
 
