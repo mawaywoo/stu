@@ -2528,7 +2528,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
       7. 理论上，我们会有**许多其他**的切割和组装方式。
 
-759.
+759. 昨天 BLMS 把我的 Pseudoskew category algebras 那篇文章拒了，今天又重新投了 Colloquium Mathematicum 期刊. 2024-12-12 11:24 崇德苑 209 室
 
 
 
