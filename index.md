@@ -462,6 +462,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [半噸兄弟 - 鬼迷心竅 / 半噸兄弟 - 諾言【半吨兄弟 精選情歌2024】 串烧歌! 翻唱25首歌曲!【100分钟】歌曲合集【动态歌词】【Lyrics】撕心裂肺! 最火最热门! 洗脑歌曲!💖](https://www.youtube.com/watch?v=CWTr-uYAQcc)
 
+[藍眼淚](https://www.youtube.com/watch?v=3xMykHuGEcA&list=PLL2yZKMabca_tML7M8dBOtaSUowVH3omD) 很喜欢这首歌！
+
 
 
 ## 电影
