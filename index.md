@@ -2533,6 +2533,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 759. 昨天 BLMS 把我的 Pseudoskew category algebras 那篇文章拒了，今天又重新投了 Colloquium Mathematicum 期刊. 2024-12-12 11:24 崇德苑 209 室
 
+760. Grothendieck Construction 和 Colimit 有关系。 [The Grothendieck Construction in the Lax Setting of Bicategory Theory Pablo Bustillo Vazquez](https://www.youtube.com/watch?v=X74_pjo9XIs&t=219s) 2024-12-17 20:08 崇德苑 209 室
+
 
 
 
