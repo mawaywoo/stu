@@ -465,6 +465,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [藍眼淚](https://www.youtube.com/watch?v=3xMykHuGEcA&list=PLL2yZKMabca_tML7M8dBOtaSUowVH3omD) 很喜欢这首歌！
 
+[陳冠蒲-藍眼淚 封面原音版](https://www.youtube.com/watch?v=HvDLT670E_U&list=RDHvDLT670E_U&start_radio=1)
+
 
 
 ## 电影
