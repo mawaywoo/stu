@@ -2537,6 +2537,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 760. **Grothendieck Construction “=” Colimit**.（数据的**打碎-重组**） [The Grothendieck Construction in the Lax Setting of Bicategory Theory Pablo Bustillo Vazquez](https://www.youtube.com/watch?v=X74_pjo9XIs&t=219s) 2024-12-17 20:08 崇德苑 209 室
 
+761. **subunits of tensor unit = categorical version‘s idempotents of identity of rings**, 如层范畴中的tensor unit就是终对象，即把每个元素映到单点集的函子，它的subunits就是它的某些特殊子对象，也就是把部分对象映到单点集（**相当于在底范畴中取出某些对象**:那些映到单点集的对象都是被取出的对象），这相当于**对终对象进行切割**，好比环中幂等元的切割。 2024-12-21 23:51 崇德苑 209 室
+
 
 
 
