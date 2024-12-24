@@ -254,7 +254,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [【陈所】几何群论 杨文元](https://www.bilibili.com/video/BV1EV411p7Kc?spm_id_from=333.788.recommend_more_video.3&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [lecture_1_(1_2)_topos_theory_(2023) (1080p)](https://www.bilibili.com/video/BV15g4y157u2/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The deformation theory of t-dg-categories - Julie Symons](https://www.youtube.com/watch?v=bwokpH5E208) |
 [HoTT/UF 2023](https://www.youtube.com/playlist?list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn) | [【课程】Laurent Lafforgue - Grothendieck拓扑的生成与一阶可证性](https://www.youtube.com/watch?v=ILTzJe-AoDE) | [Nadia Romero: Hochschild cohomology for functors on linear symmetric monoidal categories](https://www.youtube.com/watch?v=lDKQqNaZy4s) |
 [Chrysostomos Psaroudakis: Homological invariants of the arrow removal operation (05/05/2022)](https://www.youtube.com/watch?v=bfrtOJxeyaQ) | [【北京师范大学】分析哲学（全59讲）江怡](https://www.bilibili.com/video/BV1MX4y187oQ/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Topos 与逻辑](https://www.bilibili.com/video/BV1At6NYhE12/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
-[Matt Evans - Spectra of BCK-algebras](https://www.bilibili.com/video/BV1RYqyYUEKT/?spm_id_from=333.788.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Brandon Shapiro: Double Presheaf Categories via Polynomial Functors](https://www.youtube.com/watch?v=dupq7VFp_Xk&t=127s) |
+[Matt Evans - Spectra of BCK-algebras](https://www.bilibili.com/video/BV1RYqyYUEKT/?spm_id_from=333.788.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Brandon Shapiro: Double Presheaf Categories via Polynomial Functors](https://www.youtube.com/watch?v=dupq7VFp_Xk&t=127s) | [John Bourke: A double-categorical look at different flavours of factorisation system](https://www.youtube.com/watch?v=Zz8NXrDzac4) |
 
 
 
@@ -2539,7 +2539,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 761. **subunits of tensor unit = categorical version‘s idempotents of identity of rings**, 如层范畴中的tensor unit就是终对象，即把每个元素映到单点集的函子，它的subunits就是它的某些特殊子对象，也就是把部分对象映到单点集（**相当于在底范畴中取出某些对象**:那些映到单点集的对象都是被取出的对象），这相当于**对终对象进行切割**，好比环中幂等元的切割。 2024-12-21 23:51 崇德苑 209 室
 
-762. [Brandon Shapiro: Double Presheaf Categories via Polynomial Functors](https://www.youtube.com/watch?v=dupq7VFp_Xk&t=127s) 2024-12-24 15:07 崇德苑 209 室
+762. [Brandon Shapiro: Double Presheaf Categories via Polynomial Functors](https://www.youtube.com/watch?v=dupq7VFp_Xk&t=127s) and [John Bourke: A double-categorical look at different flavours of factorisation system](https://www.youtube.com/watch?v=Zz8NXrDzac4) 2024-12-24 15:07 崇德苑 209 室
 
 
 
