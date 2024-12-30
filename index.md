@@ -2541,6 +2541,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 762. [Brandon Shapiro: Double Presheaf Categories via Polynomial Functors](https://www.youtube.com/watch?v=dupq7VFp_Xk&t=127s) and [John Bourke: A double-categorical look at different flavours of factorisation system](https://www.youtube.com/watch?v=Zz8NXrDzac4) 2024-12-24 15:07 崇德苑 209 室
 
+763. **如何读 Olivia Caramello 的座刻画**：先把一切信息在预层中读(**忽略掉拓扑**)，再把它“**限制”到 Grothendieck 拓扑上**。如：第 7 页的闭算子，去掉 E(f) 就是在预层中的子对象的解读，加上 E(f) 就是“限制”到拓扑 J 上来；又如：Lemma 2.1，忽略掉 F(f), G(f) 的信息就是在预层中解读单射、满射，加上 F(f), G(f) 就是“限制”到拓扑 J 上来，回到层范畴。[Denseness conditions, morphisms and equivalences of toposes-Olivia Caramello](https://arxiv.org/pdf/1906.08737) 2024-12-30 12:40 崇德苑 209 室
+
 
 
 
