@@ -114,6 +114,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [A characterization of modules over dg-representations of small categories](https://arxiv.org/abs/2409.04442)
 
+[Non-abelianess of the category of modules over a sum-id bipresheaf of rings](https://arxiv.org/abs/2501.02810)
+
 ## Overleaf
 
 [Overleaf, Online LaTeX Editor](https://www.overleaf.com/project)
