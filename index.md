@@ -257,7 +257,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [HoTT/UF 2023](https://www.youtube.com/playlist?list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn) | [【课程】Laurent Lafforgue - Grothendieck拓扑的生成与一阶可证性](https://www.youtube.com/watch?v=ILTzJe-AoDE) | [Nadia Romero: Hochschild cohomology for functors on linear symmetric monoidal categories](https://www.youtube.com/watch?v=lDKQqNaZy4s) |
 [Chrysostomos Psaroudakis: Homological invariants of the arrow removal operation (05/05/2022)](https://www.youtube.com/watch?v=bfrtOJxeyaQ) | [【北京师范大学】分析哲学（全59讲）江怡](https://www.bilibili.com/video/BV1MX4y187oQ/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Topos 与逻辑](https://www.bilibili.com/video/BV1At6NYhE12/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Matt Evans - Spectra of BCK-algebras](https://www.bilibili.com/video/BV1RYqyYUEKT/?spm_id_from=333.788.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Brandon Shapiro: Double Presheaf Categories via Polynomial Functors](https://www.youtube.com/watch?v=dupq7VFp_Xk&t=127s) | [John Bourke: A double-categorical look at different flavours of factorisation system](https://www.youtube.com/watch?v=Zz8NXrDzac4) | 
-[Ross Street - Could representations of your category be those of a groupoid?](https://www.youtube.com/watch?v=aLgrz6sm1Us) |
+[Ross Street - Could representations of your category be those of a groupoid?](https://www.youtube.com/watch?v=aLgrz6sm1Us) | [Ross Street --- The core groupoid can suffice](https://www.youtube.com/watch?v=vNqWipeT43s&t=960s) |
 
 
 
