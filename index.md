@@ -257,7 +257,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [HoTT/UF 2023](https://www.youtube.com/playlist?list=PLoTb_qwavzlgjX-4iT8i8jiFRzHEBVLUn) | [【课程】Laurent Lafforgue - Grothendieck拓扑的生成与一阶可证性](https://www.youtube.com/watch?v=ILTzJe-AoDE) | [Nadia Romero: Hochschild cohomology for functors on linear symmetric monoidal categories](https://www.youtube.com/watch?v=lDKQqNaZy4s) |
 [Chrysostomos Psaroudakis: Homological invariants of the arrow removal operation (05/05/2022)](https://www.youtube.com/watch?v=bfrtOJxeyaQ) | [【北京师范大学】分析哲学（全59讲）江怡](https://www.bilibili.com/video/BV1MX4y187oQ/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Topos 与逻辑](https://www.bilibili.com/video/BV1At6NYhE12/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Matt Evans - Spectra of BCK-algebras](https://www.bilibili.com/video/BV1RYqyYUEKT/?spm_id_from=333.788.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Brandon Shapiro: Double Presheaf Categories via Polynomial Functors](https://www.youtube.com/watch?v=dupq7VFp_Xk&t=127s) | [John Bourke: A double-categorical look at different flavours of factorisation system](https://www.youtube.com/watch?v=Zz8NXrDzac4) | 
-[Ross Street - Could representations of your category be those of a groupoid?](https://www.youtube.com/watch?v=aLgrz6sm1Us) | [Ross Street --- The core groupoid can suffice](https://www.youtube.com/watch?v=vNqWipeT43s&t=960s) |
+[Ross Street - Could representations of your category be those of a groupoid?](https://www.youtube.com/watch?v=aLgrz6sm1Us) | [Ross Street --- The core groupoid can suffice](https://www.youtube.com/watch?v=vNqWipeT43s&t=960s) | [TRHW01 Prof. Peter Webb Biset functors defined on categories](https://www.youtube.com/watch?v=reYpvICSP1A) |
 
 
 
@@ -2545,6 +2545,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 762. [Brandon Shapiro: Double Presheaf Categories via Polynomial Functors](https://www.youtube.com/watch?v=dupq7VFp_Xk&t=127s) and [John Bourke: A double-categorical look at different flavours of factorisation system](https://www.youtube.com/watch?v=Zz8NXrDzac4) 2024-12-24 15:07 崇德苑 209 室
 
 763. **如何读 Olivia Caramello 的座刻画**：先把一切信息在预层中读(**忽略掉拓扑**)，再把它“**限制”到 Grothendieck 拓扑上**。如：第 7 页的闭算子，去掉 E(f) 就是在预层中的子对象的解读，加上 E(f) 就是“限制”到拓扑 J 上来；又如：Lemma 2.1，忽略掉 F(f), G(f) 的信息就是在预层中解读单射、满射，加上 F(f), G(f) 就是“限制”到拓扑 J 上来，回到层范畴。[Denseness conditions, morphisms and equivalences of toposes-Olivia Caramello](https://arxiv.org/pdf/1906.08737) and [Olivia Caramello - The geometry of morphisms and equivalences of toposes 1/3](https://www.youtube.com/watch?v=TGDnjT-PBrQ) 2024-12-30 12:40 崇德苑 209 室
+
+764. [TRHW01 Prof. Peter Webb Biset functors defined on categories](https://www.youtube.com/watch?v=reYpvICSP1A) 2025-1-12 13:35 崇德苑 209 室
 
 
 
