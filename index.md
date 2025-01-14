@@ -2549,6 +2549,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 764. [TRHW01 Prof. Peter Webb Biset functors defined on categories](https://www.youtube.com/watch?v=reYpvICSP1A) 2025-1-12 13:35 崇德苑 209 室
 
+765. 好久没来图书馆了，今天来图书馆给毕业生想一些课题以及下载一些论文（图书馆方便连接校园网）。2025-1-14 14:35 图书馆六楼西区 3 的 002号
+
 
 
 
