@@ -2551,6 +2551,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 765. 好久没来图书馆了，今天来图书馆给毕业生想一些课题以及下载一些论文（图书馆方便连接校园网）。2025-1-14 14:35 图书馆六楼西区 3 的 002号
 
+766. [天元表示论讨论班-20220527-陈哲-Higher-Deligne-Lusztig I](https://www.bilibili.com/video/BV1LS4y1q76z/?spm_id_from=333.1387.collection.video_card.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-1-16 20:59 崇德苑 209 室
+
 
 
 
