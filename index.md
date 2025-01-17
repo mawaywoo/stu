@@ -2553,6 +2553,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 766. [天元表示论讨论班-20220527-陈哲-Higher-Deligne-Lusztig I](https://www.bilibili.com/video/BV1LS4y1q76z/?spm_id_from=333.1387.collection.video_card.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-1-16 20:59 崇德苑 209 室
 
+767. [Smooth vector spaces -- Enxin Wu (Shantou), PHK 16.03.2022](https://www.youtube.com/watch?v=Z6zlZw9krDw) 2025-1-17 20:30 崇德苑 209 室
+
+
 
 
 
