@@ -258,7 +258,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Chrysostomos Psaroudakis: Homological invariants of the arrow removal operation (05/05/2022)](https://www.youtube.com/watch?v=bfrtOJxeyaQ) | [【北京师范大学】分析哲学（全59讲）江怡](https://www.bilibili.com/video/BV1MX4y187oQ/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Topos 与逻辑](https://www.bilibili.com/video/BV1At6NYhE12/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Matt Evans - Spectra of BCK-algebras](https://www.bilibili.com/video/BV1RYqyYUEKT/?spm_id_from=333.788.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Brandon Shapiro: Double Presheaf Categories via Polynomial Functors](https://www.youtube.com/watch?v=dupq7VFp_Xk&t=127s) | [John Bourke: A double-categorical look at different flavours of factorisation system](https://www.youtube.com/watch?v=Zz8NXrDzac4) | 
 [Ross Street - Could representations of your category be those of a groupoid?](https://www.youtube.com/watch?v=aLgrz6sm1Us) | [Ross Street --- The core groupoid can suffice](https://www.youtube.com/watch?v=vNqWipeT43s&t=960s) | [TRHW01 Prof. Peter Webb Biset functors defined on categories](https://www.youtube.com/watch?v=reYpvICSP1A) |
-[ TRHW01 Mr. Mateusz Stroiński Tambara reconstruction and tensor categories ](https://www.youtube.com/watch?v=CorLPWioZkY) |
+[ TRHW01 Mr. Mateusz Stroiński Tambara reconstruction and tensor categories ](https://www.youtube.com/watch?v=CorLPWioZkY) | [A higher Grothendieck construction Matias del Hoyo](https://www.youtube.com/watch?v=qF1glKKhF0Q&t=160s) |
 
 
 
@@ -2554,6 +2554,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 766. [天元表示论讨论班-20220527-陈哲-Higher-Deligne-Lusztig I](https://www.bilibili.com/video/BV1LS4y1q76z/?spm_id_from=333.1387.collection.video_card.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-1-16 20:59 崇德苑 209 室
 
 767. [Smooth vector spaces -- Enxin Wu (Shantou), PHK 16.03.2022](https://www.youtube.com/watch?v=Z6zlZw9krDw) 2025-1-17 20:30 崇德苑 209 室
+
+768. [A higher Grothendieck construction Matias del Hoyo](https://www.youtube.com/watch?v=qF1glKKhF0Q&t=160s) 2025-1-17 23:12 崇德苑 209 室
 
 
 
