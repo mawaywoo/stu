@@ -2557,6 +2557,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 768. [A higher Grothendieck construction Matias del Hoyo](https://www.youtube.com/watch?v=qF1glKKhF0Q&t=160s) 2025-1-17 23:12 崇德苑 209 室
 
+769. [Higher representation theory, Vanessa Miemietz - 12/10/23](https://www.youtube.com/watch?v=BlXoh1ZS0qA&t=3533s) 2025-1-18 15:40 崇德苑 209 室
+
 
 
 
