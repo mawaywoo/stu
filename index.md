@@ -2562,6 +2562,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 770. [Jialing Wang - Some endotrivial module for the symmetric group](https://www.youtube.com/watch?v=WDdjCqgZBS8) 2025-1-18 22:07 崇德苑 209 室
 
+771. [Nadia Mazza: On endotrivial modules](https://www.youtube.com/watch?v=QcLaVBmJl3M) 2025-1-19 14:49 崇德苑 209 室
+
 
 
 
