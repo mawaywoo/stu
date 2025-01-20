@@ -2564,6 +2564,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 771. [Nadia Mazza: On endotrivial modules](https://www.youtube.com/watch?v=QcLaVBmJl3M) 2025-1-19 14:49 崇德苑 209 室
 
+772. 层、叠形、伪函子、宽松函子等都可以打碎视为**对两部分信息的处理**。一部分是源范畴信息，一部分是目标范畴信息，这两部分信息可以看成是**互补的**，源范畴的信息用于**联结**各目标范畴的信息。实际应用中，可以考虑把待考究的两部分信息整合成一个函子。2025-1-20 13:50 崇德苑 209 室
+
 
 
 
