@@ -260,7 +260,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Ross Street - Could representations of your category be those of a groupoid?](https://www.youtube.com/watch?v=aLgrz6sm1Us) | [Ross Street --- The core groupoid can suffice](https://www.youtube.com/watch?v=vNqWipeT43s&t=960s) | [TRHW01 Prof. Peter Webb Biset functors defined on categories](https://www.youtube.com/watch?v=reYpvICSP1A) |
 [ TRHW01 Mr. Mateusz Stroiński Tambara reconstruction and tensor categories ](https://www.youtube.com/watch?v=CorLPWioZkY) | [A higher Grothendieck construction Matias del Hoyo](https://www.youtube.com/watch?v=qF1glKKhF0Q&t=160s) | [Jialing Wang - Some endotrivial module for the symmetric group](https://www.youtube.com/watch?v=WDdjCqgZBS8) |
 [SAHHAS UBA](https://www.youtube.com/@sahhasuba/playlists) | [Seminario de álgebra homológica y hierbas afines (SAHHAS)](https://web.dm.uba.ar/index.php/seminarios-beta/sem-ah/638-0) | [Young Homotopy-theoriest Online Meeting](https://www.youtube.com/@Young-HOM) | 
-[Perrone - Kan extensions are partial colimits](https://www.youtube.com/watch?v=NFsytuyOeHs) | [Monoidal Category Theory](https://www.youtube.com/playlist?list=PLCqUsBXxq16zpcAgLLfAv6YIXEKzqKMf1) |
+[Perrone - Kan extensions are partial colimits](https://www.youtube.com/watch?v=NFsytuyOeHs) | [Monoidal Category Theory](https://www.youtube.com/playlist?list=PLCqUsBXxq16zpcAgLLfAv6YIXEKzqKMf1) | ["Model Structures for Double Categories", talk by Lyne Moser at CQTS @ NYU Abu Dhabi](https://www.youtube.com/watch?v=8j1WvFesnQM) |
 
 
 
@@ -2567,6 +2567,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 771. [Nadia Mazza: On endotrivial modules](https://www.youtube.com/watch?v=QcLaVBmJl3M) 2025-1-19 14:49 崇德苑 209 室
 
 772. 层、叠形、伪函子、宽松函子等都可以打碎视为**对两部分信息的处理**。一部分是源范畴信息，一部分是目标范畴信息，这两部分信息可以看成是**互补的**，源范畴的信息用于**联结**各目标范畴的信息。实际应用中，可以考虑把待考究的两部分信息整合成一个函子。2025-1-20 13:50 崇德苑 209 室
+
+773. ["Model Structures for Double Categories", talk by Lyne Moser at CQTS @ NYU Abu Dhabi](https://www.youtube.com/watch?v=8j1WvFesnQM) 2025-1-30 19:19 广州番禺旧水坑
 
 
 
