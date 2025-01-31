@@ -474,6 +474,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [陳冠蒲-藍眼淚 封面原音版](https://www.youtube.com/watch?v=HvDLT670E_U&list=RDHvDLT670E_U&start_radio=1)
 
+[冬日柔和音乐、适合放松心神、缓解焦虑、一个人独处的好听英文歌单](https://www.youtube.com/watch?v=sL5mrEE2XPw)
 
 
 ## 电影
