@@ -2571,6 +2571,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 773. ["Model Structures for Double Categories", talk by Lyne Moser at CQTS @ NYU Abu Dhabi](https://www.youtube.com/watch?v=8j1WvFesnQM) 2025-1-30 19:19 广州番禺旧水坑
 
+774. Indian Journal of Pure and Applied Mathematics, wumawei, WuMawei+pi.7 2025-2-2 13:46 广州番禺旧水坑
+
 
 
 
