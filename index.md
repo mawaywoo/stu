@@ -261,7 +261,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [ TRHW01 Mr. Mateusz Stroiński Tambara reconstruction and tensor categories ](https://www.youtube.com/watch?v=CorLPWioZkY) | [A higher Grothendieck construction Matias del Hoyo](https://www.youtube.com/watch?v=qF1glKKhF0Q&t=160s) | [Jialing Wang - Some endotrivial module for the symmetric group](https://www.youtube.com/watch?v=WDdjCqgZBS8) |
 [SAHHAS UBA](https://www.youtube.com/@sahhasuba/playlists) | [Seminario de álgebra homológica y hierbas afines (SAHHAS)](https://web.dm.uba.ar/index.php/seminarios-beta/sem-ah/638-0) | [Young Homotopy-theoriest Online Meeting](https://www.youtube.com/@Young-HOM) | 
 [Perrone - Kan extensions are partial colimits](https://www.youtube.com/watch?v=NFsytuyOeHs) | [Monoidal Category Theory](https://www.youtube.com/playlist?list=PLCqUsBXxq16zpcAgLLfAv6YIXEKzqKMf1) | ["Model Structures for Double Categories", talk by Lyne Moser at CQTS @ NYU Abu Dhabi](https://www.youtube.com/watch?v=8j1WvFesnQM) |
-[Raymond Puzio --- A Gentle Introduction to Synthetic Differential Geometry - Part 1.](https://www.youtube.com/watch?v=8dMNq-ZHTuM) | [ntroduction to Deligne-Lusztig theory](https://www.youtube.com/playlist?list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ) |
+[Raymond Puzio --- A Gentle Introduction to Synthetic Differential Geometry - Part 1.](https://www.youtube.com/watch?v=8dMNq-ZHTuM) | [introduction to Deligne-Lusztig theory](https://www.youtube.com/playlist?list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ) |
 
 
 
@@ -2578,7 +2578,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 776. [CT2023, Maru Sarazola: A category of elements for enriched functors](https://www.youtube.com/watch?v=e1q8y9PsHZQ) 2025-2-11 14:51 崇德苑 209 室
 
-777. [ntroduction to Deligne-Lusztig theory](https://www.youtube.com/playlist?list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ) 2025-2-11 20:04 崇德苑 209 室
+777. [introduction to Deligne-Lusztig theory](https://www.youtube.com/playlist?list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ) 2025-2-11 20:04 崇德苑 209 室
 
 
 
