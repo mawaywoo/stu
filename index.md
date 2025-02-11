@@ -2578,7 +2578,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 776. [CT2023, Maru Sarazola: A category of elements for enriched functors](https://www.youtube.com/watch?v=e1q8y9PsHZQ) 2025-2-11 14:51 崇德苑 209 室
 
-777. [introduction to Deligne-Lusztig theory](https://www.youtube.com/playlist?list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ) 2025-2-11 20:04 崇德苑 209 室
+777. [introduction to Deligne-Lusztig theory (讲得非常好：具体易懂，特别是 SL2 的情形)](https://www.youtube.com/playlist?list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ) 2025-2-11 20:04 崇德苑 209 室
 
 
 
