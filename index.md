@@ -2576,6 +2576,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 775. [Raymond Puzio --- A Gentle Introduction to Synthetic Differential Geometry - Part 1.](https://www.youtube.com/watch?v=8dMNq-ZHTuM) 2025-2-7 21:36 崇德苑 209 室
 
+776. [CT2023, Maru Sarazola: A category of elements for enriched functors](https://www.youtube.com/watch?v=e1q8y9PsHZQ) 2025-2-11 14:51 崇德苑 209 室
+
 
 
 
