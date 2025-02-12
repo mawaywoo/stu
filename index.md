@@ -2580,6 +2580,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 777. [introduction to Deligne-Lusztig theory (讲得非常好：具体易懂，特别是 SL2 的情形)](https://www.youtube.com/playlist?list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ) 2025-2-11 20:04 崇德苑 209 室
 
+778. [Introduction to Deligne-Lusztig theory](https://www.youtube.com/watch?v=piXrvw46lzk&list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ&index=4) 对于 l-进上同调，**不需要知道它的确切定义**，只需要掌握**利用它的一些性质去进行计算**即可。见 Lec. 4 的 1:20:40。 2025-2-12 15:44 崇德苑 209 室
+
 
 
 
