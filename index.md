@@ -263,8 +263,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Perrone - Kan extensions are partial colimits](https://www.youtube.com/watch?v=NFsytuyOeHs) | [Monoidal Category Theory](https://www.youtube.com/playlist?list=PLCqUsBXxq16zpcAgLLfAv6YIXEKzqKMf1) | ["Model Structures for Double Categories", talk by Lyne Moser at CQTS @ NYU Abu Dhabi](https://www.youtube.com/watch?v=8j1WvFesnQM) |
 [Raymond Puzio --- A Gentle Introduction to Synthetic Differential Geometry - Part 1.](https://www.youtube.com/watch?v=8dMNq-ZHTuM) | [introduction to Deligne-Lusztig theory](https://www.youtube.com/playlist?list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ) | [Deligne-Lusztig theory: examples and applications - Charlotte Chan](https://www.youtube.com/watch?v=XcBykZjK0Z8) |
 [Higher structures and deformations of non-commutative spaces](https://www.youtube.com/watch?v=1b8tiargHPE) | [席南华 几何表示论](https://www.bilibili.com/video/BV1id4y1s76A/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Formalisation of Mathematics Seminar](https://www.youtube.com/@FormalisationSeminarCam/playlists) |
-[André Joyal: "Free bicompletion of categories revisited (part 1)"](https://www.youtube.com/watch?v=uWwD0Y-DOJ0) |
-[Kazhdan-Lusztig理论：起源、发展、影响和一些待解决的问题](https://www.bilibili.com/video/BV14j411q7rj/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[André Joyal: "Free bicompletion of categories revisited (part 1)"](https://www.youtube.com/watch?v=uWwD0Y-DOJ0) | [Kazhdan-Lusztig理论：起源、发展、影响和一些待解决的问题](https://www.bilibili.com/video/BV14j411q7rj/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
