@@ -267,8 +267,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Modular Representation Theory](https://www.youtube.com/playlist?list=PLtmvIY4GrVv9qZ_NSul4Qd80MoDVtR_Jc) | [Kazhdan Lusztig theory](https://www.youtube.com/playlist?list=PLpiVdkQGw5oRFrcoa4UVqzMPdiRLJ6Wi9) | [Soergel bimodules and Kazhdan-Lusztig theory](https://www.youtube.com/playlist?list=PLhkiT_RYTEU08AajvBxGewQB2d1kYxnsd) |
 [Kent Vashaw: On the spectrum and support theory of a finite tensor category](https://www.youtube.com/watch?v=kVWEsZ1VMIA&t=1807s) | [Kent Vashaw](https://www.youtube.com/results?search_query=Kent+Vashaw) | [Milen Yakimov: Noncommutative tensor triangular geometry and finite tensor categories](https://www.youtube.com/watch?v=WYreIBk9SSo) |
 [Research Talks: Daniel K. Nakano](https://www.youtube.com/playlist?list=PLYKpGBt1pueBhUQGfjkqGiZxGL27JFx1x) | [TRHW01 Prof. Markus Linckelmann Representation theory, fusion systems and cohomology](https://www.youtube.com/watch?v=XK6auIxCyb0) | [Nadia Romero: Hochschild cohomology for functors on linear symmetric monoidal categories](https://www.youtube.com/watch?v=lDKQqNaZy4s) |
-[Istituto Grothendieck](https://www.youtube.com/@igrothendieck/videos) | [Toposes in Mondovì](https://ctta.igrothendieck.org/) |
-
+[Istituto Grothendieck](https://www.youtube.com/@igrothendieck/videos) | [Toposes in Mondovì](https://ctta.igrothendieck.org/) | [D'Espalungue, Internal pseudomonoidal structures and Day convolution in monoidal 2 categories](https://www.youtube.com/watch?v=C83fgsxwihU) |
+[Serge Bouc: Correspondence functors](https://www.youtube.com/watch?v=lcOAoU9Bpuk) | [TRHW01 Prof. Peter Webb Biset functors defined on categories](https://www.youtube.com/watch?v=reYpvICSP1A&t=1264s) |
 
 
 
