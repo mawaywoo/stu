@@ -275,6 +275,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Istituto Grothendieck](https://www.youtube.com/@igrothendieck/videos) | [Toposes in Mondovì](https://ctta.igrothendieck.org/) | [D'Espalungue, Internal pseudomonoidal structures and Day convolution in monoidal 2 categories](https://www.youtube.com/watch?v=C83fgsxwihU) |
 [Serge Bouc: Correspondence functors](https://www.youtube.com/watch?v=lcOAoU9Bpuk) | [TRHW01 Prof. Peter Webb Biset functors defined on categories](https://www.youtube.com/watch?v=reYpvICSP1A&t=1264s) | [John Bourke: "Tensor products, multimaps and internal homs"](https://www.youtube.com/watch?v=89oFVIVXMYg&t=112s) |
 [Peter Patzt - Representation stability for diagram algebras](https://www.youtube.com/watch?v=0wTqR4XiEd4) | [Koudenburg, Formal Day convolution and low-dimensional monoidal fibrations](https://www.youtube.com/watch?v=_FOWu7gnf1I) | [Wee Liang Gan - Bounding regularity of OI-modules](https://www.youtube.com/watch?v=ctK-cUvooeA) |
+[Talks About Progress In Representation Stability](https://www.youtube.com/@tapirs8826/videos) |
 
 
 
