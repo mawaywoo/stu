@@ -275,7 +275,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Istituto Grothendieck](https://www.youtube.com/@igrothendieck/videos) | [Toposes in Mondovì](https://ctta.igrothendieck.org/) | [D'Espalungue, Internal pseudomonoidal structures and Day convolution in monoidal 2 categories](https://www.youtube.com/watch?v=C83fgsxwihU) |
 [Serge Bouc: Correspondence functors](https://www.youtube.com/watch?v=lcOAoU9Bpuk) | [TRHW01 Prof. Peter Webb Biset functors defined on categories](https://www.youtube.com/watch?v=reYpvICSP1A&t=1264s) | [John Bourke: "Tensor products, multimaps and internal homs"](https://www.youtube.com/watch?v=89oFVIVXMYg&t=112s) |
 [Peter Patzt - Representation stability for diagram algebras](https://www.youtube.com/watch?v=0wTqR4XiEd4) | [Koudenburg, Formal Day convolution and low-dimensional monoidal fibrations](https://www.youtube.com/watch?v=_FOWu7gnf1I) | [Wee Liang Gan - Bounding regularity of OI-modules](https://www.youtube.com/watch?v=ctK-cUvooeA) |
-[Talks About Progress In Representation Stability](https://www.youtube.com/@tapirs8826/videos) |
+[Talks About Progress In Representation Stability](https://www.youtube.com/@tapirs8826/videos) | [Mo Huang - 2-character theory of finite 2-groups](https://www.youtube.com/watch?v=YSCFLf70PCw) |
 
 
 
@@ -2596,6 +2596,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 778. [Introduction to Deligne-Lusztig theory](https://www.youtube.com/watch?v=piXrvw46lzk&list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ&index=4) 对于 l-进上同调，**不需要知道它的确切定义**，只需要掌握**利用它的一些性质去进行计算**即可。见 Lec. 4 的 1:20:40。 2025-2-12 15:44 崇德苑 209 室
 
 779. [Kazhdan-Lusztig理论：起源、发展、影响和一些待解决的问题](https://www.bilibili.com/video/BV14j411q7rj/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [Geordie Williamson (Univ. of Sydney) / Representation theory and geometry II](https://www.youtube.com/watch?v=u7m2IymqCvE) 2025-2-17 15:56 崇德苑 209 室
+
+780. [Mo Huang - 2-character theory of finite 2-groups](https://www.youtube.com/watch?v=YSCFLf70PCw) 2025-3-1 1:44 崇德苑 209 室
 
 
 
