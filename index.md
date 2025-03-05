@@ -276,6 +276,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Serge Bouc: Correspondence functors](https://www.youtube.com/watch?v=lcOAoU9Bpuk) | [TRHW01 Prof. Peter Webb Biset functors defined on categories](https://www.youtube.com/watch?v=reYpvICSP1A&t=1264s) | [John Bourke: "Tensor products, multimaps and internal homs"](https://www.youtube.com/watch?v=89oFVIVXMYg&t=112s) |
 [Peter Patzt - Representation stability for diagram algebras](https://www.youtube.com/watch?v=0wTqR4XiEd4) | [Koudenburg, Formal Day convolution and low-dimensional monoidal fibrations](https://www.youtube.com/watch?v=_FOWu7gnf1I) | [Wee Liang Gan - Bounding regularity of OI-modules](https://www.youtube.com/watch?v=ctK-cUvooeA) |
 [Talks About Progress In Representation Stability](https://www.youtube.com/@tapirs8826/videos) | [Mo Huang - 2-character theory of finite 2-groups](https://www.youtube.com/watch?v=YSCFLf70PCw) | [【暑校】【会议】拓扑斯在蒙多维｜第4届国际拓扑斯大会【座谈】【音乐会】](https://www.bilibili.com/video/BV1JeAeebENN/?spm_id_from=333.1387.homepage.video_card.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[暑期课程－hopf algebra](https://www.bilibili.com/video/BV1L64y1z798/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
