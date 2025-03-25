@@ -2604,6 +2604,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 782. Applied Categorical Structures, 19mwwu@stu.edu.cn, 用 orcid 注册的. (今天她生日，买了一辆山地车，运输问题，得换变速器) 2025-3-21 18:30 崇德苑 209 室
 
+783. [Prof. Rebecca Waldecker | History of the CFSG - How big is it?](https://www.youtube.com/watch?v=sMnRWp-msKk) 2025-3-25 14:10 崇德苑 209 室
+
 
 
 
