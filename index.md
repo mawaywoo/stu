@@ -2608,6 +2608,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 783. [Prof. Rebecca Waldecker | History of the CFSG - How big is it?](https://www.youtube.com/watch?v=sMnRWp-msKk) 2025-3-25 14:10 崇德苑 209 室
 
+784. 在 double category 中，companion "=" 两类“相同”的态射，conjoint "=" 两个“伴随/互逆”的态射。见 11:50 分钟。[Nathanael Arkor: "A (virtual) double category theorist's perspective on polynomials"](https://www.youtube.com/watch?v=tCbRfjv6JQ4) 2025-4-4 12:00 崇德苑 209 室
+
 
 
 
