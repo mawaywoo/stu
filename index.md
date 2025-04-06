@@ -2611,6 +2611,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 784. 在 double category 中，companion "=" 两类“相同”的态射，conjoint "=" 两个“伴随/互逆”的态射。见 11:50 分钟。[Nathanael Arkor: "A (virtual) double category theorist's perspective on polynomials"](https://www.youtube.com/watch?v=tCbRfjv6JQ4) 2025-4-4 12:00 崇德苑 209 室
 
+785. 正合范畴里的正合结构是额外的数据，同一个范畴赋予不同的正合结构，会得到不同的正合范畴，见 38:38 分钟。[ Relative Auslander correspondence via exact categories -Master thesis talk in VR- ](https://www.youtube.com/watch?v=ENQNdLAF_NE&t=23s) 2025-4-6 20:30 崇德苑 209 室
+
 
 
 
