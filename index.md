@@ -279,7 +279,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [暑期课程－hopf algebra](https://www.bilibili.com/video/BV1L64y1z798/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Olivia Caramello – Deductive systems and Grothendieck topologies](https://www.youtube.com/watch?v=3mk2AeSrCvk) | [Fiberwise building in tt-geometry and applications - Juan Omar Gomez (Universität Bielefeld)](https://www.youtube.com/watch?v=K_FWMBFwnY8) |
 [Prof. Rebecca Waldecker - History of the CFSG - How big is it?](https://www.youtube.com/watch?v=sMnRWp-msKk) | [Oriented matroids from cluster-tilting objects in type A cluster categories - N Williams (Cambridge)](https://www.youtube.com/watch?v=oN4uWB68D0M) | [Ivo Dell'Ambrogio - Mackey函子之Yoshida定理的范畴化](https://www.youtube.com/watch?v=sPGdk_kNldw) |
 [Rory Lucyshyn-Wright - Operads arising from base valued enriched functors](https://www.youtube.com/watch?v=ojqmWsv49wk) | [Nathanael Arkor: "A (virtual) double category theorist's perspective on polynomials"](https://www.youtube.com/watch?v=tCbRfjv6JQ4) | [Toposes in Mondovì](https://www.youtube.com/playlist?list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY) |
-[Osamu Iyama - Cohen-Macaulay representations of Artin-Schelter Gorenstein algebras of dimension one](https://www.youtube.com/watch?v=oPbAacUD_-w&t=4s) | [Iyama Osamu, Cohen-Macaulay representations of Artin-Schelter Gorenstein algebras of dimension one](https://www.youtube.com/watch?v=A4PiiEQl3T4) |
+[Osamu Iyama - Cohen-Macaulay representations of Artin-Schelter Gorenstein algebras of dimension one](https://www.youtube.com/watch?v=oPbAacUD_-w&t=4s) | [Iyama Osamu, Cohen-Macaulay representations of Artin-Schelter Gorenstein algebras of dimension one](https://www.youtube.com/watch?v=A4PiiEQl3T4) | [Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw) |
 
 
 
@@ -2612,6 +2612,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 784. 在 double category 中，companion "=" 两类“相同”的态射，conjoint "=" 两个“伴随/互逆”的态射。见 11:50 分钟。[Nathanael Arkor: "A (virtual) double category theorist's perspective on polynomials"](https://www.youtube.com/watch?v=tCbRfjv6JQ4) 2025-4-4 12:00 崇德苑 209 室
 
 785. 正合范畴里的正合结构是额外的数据，同一个范畴赋予不同的正合结构，会得到不同的正合范畴，见 38:38 分钟。[ Relative Auslander correspondence via exact categories -Master thesis talk in VR- ](https://www.youtube.com/watch?v=ENQNdLAF_NE&t=23s) 2025-4-6 20:30 崇德苑 209 室
+
+786. 倾斜对象有点像向量空间的基：1. 彼此独立； 2. 生成整个空间。见 10:00 分钟。[Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw) 2025-4-8 20:31 崇德苑 209 室
 
 
 
