@@ -2615,7 +2615,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 786. 倾斜对象有点像向量空间的基：1. 彼此独立； 2. 生成整个空间。见 10:00 分钟。[Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw) 2025-4-8 20:31 崇德苑 209 室
 
-787. 倾斜对象有点像向量空间的基：1. 彼此独立；2. 生成整个空间。各种倾斜对象 = 向量空间的不同的基。tilting，silting 视为向量空间的基，正交视为补空间。[Changсhang Xi. Good tilting modules and recollements](https://www.youtube.com/watch?v=0O5qAjnxvC8) 2025-4-9 0:36 崇德苑 209 室
+787. 倾斜对象有点像向量空间的基：1. 彼此独立；2. 生成整个空间。各种倾斜对象 = 向量空间的不同的基。tilting，silting 视为向量空间的基。Ext^i(M，-) 可理解为由 M 生成的 i 维子空间。[Changсhang Xi. Good tilting modules and recollements](https://www.youtube.com/watch?v=0O5qAjnxvC8) 2025-4-9 0:36 崇德苑 209 室
+
+788. 
 
 
 
