@@ -280,6 +280,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Prof. Rebecca Waldecker - History of the CFSG - How big is it?](https://www.youtube.com/watch?v=sMnRWp-msKk) | [Oriented matroids from cluster-tilting objects in type A cluster categories - N Williams (Cambridge)](https://www.youtube.com/watch?v=oN4uWB68D0M) | [Ivo Dell'Ambrogio - Mackey函子之Yoshida定理的范畴化](https://www.youtube.com/watch?v=sPGdk_kNldw) |
 [Rory Lucyshyn-Wright - Operads arising from base valued enriched functors](https://www.youtube.com/watch?v=ojqmWsv49wk) | [Nathanael Arkor: "A (virtual) double category theorist's perspective on polynomials"](https://www.youtube.com/watch?v=tCbRfjv6JQ4) | [Toposes in Mondovì](https://www.youtube.com/playlist?list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY) |
 [Osamu Iyama - Cohen-Macaulay representations of Artin-Schelter Gorenstein algebras of dimension one](https://www.youtube.com/watch?v=oPbAacUD_-w&t=4s) | [Iyama Osamu, Cohen-Macaulay representations of Artin-Schelter Gorenstein algebras of dimension one](https://www.youtube.com/watch?v=A4PiiEQl3T4) | [Osamu Iyama: Tilting theory revisited #ICBS2024](https://www.youtube.com/watch?v=lMoywxIoykw) |
+[Representation Theory of Quivers and BGG Category O for semi simple Lie Algebras](https://www.youtube.com/playlist?list=PLzNx6FGVASN2XZExfSsRWhg9XduK5P-JS) |
 
 
 
