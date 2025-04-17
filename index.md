@@ -2619,7 +2619,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 787. 倾斜对象有点像向量空间的基：1. 彼此独立；2. 生成整个空间。各种倾斜对象 = 向量空间的不同的基。tilting，silting 视为向量空间的基。Ext^i(M，-) 可理解为由 M 生成的 i 维子空间。[Changсhang Xi. Good tilting modules and recollements](https://www.youtube.com/watch?v=0O5qAjnxvC8) 2025-4-9 0:36 崇德苑 209 室
 
-788. 
+788. 小范畴融到大范畴中看，关键在于**追踪小范畴跑到大范畴中哪个位置了**。很多子范畴都是为了追踪小范畴中的某个东西：如倾斜复形（范畴）在追踪原来小范畴中的生成元。要理解在不同大小层次范畴这些数据的之间的**溯源关系**。[Pierre-Guy Plamondon: On the category of projective presentations](https://www.youtube.com/watch?v=MBK81Pf5U88) 2025-4-17 10:19 崇德苑 209 室
 
 
 
