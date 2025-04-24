@@ -284,6 +284,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Pierre-Guy Plamondon: On the category of projective presentations](https://www.youtube.com/watch?v=MBK81Pf5U88) | [Operads and calculus [EHTW02]](https://www.youtube.com/playlist?list=PLGYCoKMjmerdICAV2rgx5189FOLCfoWd8) | [Dr. Kristine Bauer Introduction to functor calculus: What is linearity?](https://www.youtube.com/watch?v=wj74Ma7A6yE&list=PLGYCoKMjmerdICAV2rgx5189FOLCfoWd8&index=2) | 
 [A characterisation of higher torsion classes](https://www.youtube.com/watch?v=alPfcHdQN4g) | [European Non-Associative Algebra Seminar](https://www.youtube.com/@enaaweb/playlists) | [North Atlantic Noncommutative Geometry Seminar](https://www.youtube.com/@northatlanticnoncommutativ3652) |
 [The singularity category of an exact category. Applications - Sergio Estrada](https://www.youtube.com/watch?v=wYQSfWAzy-Y) | [Flat cotorsion modules over Noether algebras and derived categories - Tsutomu Nakamura](https://www.youtube.com/watch?v=OAsfMKX5bMo&t=28s) | [丁南庆-同调代数(V)](https://www.bilibili.com/video/BV13p4y1K7Ch/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[Axel Osmond - Morphisms and comorphisms of sites: double-categorical and profunctorial aspects](https://www.youtube.com/watch?v=qRdi5Yon0Ns&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=30) |
 
 
 
