@@ -121,6 +121,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [Non-abelianess of the category of modules over a sum-id bipresheaf of rings](https://arxiv.org/abs/2501.02810)
 
+[Mackey functors from the viewpoint of double category theories](https://arxiv.org/abs/2504.18065)
+
 ## Overleaf
 
 [Overleaf, Online LaTeX Editor](https://www.overleaf.com/project)
