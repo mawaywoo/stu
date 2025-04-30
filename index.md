@@ -2630,6 +2630,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 790. (**三个层次**)由**伪函子**(index 范畴)出发，通过Grothendieck构造，可以得到**纤维范畴**，再把纤维范畴视为座余态射，由座余态射进一步将纤维范畴提升到**拓扑斯间的几何态射**，见第一个视频的 12:45. [Riccardo Zanfa - 广义预层-丛伴随](https://www.bilibili.com/video/BV1HW4y1R7rs/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [Riccardo Zanfa:“A fibrational analysis of sheafification, direct image and inverse image of sheaves”](https://www.youtube.com/watch?v=tH2KkLmTErw&t=285s) 明天去四川玩~ 2025-4-29 15:41 崇德苑 209 室
 
+791. 视频 57:39 的切片范畴是将几何函子的信息进行打碎重组，**用“纤维”重组几何函子的信息**。[Olivia Caramello: “Introduction to relative topos theory”](https://www.youtube.com/watch?v=Gm4T_yFr6tk&t=5679s)  2025-4-30 11:05 湖光校区鲲园饭堂
+
 
 
 
