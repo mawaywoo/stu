@@ -2632,6 +2632,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 791. 视频 57:39 的切片范畴是将几何函子的信息进行打碎重组，**用“纤维”重组几何函子的信息**。[Olivia Caramello: “Introduction to relative topos theory”](https://www.youtube.com/watch?v=Gm4T_yFr6tk&t=5679s)  2025-4-30 11:05 湖光校区鲲园饭堂
 
+792. [Journal of Group Theory](https://www.degruyterbrill.com/journal/key/jgth/html), lingnan email, wumaweipi.7 2025-5-7 11:10 湖光校区鲲园饭堂 
+
 
 
 
