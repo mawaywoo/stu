@@ -287,6 +287,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [A characterisation of higher torsion classes](https://www.youtube.com/watch?v=alPfcHdQN4g) | [European Non-Associative Algebra Seminar](https://www.youtube.com/@enaaweb/playlists) | [North Atlantic Noncommutative Geometry Seminar](https://www.youtube.com/@northatlanticnoncommutativ3652) |
 [The singularity category of an exact category. Applications - Sergio Estrada](https://www.youtube.com/watch?v=wYQSfWAzy-Y) | [Flat cotorsion modules over Noether algebras and derived categories - Tsutomu Nakamura](https://www.youtube.com/watch?v=OAsfMKX5bMo&t=28s) | [丁南庆-同调代数(V)](https://www.bilibili.com/video/BV13p4y1K7Ch/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Axel Osmond - Morphisms and comorphisms of sites: double-categorical and profunctorial aspects](https://www.youtube.com/watch?v=qRdi5Yon0Ns&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=30) | [On the tensor product property & the complete prime spectrum in noncommutative tt geom - Sam Miller](https://www.youtube.com/watch?v=qG6VhDgTToM) | [Rory Lucyshyn-Wright: "V-graded categories [...] for enrichment and actions of monoidal categories"](https://www.youtube.com/watch?v=UR9LUUfaJiM) |
+[André Joyal: "Higher topos theory and Goodwillie Calculus"](https://www.youtube.com/live/AAUWJ7NHJGk) |
 
 
 
