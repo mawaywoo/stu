@@ -288,6 +288,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [The singularity category of an exact category. Applications - Sergio Estrada](https://www.youtube.com/watch?v=wYQSfWAzy-Y) | [Flat cotorsion modules over Noether algebras and derived categories - Tsutomu Nakamura](https://www.youtube.com/watch?v=OAsfMKX5bMo&t=28s) | [丁南庆-同调代数(V)](https://www.bilibili.com/video/BV13p4y1K7Ch/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Axel Osmond - Morphisms and comorphisms of sites: double-categorical and profunctorial aspects](https://www.youtube.com/watch?v=qRdi5Yon0Ns&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=30) | [On the tensor product property & the complete prime spectrum in noncommutative tt geom - Sam Miller](https://www.youtube.com/watch?v=qG6VhDgTToM) | [Rory Lucyshyn-Wright: "V-graded categories [...] for enrichment and actions of monoidal categories"](https://www.youtube.com/watch?v=UR9LUUfaJiM) |
 [André Joyal: "Higher topos theory and Goodwillie Calculus"](https://www.youtube.com/live/AAUWJ7NHJGk) | [Category Theory. Lecture 12. Weighted (co)limits. Tensor-Hom-Cotensor situations](https://www.youtube.com/watch?v=RvzunBfqt6c) | [Nov 21st, Misha Kornev, Weighted (co)limits, Gambino's theorem, Reedy models structures](https://www.youtube.com/watch?v=DLvt0WH_HYs) |
+[Claudio Pisani: Operads as double functors](https://www.youtube.com/watch?v=RwcdFkIE9g4&t=720s) |
 
 
 
@@ -2637,6 +2638,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 792. [Journal of Group Theory](https://www.degruyterbrill.com/journal/key/jgth/html), lingnan email, wumaweipi.7 2025-5-7 11:10 湖光校区鲲园饭堂
 
 793. **打碎重组数据**的一个很好的方式。[Lander Hermans: Virtual double categories as coloured box operads](https://www.youtube.com/watch?v=5SSbeKz2yEA) 2025-5-8 10:59 湖光校区鲲园饭堂
+
+794. **Operad 的指标范畴**可以通过**纤维范畴的 codomain 范畴**来记录。[Claudio Pisani: Operads as double functors](https://www.youtube.com/watch?v=RwcdFkIE9g4&t=720s) 2025-5-10 9:19 崇德苑 209 室 
+
 
 
 
