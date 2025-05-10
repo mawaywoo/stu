@@ -2639,7 +2639,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 793. **打碎重组数据**的一个很好的方式。[Lander Hermans: Virtual double categories as coloured box operads](https://www.youtube.com/watch?v=5SSbeKz2yEA) 2025-5-8 10:59 湖光校区鲲园饭堂
 
-794. **Operad 的指标范畴**可以通过**纤维范畴的 codomain 范畴**来记录。[Claudio Pisani: Operads as double functors](https://www.youtube.com/watch?v=RwcdFkIE9g4&t=720s) 2025-5-10 9:19 崇德苑 209 室 
+794. **Operad 的指标范畴**可以通过**纤维范畴的 codomain 范畴**来记录。**从指标范畴来理解纤维范畴**。[Claudio Pisani: Operads as double functors](https://www.youtube.com/watch?v=RwcdFkIE9g4&t=720s) 2025-5-10 9:19 崇德苑 209 室
+
+795. 
 
 
 
