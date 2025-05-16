@@ -2644,6 +2644,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 795. Fibered Yoneda Lemma and Split Fibrations 见视频末尾。[Grothendieck fibrations - Pino Rosolini](https://www.youtube.com/watch?v=HBaQIQhEotc&t=1685s) 2025-5-16 9:51 崇德苑 209 室
 
+796. 伴随函子的其中一个好处就是：获得（子）范畴等价（通过取伴随函子的不动点的方式）。[Riccardo Zanfa:“A fibrational analysis of sheafification, direct image and inverse image of sheaves”](https://www.youtube.com/watch?v=tH2KkLmTErw&t=1997s) 2025-5-16 21:51 崇德苑 209 室
+
+
 
 
 
