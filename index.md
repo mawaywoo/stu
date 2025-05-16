@@ -2641,7 +2641,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 794. **Operad 的指标范畴**可以通过**纤维范畴的 codomain 范畴**来记录。**从指标范畴来理解纤维范畴**。[Claudio Pisani: Operads as double functors](https://www.youtube.com/watch?v=RwcdFkIE9g4&t=720s) 2025-5-10 9:19 崇德苑 209 室
 
-795. 
+795. Fibered Yoneda Lemma and Split Fibrations 见视频末尾。[Grothendieck fibrations - Pino Rosolini](https://www.youtube.com/watch?v=HBaQIQhEotc&t=1685s) 2025-5-16 9:51 崇德苑 209 室
+
+
 
 
 
