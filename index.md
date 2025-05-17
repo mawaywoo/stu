@@ -289,7 +289,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Axel Osmond - Morphisms and comorphisms of sites: double-categorical and profunctorial aspects](https://www.youtube.com/watch?v=qRdi5Yon0Ns&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=30) | [On the tensor product property & the complete prime spectrum in noncommutative tt geom - Sam Miller](https://www.youtube.com/watch?v=qG6VhDgTToM) | [Rory Lucyshyn-Wright: "V-graded categories [...] for enrichment and actions of monoidal categories"](https://www.youtube.com/watch?v=UR9LUUfaJiM) |
 [André Joyal: "Higher topos theory and Goodwillie Calculus"](https://www.youtube.com/live/AAUWJ7NHJGk) | [Category Theory. Lecture 12. Weighted (co)limits. Tensor-Hom-Cotensor situations](https://www.youtube.com/watch?v=RvzunBfqt6c) | [Nov 21st, Misha Kornev, Weighted (co)limits, Gambino's theorem, Reedy models structures](https://www.youtube.com/watch?v=DLvt0WH_HYs) |
 [Claudio Pisani: Operads as double functors](https://www.youtube.com/watch?v=RwcdFkIE9g4&t=720s) | [The Balmer Spectrum of a Noetherian Ring](https://www.youtube.com/watch?v=8qqNz6tItzg) | [Grothendieck fibrations - Pino Rosolini](https://www.youtube.com/watch?v=HBaQIQhEotc&t=1685s) |
-[Giuseppe Rosolini: Equality is Coalgebraic](https://www.youtube.com/watch?v=UCRuu4ohelI) | [Giuseppe Rosolini: "When an elementary quotient completion is a quasitopos"](https://www.youtube.com/watch?v=9AyUEEeKUC8) |
+[Giuseppe Rosolini: Equality is Coalgebraic](https://www.youtube.com/watch?v=UCRuu4ohelI) | [Giuseppe Rosolini: "When an elementary quotient completion is a quasitopos"](https://www.youtube.com/watch?v=9AyUEEeKUC8) | [Greta Coraglia, On the fibration of algebras](https://www.youtube.com/watch?v=vUj0pqbLYqQ&t=651s) |
 
 
 
