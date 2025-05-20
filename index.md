@@ -2646,6 +2646,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 796. 伴随函子的其中一个好处就是：获得（子）范畴等价（通过取伴随函子的不动点的方式）。[Riccardo Zanfa:“A fibrational analysis of sheafification, direct image and inverse image of sheaves”](https://www.youtube.com/watch?v=tH2KkLmTErw&t=1997s) 2025-5-16 21:51 崇德苑 209 室
 
+797. [Journal of Algebra and its Applications](https://worldscientific.com/page/jaa/editorial-board) wumawei, Wpi.7 2025-5-20 15:39 崇德苑 209 室
+
 
 
 
