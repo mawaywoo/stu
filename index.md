@@ -2649,6 +2649,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 797. [Journal of Algebra and its Applications](https://worldscientific.com/page/jaa/editorial-board) wumawei, Wpi.7 2025-5-20 15:39 崇德苑 209 室
 
+798. 纤维范畴的**纤维之间的伴随函子可以传递各种范畴结构**，如极限、余极限等，这样就可以把纤维的结构“**粘成**”全空间的结构，见 29:00 [Greta Coraglia, On the fibration of algebras](https://www.youtube.com/watch?v=vUj0pqbLYqQ&t=2732s) 2025-5-25 8:42 崇德苑 209 室
+
 
 
 
