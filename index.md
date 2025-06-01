@@ -2651,6 +2651,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 798. 纤维范畴的**纤维之间的伴随函子可以传递各种范畴结构**，如极限、余极限等，这样就可以把纤维的结构“**粘成**”全空间的结构，见 29:00 [Greta Coraglia, On the fibration of algebras](https://www.youtube.com/watch?v=vUj0pqbLYqQ&t=2732s) 2025-5-25 8:42 崇德苑 209 室
 
+799. **Fibered Yoneda Lemma 实际上在用切片范畴取伪函子 F 的局部信息“F(x)”**，[Olivia Caramello, Relative topos theory via stacks](https://www.youtube.com/watch?v=EoL_qIuHUH8) and [Grothendieck Conference - Pino Rosolini](https://www.youtube.com/watch?v=HBaQIQhEotc) 2025-6-1 19:28 崇德苑 209 室
+
 
 
 
