@@ -291,7 +291,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Claudio Pisani: Operads as double functors](https://www.youtube.com/watch?v=RwcdFkIE9g4&t=720s) | [The Balmer Spectrum of a Noetherian Ring](https://www.youtube.com/watch?v=8qqNz6tItzg) | [Grothendieck fibrations - Pino Rosolini](https://www.youtube.com/watch?v=HBaQIQhEotc&t=1685s) |
 [Giuseppe Rosolini: Equality is Coalgebraic](https://www.youtube.com/watch?v=UCRuu4ohelI) | [Giuseppe Rosolini: "When an elementary quotient completion is a quasitopos"](https://www.youtube.com/watch?v=9AyUEEeKUC8) | [Greta Coraglia, On the fibration of algebras](https://www.youtube.com/watch?v=vUj0pqbLYqQ&t=651s) |
 [Brenda Johnson: Differential categories from functor calculus](https://www.youtube.com/watch?v=ZXfsnhSvDwA) | [Cigoli, From Yoneda's additive regular spans to fibred cartesian monoidal opfibrations](https://www.youtube.com/watch?v=HshVl9Zqh10) | [Aspects of 2-dimensional Elementary Topos Theory](https://www.youtube.com/watch?v=1A8m87fmNkM) |
-[Principal bundles and quotient stacks over sites](https://www.youtube.com/watch?v=N3Kz0ywowjM&t=11s) |
+[Principal bundles and quotient stacks over sites](https://www.youtube.com/watch?v=N3Kz0ywowjM&t=11s) | [Dorette Pronk: Fibrations and doubly lax colimits of double categories](https://www.youtube.com/watch?v=tg2v949w2AM&t=2666s) |
 
 
 
