@@ -290,7 +290,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [André Joyal: "Higher topos theory and Goodwillie Calculus"](https://www.youtube.com/live/AAUWJ7NHJGk) | [Category Theory. Lecture 12. Weighted (co)limits. Tensor-Hom-Cotensor situations](https://www.youtube.com/watch?v=RvzunBfqt6c) | [Nov 21st, Misha Kornev, Weighted (co)limits, Gambino's theorem, Reedy models structures](https://www.youtube.com/watch?v=DLvt0WH_HYs) |
 [Claudio Pisani: Operads as double functors](https://www.youtube.com/watch?v=RwcdFkIE9g4&t=720s) | [The Balmer Spectrum of a Noetherian Ring](https://www.youtube.com/watch?v=8qqNz6tItzg) | [Grothendieck fibrations - Pino Rosolini](https://www.youtube.com/watch?v=HBaQIQhEotc&t=1685s) |
 [Giuseppe Rosolini: Equality is Coalgebraic](https://www.youtube.com/watch?v=UCRuu4ohelI) | [Giuseppe Rosolini: "When an elementary quotient completion is a quasitopos"](https://www.youtube.com/watch?v=9AyUEEeKUC8) | [Greta Coraglia, On the fibration of algebras](https://www.youtube.com/watch?v=vUj0pqbLYqQ&t=651s) |
-[Brenda Johnson: Differential categories from functor calculus](https://www.youtube.com/watch?v=ZXfsnhSvDwA) | [Cigoli, From Yoneda's additive regular spans to fibred cartesian monoidal opfibrations](https://www.youtube.com/watch?v=HshVl9Zqh10) |
+[Brenda Johnson: Differential categories from functor calculus](https://www.youtube.com/watch?v=ZXfsnhSvDwA) | [Cigoli, From Yoneda's additive regular spans to fibred cartesian monoidal opfibrations](https://www.youtube.com/watch?v=HshVl9Zqh10) | [Aspects of 2-dimensional Elementary Topos Theory](https://www.youtube.com/watch?v=1A8m87fmNkM) |
 
 
 
