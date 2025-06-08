@@ -293,6 +293,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Brenda Johnson: Differential categories from functor calculus](https://www.youtube.com/watch?v=ZXfsnhSvDwA) | [Cigoli, From Yoneda's additive regular spans to fibred cartesian monoidal opfibrations](https://www.youtube.com/watch?v=HshVl9Zqh10) | [Aspects of 2-dimensional Elementary Topos Theory](https://www.youtube.com/watch?v=1A8m87fmNkM) |
 [Principal bundles and quotient stacks over sites](https://www.youtube.com/watch?v=N3Kz0ywowjM&t=11s) | [Dorette Pronk: Fibrations and doubly lax colimits of double categories](https://www.youtube.com/watch?v=tg2v949w2AM&t=2666s) | [Bernstein 80 conference at WIS in May 2025](https://www.youtube.com/playlist?list=PLk7tLAbTBsL7u74QkNeYRcNe5cWHS4Zwm) |
 [Categorías y Topología](https://www.youtube.com/@catop) | [The three F's in bicategory theory](https://www.youtube.com/watch?v=D3XoAldxBOY&list=PLkal543ocOsIU7tmwYbalCSN74QINt4sf&index=11) | [CTOf23, Luca Mesiti: Grothendieck 2-topoi are elementary 2-topoi](https://www.youtube.com/watch?v=Hdgf53RN9no) |
+[Category Theory Octoberfest 2023](https://www.youtube.com/playlist?list=PLu4STGsfbix9lii5DKDem1Hj-D33VBhcK) | [Workshop on Doctrines & Fibrations](https://www.youtube.com/playlist?list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R) | [International Category Theory Conference 2023](https://www.youtube.com/playlist?list=PLu4STGsfbix9l6rPxGsjG6Gl822k1hj2X) | 
+[Archive Trust for Research](https://www.youtube.com/@archivetrustforresearch/playlists) |
 
 
 
