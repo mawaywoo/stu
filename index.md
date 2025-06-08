@@ -292,7 +292,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Giuseppe Rosolini: Equality is Coalgebraic](https://www.youtube.com/watch?v=UCRuu4ohelI) | [Giuseppe Rosolini: "When an elementary quotient completion is a quasitopos"](https://www.youtube.com/watch?v=9AyUEEeKUC8) | [Greta Coraglia, On the fibration of algebras](https://www.youtube.com/watch?v=vUj0pqbLYqQ&t=651s) |
 [Brenda Johnson: Differential categories from functor calculus](https://www.youtube.com/watch?v=ZXfsnhSvDwA) | [Cigoli, From Yoneda's additive regular spans to fibred cartesian monoidal opfibrations](https://www.youtube.com/watch?v=HshVl9Zqh10) | [Aspects of 2-dimensional Elementary Topos Theory](https://www.youtube.com/watch?v=1A8m87fmNkM) |
 [Principal bundles and quotient stacks over sites](https://www.youtube.com/watch?v=N3Kz0ywowjM&t=11s) | [Dorette Pronk: Fibrations and doubly lax colimits of double categories](https://www.youtube.com/watch?v=tg2v949w2AM&t=2666s) | [Bernstein 80 conference at WIS in May 2025](https://www.youtube.com/playlist?list=PLk7tLAbTBsL7u74QkNeYRcNe5cWHS4Zwm) |
-[Categorías y Topología](https://www.youtube.com/@catop) | [The three F's in bicategory theory](https://www.youtube.com/watch?v=D3XoAldxBOY&list=PLkal543ocOsIU7tmwYbalCSN74QINt4sf&index=11) |
+[Categorías y Topología](https://www.youtube.com/@catop) | [The three F's in bicategory theory](https://www.youtube.com/watch?v=D3XoAldxBOY&list=PLkal543ocOsIU7tmwYbalCSN74QINt4sf&index=11) | [CTOf23, Luca Mesiti: Grothendieck 2-topoi are elementary 2-topoi](https://www.youtube.com/watch?v=Hdgf53RN9no) |
 
 
 
