@@ -295,7 +295,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Categorías y Topología](https://www.youtube.com/@catop) | [The three F's in bicategory theory](https://www.youtube.com/watch?v=D3XoAldxBOY&list=PLkal543ocOsIU7tmwYbalCSN74QINt4sf&index=11) | [CTOf23, Luca Mesiti: Grothendieck 2-topoi are elementary 2-topoi](https://www.youtube.com/watch?v=Hdgf53RN9no) |
 [Category Theory Octoberfest 2023](https://www.youtube.com/playlist?list=PLu4STGsfbix9lii5DKDem1Hj-D33VBhcK) | [Workshop on Doctrines & Fibrations](https://www.youtube.com/playlist?list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R) | [International Category Theory Conference 2023](https://www.youtube.com/playlist?list=PLu4STGsfbix9l6rPxGsjG6Gl822k1hj2X) | 
 [Archive Trust for Research](https://www.youtube.com/@archivetrustforresearch/playlists) | [WDF23, Ülo Reimaa: The fibration of algebras](https://www.youtube.com/watch?v=BhfqB_QAPS4&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=3) | [Loregian, A few remarks of the fibration of algebras](https://www.youtube.com/watch?v=nlT2T_cvl-U) |
-[Greta Coraglia, On the fibration of algebras](https://www.youtube.com/watch?v=vUj0pqbLYqQ&t=2655s) |
+[Greta Coraglia, On the fibration of algebras](https://www.youtube.com/watch?v=vUj0pqbLYqQ&t=2655s) | [Polynomial Functors Course](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i6IjU82EDzCqgERKjjIPlmh) |
 
 
 
