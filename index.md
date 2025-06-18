@@ -113,7 +113,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ---
 
-[Torsion pairs in categories of modules on ringed finite sites, Communications in Algebra](https://arxiv.org/abs/2403.15001)
+[Torsion pairs in categories of modules on ringed finite sites, Communications in Algebra](https://arxiv.org/abs/2403.15001) or [online](https://www.tandfonline.com/doi/full/10.1080/00927872.2025.2516108?src=exp-la)
 
 [Pseudoskew category algebras and modules over representations of small categories](https://arxiv.org/abs/2406.19883)
 
