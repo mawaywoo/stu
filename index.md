@@ -2660,6 +2660,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 799. **Fibered Yoneda Lemma 实际上在用切片范畴取伪函子 F 的局部信息“F(x)”**，[Olivia Caramello, Relative topos theory via stacks](https://www.youtube.com/watch?v=EoL_qIuHUH8) and [Grothendieck Conference - Pino Rosolini](https://www.youtube.com/watch?v=HBaQIQhEotc) 2025-6-1 19:28 崇德苑 209 室
 
+800. [【Lex Fridman播客】陶哲轩：数学与物理的终极难题及AI未来](https://www.bilibili.com/video/BV1VJMbzrEmc/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-6-20 20:53 崇德苑 209 室
+
 
 
 
