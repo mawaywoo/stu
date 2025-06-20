@@ -296,7 +296,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Category Theory Octoberfest 2023](https://www.youtube.com/playlist?list=PLu4STGsfbix9lii5DKDem1Hj-D33VBhcK) | [Workshop on Doctrines & Fibrations](https://www.youtube.com/playlist?list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R) | [International Category Theory Conference 2023](https://www.youtube.com/playlist?list=PLu4STGsfbix9l6rPxGsjG6Gl822k1hj2X) | 
 [Archive Trust for Research](https://www.youtube.com/@archivetrustforresearch/playlists) | [WDF23, Ülo Reimaa: The fibration of algebras](https://www.youtube.com/watch?v=BhfqB_QAPS4&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=3) | [Loregian, A few remarks of the fibration of algebras](https://www.youtube.com/watch?v=nlT2T_cvl-U) |
 [Greta Coraglia, On the fibration of algebras](https://www.youtube.com/watch?v=vUj0pqbLYqQ&t=2655s) | [Polynomial Functors Course](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i6IjU82EDzCqgERKjjIPlmh) | [Workshop on Polynomial Functors (2021)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7R-fGcAmNyWmJBQg1wzex-) |
-[【会议】表示论与代数几何｜Joseph Bernstein 八十寿辰纪念会议](https://www.bilibili.com/video/BV1837vzCEvY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[【会议】表示论与代数几何｜Joseph Bernstein 八十寿辰纪念会议](https://www.bilibili.com/video/BV1837vzCEvY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Pushout of Groupoid Extensions and Cocycles](https://www.youtube.com/watch?v=oo_4SsfnjH8) |
 
 
 
