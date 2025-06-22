@@ -298,7 +298,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Greta Coraglia, On the fibration of algebras](https://www.youtube.com/watch?v=vUj0pqbLYqQ&t=2655s) | [Polynomial Functors Course](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i6IjU82EDzCqgERKjjIPlmh) | [Workshop on Polynomial Functors (2021)](https://www.youtube.com/playlist?list=PLhgq-BqyZ7i7R-fGcAmNyWmJBQg1wzex-) |
 [【会议】表示论与代数几何｜Joseph Bernstein 八十寿辰纪念会议](https://www.bilibili.com/video/BV1837vzCEvY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Pushout of Groupoid Extensions and Cocycles](https://www.youtube.com/watch?v=oo_4SsfnjH8) | [Bernard Bainson, Extensions of ordered groupoids](https://www.youtube.com/watch?v=4M16gf-52wc&t=1329s) |
 [Groupoids in analysis and algebra](https://www.youtube.com/watch?v=LfSfd4G2QT0&t=277s) | [AfMS: African Mathematics Seminar](https://www.youtube.com/playlist?list=PLfXuF43MZZInpSmJubrafbWbLXfFVTPjN) | [The Zappa–Szép product of a Fell bundle by a groupoid](https://www.youtube.com/watch?v=8vwfN-Lj_NU) |
-[]() |
+[Correspondences, K-theory and homology for étale groupoids](https://www.youtube.com/watch?v=ASRLLlC-C4E) |
 
 
 
@@ -2662,6 +2662,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 799. **Fibered Yoneda Lemma 实际上在用切片范畴取伪函子 F 的局部信息“F(x)”**，[Olivia Caramello, Relative topos theory via stacks](https://www.youtube.com/watch?v=EoL_qIuHUH8) and [Grothendieck Conference - Pino Rosolini](https://www.youtube.com/watch?v=HBaQIQhEotc) 2025-6-1 19:28 崇德苑 209 室
 
 800. [【Lex Fridman播客】陶哲轩：数学与物理的终极难题及AI未来](https://www.bilibili.com/video/BV1VJMbzrEmc/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-6-20 20:53 崇德苑 209 室
+
+801. 群胚作用定义的理解，见 29:00。 [Correspondences, K-theory and homology for étale groupoids](https://www.youtube.com/watch?v=ASRLLlC-C4E) 2025-6-22 10:28 崇德苑 209 室
+
 
 
 
