@@ -299,7 +299,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [【会议】表示论与代数几何｜Joseph Bernstein 八十寿辰纪念会议](https://www.bilibili.com/video/BV1837vzCEvY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Pushout of Groupoid Extensions and Cocycles](https://www.youtube.com/watch?v=oo_4SsfnjH8) | [Bernard Bainson, Extensions of ordered groupoids](https://www.youtube.com/watch?v=4M16gf-52wc&t=1329s) |
 [Groupoids in analysis and algebra](https://www.youtube.com/watch?v=LfSfd4G2QT0&t=277s) | [AfMS: African Mathematics Seminar](https://www.youtube.com/playlist?list=PLfXuF43MZZInpSmJubrafbWbLXfFVTPjN) | [The Zappa–Szép product of a Fell bundle by a groupoid](https://www.youtube.com/watch?v=8vwfN-Lj_NU) |
 [Correspondences, K-theory and homology for étale groupoids](https://www.youtube.com/watch?v=ASRLLlC-C4E) | [David Jaz Myers, Higher Schreier theory](https://www.youtube.com/watch?v=I7f2iJB52vo) | [International Category Theory Conference CT2024](https://www.youtube.com/playlist?list=PLu4STGsfbix_crbQKOisU3tULDxmVLKl5) |
-[CT2024, Julia Ramos González: Double categorical presentations of Grothendieck topoi](https://www.youtube.com/watch?v=RhcghWIAnbo&list=PLu4STGsfbix_crbQKOisU3tULDxmVLKl5&index=14) |
+[CT2024, Julia Ramos González: Double categorical presentations of Grothendieck topoi](https://www.youtube.com/watch?v=RhcghWIAnbo&list=PLu4STGsfbix_crbQKOisU3tULDxmVLKl5&index=14) | [José Siqueira Double functorial representation of indexed monoidal structures](https://www.youtube.com/watch?v=glQUcRImOkw) |
 
 
 
