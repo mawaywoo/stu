@@ -2666,6 +2666,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 801. 群胚作用定义的理解，见 29:00。 [Correspondences, K-theory and homology for étale groupoids](https://www.youtube.com/watch?v=ASRLLlC-C4E) 2025-6-22 10:28 崇德苑 209 室
 
+802. [Abstract Algebra in Homotopy-Coherent Mathematics - Jacob Lurie](https://www.youtube.com/watch?v=FYnHPF5pL4c) 她待会儿坐乡车回家。2025-6-27 16:45 崇德苑 209 室
+
 
 
 
