@@ -300,7 +300,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Groupoids in analysis and algebra](https://www.youtube.com/watch?v=LfSfd4G2QT0&t=277s) | [AfMS: African Mathematics Seminar](https://www.youtube.com/playlist?list=PLfXuF43MZZInpSmJubrafbWbLXfFVTPjN) | [The Zappa–Szép product of a Fell bundle by a groupoid](https://www.youtube.com/watch?v=8vwfN-Lj_NU) |
 [Correspondences, K-theory and homology for étale groupoids](https://www.youtube.com/watch?v=ASRLLlC-C4E) | [David Jaz Myers, Higher Schreier theory](https://www.youtube.com/watch?v=I7f2iJB52vo) | [International Category Theory Conference CT2024](https://www.youtube.com/playlist?list=PLu4STGsfbix_crbQKOisU3tULDxmVLKl5) |
 [CT2024, Julia Ramos González: Double categorical presentations of Grothendieck topoi](https://www.youtube.com/watch?v=RhcghWIAnbo&list=PLu4STGsfbix_crbQKOisU3tULDxmVLKl5&index=14) | [José Siqueira Double functorial representation of indexed monoidal structures](https://www.youtube.com/watch?v=glQUcRImOkw) | [Abstract Algebra in Homotopy-Coherent Mathematics - Jacob Lurie](https://www.youtube.com/watch?v=FYnHPF5pL4c) |
-[Julia Plavnik: "Classifying small fusion categories"](https://www.youtube.com/watch?v=Vin1VJzw1ZM&t=97s) | [Exact factorizations and bicrossed product of fusion categories Julia Plavnik (Indiana)](https://www.youtube.com/watch?v=Ecj4PhnR9aA) |
+[Julia Plavnik: "Classifying small fusion categories"](https://www.youtube.com/watch?v=Vin1VJzw1ZM&t=97s) | [Exact factorizations and bicrossed product of fusion categories Julia Plavnik (Indiana)](https://www.youtube.com/watch?v=Ecj4PhnR9aA) | [From Rings to Ring Spectra - Allen Yuan](https://www.youtube.com/watch?v=jE-dXVNv6tM) |
 
 
 
