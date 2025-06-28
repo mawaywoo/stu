@@ -301,7 +301,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Correspondences, K-theory and homology for étale groupoids](https://www.youtube.com/watch?v=ASRLLlC-C4E) | [David Jaz Myers, Higher Schreier theory](https://www.youtube.com/watch?v=I7f2iJB52vo) | [International Category Theory Conference CT2024](https://www.youtube.com/playlist?list=PLu4STGsfbix_crbQKOisU3tULDxmVLKl5) |
 [CT2024, Julia Ramos González: Double categorical presentations of Grothendieck topoi](https://www.youtube.com/watch?v=RhcghWIAnbo&list=PLu4STGsfbix_crbQKOisU3tULDxmVLKl5&index=14) | [José Siqueira Double functorial representation of indexed monoidal structures](https://www.youtube.com/watch?v=glQUcRImOkw) | [Abstract Algebra in Homotopy-Coherent Mathematics - Jacob Lurie](https://www.youtube.com/watch?v=FYnHPF5pL4c) |
 [Julia Plavnik: "Classifying small fusion categories"](https://www.youtube.com/watch?v=Vin1VJzw1ZM&t=97s) | [Exact factorizations and bicrossed product of fusion categories Julia Plavnik (Indiana)](https://www.youtube.com/watch?v=Ecj4PhnR9aA) | [From Rings to Ring Spectra - Allen Yuan](https://www.youtube.com/watch?v=jE-dXVNv6tM) |
-[Jeremy Hahn _ Prismatic and syntomic cohomology of ring spectra](https://www.bilibili.com/video/BV1UUKLz4EaM/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[Jeremy Hahn _ Prismatic and syntomic cohomology of ring spectra](https://www.bilibili.com/video/BV1UUKLz4EaM/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [lecture 23. Spectral sequence](https://www.bilibili.com/video/BV1b14y1g7UM/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -2669,6 +2669,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 801. 群胚作用定义的理解，见 29:00。 [Correspondences, K-theory and homology for étale groupoids](https://www.youtube.com/watch?v=ASRLLlC-C4E) 2025-6-22 10:28 崇德苑 209 室
 
 802. [Abstract Algebra in Homotopy-Coherent Mathematics - Jacob Lurie](https://www.youtube.com/watch?v=FYnHPF5pL4c) 她待会儿坐乡车回家。2025-6-27 16:45 崇德苑 209 室
+
+803. 谱序列的r页数据**不能**决定r+1页的数据：因为每一页的微分是**预先单独给出**的，**不是由上一页数据计算得到的**。[lecture 23. Spectral sequence](https://www.bilibili.com/video/BV1b14y1g7UM/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 她今天中午回到梅州了，坐了一夜的乡车大巴。2025-6-28 21:27 崇德苑 209 室
 
 
 
