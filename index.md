@@ -2676,7 +2676,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 804. 为什么不直接从T诱导到G，而是先诱导到中间群B，那是因为T到G差别太大（导致**诱导表示里含的不可约表示比较多**），最后使得分解不可约表示会比较困难，见 4:37；**特征标 <----> 不动点 <----> 交错上同调**，见 8:00；**诱导表示的不可约表示的分解比较困难，怎么办，我们把它提升到特征标层（较特征标而已，特征标层具有更丰富的结够），借助特征标层的分析，再拉回到特征标的分解**，这就是特征标层的意义，见 12:24 [Deligne-Lusztig theory and character sheaves](https://www.youtube.com/watch?v=J7QTNT25yYU) 2025-6-30 16:23 崇德苑 209 室
 
-805. **正如群G会产生群代数，Coxeter群(W, S)会产生Hecke代数**。[Kazhdan-Lusztig理论：起源、发展、影响和一些待解决的问题](https://www.bilibili.com/video/BV14j411q7rj/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [20230818-Soergel-bimodule-马家骏](https://www.bilibili.com/video/BV19u4y197E6/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-6-30 21:54 崇德苑 209 室
+805. **正如群G会产生群代数，Coxeter群(W, S)会产生Hecke代数**。一切**由Coxeter群(W, S)出发**，产生代数、几何、组合信息等，信息也有Coxeter群(W, S)进行“中转、关联”。[Kazhdan-Lusztig理论：起源、发展、影响和一些待解决的问题](https://www.bilibili.com/video/BV14j411q7rj/?spm_id_from=333.788.top_right_bar_window_default_collection.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [20230818-Soergel-bimodule-马家骏](https://www.bilibili.com/video/BV19u4y197E6/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [几何表示论 席南华](https://www.bilibili.com/video/BV1Zc411u7zR?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [数学所讲座 单芃——Hecke代数简史](https://www.bilibili.com/video/BV18LdpY4Ebe/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-6-30 21:54 崇德苑 209 室
 
 
 
