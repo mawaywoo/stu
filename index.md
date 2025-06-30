@@ -302,7 +302,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [CT2024, Julia Ramos González: Double categorical presentations of Grothendieck topoi](https://www.youtube.com/watch?v=RhcghWIAnbo&list=PLu4STGsfbix_crbQKOisU3tULDxmVLKl5&index=14) | [José Siqueira Double functorial representation of indexed monoidal structures](https://www.youtube.com/watch?v=glQUcRImOkw) | [Abstract Algebra in Homotopy-Coherent Mathematics - Jacob Lurie](https://www.youtube.com/watch?v=FYnHPF5pL4c) |
 [Julia Plavnik: "Classifying small fusion categories"](https://www.youtube.com/watch?v=Vin1VJzw1ZM&t=97s) | [Exact factorizations and bicrossed product of fusion categories Julia Plavnik (Indiana)](https://www.youtube.com/watch?v=Ecj4PhnR9aA) | [From Rings to Ring Spectra - Allen Yuan](https://www.youtube.com/watch?v=jE-dXVNv6tM) |
 [Jeremy Hahn _ Prismatic and syntomic cohomology of ring spectra](https://www.bilibili.com/video/BV1UUKLz4EaM/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [lecture 23. Spectral sequence](https://www.bilibili.com/video/BV1b14y1g7UM/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Lie Algebras and Homotopy Theory - Jacob Lurie](https://www.youtube.com/watch?v=LeaiPHAh0X0) |
-[Deligne-Lusztig theory and character sheaves](https://www.youtube.com/watch?v=J7QTNT25yYU) | [Charlotte Chan: Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=74Qk0Q_CzFU&t=10s) |
+[Deligne-Lusztig theory and character sheaves](https://www.youtube.com/watch?v=J7QTNT25yYU) | [Charlotte Chan: Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=74Qk0Q_CzFU&t=10s) | [TGAW01 - Crossed products and groupoid C*-algebras](https://www.youtube.com/watch?v=8dndkhB0SI4) |
+[]() |
 
 
 
