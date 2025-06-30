@@ -2672,6 +2672,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 803. 谱序列的r页数据**不能**决定r+1页的数据：因为每一页的微分是**预先单独给出**的，**不是由上一页数据计算得到的**。[lecture 23. Spectral sequence](https://www.bilibili.com/video/BV1b14y1g7UM/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 她今天中午回到梅州了，坐了一夜的乡车大巴。2025-6-28 21:27 崇德苑 209 室
 
+804. 为什么不直接从T诱导到G，而是先诱导到中间群B，那是因为T到G差别太大，最后分解出不可约表示会比较困难，见 4:37 [Deligne-Lusztig theory and character sheaves](https://www.youtube.com/watch?v=J7QTNT25yYU) 2025-6-30 16:23 崇德苑 209 室
+
 
 
 
