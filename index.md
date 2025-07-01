@@ -303,7 +303,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Julia Plavnik: "Classifying small fusion categories"](https://www.youtube.com/watch?v=Vin1VJzw1ZM&t=97s) | [Exact factorizations and bicrossed product of fusion categories Julia Plavnik (Indiana)](https://www.youtube.com/watch?v=Ecj4PhnR9aA) | [From Rings to Ring Spectra - Allen Yuan](https://www.youtube.com/watch?v=jE-dXVNv6tM) |
 [Jeremy Hahn _ Prismatic and syntomic cohomology of ring spectra](https://www.bilibili.com/video/BV1UUKLz4EaM/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [lecture 23. Spectral sequence](https://www.bilibili.com/video/BV1b14y1g7UM/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Lie Algebras and Homotopy Theory - Jacob Lurie](https://www.youtube.com/watch?v=LeaiPHAh0X0) |
 [Deligne-Lusztig theory and character sheaves](https://www.youtube.com/watch?v=J7QTNT25yYU) | [Charlotte Chan: Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=74Qk0Q_CzFU&t=10s) | [TGAW01 - Crossed products and groupoid C*-algebras](https://www.youtube.com/watch?v=8dndkhB0SI4) |
-[Daniel Tubbenhauer: 2-representation theory of Soergel bimodules](https://www.youtube.com/watch?v=wuQRkRO6tN8&list=PLuFcVFHMIfhKclrRL_Z61gR0Gt0tFw1QA&index=11) |
+[Daniel Tubbenhauer: 2-representation theory of Soergel bimodules](https://www.youtube.com/watch?v=wuQRkRO6tN8&list=PLuFcVFHMIfhKclrRL_Z61gR0Gt0tFw1QA&index=11) | [国际基础科学大会-Higher representation theory and low-dimensional topology](https://www.bilibili.com/video/BV1uW4219738/?vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
