@@ -2685,6 +2685,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 807. [最不可思议的数学结果之挂谷问题 线段180度旋转扫过的面积居然为0？ 挂谷宗一 斯坦纳 西克维奇](https://github.com/mawaywoo/stu/edit/mawaywoo/index.md) 2025-7-5 19:18 崇德苑 209 室
 
+808. cofinal functor 用于保证 bijection [Section 2.5 - Cofinal Functors - Categories & Sheaves](https://www.youtube.com/watch?v=Zc99HCFf3f4) 2025-7-5 20:08 崇德苑 209 室
+
 
 
 
