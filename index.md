@@ -2683,6 +2683,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 806. 对几何表示论有更深刻的理解了。由“群”出发，通过取子集、商集、上同调等运算，可以得到各种表示。群产生几何，几何上的层即上同调可以理解为群的表示的“提升”，得到层和上同调（比表示具有更丰富的结构）后再拉回到表示中来。[Soergel bimodules, including their motivation from classical Lie theory, their (diagrammatic) construction and applications to modular representation theory](https://www.bilibili.com/video/BV1qf4y1a7sX?spm_id_from=333.788.videopod.episodes&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-2 12:48 崇德苑 209 室
 
+807. [最不可思议的数学结果之挂谷问题 线段180度旋转扫过的面积居然为0？ 挂谷宗一 斯坦纳 西克维奇](https://github.com/mawaywoo/stu/edit/mawaywoo/index.md) 2025-7-5 19:18 崇德苑 209 室
+
 
 
 
