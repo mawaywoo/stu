@@ -2692,7 +2692,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 810. [Towards a p-adic Deligne--Lusztig theory - Charlotte Chan](https://www.youtube.com/watch?v=xrQwS8Fx6fg&t=2121s) 2025-7-6 11:51 崇德苑 209 室
 
-811. **傅里叶变换**：视频 [Categorification of Fourier Theory](https://www.youtube.com/watch?v=w3f8KEcv4RE) 在 19:00 中的分解可用高代中的将向量空间 V 按特征值分解成不变子空间的直和（王萼芳，石生明，《高等代数》第五版，p.211 定理12）；还可以看视频 [几何表示论与几何 Satake 等价, Geordie Williamson, 澳大利亚悉尼数学研究所 (SMRI), 悉尼大学, 2020](https://www.bilibili.com/video/BV1724y1d7RE/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 以及 [Geordie Williamson. Some examples of Koszul duality via dg algebras](https://www.youtube.com/watch?v=T3T-Nxe-esM) 2025-7-6 13:32 崇德苑 209 室
+811. **傅里叶变换**：视频 [Categorification of Fourier Theory](https://www.youtube.com/watch?v=w3f8KEcv4RE) 在 19:00 中的分解可用**高代中的将向量空间 V 按特征值分解成不变子空间的直和**（王萼芳，石生明，《高等代数》第五版，p.211 定理12）；还可以看视频 [几何表示论与几何 Satake 等价, Geordie Williamson, 澳大利亚悉尼数学研究所 (SMRI), 悉尼大学, 2020](https://www.bilibili.com/video/BV1724y1d7RE/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 以及 [Geordie Williamson. Some examples of Koszul duality via dg algebras](https://www.youtube.com/watch?v=T3T-Nxe-esM) 2025-7-6 13:32 崇德苑 209 室
 
 
 
