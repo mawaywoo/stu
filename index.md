@@ -305,7 +305,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Deligne-Lusztig theory and character sheaves](https://www.youtube.com/watch?v=J7QTNT25yYU) | [Charlotte Chan: Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=74Qk0Q_CzFU&t=10s) | [TGAW01 - Crossed products and groupoid C*-algebras](https://www.youtube.com/watch?v=8dndkhB0SI4) |
 [Daniel Tubbenhauer: 2-representation theory of Soergel bimodules](https://www.youtube.com/watch?v=wuQRkRO6tN8&list=PLuFcVFHMIfhKclrRL_Z61gR0Gt0tFw1QA&index=11) | [国际基础科学大会-Higher representation theory and low-dimensional topology](https://www.bilibili.com/video/BV1uW4219738/?vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The Abel Lectures 2025: Masaki Kashiwara – Monoidal categories (non-commutative case)](https://www.youtube.com/watch?v=FHn4WHPzjYw) |
 [Soergel bimodules, including their motivation from classical Lie theory, their (diagrammatic) construction and applications to modular representation theory](https://www.bilibili.com/video/BV1qf4y1a7sX?spm_id_from=333.788.videopod.episodes&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The Springer correspondence (Pramod Achar) 1](https://www.youtube.com/watch?v=xYcFc1TjRoo) | [Ergün Yalcin: Representation rings for fusion systems and dimension functions](https://www.youtube.com/watch?v=pF5GzKbnB4k&t=474s) |
-[A. Lazarev - Coderived categories and their applications](https://www.youtube.com/watch?v=J1KigxSaeuk) | [Representation Theory: Mini course on Springer Fibers and Quiver Varieties](https://sites.google.com/view/tms-home/course-list/2020/representation-theory-mini-course-on-springer-fibers-and-quiver-varieties) |
+[A. Lazarev - Coderived categories and their applications](https://www.youtube.com/watch?v=J1KigxSaeuk) | [Representation Theory: Mini course on Springer Fibers and Quiver Varieties](https://sites.google.com/view/tms-home/course-list/2020/representation-theory-mini-course-on-springer-fibers-and-quiver-varieties) | [Towards a p-adic Deligne--Lusztig theory - Charlotte Chan](https://www.youtube.com/watch?v=xrQwS8Fx6fg&t=2121s) |
 
 
 
@@ -2688,6 +2688,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 808. cofinal functor 用于保证 bijection [Section 2.5 - Cofinal Functors - Categories & Sheaves](https://www.youtube.com/watch?v=Zc99HCFf3f4) 2025-7-5 20:08 崇德苑 209 室
 
 809. 有趣，不需要知道l-进上同调具体定义，**完全依靠l-进上同调满足的一些性质（公理）就足以做大量的计算**。l-进上同调的**不变子空间计算转化为商簇**的计算。[Introduction to Deligne-Lusztig Theory](https://www.bilibili.com/video/BV1zb411A7nC?spm_id_from=333.788.videopod.episodes&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-6 9:45 崇德苑 209 室
+
+810. [Towards a p-adic Deligne--Lusztig theory - Charlotte Chan](https://www.youtube.com/watch?v=xrQwS8Fx6fg&t=2121s) 2025-7-6 11:51 崇德苑 209 室
 
 
 
