@@ -2696,7 +2696,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 812. **代数群 G 的对偶 dual: Hom(G, S), 即 G 的特征标对群 G 的表示的分解的效果可以用线性变换 A 的特征值对线性空间 V 的分解（王萼芳，石生明，《高等代数》第五版，p.211 定理12）做类比理解**，本质上都是**傅里叶变换（=把复杂的对象分解为简单的对象）**，见上一条内容和视频。2025-7-6 13:57 崇德苑 209 室
 
-813. **一维表示，代数群的 root data，对偶群，数乘作用等都可以理解为矩阵的的特征值的效果/角色**，结合上两条理解。2025-7-6 14:31 崇德苑 209 室
+813. **一维表示，代数群的 root data，对偶群，数乘作用等都可以理解为矩阵的的特征值的效果/角色**，结合上两条理解。[Geordie Williamson: Geometric Representation Theory and the Geometric Satake Equivalence](https://www.youtube.com/watch?v=jrhHsSGo9aM) 27:31 (**G 的 root data '=' 线性变换 A 的特征值**)2025-7-6 14:31 崇德苑 209 室
 
 
 
