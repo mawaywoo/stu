@@ -2698,7 +2698,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 813. **一维表示，代数群的 root data，对偶群，数乘作用等都可以理解为矩阵的的特征值的效果/角色**，结合上两条理解。[Geordie Williamson: Geometric Representation Theory and the Geometric Satake Equivalence](https://www.youtube.com/watch?v=jrhHsSGo9aM) 27:31 (**G 的 root data '=' 线性变换 A 的特征值**) 2025-7-6 14:31 崇德苑 209 室
 
-814. **对偶群的效果在于 “maps in” 和 “maps out”**，见 32:52，有点像拓扑斯中的 object classifier 的那个图表的左下角部分。**群和对偶群的原理就是：群产生的层范畴（几何信息）和它的对偶群的表示范畴（代数信息）是等价的，由此可以用代数几何的方法来研究其对偶群的表示理论**，见 44:54 [Geordie Williamson: Geometric Representation Theory and the Geometric Satake Equivalence](https://www.youtube.com/watch?v=jrhHsSGo9aM) 2025-7-6 15:29 崇德苑 209 室
+814. **对偶群的效果在于 “maps in” 和 “maps out”**，见 32:52，有点像拓扑斯中的 object classifier 的那个图表的左下角部分。**群和对偶群的原理就是：群产生的层范畴（几何信息）和它的对偶群的表示范畴（代数信息）是等价的，由此可以用代数几何的方法来研究其对偶群的表示理论**，见 44:54 [Geordie Williamson: Geometric Representation Theory and the Geometric Satake Equivalence](https://www.youtube.com/watch?v=jrhHsSGo9aM) 以及 [单芃: Cohomology of Affine Springer Fibres and Centre of Small Quantum Groups](https://www.bilibili.com/video/BV1gVdwYME2u/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-6 15:29 崇德苑 209 室
 
 815. 将代数群的 root data 类比线性变换 A 的特征值对线性空间 V 的分解（王萼芳，石生明，《高等代数》第五版，p.211 定理12），**T ~ A，root ~ 特征值，root group ~ 特征子空间**。[Representation theory of reductive algebraic groups-techniques and applications (Donna Testerman) 1](https://www.youtube.com/watch?v=v974hy3NfiU)
 
