@@ -2700,6 +2700,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 814. **对偶群的效果在于 “maps in” 和 “maps out”**，见 32:52，有点像拓扑斯中的 object classifier 的那个图表的左下角部分。**群和对偶群的原理就是：群产生的层范畴（几何信息）和它的对偶群的表示范畴（代数信息）是等价的，由此可以用代数几何的方法来研究其对偶群的表示理论**，见 44:54 [Geordie Williamson: Geometric Representation Theory and the Geometric Satake Equivalence](https://www.youtube.com/watch?v=jrhHsSGo9aM) 2025-7-6 15:29 崇德苑 209 室
 
+815. 将代数群的 root data 类比线性变换 A 的特征值对线性空间 V 的分解（王萼芳，石生明，《高等代数》第五版，p.211 定理12），**T ~ A，root ~ 特征值，root group ~ 特征子空间**。[Representation theory of reductive algebraic groups-techniques and applications (Donna Testerman) 1](https://www.youtube.com/watch?v=v974hy3NfiU)
+
 
 
 
