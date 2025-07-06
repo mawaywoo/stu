@@ -2687,6 +2687,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 808. cofinal functor 用于保证 bijection [Section 2.5 - Cofinal Functors - Categories & Sheaves](https://www.youtube.com/watch?v=Zc99HCFf3f4) 2025-7-5 20:08 崇德苑 209 室
 
+809. 有趣，不需要知道l-进上同调具体定义，**完全依靠l-进上同调满足的一些性质（公理）就足以做大量的计算**。l-进上同调的**不变子空间计算转化为商簇**的计算。[Introduction to Deligne-Lusztig Theory](https://www.bilibili.com/video/BV1zb411A7nC?spm_id_from=333.788.videopod.episodes&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-6 9:45 崇德苑 209 室
+
 
 
 
