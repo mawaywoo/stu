@@ -2702,6 +2702,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 815. 将代数群的 root data 类比线性变换 A 的特征值对线性空间 V 的分解（王萼芳，石生明，《高等代数》第五版，p.211 定理12），**T ~ A，root ~ 特征值，root group ~ 特征子空间**。[Representation theory of reductive algebraic groups-techniques and applications (Donna Testerman) 1](https://www.youtube.com/watch?v=v974hy3NfiU)
 
+816. **重要的 slogan: 利用施加作用对象的“特征值（切割元）”，可以得到被作用对象的分解**。例子：高代线性变换的特征值，还有模表示论的 G-代数的幂等元，以及前面提到的傅里叶变换的例子…… 2025-7-6 18:03 崇德苑 209 室
+
 
 
 
