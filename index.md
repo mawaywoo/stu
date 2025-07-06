@@ -305,8 +305,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Deligne-Lusztig theory and character sheaves](https://www.youtube.com/watch?v=J7QTNT25yYU) | [Charlotte Chan: Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=74Qk0Q_CzFU&t=10s) | [TGAW01 - Crossed products and groupoid C*-algebras](https://www.youtube.com/watch?v=8dndkhB0SI4) |
 [Daniel Tubbenhauer: 2-representation theory of Soergel bimodules](https://www.youtube.com/watch?v=wuQRkRO6tN8&list=PLuFcVFHMIfhKclrRL_Z61gR0Gt0tFw1QA&index=11) | [国际基础科学大会-Higher representation theory and low-dimensional topology](https://www.bilibili.com/video/BV1uW4219738/?vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The Abel Lectures 2025: Masaki Kashiwara – Monoidal categories (non-commutative case)](https://www.youtube.com/watch?v=FHn4WHPzjYw) |
 [Soergel bimodules, including their motivation from classical Lie theory, their (diagrammatic) construction and applications to modular representation theory](https://www.bilibili.com/video/BV1qf4y1a7sX?spm_id_from=333.788.videopod.episodes&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The Springer correspondence (Pramod Achar) 1](https://www.youtube.com/watch?v=xYcFc1TjRoo) | [Ergün Yalcin: Representation rings for fusion systems and dimension functions](https://www.youtube.com/watch?v=pF5GzKbnB4k&t=474s) |
-[A. Lazarev - Coderived categories and their applications](https://www.youtube.com/watch?v=J1KigxSaeuk) | [Representation Theory: Mini course on Springer Fibers and Quiver Varieties](https://sites.google.com/view/tms-home/course-list/2020/representation-theory-mini-course-on-springer-fibers-and-quiver-varieties) | [Towards a p-adic Deligne--Lusztig theory - Charlotte Chan](https://www.youtube.com/watch?v=xrQwS8Fx6fg&t=2121s) |
-[Maths Learning Seminar](https://www.youtube.com/playlist?list=PLYWffYwjegdH9yjUItnGKikNuiTKKa275) |
+[A. Lazarev  Coderived categories and their applications](https://www.youtube.com/watch?v=J1KigxSaeuk) | [Representation Theory: Mini course on Springer Fibers and Quiver Varieties](https://sites.google.com/view/tms-home/course-list/2020/representation-theory-mini-course-on-springer-fibers-and-quiver-varieties) | [Towards a p-adic Deligne--Lusztig theory - Charlotte Chan](https://www.youtube.com/watch?v=xrQwS8Fx6fg&t=2121s) |
+[Maths Learning Seminar](https://www.youtube.com/playlist?list=PLYWffYwjegdH9yjUItnGKikNuiTKKa275) | [Raphaël Rouquier - Geometric representation theory as representation-theoretic geometry](https://youtu.be/keNo5G8bU6o) |
 
 
 
@@ -2705,6 +2705,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 816. **重要的 slogan: 利用施加作用对象的“特征值”（其本质就是利用施加作用的对象的“幂等元的分解”，特征值是产生幂等元 A-lambdaE 的一种方式），可以得到被作用对象的分解**。例子：高代线性变换的特征值，还有模表示论的 G-代数的幂等元，以及前面提到的傅里叶变换的例子…… **upshot: “特征值” ————> “幂等元” ————> “分解”**。 2025-7-6 18:03 崇德苑 209 室
 
 817. **分离了施加作用的对象全体，也就拆开了被作用的对象全体**。2025-7-6 22:15 崇德苑 209 室
+
+818. 几何表示论内容太丰富了，涉及到高阶表示理论，这是我喜欢研究的东西。[Raphaël Rouquier - Geometric representation theory as representation-theoretic geometry](https://youtu.be/keNo5G8bU6o) 2025-7-6 22:54 崇德苑 209 室
 
 
 
