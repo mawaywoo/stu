@@ -2709,6 +2709,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 818. 几何表示论内容太丰富了，涉及到高阶表示理论，这是我喜欢研究的东西。[Raphaël Rouquier - Geometric representation theory as representation-theoretic geometry](https://youtu.be/keNo5G8bU6o) 2025-7-6 22:54 崇德苑 209 室
 
+819. 12:53 V 的分解可用线性变换 A 的特征值不变子空间把 V 分解来理解，**weight “=” 特征值，V_x “=” 特征值 x 的特征子空间**。[Representation theory of reductive algebraic groups-techniques and applications (Donna Testerman) 2](https://www.youtube.com/watch?v=mS3HofEMDck&list=PLCe-H2N8-ny5_VL04cJzgyhlCIDGXvRTh&index=11) 2025-7-7 2:20 崇德苑 209 室
+
 
 
 
