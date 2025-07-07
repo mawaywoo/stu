@@ -308,6 +308,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [A. Lazarev  Coderived categories and their applications](https://www.youtube.com/watch?v=J1KigxSaeuk) | [Representation Theory: Mini course on Springer Fibers and Quiver Varieties](https://sites.google.com/view/tms-home/course-list/2020/representation-theory-mini-course-on-springer-fibers-and-quiver-varieties) | [Towards a p-adic Deligne--Lusztig theory - Charlotte Chan](https://www.youtube.com/watch?v=xrQwS8Fx6fg&t=2121s) |
 [Maths Learning Seminar](https://www.youtube.com/playlist?list=PLYWffYwjegdH9yjUItnGKikNuiTKKa275) | [Raphaël Rouquier - Geometric representation theory as representation-theoretic geometry](https://youtu.be/keNo5G8bU6o) | [Affine Springer fibers and representation theory - Cheng-Chiang Tsai](https://www.bilibili.com/video/BV1rz421b7Ez/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Springer Fibers and Their Cohomology Maria Gillespie](https://www.youtube.com/watch?v=L3085knGJ8w) | [Andrea Ferrari (Durham): Non-invertible Symmetries and Higher Representation Theory](https://www.youtube.com/watch?v=vwkouB69R-M) | [Symmetry Seminar](https://www.youtube.com/@symmetryseminar8570/videos) |
+[HIM(WM2) - Rider - Modular Perverse Sheaves on the affine Flag Variety](https://www.bilibili.com/video/BV1jG4y1p76k/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
