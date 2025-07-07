@@ -2711,7 +2711,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 819. 12:53 V 的分解可用线性变换 A 的特征值不变子空间把 V 分解来理解，**weight “=” 特征值，V_x “=” 特征值 x 的特征子空间**。[Representation theory of reductive algebraic groups-techniques and applications (Donna Testerman) 2](https://www.youtube.com/watch?v=mS3HofEMDck&list=PLCe-H2N8-ny5_VL04cJzgyhlCIDGXvRTh&index=11) 2025-7-7 2:20 崇德苑 209 室
 
-820. **施加作用对象的分解和被作用对象的分解是相互决定的，利用这点，可以用表示论（被作用的对象）去分析子群（施加作用的东西）的结构**，特别地，可以用表示论很好地去理解极大子群的分类问题或者代数图论中的问题。[Representation theory of reductive algebraic groups-techniques and applications (Donna Testerman) 3](https://www.youtube.com/watch?v=kjgu-pzpVgg&list=PLCe-H2N8-ny5_VL04cJzgyhlCIDGXvRTh&index=10) 2025-7-7 11:55 崇德苑 209 室
+820. **施加作用对象的分解和被作用对象的分解是相互决定的，利用这点，可以用表示论（被作用的对象）去分析子群（施加作用的东西）的结构**，特别地，可以用表示论很好地去理解极大子群的分类问题或者代数图论中的问题 [VCC: Cheryl Praeger "Diagonal Structures and Permutation Groups"](https://www.youtube.com/watch?v=hKMp1dKhekw&t=2932s)。[Representation theory of reductive algebraic groups-techniques and applications (Donna Testerman) 3](https://www.youtube.com/watch?v=kjgu-pzpVgg&list=PLCe-H2N8-ny5_VL04cJzgyhlCIDGXvRTh&index=10) 2025-7-7 11:55 崇德苑 209 室
 
 
 
