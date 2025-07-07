@@ -2713,6 +2713,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 820. **施加作用对象的分解和被作用对象的分解是相互决定的，利用这点，可以用表示论（被作用的对象）去分析子群（施加作用的东西）的结构**[Representation theory of reductive algebraic groups-techniques and applications (Donna Testerman) 3](https://www.youtube.com/watch?v=kjgu-pzpVgg&list=PLCe-H2N8-ny5_VL04cJzgyhlCIDGXvRTh&index=10)，特别地，可以用表示论很好地去理解极大子群的分类问题或者代数图论中的问题 [VCC: Cheryl Praeger "Diagonal Structures and Permutation Groups"](https://www.youtube.com/watch?v=hKMp1dKhekw&t=2932s)。2025-7-7 11:55 崇德苑 209 室
 
+821. 对代数簇的光滑性以及Springer分解解释得很生动。[Springer Fibers and Their Cohomology Maria Gillespie](https://www.youtube.com/watch?v=L3085knGJ8w&t=190s) 2025-7-7 13:06 崇德苑 209 室
+
 
 
 
