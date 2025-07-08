@@ -2718,6 +2718,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 822. a.所谓群代数的块分解，是指把群的作用方式进行分拆成某些独立的子作用系统。b.所谓群代数的块分解，是指把群的作用方式进行分类/分拆。把群的所有作用方式分拆成各种不同的作用子系统。c.block = 作用系统，研究模/表示 = 研究作用系统。d.等价的块 = 等效的作用系统。e.一个群代数产生的作用系统通常很大，可以拆分为更多更小的作用元系统，即块。模范畴 = 作用总系统。[Representation theory](https://www.bilibili.com/video/BV1Sp4y1q7zM/?p=7&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2)
 
+823. **代数几何的思想和代数图论的思想本质上就是表示论的思想**：施加作用的对象和被作用的对象，**利用施加作用的对象的分解去研究被作用对象的分解**。[Torus Actions and Hilbert Schemes Renzo Cavalieri](https://www.youtube.com/watch?v=xTeLweMepos) 2025-7-8 12:35 崇德苑 209 室
+
 
 
 
