@@ -309,6 +309,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Maths Learning Seminar](https://www.youtube.com/playlist?list=PLYWffYwjegdH9yjUItnGKikNuiTKKa275) | [Raphaël Rouquier - Geometric representation theory as representation-theoretic geometry](https://youtu.be/keNo5G8bU6o) | [Affine Springer fibers and representation theory - Cheng-Chiang Tsai](https://www.bilibili.com/video/BV1rz421b7Ez/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Springer Fibers and Their Cohomology Maria Gillespie](https://www.youtube.com/watch?v=L3085knGJ8w) | [Andrea Ferrari (Durham): Non-invertible Symmetries and Higher Representation Theory](https://www.youtube.com/watch?v=vwkouB69R-M) | [Symmetry Seminar](https://www.youtube.com/@symmetryseminar8570/videos) |
 [HIM(WM2) - Rider - Modular Perverse Sheaves on the affine Flag Variety](https://www.bilibili.com/video/BV1jG4y1p76k/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Matteo Capucci 2-classifiers for 2-algebras](https://www.youtube.com/watch?v=mpHnD7peDS8) | [Torus Actions and Hilbert Schemes Renzo Cavalieri](https://www.youtube.com/watch?v=xTeLweMepos) |
+[Andy Tonks: On some generalisations of Baues-Wirsching cohomology (30/06/2022)](https://www.youtube.com/watch?v=_b65SJA5Px0) |
 
 
 
