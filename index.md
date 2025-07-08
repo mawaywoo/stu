@@ -2716,6 +2716,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 821. 对代数簇的光滑性以及Springer分解解释得很生动。[Springer Fibers and Their Cohomology Maria Gillespie](https://www.youtube.com/watch?v=L3085knGJ8w&t=190s) 2025-7-7 13:06 崇德苑 209 室
 
+822. a.所谓群代数的块分解，是指把群的作用方式进行分拆成某些独立的子作用系统。b.所谓群代数的块分解，是指把群的作用方式进行分类/分拆。把群的所有作用方式分拆成各种不同的作用子系统。c.block = 作用系统，研究模/表示 = 研究作用系统。d.等价的块 = 等效的作用系统。e.一个群代数产生的作用系统通常很大，可以拆分为更多更小的作用元系统，即块。模范畴 = 作用总系统。[Representation theory](https://www.bilibili.com/video/BV1Sp4y1q7zM/?p=7&spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2)
+
 
 
 
