@@ -2721,6 +2721,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 823. **代数几何的思想和代数图论的思想本质上就是表示论的思想**：施加作用的对象和被作用的对象，**利用施加作用的对象的分解去研究被作用对象的分解**。[Torus Actions and Hilbert Schemes Renzo Cavalieri](https://www.youtube.com/watch?v=xTeLweMepos) 2025-7-8 12:35 崇德苑 209 室
 
+824. 代数几何的思想和代数图论的思想本质上就是表示论的思想：施加作用的对象和被作用的对象，利用施加作用的对象的分解去研究被作用对象的分解。
+
 
 
 
