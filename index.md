@@ -2723,7 +2723,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 824. 代数几何的思想和代数图论的思想本质上就是表示论的思想：施加作用的对象和被作用的对象，利用施加作用的对象的分解去研究被作用对象的分解。
 
-825. [2017.5.3, 许晨阳, 数学所讲座：代数方程下的空间结构－代数簇的分类](https://www.bilibili.com/video/BV1Qt411d7wS?spm_id_from=333.788.recommend_more_video.1&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-9 13:00 崇德苑 209 室
+825. a.双有理是比同构更粗一点的定义，b.Blow up 的逆运算就是收缩，收缩是否具有唯一性就和极小模型（一直收缩到最小）纲领有关。c.Sring fiber 也有 blow up 运算。[2017.5.3, 许晨阳, 数学所讲座：代数方程下的空间结构－代数簇的分类](https://www.bilibili.com/video/BV1Qt411d7wS?spm_id_from=333.788.recommend_more_video.1&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-9 13:00 崇德苑 209 室
 
 
 
