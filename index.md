@@ -309,7 +309,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Maths Learning Seminar](https://www.youtube.com/playlist?list=PLYWffYwjegdH9yjUItnGKikNuiTKKa275) | [Raphaël Rouquier - Geometric representation theory as representation-theoretic geometry](https://youtu.be/keNo5G8bU6o) | [Affine Springer fibers and representation theory - Cheng-Chiang Tsai](https://www.bilibili.com/video/BV1rz421b7Ez/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Springer Fibers and Their Cohomology Maria Gillespie](https://www.youtube.com/watch?v=L3085knGJ8w) | [Andrea Ferrari (Durham): Non-invertible Symmetries and Higher Representation Theory](https://www.youtube.com/watch?v=vwkouB69R-M) | [Symmetry Seminar](https://www.youtube.com/@symmetryseminar8570/videos) |
 [HIM(WM2) - Rider - Modular Perverse Sheaves on the affine Flag Variety](https://www.bilibili.com/video/BV1jG4y1p76k/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Matteo Capucci 2-classifiers for 2-algebras](https://www.youtube.com/watch?v=mpHnD7peDS8) | [Torus Actions and Hilbert Schemes Renzo Cavalieri](https://www.youtube.com/watch?v=xTeLweMepos) |
-[Andy Tonks: On some generalisations of Baues-Wirsching cohomology (30/06/2022)](https://www.youtube.com/watch?v=_b65SJA5Px0) |
+[Andy Tonks: On some generalisations of Baues-Wirsching cohomology (30/06/2022)](https://www.youtube.com/watch?v=_b65SJA5Px0) | [2017.5.3, 许晨阳, 数学所讲座：代数方程下的空间结构－代数簇的分类](https://www.bilibili.com/video/BV1Qt411d7wS?spm_id_from=333.788.recommend_more_video.1&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -2722,6 +2722,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 823. **代数几何的思想和代数图论的思想本质上就是表示论的思想**：施加作用的对象和被作用的对象，**利用施加作用的对象的分解去研究被作用对象的分解**。[Torus Actions and Hilbert Schemes Renzo Cavalieri](https://www.youtube.com/watch?v=xTeLweMepos) 2025-7-8 12:35 崇德苑 209 室
 
 824. 代数几何的思想和代数图论的思想本质上就是表示论的思想：施加作用的对象和被作用的对象，利用施加作用的对象的分解去研究被作用对象的分解。
+
+825. [2017.5.3, 许晨阳, 数学所讲座：代数方程下的空间结构－代数簇的分类](https://www.bilibili.com/video/BV1Qt411d7wS?spm_id_from=333.788.recommend_more_video.1&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-9 13:00 崇德苑 209 室
+
 
 
 
