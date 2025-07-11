@@ -2730,6 +2730,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 826. 用物理来理解范畴论，如 Yoneda 定理：Hom(-,X) 更能理解 X 是不可及的时候，那些态射（即探测器们）的重要性了，探测器是可以着手的，但关于 X 的一切都是**无法着手的**。完全用这些探测器（到 X 的所有态射）去了解 X 的性质，这个物理上的思想很好地解释了范畴论的思想。所有探测器数据的吻合性对应于范畴论中层的粘接性。54:10 分类空间很复杂，我们有时候很难着手，但是分类空间总是“分类”着某些东西，利用到分类空间的映射，我们可以得到某些我们分类空间的某些信息。分类拓扑斯也可以这样来理解，它很复杂，但到它的映射却是我们可以着手的东西。分类空间的另一个好处就是：当我们希望研究 X 的某个性质时，这个性质很难在 X 自身上提取，一个办法就是考虑该类性质的分类空间，把在 X 上的性质转移为到该类性质的分类空间上的映射。["Higher Topos Theory for Physics", talk by Urs Schreiber at Wolfram Winter School on Physics 2024](https://www.youtube.com/watch?v=GD20W6vxMI4&t=304s) 2025-7-11 11:25 崇德苑 209 室
 
+827. 18:05 理论 T 的模型 T-Mod(E) 可以由它的分类拓扑斯 Geom(E,Sh(C_T,J_T)) 决定，但是不同的理论 T1, T2 可以产生等价的拓扑斯 Sh(C_T1, J_T1) "=" Sh(C_T2, J_T2)，因此，通过拓扑斯可以把不同的理论 T1-Mod(E) "=" T2-Mod(E) 关联起来。在这里，分类拓扑斯分类的是理论 T 的模型范畴 T-Mod 。[Joshua Wrigley - From Lindenbaum Tarski Algebras to Classifying Toposes - CaCS2021](https://www.youtube.com/watch?v=WLaEkmdDIW0)
+
 
 
 
