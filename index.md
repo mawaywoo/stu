@@ -2732,6 +2732,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 827. 18:05 理论 T 的模型 T-Mod(E) 可以由它的分类拓扑斯 Geom(E,Sh(C_T,J_T)) 决定，但是不同的理论 T1, T2 可以产生等价的拓扑斯 Sh(C_T1, J_T1) "=" Sh(C_T2, J_T2)，因此，通过拓扑斯可以把不同的理论 T1-Mod(E) "=" T2-Mod(E) 关联起来。在这里，分类拓扑斯分类的是理论 T 的模型范畴 T-Mod 。[Joshua Wrigley - From Lindenbaum Tarski Algebras to Classifying Toposes - CaCS2021](https://www.youtube.com/watch?v=WLaEkmdDIW0)
 
+828. 视频 11:11 的结论类似于 Howe 的结论。[Joshua Wrigley - The Geometric Completion of a Doctrine • CaCS22](https://www.youtube.com/watch?v=RCUBS7zuYsg&t=11s)  2025-7-11 15:04 崇德苑 209 室
+
 
 
 
