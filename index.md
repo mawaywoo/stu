@@ -2728,7 +2728,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 825. a.双有理是比同构更粗一点的定义，b.Blow up 的逆运算就是收缩，收缩是否具有唯一性就和极小模型（一直收缩到最小）纲领有关。c.Sring fiber 也有 blow up 运算。[2017.5.3, 许晨阳, 数学所讲座：代数方程下的空间结构－代数簇的分类](https://www.bilibili.com/video/BV1Qt411d7wS?spm_id_from=333.788.recommend_more_video.1&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-9 13:00 崇德苑 209 室
 
-826. 用物理来理解范畴论，如 Yoneda 定理：Hom(-,X) 更能理解 X 是不可及的时候，那些态射（即探测器们）的重要性了，探测器是可以着手的，但关于 X 的一切都是**无法着手的**。完全用这些探测器（到 X 的所有态射）去了解 X 的性质，这个物理上的思想很好地解释了范畴论的思想。所有探测器数据的吻合性对应于范畴论中层的粘接性。["Higher Topos Theory for Physics", talk by Urs Schreiber at Wolfram Winter School on Physics 2024](https://www.youtube.com/watch?v=GD20W6vxMI4&t=304s) 2025-7-11 11:25 崇德苑 209 室
+826. 用物理来理解范畴论，如 Yoneda 定理：Hom(-,X) 更能理解 X 是不可及的时候，那些态射（即探测器们）的重要性了，探测器是可以着手的，但关于 X 的一切都是**无法着手的**。完全用这些探测器（到 X 的所有态射）去了解 X 的性质，这个物理上的思想很好地解释了范畴论的思想。所有探测器数据的吻合性对应于范畴论中层的粘接性。54:10 分类空间很复杂，我们有时候很难着手，但是分类空间总是“分类”着某些东西，利用到分类空间的映射，我们可以得到某些我们分类空间的某些信息。分类拓扑斯也可以这样来理解，它很复杂，但到它的映射却是我们可以着手的东西。["Higher Topos Theory for Physics", talk by Urs Schreiber at Wolfram Winter School on Physics 2024](https://www.youtube.com/watch?v=GD20W6vxMI4&t=304s) 2025-7-11 11:25 崇德苑 209 室
 
 
 
