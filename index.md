@@ -312,6 +312,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Andy Tonks: On some generalisations of Baues-Wirsching cohomology (30/06/2022)](https://www.youtube.com/watch?v=_b65SJA5Px0) | [2017.5.3, 许晨阳, 数学所讲座：代数方程下的空间结构－代数簇的分类](https://www.bilibili.com/video/BV1Qt411d7wS?spm_id_from=333.788.recommend_more_video.1&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [2016.10.12, 孙斌勇, 数学所讲座：典型李群和它们的表示](https://www.bilibili.com/video/BV1ot411d7Fd?spm_id_from=333.788.recommend_more_video.2&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Components of Springer Fibers Equal to Richardson Varieties - Martha Precup](https://www.bilibili.com/video/BV1GqNMeEEd1/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Walker Stern - Generalizing Quillen's Theorem A](https://www.youtube.com/watch?v=Z-hIXF2bKdo) | [Michael BATE : Simple Modules for Algebraic Groups](https://www.youtube.com/watch?v=reNSKtuSNKM) |
 [New developments in fusion categories, J. Plavnik (Indiana University), Part 1](https://www.youtube.com/watch?v=1zm8Jj0v2NI) | [Mariano Suárez - Can we hear the Hochschild cohomology of the trivial extension of a gentle algebra?](https://www.youtube.com/watch?v=WQh6qU0_sK8) | [【访谈】科学家解释宇宙如何从虚无中诞生 Urs Schreiber](ttps://www.bilibili.com/video/BV1ptdoYjEet/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+["Higher Topos Theory for Physics", talk by Urs Schreiber at Wolfram Winter School on Physics 2024](https://www.youtube.com/watch?v=GD20W6vxMI4&t=304s) |
 
 
 
@@ -2726,6 +2727,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 824. 代数几何的思想和代数图论的思想本质上就是表示论的思想：施加作用的对象和被作用的对象，利用施加作用的对象的分解去研究被作用对象的分解。
 
 825. a.双有理是比同构更粗一点的定义，b.Blow up 的逆运算就是收缩，收缩是否具有唯一性就和极小模型（一直收缩到最小）纲领有关。c.Sring fiber 也有 blow up 运算。[2017.5.3, 许晨阳, 数学所讲座：代数方程下的空间结构－代数簇的分类](https://www.bilibili.com/video/BV1Qt411d7wS?spm_id_from=333.788.recommend_more_video.1&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-9 13:00 崇德苑 209 室
+
+826. 用物理来理解范畴论，如 Yoneda 定理：Hom(-,X) 更能理解 X 是不可及的时候，那些态射（即探测器们）的重要性了，探测器是可以着手的，但关于 X 的一切都是无法着手的。["Higher Topos Theory for Physics", talk by Urs Schreiber at Wolfram Winter School on Physics 2024](https://www.youtube.com/watch?v=GD20W6vxMI4&t=304s) 2025-7-11 11:25 崇德苑 209 室
 
 
 
