@@ -2734,6 +2734,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 828. 视频 11:11 的结论类似于 Howe 的结论。[Joshua Wrigley - The Geometric Completion of a Doctrine • CaCS22](https://www.youtube.com/watch?v=RCUBS7zuYsg&t=11s)  2025-7-11 15:04 崇德苑 209 室
 
+829. 很好的一个报告。[The world of Spectral Algebraic Geometry. (17/05/2024)](https://www.youtube.com/watch?v=SHwWBL02PSw) 2025-7-12 16:48 崇德苑 209 室
+
 
 
 
