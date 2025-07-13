@@ -313,6 +313,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Components of Springer Fibers Equal to Richardson Varieties - Martha Precup](https://www.bilibili.com/video/BV1GqNMeEEd1/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Walker Stern - Generalizing Quillen's Theorem A](https://www.youtube.com/watch?v=Z-hIXF2bKdo) | [Michael BATE : Simple Modules for Algebraic Groups](https://www.youtube.com/watch?v=reNSKtuSNKM) |
 [New developments in fusion categories, J. Plavnik (Indiana University), Part 1](https://www.youtube.com/watch?v=1zm8Jj0v2NI) | [Mariano Suárez - Can we hear the Hochschild cohomology of the trivial extension of a gentle algebra?](https://www.youtube.com/watch?v=WQh6qU0_sK8) | [访谈 科学家解释宇宙如何从虚无中诞生 Urs Schreiber](https://www.bilibili.com/video/BV1ptdoYjEet/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 ["Higher Topos Theory for Physics", talk by Urs Schreiber at Wolfram Winter School on Physics 2024](https://www.youtube.com/watch?v=GD20W6vxMI4&t=304s) | [topos 量子物理 Cecilia Flori](https://www.bilibili.com/video/BV1Sw411d7jv/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The world of Spectral Algebraic Geometry. (17/05/2024)](https://www.youtube.com/watch?v=SHwWBL02PSw) |
+[Spectral algebraic geometry](https://www.youtube.com/playlist?list=PL4Bkf4PBtNoHd3ynmYnwY3xBNZkXCMvPR) |
 
 
 
