@@ -2737,6 +2737,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 829. 很好的一个报告。[The world of Spectral Algebraic Geometry. (17/05/2024)](https://www.youtube.com/watch?v=SHwWBL02PSw) 2025-7-12 16:48 崇德苑 209 室
 
+830. a.层论的思想：利用一堆观测器得到的数据集，对这些数据集进行吻合拼接处理，就得到待测对象的信息。b.层的思想在于如何处理这些不同观测数据的差异性，如何把这些不同的观测数据吻合拼接起来，怎么来忽略这些数据之间的差异性？c.**层 = 局部观察数据集 + 如何拼接这些数据集（忽略掉这些数据集间的哪些差异性）**。[David Jaz Myers - 三种现实主义与层的想法](https://www.bilibili.com/video/BV1yk4y1b7cF/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-14 19:58 崇德苑 209 室
+
+
 
 
 
