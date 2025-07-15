@@ -314,6 +314,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [New developments in fusion categories, J. Plavnik (Indiana University), Part 1](https://www.youtube.com/watch?v=1zm8Jj0v2NI) | [Mariano Suárez - Can we hear the Hochschild cohomology of the trivial extension of a gentle algebra?](https://www.youtube.com/watch?v=WQh6qU0_sK8) | [访谈 科学家解释宇宙如何从虚无中诞生 Urs Schreiber](https://www.bilibili.com/video/BV1ptdoYjEet/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 ["Higher Topos Theory for Physics", talk by Urs Schreiber at Wolfram Winter School on Physics 2024](https://www.youtube.com/watch?v=GD20W6vxMI4&t=304s) | [topos 量子物理 Cecilia Flori](https://www.bilibili.com/video/BV1Sw411d7jv/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The world of Spectral Algebraic Geometry. (17/05/2024)](https://www.youtube.com/watch?v=SHwWBL02PSw) |
 [Spectral algebraic geometry](https://www.youtube.com/playlist?list=PL4Bkf4PBtNoHd3ynmYnwY3xBNZkXCMvPR) | [合集·ICBS2025](https://space.bilibili.com/677074443/lists/5856586?type=season) | [Aurelien Sagnier - Towards arithmetic sites at some places](https://www.bilibili.com/video/BV1QT411s7tB?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[∞-意象中的主丛 Principal bundles in an ∞-topos](https://www.bilibili.com/video/BV1i1DUYPEL3/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -2738,6 +2739,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 829. 很好的一个报告。[The world of Spectral Algebraic Geometry. (17/05/2024)](https://www.youtube.com/watch?v=SHwWBL02PSw) 2025-7-12 16:48 崇德苑 209 室
 
 830. a.层论的思想：利用一堆观测器得到的数据集，对这些数据集进行吻合拼接处理，就得到待测对象的信息。b.层的思想在于如何处理这些不同观测数据的差异性，如何把这些不同的观测数据吻合拼接起来，怎么来忽略这些数据之间的差异性？c.**层 = 局部观察数据集 + 如何拼接这些数据集（忽略掉这些数据集间的哪些差异性 or 这些数据集的哪些共性是你希望保留的，这些共性满足与否就是能否拼接的基本条件） + Grothendieck 拓扑就是在规定到底按怎样的方式来吻合这些不同的数据集**。d.利用 c 的思想，我们可以自己去构造和应用层论来解决问题。e.**同调理论就是在衡量这些不同探测器收集到的数据之间的“差异性”**。第一个视频的 31:10 的例子对上同调衡量差异性解释得很生动，尽管各种子数据集都粘接得很好，但总体却未必粘接得起来。f.**筛 S 可以理解为有效观测器，层定义的 Hom(Yc,F) = Hom(S,F) 可以理解为在众多观测器 Yc 中挑取有效的观测器 S 的数据，对层 F 来说，观测器 S 的数据已足够**。g.由f.可知，**Grothendieck 拓扑 = 观测器集，定义 Grothendieck 拓扑 = 选取有效的观测器（的数据）**。h. **Yoneda 引理可以理解为观测器 C 的数据可由它的所有“有效”的观测器（的数据）决定**。[David Jaz Myers - 三种现实主义与层的想法](https://www.bilibili.com/video/BV1yk4y1b7cF/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [【访谈】科学家解释宇宙如何从虚无中诞生 Urs Schreiber](https://www.bilibili.com/video/BV1ptdoYjEet/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-14 19:58 崇德苑 209 室
+
+831. 讲得挺好。[∞-意象中的主丛 Principal bundles in an ∞-topos](https://www.bilibili.com/video/BV1i1DUYPEL3/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-15 13:05 崇德苑 209 室
+
 
 
 
