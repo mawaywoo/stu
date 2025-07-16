@@ -315,6 +315,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 ["Higher Topos Theory for Physics", talk by Urs Schreiber at Wolfram Winter School on Physics 2024](https://www.youtube.com/watch?v=GD20W6vxMI4&t=304s) | [topos 量子物理 Cecilia Flori](https://www.bilibili.com/video/BV1Sw411d7jv/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [The world of Spectral Algebraic Geometry. (17/05/2024)](https://www.youtube.com/watch?v=SHwWBL02PSw) |
 [Spectral algebraic geometry](https://www.youtube.com/playlist?list=PL4Bkf4PBtNoHd3ynmYnwY3xBNZkXCMvPR) | [合集·ICBS2025](https://space.bilibili.com/677074443/lists/5856586?type=season) | [Aurelien Sagnier - Towards arithmetic sites at some places](https://www.bilibili.com/video/BV1QT411s7tB?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [∞-意象中的主丛 Principal bundles in an ∞-topos](https://www.bilibili.com/video/BV1i1DUYPEL3/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [CT2023, Christina Vasilakopoulou: Sweedler theory for double categories](https://www.youtube.com/watch?v=QijskGVau00) | [André Joyal - 2022 Jeffery-Williams 奖讲座](https://www.bilibili.com/video/BV1Ho4y1z76i/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[Christina Vasilakopoulou - 对偶代数结构与enrichment](https://www.bilibili.com/video/BV1fV4y1X7Vh/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
