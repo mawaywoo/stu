@@ -2742,7 +2742,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 831. 讲得挺好。[∞-意象中的主丛 Principal bundles in an ∞-topos](https://www.bilibili.com/video/BV1i1DUYPEL3/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-15 13:05 崇德苑 209 室
 
-832. **选择中心幂等元作为观测器分工去观察整个范畴的所有态射集**。观测器取为中心幂等元，这些幂等元是某些特殊的对象，而对象又是某些特殊的态射，因此，是否可以选择某些特殊的态射子集作为观测器，去分工观测原范畴的所有态射集？ [Chris Heunen - 幺半范畴的层表示](https://www.bilibili.com/video/BV1cP411D7eG/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) **Balmer谱用更多的观测器（素理想）观察同一个对象，而中心幂等元是用更少的观测器观察更多的对象。前者聚焦于观测器（较观察对象复杂）的全体，后者聚焦于观察对象（较观测器复杂）的全体**。[Scott Balchin - The smashing spectrum of a tt-category](https://www.bilibili.com/video/BV1yT4y1s7PS/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) **观测器的选取是关键**。 2025-7-16 10:37 崇德苑 209 室
+832. **选择中心幂等元作为观测器分工去观察整个范畴的所有态射集**。观测器取为中心幂等元，这些幂等元是某些特殊的对象，而对象又是某些特殊的态射，因此，是否可以选择某些特殊的态射子集作为观测器，去分工观测原范畴的所有态射集？ [Chris Heunen - 幺半范畴的层表示](https://www.bilibili.com/video/BV1cP411D7eG/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) **Balmer谱用更多的观测器（素理想）观察同一个对象，而中心幂等元是用更少的观测器观察更多的对象。前者聚焦于观测器（较观察对象复杂）的全体，后者聚焦于观察对象（较观测器复杂）的全体**。[Scott Balchin - The smashing spectrum of a tt-category](https://www.bilibili.com/video/BV1yT4y1s7PS/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [The Balmer Spectrum of a Noetherian Ring](https://www.youtube.com/watch?v=8qqNz6tItzg&t=1300s) **观测器的选取是关键**。 2025-7-16 10:37 崇德苑 209 室
 
 
 
