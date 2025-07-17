@@ -2748,6 +2748,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 833. 很棒的报告！让我对层有了更深刻的理解：层就是把不同观测器上的数据拼接起来的一堆数据，怎么拼接，取决于你**选取哪些观测器**（不需要所有的观测器上的数据，因为有些数据在等同的时候是无效的数据）上的数据作为有效数据（Grothendieck拓扑），不同观测器之间的数据怎么**沟通**。[Urs Schreiber - Higher Topos Theory in Physics](https://www.youtube.com/watch?v=Gr_BCr1rYVM) 2025-7-17 19:42 崇德苑 209 室
 
+834. **Grothendieck 拓扑是观测器，有些观测器的数据需要选择才能拼接起来的**，比如直线开集上的x—>x^2的有界函数，观测器开集R上的数据就不能与其他有界开集上的数据进行拼接成层。[Luca Prelli - Sheaves on T-topologies](https://www.youtube.com/watch?v=wiAZGCNes-E&list=PLx5f8IelFRgGuSn4L90j3taAGSzyfw-U1&index=27) 2025-7-17 20:54 崇德苑 209 室
+
+
 
 
 
