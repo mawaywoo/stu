@@ -316,6 +316,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Spectral algebraic geometry](https://www.youtube.com/playlist?list=PL4Bkf4PBtNoHd3ynmYnwY3xBNZkXCMvPR) | [合集·ICBS2025](https://space.bilibili.com/677074443/lists/5856586?type=season) | [Aurelien Sagnier - Towards arithmetic sites at some places](https://www.bilibili.com/video/BV1QT411s7tB?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [∞-意象中的主丛 Principal bundles in an ∞-topos](https://www.bilibili.com/video/BV1i1DUYPEL3/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [CT2023, Christina Vasilakopoulou: Sweedler theory for double categories](https://www.youtube.com/watch?v=QijskGVau00) | [André Joyal - 2022 Jeffery-Williams 奖讲座](https://www.bilibili.com/video/BV1Ho4y1z76i/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Christina Vasilakopoulou - 对偶代数结构与enrichment](https://www.bilibili.com/video/BV1fV4y1X7Vh/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [加权射影线](https://space.bilibili.com/526804359) | [拓扑斯与物理](https://www.bilibili.com/video/BV1q5411Y7YA/?spm_id_from=333.1391.0.0&p=2&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[Urs Schreiber - Higher Topos Theory in Physics](https://www.youtube.com/watch?v=Gr_BCr1rYVM) |
 
 
 
@@ -2744,6 +2745,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 831. 讲得挺好。[∞-意象中的主丛 Principal bundles in an ∞-topos](https://www.bilibili.com/video/BV1i1DUYPEL3/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-15 13:05 崇德苑 209 室
 
 832. **选择中心幂等元作为观测器分工去观察整个范畴的所有态射集**。观测器取为中心幂等元，这些幂等元是某些特殊的对象，而对象又是某些特殊的态射，因此，是否可以选择某些特殊的态射子集作为观测器，去分工观测原范畴的所有态射集？ [Chris Heunen - 幺半范畴的层表示](https://www.bilibili.com/video/BV1cP411D7eG/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) **Balmer谱用更多的观测器（素理想）观察同一个对象，而中心幂等元是用更少的观测器观察更多的对象。前者聚焦于观测器（较观察对象复杂）的全体，后者聚焦于观察对象（较观测器复杂）的全体**。[Scott Balchin - The smashing spectrum of a tt-category](https://www.bilibili.com/video/BV1yT4y1s7PS/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [The Balmer Spectrum of a Noetherian Ring](https://www.youtube.com/watch?v=8qqNz6tItzg&t=1300s) **观测器的选取是关键**。 2025-7-16 10:37 崇德苑 209 室
+
+833. 很棒的报告！让我对层有了更深刻的理解：层就是把不同观测器上的数据拼接起来的一堆数据，怎么拼接，取决于你**选取哪些观测器**（不需要所有的观测器上的数据，因为有些数据在等同的时候是无效的数据）上的数据作为有效数据（Grothendieck拓扑），不同观测器之间的数据怎么**沟通**。[Urs Schreiber - Higher Topos Theory in Physics](https://www.youtube.com/watch?v=Gr_BCr1rYVM) 2025-7-17 19:42 崇德苑 209 室
 
 
 
