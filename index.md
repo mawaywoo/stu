@@ -2750,6 +2750,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 834. **Grothendieck 拓扑是观测器，有些观测器的数据需要选择才能拼接起来的**，比如直线开集上的x—>x^2的有界函数，观测器开集R上的数据就不能与其他有界开集上的数据进行拼接成层。这个报告**很多具体的 Grothendieck 拓扑的例子**。[Luca Prelli - Sheaves on T-topologies](https://www.youtube.com/watch?v=wiAZGCNes-E&list=PLx5f8IelFRgGuSn4L90j3taAGSzyfw-U1&index=27) 2025-7-17 20:54 崇德苑 209 室
 
+835. p-进域或洛朗多项式本质上都是通过p 或 t 这个纬度把域 Fp 进行**多重拷贝**。这个视频系列讲的很好，很多具体的例子。[【IAS 女性与数学 2024】Deligne-Lusztig 专题](https://www.bilibili.com/video/BV1kfK1zwENq?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=8) 2025-7-19 14:24 崇德苑 209 室
+
 
 
 
