@@ -2754,6 +2754,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 836. 13:00 对p-进数和洛朗级数解释得很好。[p-adic群表示入门](https://www.bilibili.com/video/BV1kfK1zwENq?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=7) 2025-7-19 16:33 崇德苑 209 室
 
+837. **拓扑斯上的很多性质都是描述为限制到某个覆盖上来描述的，其原因是：拓扑斯是层论，Grothendieck拓扑是观测器，对层来说观测器上的数据才是有效的，所以层的性质要在观测器上考察，即需要在覆盖上讨论**。2025-7-19 21:18 崇德苑 209 室
+
 
 
 
