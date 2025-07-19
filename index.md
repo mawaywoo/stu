@@ -2752,6 +2752,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 835. p-进域或洛朗多项式本质上都是通过p 或 t 这个纬度把域 Fp 进行**多重拷贝**。这个视频系列讲的很好，很多具体的例子。[【IAS 女性与数学 2024】Deligne-Lusztig 专题](https://www.bilibili.com/video/BV1kfK1zwENq?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=8) 2025-7-19 14:24 崇德苑 209 室
 
+836. 13:00 对p-进数和洛朗级数解释得很好。[p-adic群表示入门](https://www.bilibili.com/video/BV1kfK1zwENq?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=7) 2025-7-19 16:33 崇德苑 209 室
+
 
 
 
