@@ -316,7 +316,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Spectral algebraic geometry](https://www.youtube.com/playlist?list=PL4Bkf4PBtNoHd3ynmYnwY3xBNZkXCMvPR) | [合集·ICBS2025](https://space.bilibili.com/677074443/lists/5856586?type=season) | [Aurelien Sagnier - Towards arithmetic sites at some places](https://www.bilibili.com/video/BV1QT411s7tB?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [∞-意象中的主丛 Principal bundles in an ∞-topos](https://www.bilibili.com/video/BV1i1DUYPEL3/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [CT2023, Christina Vasilakopoulou: Sweedler theory for double categories](https://www.youtube.com/watch?v=QijskGVau00) | [André Joyal - 2022 Jeffery-Williams 奖讲座](https://www.bilibili.com/video/BV1Ho4y1z76i/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Christina Vasilakopoulou - 对偶代数结构与enrichment](https://www.bilibili.com/video/BV1fV4y1X7Vh/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [加权射影线](https://space.bilibili.com/526804359) | [拓扑斯与物理](https://www.bilibili.com/video/BV1q5411Y7YA/?spm_id_from=333.1391.0.0&p=2&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
-[Urs Schreiber - Higher Topos Theory in Physics](https://www.youtube.com/watch?v=Gr_BCr1rYVM) |
+[Urs Schreiber - Higher Topos Theory in Physics](https://www.youtube.com/watch?v=Gr_BCr1rYVM) | [【短课】Olivia Caramello - 拓扑斯理论视角的模型论导引](https://www.bilibili.com/video/BV1XY41167V1/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
