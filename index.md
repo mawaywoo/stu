@@ -2756,6 +2756,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 837. **拓扑斯上的很多性质都是描述为限制到某个覆盖上来描述的，其原因是：拓扑斯是层论，Grothendieck拓扑是观测器，对层来说观测器上的数据才是有效的，所以层的性质要在观测器上考察，即需要在覆盖上讨论**。2025-7-19 21:18 崇德苑 209 室
 
+838. 利用**集合范畴中的满单分解、双射**来理解模型范畴，其实最重要的是双射，因为模型范畴最重要的是若等价的选取，满单映射只是用于辅助计算的工具。[Elena Caviglia - Factorization systems on categories and double categories](https://www.bilibili.com/video/BV19YqyYUEYa/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [Lyne Moser - 构造模型范畴的新方法](https://www.bilibili.com/video/BV1HgyMY5EbR/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-21 13:50 崇德苑 209 室
+
 
 
 
