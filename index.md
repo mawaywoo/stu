@@ -2759,6 +2759,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 838. 利用**集合范畴中的满单分解、双射**来理解模型范畴，其实最重要的是双射，因为模型范畴最重要的是若等价的选取，满单映射只是用于辅助计算的工具。[Elena Caviglia - Factorization systems on categories and double categories](https://www.bilibili.com/video/BV19YqyYUEYa/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [Lyne Moser - 构造模型范畴的新方法](https://www.bilibili.com/video/BV1HgyMY5EbR/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-21 13:50 崇德苑 209 室
 
+839. 该系列课程很好，对 SL2(Fq) 的理论解释得很具体，触手可及的感觉。[Introduction to Deligne-Lusztig theory](https://www.bilibili.com/video/BV1cK421x7nC?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) 2025-7-22 14:22 崇德苑 209 室
+
 
 
 
