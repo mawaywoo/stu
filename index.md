@@ -2762,7 +2762,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 839. 该系列课程很好，对 SL2(Fq) 的理论解释得很具体，触手可及的感觉。[Introduction to Deligne-Lusztig theory](https://www.bilibili.com/video/BV1cK421x7nC?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) 2025-7-22 14:22 崇德苑 209 室
 
-840. 听了关于上面的关于 SL2 的课程后，再来听这个报告，理解了许多。**类比得很好：对于 T，有函数空间 C[G/U, Ql]，此空间有 G 和 T 的怎样，T作用比较简单，取 T 的特征子空间，即 theta 部分作为诱导表示；对于 T'，把 G/U 的函数空间提升为同调层 H^i(G/U)，也有 G 和 T' 的作用，取 T'的特征子空间作为诱导表示**。[Charlotte Chan: Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=74Qk0Q_CzFU) 2025-7-23 14:10 崇德苑 209 室
+840. 听了关于上面的关于 SL2 的课程后，再来听这个报告，理解了许多。**类比得很好：对于 T，有函数空间 C[G/U, Ql]，此空间有 G 和 T 的怎样，T作用比较简单，取 T 的特征子空间，即 theta 部分作为诱导表示；对于 T'，把 G/U 的函数空间提升为同调层 H^i(G/U)，也有 G 和 T' 的作用，取 T' 的特征子空间作为诱导表示**。[Charlotte Chan: Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=74Qk0Q_CzFU) 2025-7-23 14:10 崇德苑 209 室
+
+841. a.局部化 = **让哪些元素（态射）相等（可逆）**；层 = 局部化 = 让哪些元素（态射）相等（可逆）.b.环的局部化 = 范畴的局部化 （Mitchell）= 让某些元素（态射）相等（可逆）.c.比较引理是说，D上的观测器可以被C上的观测器恢复出来。2025-7-25 12:58 崇德苑 209 室 
 
 
 
