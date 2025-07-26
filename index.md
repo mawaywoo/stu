@@ -319,7 +319,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Urs Schreiber - Higher Topos Theory in Physics](https://www.youtube.com/watch?v=Gr_BCr1rYVM) | [【短课】Olivia Caramello - 拓扑斯理论视角的模型论导引](https://www.bilibili.com/video/BV1XY41167V1/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Double categorical presentations of Grothedieck topoi](https://www.bilibili.com/video/BV1eDNSzFEoZ?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=24) |
 [The arrows between double category sites for Grothendieck topoi](https://www.bilibili.com/video/BV1eDNSzFEoZ?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=19) | [Charlotte Chan: Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=74Qk0Q_CzFU) | [DKN60 Conference](https://www.youtube.com/playlist?list=PLYKpGBt1pueBfx5M_kXbjaps-b4wNN1Jb) |
 [Generic Character Sheaves for Parahoric Subgroups - Charlotte Chan](https://www.youtube.com/watch?v=lrI9xvbMvFs) | [Theta intertwining sheaves - Zhiwei Yun](https://www.youtube.com/watch?v=8lPnrQfxSP0&t=644s) | [几何表示论—Deligne Lusztig theory 讨论班（1）——An Introduction to Deligne Lusztig Theory](https://www.bilibili.com/video/BV16MgazYEHK/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
-[Charlotte Chan: Generic character sheaves for parahoric subgroups](https://www.youtube.com/watch?v=LJhk-UDOyj0) |
+[Charlotte Chan: Generic character sheaves for parahoric subgroups](https://www.youtube.com/watch?v=LJhk-UDOyj0) | [Arizona Winter School 2025: Representation theory of p-adic groups](https://swc-math.github.io/aws/2025/index.html) |
 
 
 
@@ -2768,6 +2768,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 841. a.局部化 = **让哪些元素（态射）相等（可逆）**；层 = 局部化 = 让哪些元素（态射）相等（可逆）.b.环的局部化 = 范畴的局部化 （Mitchell）= 让某些元素（态射）相等（可逆）.c.比较引理是说，D上的观测器可以被C上的观测器恢复出来。2025-7-25 12:58 崇德苑 209 室
 
 842. [几何表示论—Deligne Lusztig theory 讨论班（1）——An Introduction to Deligne Lusztig Theory](https://www.bilibili.com/video/BV16MgazYEHK/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-25 23:31 崇德苑 209 室
+
+843. [Arizona Winter School 2025: Representation theory of p-adic groups](https://swc-math.github.io/aws/2025/index.html) 2025-7-26 15:11 崇德苑 209 室
 
 
 
