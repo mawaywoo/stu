@@ -2769,7 +2769,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 842. [几何表示论—Deligne Lusztig theory 讨论班（1）——An Introduction to Deligne Lusztig Theory](https://www.bilibili.com/video/BV16MgazYEHK/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-25 23:31 崇德苑 209 室
 
-843. [Arizona Winter School 2025: Representation theory of p-adic groups](https://swc-math.github.io/aws/2025/index.html) 2025-7-26 15:11 崇德苑 209 室
+843. 希望能学完这个系列课程。[Arizona Winter School 2025: Representation theory of p-adic groups](https://swc-math.github.io/aws/2025/index.html) 2025-7-26 15:11 崇德苑 209 室
 
 
 
