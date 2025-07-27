@@ -320,7 +320,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [The arrows between double category sites for Grothendieck topoi](https://www.bilibili.com/video/BV1eDNSzFEoZ?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=19) | [Charlotte Chan: Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=74Qk0Q_CzFU) | [DKN60 Conference](https://www.youtube.com/playlist?list=PLYKpGBt1pueBfx5M_kXbjaps-b4wNN1Jb) |
 [Generic Character Sheaves for Parahoric Subgroups - Charlotte Chan](https://www.youtube.com/watch?v=lrI9xvbMvFs) | [Theta intertwining sheaves - Zhiwei Yun](https://www.youtube.com/watch?v=8lPnrQfxSP0&t=644s) | [几何表示论—Deligne Lusztig theory 讨论班（1）——An Introduction to Deligne Lusztig Theory](https://www.bilibili.com/video/BV16MgazYEHK/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Charlotte Chan: Generic character sheaves for parahoric subgroups](https://www.youtube.com/watch?v=LJhk-UDOyj0) | [Arizona Winter School 2025: Representation theory of p-adic groups](https://swc-math.github.io/aws/2025/index.html) | [Principal bundles and quotient stacks over sites](https://www.youtube.com/watch?v=N3Kz0ywowjM&t=109s) |
-[D-Modules and Representation Theory](https://www.youtube.com/playlist?list=PLtmvIY4GrVv94obVi6NjViU7ncrZHzZhw) |
+[D-Modules and Representation Theory](https://www.youtube.com/playlist?list=PLtmvIY4GrVv94obVi6NjViU7ncrZHzZhw) | [Components of Springer Fibers Equal to Richardson Varieties - Martha Precup](https://www.youtube.com/watch?v=HUCvqtMGb4s) |
 
 
 
