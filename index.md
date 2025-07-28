@@ -2772,7 +2772,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 843. 希望能学完这个系列课程。[Arizona Winter School 2025: Representation theory of p-adic groups](https://swc-math.github.io/aws/2025/index.html) 2025-7-26 15:11 崇德苑 209 室
 
-844. “restricted Yoneda 定理”或者是“Gabriel-Popescu 定理”的思想：**选择范畴的生成元作为观测器，将生成元的观测数据粘起来（对生成元的函子范畴继续用 Grothendieck 拓扑或者同调函子 Ext 等取函子范畴的子范畴）**。结合 829 条。[Francesco Genovese - A derived Gabriel-Popescu Theorem for T-structures via derived injectives](https://www.youtube.com/watch?v=u_mTHhb1Rw4&list=PLx5f8IelFRgGuSn4L90j3taAGSzyfw-U1&index=31) and [Tilting theory in exact categories - Julia Sauter (Universität Bielefeld)](https://www.youtube.com/watch?v=t9IcBKjRzVg&t=1687s) 2025-7-28 13:11 崇德苑 209 室
+844. “restricted Yoneda 定理”或者是“Gabriel-Popescu 定理”的思想：**选择范畴的生成元（投射、内射、倾斜对象等）作为观测器，将生成元的观测数据粘起来（对生成元的函子范畴继续用 Grothendieck 拓扑或者同调函子 Ext 等取函子范畴的子范畴）**。结合 829 条。[Francesco Genovese - A derived Gabriel-Popescu Theorem for T-structures via derived injectives](https://www.youtube.com/watch?v=u_mTHhb1Rw4&list=PLx5f8IelFRgGuSn4L90j3taAGSzyfw-U1&index=31) and [Tilting theory in exact categories - Julia Sauter (Universität Bielefeld)](https://www.youtube.com/watch?v=t9IcBKjRzVg&t=1687s) 2025-7-28 13:11 崇德苑 209 室
 
 
 
