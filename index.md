@@ -323,7 +323,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Generic Character Sheaves for Parahoric Subgroups - Charlotte Chan](https://www.youtube.com/watch?v=lrI9xvbMvFs) | [Theta intertwining sheaves - Zhiwei Yun](https://www.youtube.com/watch?v=8lPnrQfxSP0&t=644s) | [几何表示论—Deligne Lusztig theory 讨论班（1）——An Introduction to Deligne Lusztig Theory](https://www.bilibili.com/video/BV16MgazYEHK/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Charlotte Chan: Generic character sheaves for parahoric subgroups](https://www.youtube.com/watch?v=LJhk-UDOyj0) | [Arizona Winter School 2025: Representation theory of p-adic groups](https://swc-math.github.io/aws/2025/index.html) | [Principal bundles and quotient stacks over sites](https://www.youtube.com/watch?v=N3Kz0ywowjM&t=109s) |
 [D-Modules and Representation Theory](https://www.youtube.com/playlist?list=PLtmvIY4GrVv94obVi6NjViU7ncrZHzZhw) | [Components of Springer Fibers Equal to Richardson Varieties - Martha Precup](https://www.youtube.com/watch?v=HUCvqtMGb4s) | [Illustrated Guide to Perverse Sheaves - Section 1 to 4](https://www.youtube.com/watch?v=-sG3G5PCbG4) |
-[A walk in the world of perverse sheaves](https://www.youtube.com/watch?v=bRyIjnkV8wI) |
+[A walk in the world of perverse sheaves](https://www.youtube.com/watch?v=bRyIjnkV8wI) | [Modular Perverse Sheaves on the affine Flag Variety - Laura Rider](https://www.youtube.com/watch?v=SG6lrhoaam0&t=461s) |
 
 
 
@@ -2780,6 +2780,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 845. [Geordie Williamson, Lecture I - 19 January 2015](https://www.youtube.com/watch?v=HQxKjquwbz4&list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG) and [AN ILLUSTRATED GUIDE TO PERVERSE SHEAVES-PDF](https://people.mpim-bonn.mpg.de/geordie/perverse_course/lectures.pdf) 2025-7-28 20:05 崇德苑 209 室
 
 846. 对紧支/闭支(compact/closed support)上同调解释得很好。很生动的一门课。[A walk in the world of perverse sheaves](https://www.youtube.com/watch?v=bRyIjnkV8wI) 2025-7-29 14:20 崇德苑 209 室
+
+847. 能听懂大概了，希望尽快进入几何表示论。[Modular Perverse Sheaves on the affine Flag Variety - Laura Rider](https://www.youtube.com/watch?v=SG6lrhoaam0&t=461s) 2025-7-29 22:37 崇德苑 209 室
 
 
 
