@@ -2779,6 +2779,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 845. [Geordie Williamson, Lecture I - 19 January 2015](https://www.youtube.com/watch?v=HQxKjquwbz4&list=PLtmvIY4GrVv-eJntIkfqyLqo3xgRRvWcG) and [AN ILLUSTRATED GUIDE TO PERVERSE SHEAVES-PDF](https://people.mpim-bonn.mpg.de/geordie/perverse_course/lectures.pdf) 2025-7-28 20:05 崇德苑 209 室
 
+846. 对紧支/闭支(compact/closed support)上同调解释得很好。[A walk in the world of perverse sheaves](https://www.youtube.com/watch?v=bRyIjnkV8wI) 2025-7-29 14:20 崇德苑 209 室
+
 
 
 
