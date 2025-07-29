@@ -123,6 +123,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [Mackey functors from the viewpoint of double category theories](https://arxiv.org/abs/2504.18065)
 
+[Extension category algebras and LHS--spectral sequences](https://arxiv.org/abs/2507.20588)
+
 ## Overleaf
 
 [Overleaf, Online LaTeX Editor](https://www.overleaf.com/project)
