@@ -2784,7 +2784,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 847. 能听懂大概了，希望尽快进入几何表示论。[Modular Perverse Sheaves on the affine Flag Variety - Laura Rider](https://www.youtube.com/watch?v=SG6lrhoaam0&t=461s) and [Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A) and [The integral coefficient geometric Satake equivalence in mixed characteristic - Jize Yu](https://www.youtube.com/watch?v=qC2KfQQRFqc) 2025-7-29 22:37 崇德苑 209 室
 
-848. **对 Hecke 代数和群代数（肉和骨）的比较以及 Hecke 代数参数 q 的理解（记录反射的信息，即肉的部分）很受用，见 18:00**。该报告通过例子对代数的“几何表示”解释得很好。[Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A&t=312s) 2025-7-30 13:38 崇德苑 209 室
+848. **对 Hecke 代数和群代数（肉和骨）的比较以及 Hecke 代数参数 q 的理解（记录反射的信息，即肉的部分）很受用，见 18:00**。**该报告通过例子对代数的“几何表示”解释得很好，能让人了解几何范畴化的初衷和动机**。[Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A&t=312s) 2025-7-30 13:38 崇德苑 209 室
 
 
 
