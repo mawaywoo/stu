@@ -324,7 +324,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Charlotte Chan: Generic character sheaves for parahoric subgroups](https://www.youtube.com/watch?v=LJhk-UDOyj0) | [Arizona Winter School 2025: Representation theory of p-adic groups](https://swc-math.github.io/aws/2025/index.html) | [Principal bundles and quotient stacks over sites](https://www.youtube.com/watch?v=N3Kz0ywowjM&t=109s) |
 [D-Modules and Representation Theory](https://www.youtube.com/playlist?list=PLtmvIY4GrVv94obVi6NjViU7ncrZHzZhw) | [Components of Springer Fibers Equal to Richardson Varieties - Martha Precup](https://www.youtube.com/watch?v=HUCvqtMGb4s) | [Illustrated Guide to Perverse Sheaves - Section 1 to 4](https://www.youtube.com/watch?v=-sG3G5PCbG4) |
 [A walk in the world of perverse sheaves](https://www.youtube.com/watch?v=bRyIjnkV8wI) | [Modular Perverse Sheaves on the affine Flag Variety - Laura Rider](https://www.youtube.com/watch?v=SG6lrhoaam0&t=461s) | [The integral coefficient geometric Satake equivalence in mixed characteristic - Jize Yu](https://www.youtube.com/watch?v=qC2KfQQRFqc) |
-[Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A) |
+[Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A) | [Two Geometric Realizations of the Affine Hecke Algebra IPablo Boixeda Alvarez](https://www.youtube.com/watch?v=9avJ9Gxdm-I&t=197s) | [Affine Hecke category and noncommutative Springer resolution - Roman Bezrukavnikov](https://www.youtube.com/watch?v=3YdLPhNk6Oo) |
 
 
 
