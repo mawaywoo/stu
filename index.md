@@ -325,7 +325,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [D-Modules and Representation Theory](https://www.youtube.com/playlist?list=PLtmvIY4GrVv94obVi6NjViU7ncrZHzZhw) | [Components of Springer Fibers Equal to Richardson Varieties - Martha Precup](https://www.youtube.com/watch?v=HUCvqtMGb4s) | [Illustrated Guide to Perverse Sheaves - Section 1 to 4](https://www.youtube.com/watch?v=-sG3G5PCbG4) |
 [A walk in the world of perverse sheaves](https://www.youtube.com/watch?v=bRyIjnkV8wI) | [Modular Perverse Sheaves on the affine Flag Variety - Laura Rider](https://www.youtube.com/watch?v=SG6lrhoaam0&t=461s) | [The integral coefficient geometric Satake equivalence in mixed characteristic - Jize Yu](https://www.youtube.com/watch?v=qC2KfQQRFqc) |
 [Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A) | [Two Geometric Realizations of the Affine Hecke Algebra IPablo Boixeda Alvarez](https://www.youtube.com/watch?v=9avJ9Gxdm-I&t=197s) | [Affine Hecke category and noncommutative Springer resolution - Roman Bezrukavnikov](https://www.youtube.com/watch?v=3YdLPhNk6Oo) |
-[Parabolic version of the two realizations theorem and applications to modular representation theory](https://www.youtube.com/watch?v=fAniEnfypXc) |
+[Parabolic version of the two realizations theorem and applications to modular representation theory](https://www.youtube.com/watch?v=fAniEnfypXc) | [Peng Shan: Coherent categorification of quantum loop sl(2)](https://www.youtube.com/watch?v=4cCocGe8lgc&t=3884s) |
 
 
 
