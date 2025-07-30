@@ -325,6 +325,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [D-Modules and Representation Theory](https://www.youtube.com/playlist?list=PLtmvIY4GrVv94obVi6NjViU7ncrZHzZhw) | [Components of Springer Fibers Equal to Richardson Varieties - Martha Precup](https://www.youtube.com/watch?v=HUCvqtMGb4s) | [Illustrated Guide to Perverse Sheaves - Section 1 to 4](https://www.youtube.com/watch?v=-sG3G5PCbG4) |
 [A walk in the world of perverse sheaves](https://www.youtube.com/watch?v=bRyIjnkV8wI) | [Modular Perverse Sheaves on the affine Flag Variety - Laura Rider](https://www.youtube.com/watch?v=SG6lrhoaam0&t=461s) | [The integral coefficient geometric Satake equivalence in mixed characteristic - Jize Yu](https://www.youtube.com/watch?v=qC2KfQQRFqc) |
 [Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A) | [Two Geometric Realizations of the Affine Hecke Algebra IPablo Boixeda Alvarez](https://www.youtube.com/watch?v=9avJ9Gxdm-I&t=197s) | [Affine Hecke category and noncommutative Springer resolution - Roman Bezrukavnikov](https://www.youtube.com/watch?v=3YdLPhNk6Oo) |
+[Parabolic version of the two realizations theorem and applications to modular representation theory](https://www.youtube.com/watch?v=fAniEnfypXc) |
 
 
 
@@ -2782,7 +2783,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 846. 对紧支/闭支(compact/closed support)上同调解释得很好。很生动的一门课。[A walk in the world of perverse sheaves](https://www.youtube.com/watch?v=bRyIjnkV8wI) 2025-7-29 14:20 崇德苑 209 室
 
-847. 能听懂大概了，希望尽快进入几何表示论。[Modular Perverse Sheaves on the affine Flag Variety - Laura Rider](https://www.youtube.com/watch?v=SG6lrhoaam0&t=461s) and [Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A) and [The integral coefficient geometric Satake equivalence in mixed characteristic - Jize Yu](https://www.youtube.com/watch?v=qC2KfQQRFqc) 2025-7-29 22:37 崇德苑 209 室
+847. 能听懂大概了，希望尽快进入几何表示论。[Modular Perverse Sheaves on the affine Flag Variety - Laura Rider](https://www.youtube.com/watch?v=SG6lrhoaam0&t=461s) and [Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A) and [The integral coefficient geometric Satake equivalence in mixed characteristic - Jize Yu](https://www.youtube.com/watch?v=qC2KfQQRFqc) and [Parabolic version of the two realizations theorem and applications to modular representation theory](https://www.youtube.com/watch?v=fAniEnfypXc) 2025-7-29 22:37 崇德苑 209 室
 
 848. **对 Hecke 代数和群代数（肉和骨）的比较以及 Hecke 代数参数 q 的理解（记录反射的信息，即肉的部分）很受用，见 18:00**。**该报告通过例子对代数的“几何表示”解释得很好，能让人了解几何范畴化的初衷和动机**。[Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A&t=312s) 2025-7-30 13:38 崇德苑 209 室
 
