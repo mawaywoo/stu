@@ -327,7 +327,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A) | [Two Geometric Realizations of the Affine Hecke Algebra IPablo Boixeda Alvarez](https://www.youtube.com/watch?v=9avJ9Gxdm-I&t=197s) | [Affine Hecke category and noncommutative Springer resolution - Roman Bezrukavnikov](https://www.youtube.com/watch?v=3YdLPhNk6Oo) |
 [Parabolic version of the two realizations theorem and applications to modular representation theory](https://www.youtube.com/watch?v=fAniEnfypXc) | [Peng Shan: Coherent categorification of quantum loop sl(2)](https://www.youtube.com/watch?v=4cCocGe8lgc&t=3884s) | [K-Motives and Koszul Duality in Geometric Representation Theory - Jens Eberhardt](https://www.youtube.com/watch?v=YG6dhJbcuUs) |
 [科学探索奖得主单芃：Monoidal categorification of skein algebras](https://www.bilibili.com/video/BV1YT83zGEAs/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [On two geometric realizations of the anti-spherical module - Tsao-Hsien Chen](https://www.bilibili.com/video/BV1TtbozaEp5/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Geordie Williamson: Miraculous Treumann-Smith theory and geometric Satake](https://www.youtube.com/watch?v=aGjyXH9k2b0) |
-[]() |
+[Anna Romanov - A categorification of the Lusztig-Vogan module](https://www.youtube.com/watch?v=fEaBZsXis00&t=62s) |
 
 
 
@@ -2789,6 +2789,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 848. **对 Hecke 代数和群代数（肉和骨）的比较以及 Hecke 代数参数 q 的理解（记录反射的信息，即肉的部分）很受用，见 18:00**。**该报告通过例子对代数的“几何表示”解释得很好，能让人了解几何范畴化的初衷和动机**。[Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A&t=312s) 2025-7-30 13:38 崇德苑 209 室
 
 849. **该报告对范畴化、几何表示论也解释得很棒**。洛朗多项式或者量子群的参数q本质都是多重拷贝的效果。Grothendieck群是用短正合列模拟加法。[科学探索奖得主单芃：Monoidal categorification of skein algebras](https://www.bilibili.com/video/BV1YT83zGEAs/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-31 13:25 崇德苑 209 室
+
+850. **范畴化可以有“几何化”和“代数化”等不同的方式**：取决于用哪种方式（等变层或者 Soergel 模）产生的范畴取 Grothendieck 群。[Anna Romanov - A categorification of the Lusztig-Vogan module](https://www.youtube.com/watch?v=fEaBZsXis00&t=62s) 2025-7-31 20:51 崇德苑 209 室
 
 
 
