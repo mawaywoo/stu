@@ -326,6 +326,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [A walk in the world of perverse sheaves](https://www.youtube.com/watch?v=bRyIjnkV8wI) | [Modular Perverse Sheaves on the affine Flag Variety - Laura Rider](https://www.youtube.com/watch?v=SG6lrhoaam0&t=461s) | [The integral coefficient geometric Satake equivalence in mixed characteristic - Jize Yu](https://www.youtube.com/watch?v=qC2KfQQRFqc) |
 [Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A) | [Two Geometric Realizations of the Affine Hecke Algebra IPablo Boixeda Alvarez](https://www.youtube.com/watch?v=9avJ9Gxdm-I&t=197s) | [Affine Hecke category and noncommutative Springer resolution - Roman Bezrukavnikov](https://www.youtube.com/watch?v=3YdLPhNk6Oo) |
 [Parabolic version of the two realizations theorem and applications to modular representation theory](https://www.youtube.com/watch?v=fAniEnfypXc) | [Peng Shan: Coherent categorification of quantum loop sl(2)](https://www.youtube.com/watch?v=4cCocGe8lgc&t=3884s) | [K-Motives and Koszul Duality in Geometric Representation Theory - Jens Eberhardt](https://www.youtube.com/watch?v=YG6dhJbcuUs) |
+[科学探索奖得主单芃：Monoidal categorification of skein algebras](https://www.bilibili.com/video/BV1YT83zGEAs/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [On two geometric realizations of the anti-spherical module - Tsao-Hsien Chen](https://www.bilibili.com/video/BV1TtbozaEp5/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -2786,6 +2787,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 847. 能听懂大概了，希望尽快进入几何表示论。[Modular Perverse Sheaves on the affine Flag Variety - Laura Rider](https://www.youtube.com/watch?v=SG6lrhoaam0&t=461s) and [Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A) and [The integral coefficient geometric Satake equivalence in mixed characteristic - Jize Yu](https://www.youtube.com/watch?v=qC2KfQQRFqc) and [Parabolic version of the two realizations theorem and applications to modular representation theory](https://www.youtube.com/watch?v=fAniEnfypXc) and [Peng Shan: Coherent categorification of quantum loop sl(2)](https://www.youtube.com/watch?v=4cCocGe8lgc&t=3884s) 2025-7-29 22:37 崇德苑 209 室
 
 848. **对 Hecke 代数和群代数（肉和骨）的比较以及 Hecke 代数参数 q 的理解（记录反射的信息，即肉的部分）很受用，见 18:00**。**该报告通过例子对代数的“几何表示”解释得很好，能让人了解几何范畴化的初衷和动机**。[Geometric Categorifications of the Hecke Algebra - Laura Rider](https://www.youtube.com/watch?v=y4eZD2J1j2A&t=312s) 2025-7-30 13:38 崇德苑 209 室
+
+849. **该报告对范畴化、几何表示论也解释得很棒**。洛朗多项式或者量子群的参数q本质都是多重拷贝的效果。Grothendieck群是用短正合列模拟加法。[科学探索奖得主单芃：Monoidal categorification of skein algebras](https://www.bilibili.com/video/BV1YT83zGEAs/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-7-31 13:25 崇德苑 209 室
 
 
 
