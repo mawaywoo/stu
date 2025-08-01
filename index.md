@@ -2793,6 +2793,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 850. **范畴化可以有“几何化”和“代数化”等不同的方式**：取决于用哪种方式（等变层或者 Soergel 模）产生的范畴取 Grothendieck 群。[Anna Romanov - A categorification of the Lusztig-Vogan module](https://www.youtube.com/watch?v=fEaBZsXis00&t=62s) 2025-7-31 20:51 崇德苑 209 室
 
+851. **Verma 模 + Weyl 群 = 投射模**，Weyl 群通常起着“粘接”作用，起着控制 Verma 模的作用。[Lecture 01](https://www.youtube.com/watch?v=KnlvrDOaxJY&list=PLhkiT_RYTEU08AajvBxGewQB2d1kYxnsd&index=2)  2025-8-1 14:16 崇德苑 209 室
+
 
 
 
