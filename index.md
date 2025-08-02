@@ -2795,7 +2795,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 851. **Verma 模 + Weyl 群 = 投射模**，Weyl 群通常起着“粘接”作用，起着控制 Verma 模的作用。[Lecture 01](https://www.youtube.com/watch?v=KnlvrDOaxJY&list=PLhkiT_RYTEU08AajvBxGewQB2d1kYxnsd&index=2)  2025-8-1 14:16 崇德苑 209 室
 
-852. **对“旗簇”解释得很生动形象以及为什么旗簇可看成 G/B，对旗簇的变换对应于对旗簇代表元的矩阵变换，Weyl 群就是对旗簇的变换，通过 Weyl 群（变换）就可以得到所有的旗簇**。该视频很清晰地展示出了**旗簇和 Weyl 群之间的关系，很值得一看**。[Combinatorial Subvarieties of the Flag Variety Pt. 1](https://www.youtube.com/watch?v=s7mNeG-fs-Q) and [Combinatorial Subvarieties of the Flag Variety Pt. 2](https://www.youtube.com/watch?v=b_7jG7rAS1o) 2025-8-2 19:39 崇德苑 209 室
+852. **对“旗簇”解释得很生动形象以及为什么旗簇可看成 G/B，对旗簇的变换对应于对旗簇代表元的矩阵变换，Weyl 群就是对旗簇的变换，通过 Weyl 群（变换）就可以得到所有的旗簇**。该视频很清晰地展示出了**旗簇和 Weyl 群之间的关系，很值得一看**。[Combinatorial Subvarieties of the Flag Variety Pt. 1](https://www.youtube.com/watch?v=s7mNeG-fs-Q) and [Combinatorial Subvarieties of the Flag Variety Pt. 2](https://www.youtube.com/watch?v=b_7jG7rAS1o) and [Combinatorial Subvarieties of the Flag Variety Pt. 3](https://www.youtube.com/watch?v=znetMsSSiMQ) 2025-8-2 19:39 崇德苑 209 室
 
 
 
