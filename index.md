@@ -328,7 +328,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Parabolic version of the two realizations theorem and applications to modular representation theory](https://www.youtube.com/watch?v=fAniEnfypXc) | [Peng Shan: Coherent categorification of quantum loop sl(2)](https://www.youtube.com/watch?v=4cCocGe8lgc&t=3884s) | [K-Motives and Koszul Duality in Geometric Representation Theory - Jens Eberhardt](https://www.youtube.com/watch?v=YG6dhJbcuUs) |
 [科学探索奖得主单芃：Monoidal categorification of skein algebras](https://www.bilibili.com/video/BV1YT83zGEAs/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [On two geometric realizations of the anti-spherical module - Tsao-Hsien Chen](https://www.bilibili.com/video/BV1TtbozaEp5/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Geordie Williamson: Miraculous Treumann-Smith theory and geometric Satake](https://www.youtube.com/watch?v=aGjyXH9k2b0) |
 [Anna Romanov - A categorification of the Lusztig-Vogan module](https://www.youtube.com/watch?v=fEaBZsXis00&t=62s) | [Soergel bimodules and Kazhdan-Lusztig theory by Ben Elias](https://www.youtube.com/playlist?list=PLhkiT_RYTEU08AajvBxGewQB2d1kYxnsd) | [Seminar on Soergel bimodules](https://www.youtube.com/playlist?list=PLuFcVFHMIfhJkaEXcdR35jughfVEehFWw) |
-[Kapranov Lecture 1: Perverse sheaves as objects of mixed functoriality](https://www.youtube.com/watch?v=y2Gh1N2_Y6c) |
+[Kapranov Lecture 1: Perverse sheaves as objects of mixed functoriality](https://www.youtube.com/watch?v=y2Gh1N2_Y6c) | [Combinatorial Subvarieties of the Flag Variety Pt. 1](https://www.youtube.com/watch?v=s7mNeG-fs-Q) |
 
 
 
@@ -2794,6 +2794,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 850. **范畴化可以有“几何化”和“代数化”等不同的方式**：取决于用哪种方式（等变层或者 Soergel 模）产生的范畴取 Grothendieck 群。[Anna Romanov - A categorification of the Lusztig-Vogan module](https://www.youtube.com/watch?v=fEaBZsXis00&t=62s) 2025-7-31 20:51 崇德苑 209 室
 
 851. **Verma 模 + Weyl 群 = 投射模**，Weyl 群通常起着“粘接”作用，起着控制 Verma 模的作用。[Lecture 01](https://www.youtube.com/watch?v=KnlvrDOaxJY&list=PLhkiT_RYTEU08AajvBxGewQB2d1kYxnsd&index=2)  2025-8-1 14:16 崇德苑 209 室
+
+852. **对“旗簇”解释得很生动形象以及为什么旗簇可看成 G/B**。[Combinatorial Subvarieties of the Flag Variety Pt. 1](https://www.youtube.com/watch?v=s7mNeG-fs-Q) 2025-8-2 19:39 崇德苑 209 室
 
 
 
