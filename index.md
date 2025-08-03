@@ -330,7 +330,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Anna Romanov - A categorification of the Lusztig-Vogan module](https://www.youtube.com/watch?v=fEaBZsXis00&t=62s) | [Soergel bimodules and Kazhdan-Lusztig theory by Ben Elias](https://www.youtube.com/playlist?list=PLhkiT_RYTEU08AajvBxGewQB2d1kYxnsd) | [Seminar on Soergel bimodules](https://www.youtube.com/playlist?list=PLuFcVFHMIfhJkaEXcdR35jughfVEehFWw) |
 [Kapranov Lecture 1: Perverse sheaves as objects of mixed functoriality](https://www.youtube.com/watch?v=y2Gh1N2_Y6c) | [Combinatorial Subvarieties of the Flag Variety Pt. 1](https://www.youtube.com/watch?v=s7mNeG-fs-Q) | [AGANT 2018 Summer School on Lie Theory](https://www.youtube.com/playlist?list=PLSAZ6910tQ5pVNfiPkS1mDe4RvKbXJw2J) |
 [国际基础科学大会-Categorification of quantum groups via Fukaya categories-Vivek Shende](https://www.bilibili.com/video/BV1BXuxzLE4B/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Flag varieties and representations of p-adic groups - Charlotte Chan](https://www.youtube.com/watch?v=aWmPb97HiEE) | [Poincare duality for modular representations of p-adic groups and Hecke algebras - Karol Koziol](https://www.youtube.com/watch?v=H5-QDoi0mng) |
-[Combinatorial Algebraic Geometry: Tropical and Real (HYBRID)](https://www.youtube.com/playlist?list=PL04QVxpjcnjiP4THZSG8T4ng2lAw-sjsJ) |
+[Combinatorial Algebraic Geometry: Tropical and Real (HYBRID)](https://www.youtube.com/playlist?list=PL04QVxpjcnjiP4THZSG8T4ng2lAw-sjsJ) | [Birational geometry of algebraic varieties](https://www.youtube.com/playlist?list=PLpJ6pgBbEJpdswS8KOyb-RWiDc6JkaEFO) |
 
 
 
