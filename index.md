@@ -2800,6 +2800,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 852. **对“旗簇”解释得很生动形象以及为什么旗簇可看成 G/B，对旗簇的变换对应于对旗簇代表元的矩阵变换，Weyl 群就是对旗簇的变换，通过 Weyl 群（变换）就可以得到所有的旗簇**。该视频很清晰地展示出了**旗簇和 Weyl 群之间的关系，很值得一看**。[Combinatorial Subvarieties of the Flag Variety Pt. 1](https://www.youtube.com/watch?v=s7mNeG-fs-Q) and [Combinatorial Subvarieties of the Flag Variety Pt. 2](https://www.youtube.com/watch?v=b_7jG7rAS1o) and [Combinatorial Subvarieties of the Flag Variety Pt. 3](https://www.youtube.com/watch?v=znetMsSSiMQ) 2025-8-2 19:39 崇德苑 209 室
 
+853. 1.由现象出发，去总结理论，而不是从理论出发，去推演新理论，见 36:58。2. 多听报告，渗透性学习法。[杨振宁史上最精彩的演讲，没有之一，全程高能，太吸引人了！顶级物理学家的思维，究竟与普通人有多大差距](https://www.youtube.com/watch?v=Z90fkUa7fbw) 2025-8-4 19:34 崇德苑 209 室
+
+
 
 
 
