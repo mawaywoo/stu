@@ -2808,6 +2808,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 856. 因为代数群的几何信息只能了解连通的部分，**G/G^0 是有限群，该部分不能被代数群的几何信息所探测**，故考虑代数群的时候总假设的连通的。另外，幂等根也要去掉，因为幂等根可以理解为“最大的正规p-子群”, **p-元素**对于讨论半单表示也是讨厌的，所以要去掉该部分。[Deligne-Lusztig](https://www.youtube.com/watch?v=Wn3mAuRl-lM&list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ&index=8&t=14s) 2025-8-6 20:48 崇德苑 209 室
 
+857. **旗簇 G/B 转化为空间链 V. 的方式是：G 作用 V. 传递，B 是点稳定子群**，如果 V. 不是完全旗簇，我们则得到抛物子群 P_I 为稳定子群，旗簇 G/P_I，I < S。见 1:29:31 [Deligne-Lusztig](https://www.youtube.com/watch?v=Wn3mAuRl-lM&list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ&index=8&t=3756s) 2025-8-7 13:39 崇德苑 209 室
+
 
 
 
