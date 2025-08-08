@@ -332,7 +332,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Combinatorial Algebraic Geometry: Tropical and Real (HYBRID)](https://www.youtube.com/playlist?list=PL04QVxpjcnjiP4THZSG8T4ng2lAw-sjsJ) | [Birational geometry of algebraic varieties](https://www.youtube.com/playlist?list=PLpJ6pgBbEJpdswS8KOyb-RWiDc6JkaEFO) | [Representations of p-adic reductive groups by Tasho Kaletha](https://www.youtube.com/watch?v=QAtibAa6O4Y) |
 [Categorification in representation theory 2023](https://www.youtube.com/@catrep2023/videos) | [Charlotte Chan  Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=t8w1VN3zqGA) | [Which Schubert varieties are Hessenberg Varieities](https://www.youtube.com/watch?v=fLgjruFSk78) |
 [Schubert Seminar](https://www.youtube.com/@schubertseminar7448/videos) | [Alexander Yong (UIUC) / Singularities of Schubert varieties / 2009-12-14](https://www.youtube.com/watch?v=hd6Vs_chZAQ) | [What is...Schubert calculus?](https://www.youtube.com/watch?v=S4oFiCKzWlo) |
-[]() |
+[Hilbert's 15th Problem: Schubert Calculus  Infinite Series](https://www.youtube.com/watch?v=U8sq3BplCfI) |
 
 
 
@@ -2809,6 +2809,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 856. 因为代数群的几何信息只能了解连通的部分，**G/G^0 是有限群，该部分不能被代数群的几何信息所探测**，故考虑代数群的时候总假设的连通的。另外，幂等根也要去掉，因为幂等根可以理解为“最大的正规p-子群”, **p-元素**对于讨论半单表示也是讨厌的，所以要去掉该部分。[Deligne-Lusztig](https://www.youtube.com/watch?v=Wn3mAuRl-lM&list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ&index=8&t=14s) 2025-8-6 20:48 崇德苑 209 室
 
 857. **旗簇 G/B 转化为空间链 V. 的方式是：G 作用 V. 传递，B 是点稳定子群**，如果 V. 不是完全旗簇，我们则得到抛物子群 P_I 为稳定子群，旗簇 G/P_I，I < S。见 1:29:31 [Deligne-Lusztig](https://www.youtube.com/watch?v=Wn3mAuRl-lM&list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ&index=8&t=3756s) 2025-8-7 13:39 崇德苑 209 室
+
+858. 该视频中的代码转译为几何关联信息的部分讲得很好，旗簇中也有相应的记号。[Hilbert's 15th Problem: Schubert Calculus  Infinite Series](https://www.youtube.com/watch?v=U8sq3BplCfI) 2025-8-8 22:37 崇德苑 209 室
 
 
 
