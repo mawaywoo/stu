@@ -332,7 +332,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Combinatorial Algebraic Geometry: Tropical and Real (HYBRID)](https://www.youtube.com/playlist?list=PL04QVxpjcnjiP4THZSG8T4ng2lAw-sjsJ) | [Birational geometry of algebraic varieties](https://www.youtube.com/playlist?list=PLpJ6pgBbEJpdswS8KOyb-RWiDc6JkaEFO) | [Representations of p-adic reductive groups by Tasho Kaletha](https://www.youtube.com/watch?v=QAtibAa6O4Y) |
 [Categorification in representation theory 2023](https://www.youtube.com/@catrep2023/videos) | [Charlotte Chan  Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=t8w1VN3zqGA) | [Which Schubert varieties are Hessenberg Varieities](https://www.youtube.com/watch?v=fLgjruFSk78) |
 [Schubert Seminar](https://www.youtube.com/@schubertseminar7448/videos) | [Alexander Yong (UIUC) / Singularities of Schubert varieties / 2009-12-14](https://www.youtube.com/watch?v=hd6Vs_chZAQ) | [What is...Schubert calculus?](https://www.youtube.com/watch?v=S4oFiCKzWlo) |
-[Hilbert's 15th Problem: Schubert Calculus  Infinite Series](https://www.youtube.com/watch?v=U8sq3BplCfI) |
+[Hilbert's 15th Problem: Schubert Calculus  Infinite Series](https://www.youtube.com/watch?v=U8sq3BplCfI) | [Perverse sheaves on affine flag varieties and coherent sheaves on the dual](https://www.bilibili.com/video/BV1JU411F7F5/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
