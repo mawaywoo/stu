@@ -2815,6 +2815,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 859. Langlands dual group 是**根据 root data 的对偶**来定义的。[The geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=YwBnXqrq2sE) 2025-8-9 14:18 崇德苑 209 室
 
+860. 关于 Geometric Satake Equivalence 定理的系统课程。[The Geometric Satake Equivalence](https://www.youtube.com/playlist?list=PLEAL5zhxs8QYgd8VBUJNtOBM4-vf4jdF2) 2025-8-9 16:07 崇德苑 209 室
+
 
 
 
