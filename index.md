@@ -333,7 +333,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Categorification in representation theory 2023](https://www.youtube.com/@catrep2023/videos) | [Charlotte Chan  Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=t8w1VN3zqGA) | [Which Schubert varieties are Hessenberg Varieities](https://www.youtube.com/watch?v=fLgjruFSk78) |
 [Schubert Seminar](https://www.youtube.com/@schubertseminar7448/videos) | [Alexander Yong (UIUC) / Singularities of Schubert varieties / 2009-12-14](https://www.youtube.com/watch?v=hd6Vs_chZAQ) | [What is...Schubert calculus?](https://www.youtube.com/watch?v=S4oFiCKzWlo) |
 [Hilbert's 15th Problem: Schubert Calculus  Infinite Series](https://www.youtube.com/watch?v=U8sq3BplCfI) | [Perverse sheaves on affine flag varieties and coherent sheaves on the dual](https://www.bilibili.com/video/BV1JU411F7F5/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [From Group Actions to Actegories](https://www.youtube.com/watch?v=q-WLQO3BdG8) |
-[The geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=YwBnXqrq2sE) | [The Geometric Satake Equivalence](https://www.youtube.com/playlist?list=PLEAL5zhxs8QYgd8VBUJNtOBM4-vf4jdF2) |
+[The geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=YwBnXqrq2sE) | [The Geometric Satake Equivalence](https://www.youtube.com/playlist?list=PLEAL5zhxs8QYgd8VBUJNtOBM4-vf4jdF2) | [Peter Scholze - The geometric Satake equivalence in mixed characteristic](https://www.youtube.com/watch?v=Rz5g-plyuAg&t=64s) |
+[]() |
 
 
 
