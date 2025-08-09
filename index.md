@@ -333,7 +333,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Categorification in representation theory 2023](https://www.youtube.com/@catrep2023/videos) | [Charlotte Chan  Generic character sheaves on parahoric subgroups](https://www.youtube.com/watch?v=t8w1VN3zqGA) | [Which Schubert varieties are Hessenberg Varieities](https://www.youtube.com/watch?v=fLgjruFSk78) |
 [Schubert Seminar](https://www.youtube.com/@schubertseminar7448/videos) | [Alexander Yong (UIUC) / Singularities of Schubert varieties / 2009-12-14](https://www.youtube.com/watch?v=hd6Vs_chZAQ) | [What is...Schubert calculus?](https://www.youtube.com/watch?v=S4oFiCKzWlo) |
 [Hilbert's 15th Problem: Schubert Calculus  Infinite Series](https://www.youtube.com/watch?v=U8sq3BplCfI) | [Perverse sheaves on affine flag varieties and coherent sheaves on the dual](https://www.bilibili.com/video/BV1JU411F7F5/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [From Group Actions to Actegories](https://www.youtube.com/watch?v=q-WLQO3BdG8) |
-[]() |
+[The geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=YwBnXqrq2sE) |
 
 
 
@@ -2812,6 +2812,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 857. **旗簇 G/B 转化为空间链 V. 的方式是：G 作用 V. 传递，B 是点稳定子群**，如果 V. 不是完全旗簇，我们则得到抛物子群 P_I 为稳定子群，旗簇 G/P_I，I < S。见 1:29:31 [Deligne-Lusztig](https://www.youtube.com/watch?v=Wn3mAuRl-lM&list=PLvknLqDUeVVbeG_OCz30Zdos3Gew7QihQ&index=8&t=3756s) 2025-8-7 13:39 崇德苑 209 室
 
 858. 该视频中的代码转译为几何关联信息的部分讲得很好，旗簇中也有相应的记号。[Hilbert's 15th Problem: Schubert Calculus  Infinite Series](https://www.youtube.com/watch?v=U8sq3BplCfI) 2025-8-8 22:37 崇德苑 209 室
+
+859. Langlands dual group 是**根据 root data 的对偶**来定义的。[The geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=YwBnXqrq2sE) 2025-8-9 14:18 崇德苑 209 室
 
 
 
