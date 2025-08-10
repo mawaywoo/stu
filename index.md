@@ -2819,7 +2819,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 860. 关于 Geometric Satake Equivalence 定理的系统课程。[The Geometric Satake Equivalence](https://www.youtube.com/playlist?list=PLEAL5zhxs8QYgd8VBUJNtOBM4-vf4jdF2) 2025-8-9 16:07 崇德苑 209 室
 
-861. **通过域的“增肥”（F ——> F((t))），G(F) 下的各种几何对象（旗簇，Grass. 流形，Borel 群等）也相应“增肥”**，见第 7 页，第 8 页中的双陪集也可以视为域**增肥**后的对应双陪集版本，**双陪集的理解：B\G/B 表示几何对象（旗簇） G/B 的 B-轨道**，扩张仿射 Weyl 群是仿射 Weyl 群的“**增肥**”版本。**旗簇、Grass.流形等常用群的陪集（或增肥版）来表示：轨道=群/点稳定子群**。[Centralizer of a regular unipotent element and perverse sheaves on the affine flag variety](https://www.youtube.com/watch?v=uhXi8gmKd3A&t=164s) 2025-8-10 21:18 崇德苑 209 室
+861. a.**通过域的“增肥”（F ——> F((t))），G(F) 下的各种几何对象（旗簇，Grass. 流形，Borel 群等）也相应“增肥”**，见第 7 页。b.第 8 页中的双陪集也可以视为域**增肥**后的对应双陪集版本，**双陪集的理解：B\G/B 表示几何对象（旗簇） G/B 的 B-轨道**。c.扩张仿射 Weyl 群是仿射 Weyl 群的“**增肥**”版本。d.**旗簇、Grass.流形等常用群的陪集（或增肥版）来表示：轨道=群/点稳定子群**。e.第 12 页中的**导出范畴上的 mix, G_m 结构**限制是为了得到去范畴化后的**乘法的“扭”运算**。[Centralizer of a regular unipotent element and perverse sheaves on the affine flag variety](https://www.youtube.com/watch?v=uhXi8gmKd3A&t=164s) 2025-8-10 21:18 崇德苑 209 室
 
 
 
