@@ -335,7 +335,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Hilbert's 15th Problem: Schubert Calculus  Infinite Series](https://www.youtube.com/watch?v=U8sq3BplCfI) | [Perverse sheaves on affine flag varieties and coherent sheaves on the dual](https://www.bilibili.com/video/BV1JU411F7F5/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [From Group Actions to Actegories](https://www.youtube.com/watch?v=q-WLQO3BdG8) |
 [The geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=YwBnXqrq2sE) | [The Geometric Satake Equivalence](https://www.youtube.com/playlist?list=PLEAL5zhxs8QYgd8VBUJNtOBM4-vf4jdF2) | [Peter Scholze - The geometric Satake equivalence in mixed characteristic](https://www.youtube.com/watch?v=Rz5g-plyuAg&t=64s) |
 [An introduction to affine Grassmanians and the geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=gqDf8Gu4bn0&t=90s) | [Hiraku Nakajima - Geometric Satake for affine Lie algebras](https://www.youtube.com/watch?v=irVAQyX7dko) | [Derived geometric Satake equivalence and geometric constructions, A. Braverman](https://www.youtube.com/watch?v=UCLxKmo_u4g) |
-[Coulomb Branches Learning Seminar](https://www.youtube.com/playlist?list=PLlmdgvwhHAsYkEshSBvOvQWklcL2CRRC1) |
+[Coulomb Branches Learning Seminar](https://www.youtube.com/playlist?list=PLlmdgvwhHAsYkEshSBvOvQWklcL2CRRC1) | [Centralizer of a regular unipotent element and perverse sheaves on the affine flag variety](https://www.youtube.com/watch?v=uhXi8gmKd3A&t=164s) |
 
 
 
@@ -2818,6 +2818,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 859. Langlands dual group 是**根据 root data 的对偶**来定义的。[The geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=YwBnXqrq2sE) 2025-8-9 14:18 崇德苑 209 室
 
 860. 关于 Geometric Satake Equivalence 定理的系统课程。[The Geometric Satake Equivalence](https://www.youtube.com/playlist?list=PLEAL5zhxs8QYgd8VBUJNtOBM4-vf4jdF2) 2025-8-9 16:07 崇德苑 209 室
+
+861. **通过域的“增肥”（F ——> F((t))），G(F) 下的各种几何对象（旗簇，Grass. 流形，Borel 群等）也相应“增肥”**，见第 7 页。[Centralizer of a regular unipotent element and perverse sheaves on the affine flag variety](https://www.youtube.com/watch?v=uhXi8gmKd3A&t=164s) 2025-8-10 21:18 崇德苑 209 室
 
 
 
