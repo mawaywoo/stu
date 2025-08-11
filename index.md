@@ -336,6 +336,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [The geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=YwBnXqrq2sE) | [The Geometric Satake Equivalence](https://www.youtube.com/playlist?list=PLEAL5zhxs8QYgd8VBUJNtOBM4-vf4jdF2) | [Peter Scholze - The geometric Satake equivalence in mixed characteristic](https://www.youtube.com/watch?v=Rz5g-plyuAg&t=64s) |
 [An introduction to affine Grassmanians and the geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=gqDf8Gu4bn0&t=90s) | [Hiraku Nakajima - Geometric Satake for affine Lie algebras](https://www.youtube.com/watch?v=irVAQyX7dko) | [Derived geometric Satake equivalence and geometric constructions, A. Braverman](https://www.youtube.com/watch?v=UCLxKmo_u4g) |
 [Coulomb Branches Learning Seminar](https://www.youtube.com/playlist?list=PLlmdgvwhHAsYkEshSBvOvQWklcL2CRRC1) | [Centralizer of a regular unipotent element and perverse sheaves on the affine flag variety](https://www.youtube.com/watch?v=uhXi8gmKd3A&t=164s) | [Coherent categorification of quantum loop sl(2) - Peng Shan](https://www.youtube.com/watch?v=sPvjJSvIgeY&t=301s) |
+[Kapranov Lecture 2: Categorification of perverse sheaves](https://www.youtube.com/watch?v=tTy8tkdTUl4) |
 
 
 
@@ -2823,7 +2824,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 862. **箭图表示是一种产生几何的方式，类似于旗簇，它上面的层论也可以用于范畴化某些代数**。今天下午小孙请我看《罗小黑战记2》，在梅州给我买的湛江爱华广场的电影票，挺霸总的。[Coherent categorification of quantum loop sl(2) - Peng Shan](https://www.youtube.com/watch?v=sPvjJSvIgeY&t=301s) 2025-8-11 13:27 崇德苑 209 室
 
-863. **所有的层范畴太大了**，不利于我们处理一些函子，特别是导出函子，因此，我们要考虑**所有层范畴的某个特殊的子范畴：可构造层范畴**，它的导出范畴是所有层范畴的导出范畴的一个三角子范畴，而且它具有更好的性质：**可构造层能被很多层运算所保持**。进一步从**可构造层范畴的导出范畴**再取出一个阿贝尔范畴：**偏曲层范畴**。见第 2 页。[Quick and dirty introduction to perverse sheaves](https://web.math.princeton.edu/~smorel/faisceaux_pervers.pdf)
+863. **所有的层范畴太大了**，不利于我们处理一些函子，特别是导出函子，因此，我们要考虑**所有层范畴的某个特殊的子范畴：可构造层范畴**，它的导出范畴是所有层范畴的导出范畴的一个三角子范畴，而且它具有更好的性质：**可构造层能被很多层运算所保持**。进一步从**可构造层范畴的导出范畴**再取出一个阿贝尔范畴：**偏曲层范畴**。见第 2 页。[Quick and dirty introduction to perverse sheaves](https://web.math.princeton.edu/~smorel/faisceaux_pervers.pdf) 2025-8-11 20:51 崇德苑 209 室
 
 
 
