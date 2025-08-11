@@ -2823,7 +2823,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 862. **箭图表示是一种产生几何的方式，类似于旗簇，它上面的层论也可以用于范畴化某些代数**。今天下午小孙请我看《罗小黑战记2》，在梅州给我买的湛江爱华广场的电影票，挺霸总的。[Coherent categorification of quantum loop sl(2) - Peng Shan](https://www.youtube.com/watch?v=sPvjJSvIgeY&t=301s) 2025-8-11 13:27 崇德苑 209 室
 
-863. **所有的层范畴太大了**，不利于我们处理一些函子，特别是导出函子，因此，我们要考虑**所有层范畴的某个特殊的子范畴：偏曲层范畴**，它的导出范畴是所有层范畴的导出范畴的一个三角子范畴，而且它具有更好的性质。见第 2 页。[Quick and dirty introduction to perverse sheaves](https://web.math.princeton.edu/~smorel/faisceaux_pervers.pdf)
+863. **所有的层范畴太大了**，不利于我们处理一些函子，特别是导出函子，因此，我们要考虑**所有层范畴的某个特殊的子范畴：可构造层范畴**，它的导出范畴是所有层范畴的导出范畴的一个三角子范畴，而且它具有更好的性质：**可构造层能被很多层运算所保持**。进一步从**可构造层范畴的导出范畴**再取出一个阿贝尔范畴：**偏曲层范畴**。见第 2 页。[Quick and dirty introduction to perverse sheaves](https://web.math.princeton.edu/~smorel/faisceaux_pervers.pdf)
 
 
 
