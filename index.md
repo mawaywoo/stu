@@ -336,7 +336,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [The geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=YwBnXqrq2sE) | [The Geometric Satake Equivalence](https://www.youtube.com/playlist?list=PLEAL5zhxs8QYgd8VBUJNtOBM4-vf4jdF2) | [Peter Scholze - The geometric Satake equivalence in mixed characteristic](https://www.youtube.com/watch?v=Rz5g-plyuAg&t=64s) |
 [An introduction to affine Grassmanians and the geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=gqDf8Gu4bn0&t=90s) | [Hiraku Nakajima - Geometric Satake for affine Lie algebras](https://www.youtube.com/watch?v=irVAQyX7dko) | [Derived geometric Satake equivalence and geometric constructions, A. Braverman](https://www.youtube.com/watch?v=UCLxKmo_u4g) |
 [Coulomb Branches Learning Seminar](https://www.youtube.com/playlist?list=PLlmdgvwhHAsYkEshSBvOvQWklcL2CRRC1) | [Centralizer of a regular unipotent element and perverse sheaves on the affine flag variety](https://www.youtube.com/watch?v=uhXi8gmKd3A&t=164s) | [Coherent categorification of quantum loop sl(2) - Peng Shan](https://www.youtube.com/watch?v=sPvjJSvIgeY&t=301s) |
-[Kapranov Lecture 2: Categorification of perverse sheaves](https://www.youtube.com/watch?v=tTy8tkdTUl4) | [Laura Rider (UGA) - Modular Perverse Sheaves on the affine Flag Variety](https://www.youtube.com/watch?v=8t8MpKtjU8E) |
+[Kapranov Lecture 2: Categorification of perverse sheaves](https://www.youtube.com/watch?v=tTy8tkdTUl4) | [Laura Rider (UGA) - Modular Perverse Sheaves on the affine Flag Variety](https://www.youtube.com/watch?v=8t8MpKtjU8E) | [t-structures on the equivariant derived category of the Steinberg variety, Ivan Losev - 28/08/23](https://www.youtube.com/watch?v=HprBOo94Ocg) |
+[]() |
 
 
 
