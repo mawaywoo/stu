@@ -2826,7 +2826,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 863. **所有的层范畴太大了**，不利于我们处理一些函子，特别是导出函子，因此，我们要考虑**所有层范畴的某个特殊的子范畴：可构造层范畴**，它的导出范畴是所有层范畴的导出范畴的一个三角子范畴，而且它具有更好的性质：**可构造层能被很多层运算所保持**。进一步从**可构造层范畴的导出范畴**再取出一个阿贝尔范畴：**偏曲层范畴**。见第 2 页。[Quick and dirty introduction to perverse sheaves](https://web.math.princeton.edu/~smorel/faisceaux_pervers.pdf) 2025-8-11 20:51 崇德苑 209 室
 
-864. 报告的 18:47 提到考虑张量三角范畴的理想、谱理论，而我早在昨晚也想到了类似的研究角度：**从范畴出发重构几何（比如张量谱，以及张量拓扑等），然后得到 Satake 定理**。[Laura Rider (UGA) - Modular Perverse Sheaves on the affine Flag Variety](https://www.youtube.com/watch?v=8t8MpKtjU8E) 2025-8-12 14:27 崇德苑 209 室
+864. 报告的 18:47 提到考虑张量三角范畴的理想（kazhdan-lusztig cells）、谱理论，而我早在昨晚也想到了类似的研究角度：**从范畴出发重构几何（比如张量谱，以及张量拓扑等），然后得到 Satake 定理**。[Laura Rider (UGA) - Modular Perverse Sheaves on the affine Flag Variety](https://www.youtube.com/watch?v=8t8MpKtjU8E) 2025-8-12 14:27 崇德苑 209 室
 
 
 
