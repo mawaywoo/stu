@@ -337,7 +337,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [An introduction to affine Grassmanians and the geometric Satake equivalence - Jize Yu](https://www.youtube.com/watch?v=gqDf8Gu4bn0&t=90s) | [Hiraku Nakajima - Geometric Satake for affine Lie algebras](https://www.youtube.com/watch?v=irVAQyX7dko) | [Derived geometric Satake equivalence and geometric constructions, A. Braverman](https://www.youtube.com/watch?v=UCLxKmo_u4g) |
 [Coulomb Branches Learning Seminar](https://www.youtube.com/playlist?list=PLlmdgvwhHAsYkEshSBvOvQWklcL2CRRC1) | [Centralizer of a regular unipotent element and perverse sheaves on the affine flag variety](https://www.youtube.com/watch?v=uhXi8gmKd3A&t=164s) | [Coherent categorification of quantum loop sl(2) - Peng Shan](https://www.youtube.com/watch?v=sPvjJSvIgeY&t=301s) |
 [Kapranov Lecture 2: Categorification of perverse sheaves](https://www.youtube.com/watch?v=tTy8tkdTUl4) | [Laura Rider (UGA) - Modular Perverse Sheaves on the affine Flag Variety](https://www.youtube.com/watch?v=8t8MpKtjU8E) | [t-structures on the equivariant derived category of the Steinberg variety, Ivan Losev - 28/08/23](https://www.youtube.com/watch?v=HprBOo94Ocg) |
-[]() |
+[Timo Richarz: Basics on Affine Grassmanianns](https://www.youtube.com/watch?v=du1YRliLEw8) |
 
 
 
@@ -2828,6 +2828,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 863. **所有的层范畴太大了**，不利于我们处理一些函子，特别是导出函子，因此，我们要考虑**所有层范畴的某个特殊的子范畴：可构造层范畴**，它的导出范畴是所有层范畴的导出范畴的一个三角子范畴，而且它具有更好的性质：**可构造层能被很多层运算所保持**。进一步从**可构造层范畴的导出范畴**再取出一个阿贝尔范畴：**偏曲层范畴**。见第 2 页。[Quick and dirty introduction to perverse sheaves](https://web.math.princeton.edu/~smorel/faisceaux_pervers.pdf) 2025-8-11 20:51 崇德苑 209 室
 
 864. 报告的 18:47 提到考虑张量三角范畴的理想（kazhdan-lusztig cells）、谱理论，而我早在昨晚也想到了类似的研究角度：**从范畴出发重构几何（比如张量谱，以及张量拓扑等），然后得到 Satake 定理**。[Laura Rider (UGA) - Modular Perverse Sheaves on the affine Flag Variety](https://www.youtube.com/watch?v=8t8MpKtjU8E) 2025-8-12 14:27 崇德苑 209 室
+
+865. affine grassmannian. [Timo Richarz: Basics on Affine Grassmanianns](https://www.youtube.com/watch?v=du1YRliLEw8) and [An introduction to affine Grassmannians and the geometric Satake equivalence](https://arxiv.org/abs/1603.05593) and [Introduction to Affine Grassmannians](https://math.berkeley.edu/~fengt/Zhu.pdf) 2025-8-13 16:30 崇德苑 209 室
 
 
 
