@@ -2831,6 +2831,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 865. affine grassmannian. [Timo Richarz: Basics on Affine Grassmanianns](https://www.youtube.com/watch?v=du1YRliLEw8) and [An introduction to affine Grassmannians and the geometric Satake equivalence](https://arxiv.org/abs/1603.05593) and [Introduction to Affine Grassmannians](https://math.berkeley.edu/~fengt/Zhu.pdf) 2025-8-13 16:30 崇德苑 209 室
 
+866. a.一个环产生一个谱空间，**概形则是把所有环的谱空间粘成一个空间**；**万有**构造=**把所有的对象粘起来**，粘的方式可以是并，即 prolimit，好比 Ind-概形。b.**概形=粘接空间的一个框架**。2025-8-13 19:52 崇德苑 209 室
+
 
 
 
