@@ -338,7 +338,9 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Coulomb Branches Learning Seminar](https://www.youtube.com/playlist?list=PLlmdgvwhHAsYkEshSBvOvQWklcL2CRRC1) | [Centralizer of a regular unipotent element and perverse sheaves on the affine flag variety](https://www.youtube.com/watch?v=uhXi8gmKd3A&t=164s) | [Coherent categorification of quantum loop sl(2) - Peng Shan](https://www.youtube.com/watch?v=sPvjJSvIgeY&t=301s) |
 [Kapranov Lecture 2: Categorification of perverse sheaves](https://www.youtube.com/watch?v=tTy8tkdTUl4) | [Laura Rider (UGA) - Modular Perverse Sheaves on the affine Flag Variety](https://www.youtube.com/watch?v=8t8MpKtjU8E) | [t-structures on the equivariant derived category of the Steinberg variety, Ivan Losev - 28/08/23](https://www.youtube.com/watch?v=HprBOo94Ocg) |
 [Timo Richarz: Basics on Affine Grassmanianns](https://www.youtube.com/watch?v=du1YRliLEw8) | [Robert Cass: Perverse mod p sheaves on the affine Grassmannian](https://www.youtube.com/watch?v=MmIFuB05WQA&t=16s) | [Colloquium . Kamnitzer . 11/12/20. Categorification of reps & generalized affine Grassmannian slices](https://www.youtube.com/watch?v=hUuXAopSfyo) |
-[the-geometric-satake-equivalence](https://sites.google.com/a/bc.edu/keerthi/the-geometric-satake-equivalence) |
+[the-geometric-satake-equivalence](https://sites.google.com/a/bc.edu/keerthi/the-geometric-satake-equivalence) | [UIUC Schubert Summer School 2023](https://www.youtube.com/@UIUCSchubertSummerSchool2023/videos) |
+
+
 
 
 ## Upcoming meeting
