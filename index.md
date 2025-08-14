@@ -338,7 +338,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Coulomb Branches Learning Seminar](https://www.youtube.com/playlist?list=PLlmdgvwhHAsYkEshSBvOvQWklcL2CRRC1) | [Centralizer of a regular unipotent element and perverse sheaves on the affine flag variety](https://www.youtube.com/watch?v=uhXi8gmKd3A&t=164s) | [Coherent categorification of quantum loop sl(2) - Peng Shan](https://www.youtube.com/watch?v=sPvjJSvIgeY&t=301s) |
 [Kapranov Lecture 2: Categorification of perverse sheaves](https://www.youtube.com/watch?v=tTy8tkdTUl4) | [Laura Rider (UGA) - Modular Perverse Sheaves on the affine Flag Variety](https://www.youtube.com/watch?v=8t8MpKtjU8E) | [t-structures on the equivariant derived category of the Steinberg variety, Ivan Losev - 28/08/23](https://www.youtube.com/watch?v=HprBOo94Ocg) |
 [Timo Richarz: Basics on Affine Grassmanianns](https://www.youtube.com/watch?v=du1YRliLEw8) | [Robert Cass: Perverse mod p sheaves on the affine Grassmannian](https://www.youtube.com/watch?v=MmIFuB05WQA&t=16s) | [Colloquium . Kamnitzer . 11/12/20. Categorification of reps & generalized affine Grassmannian slices](https://www.youtube.com/watch?v=hUuXAopSfyo) |
-[]() |
+[the-geometric-satake-equivalence](https://sites.google.com/a/bc.edu/keerthi/the-geometric-satake-equivalence) |
 
 
 ## Upcoming meeting
@@ -2832,6 +2832,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 865. affine grassmannian. [Timo Richarz: Basics on Affine Grassmanianns](https://www.youtube.com/watch?v=du1YRliLEw8) and [An introduction to affine Grassmannians and the geometric Satake equivalence](https://arxiv.org/abs/1603.05593) and [Introduction to Affine Grassmannians](https://math.berkeley.edu/~fengt/Zhu.pdf) 2025-8-13 16:30 崇德苑 209 室
 
 866. a.一个环产生一个谱空间，**概形则是把所有环的谱空间粘成一个空间**；**万有**构造=**把所有的对象粘起来**，粘的方式可以是并，即 prolimit，好比 Ind-概形。b.**概形=粘接空间的一个框架**。2025-8-13 19:52 崇德苑 209 室
+
+867. 系列课程。[the-geometric-satake-equivalence](https://www.bilibili.com/video/BV1xZ421M73J/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-8-14 14:52 崇德苑 209 室
 
 
 
