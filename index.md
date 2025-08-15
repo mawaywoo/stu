@@ -2837,6 +2837,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 867. 系列课程。[the-geometric-satake-equivalence](https://www.bilibili.com/video/BV1xZ421M73J/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-8-14 14:52 崇德苑 209 室
 
+868. a.**可表对象（分类对象）=对分类的对象特征进行提取**：如概形，Hopf代数就是对概形的矩阵元素个数、行列式可逆性等特征进行提取，**见 [Affine group scheme and Tannakian category](https://www.bilibili.com/video/BV1Zp4y1o7J4/?spm_id_from=333.1391.0.0&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 15:00 的交换环 A 就是对 GL_2(R) 的元素以及行列式的特征进行提取**；又如T-mod，分类topos，是对T-mod中运算进行提取 [Hutzler - Gluing classifying toposes](https://www.youtube.com/watch?v=Ghrhwldyau8)。b.**可表对象（分类对象）=提取最本质的特征描述，该本质描述会得到一个集合，该集合是一个符合该类对象特征的万有集合**。c.**分类对象=可表对象**，进一步地，能否继续把分类对象粘起来=把可表对象粘起来，得到一个新的分类对象？2025-8-15 13:08 崇德苑 209 室
+
+
 
 
 
