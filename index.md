@@ -339,6 +339,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Kapranov Lecture 2: Categorification of perverse sheaves](https://www.youtube.com/watch?v=tTy8tkdTUl4) | [Laura Rider (UGA) - Modular Perverse Sheaves on the affine Flag Variety](https://www.youtube.com/watch?v=8t8MpKtjU8E) | [t-structures on the equivariant derived category of the Steinberg variety, Ivan Losev - 28/08/23](https://www.youtube.com/watch?v=HprBOo94Ocg) |
 [Timo Richarz: Basics on Affine Grassmanianns](https://www.youtube.com/watch?v=du1YRliLEw8) | [Robert Cass: Perverse mod p sheaves on the affine Grassmannian](https://www.youtube.com/watch?v=MmIFuB05WQA&t=16s) | [Colloquium . Kamnitzer . 11/12/20. Categorification of reps & generalized affine Grassmannian slices](https://www.youtube.com/watch?v=hUuXAopSfyo) |
 [the-geometric-satake-equivalence](https://sites.google.com/a/bc.edu/keerthi/the-geometric-satake-equivalence) | [UIUC Schubert Summer School 2023](https://www.youtube.com/@UIUCSchubertSummerSchool2023/videos) | [Algebraic Geometry, ETH Spring 2020 Lectures](https://www.youtube.com/playlist?list=PLikaObfZqZLTCISvBRWBFvEUhm3IuLWtZ) |
+[Intersection Theory (1 of 5)](https://www.youtube.com/watch?v=NNvza1RS78c) |
 
 
 
@@ -2840,6 +2841,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 868. a.**可表对象（分类对象）=对分类的对象特征进行提取**：如概形，Hopf代数就是对概形的矩阵元素个数、行列式可逆性等特征进行提取，**见 [Affine group scheme and Tannakian category](https://www.bilibili.com/video/BV1Zp4y1o7J4/?spm_id_from=333.1391.0.0&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 15:00 的交换环 A 就是对 GL_2(R) 的元素以及行列式的特征进行提取**；又如T-mod，分类topos，是对T-mod中运算进行提取 [Hutzler - Gluing classifying toposes](https://www.youtube.com/watch?v=Ghrhwldyau8)。b.**可表对象（分类对象）=提取最本质的特征描述，该本质描述会得到一个集合，该集合是一个符合该类对象特征的万有集合**。c.**分类对象=可表对象**，进一步地，能否继续把分类对象粘起来=把可表对象粘起来，得到一个新的分类对象？d.**可表对象=分类对象=万有对象(抓住本质特征的对象**)的构造很有趣。e.类比于 **Hopf 代数是仿射群概形的坐标环，分类 topos 分类理论 T 的“坐标环”**。2025-8-15 13:08 崇德苑 209 室
 
 869. 一种研究思路：**Grothendieck 构造 —> 可表为 colimit —> colimit 有伴随 —> 伴随对可以产生 Grothendieck 谱序列**。2025-8-15 15:04 崇德苑 209 室
+
+870. 对为什么要考虑射影空间而不是仿射空间，以及考虑复数域而不是实数域解释得很好。[Intersection Theory (1 of 5)](https://www.youtube.com/watch?v=NNvza1RS78c) 2025-8-15 15:44 崇德苑 209 室
 
 
 
