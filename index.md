@@ -2844,6 +2844,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 870. 对为什么要考虑射影空间而不是仿射空间，以及考虑复数域而不是实数域解释得很好。[Intersection Theory (1 of 5)](https://www.youtube.com/watch?v=NNvza1RS78c) 2025-8-15 15:44 崇德苑 209 室
 
+871. 接下来我将学习与 Lie 理论相关的几何。[The isomorphism problem for Schubert varieties - Edward Richmond](https://www.youtube.com/watch?v=RgP5ZoizEZQ) 2025-8-16 15:55 崇德苑 209 室
+
 
 
 
