@@ -339,7 +339,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Kapranov Lecture 2: Categorification of perverse sheaves](https://www.youtube.com/watch?v=tTy8tkdTUl4) | [Laura Rider (UGA) - Modular Perverse Sheaves on the affine Flag Variety](https://www.youtube.com/watch?v=8t8MpKtjU8E) | [t-structures on the equivariant derived category of the Steinberg variety, Ivan Losev - 28/08/23](https://www.youtube.com/watch?v=HprBOo94Ocg) |
 [Timo Richarz: Basics on Affine Grassmanianns](https://www.youtube.com/watch?v=du1YRliLEw8) | [Robert Cass: Perverse mod p sheaves on the affine Grassmannian](https://www.youtube.com/watch?v=MmIFuB05WQA&t=16s) | [Colloquium . Kamnitzer . 11/12/20. Categorification of reps & generalized affine Grassmannian slices](https://www.youtube.com/watch?v=hUuXAopSfyo) |
 [the-geometric-satake-equivalence](https://sites.google.com/a/bc.edu/keerthi/the-geometric-satake-equivalence) | [UIUC Schubert Summer School 2023](https://www.youtube.com/@UIUCSchubertSummerSchool2023/videos) | [Algebraic Geometry, ETH Spring 2020 Lectures](https://www.youtube.com/playlist?list=PLikaObfZqZLTCISvBRWBFvEUhm3IuLWtZ) |
-[Intersection Theory (1 of 5)](https://www.youtube.com/watch?v=NNvza1RS78c) | [The isomorphism problem for Schubert varieties - Edward Richmond](https://www.youtube.com/watch?v=RgP5ZoizEZQ) |
+[Intersection Theory (1 of 5)](https://www.youtube.com/watch?v=NNvza1RS78c) | [The isomorphism problem for Schubert varieties - Edward Richmond](https://www.youtube.com/watch?v=RgP5ZoizEZQ) | [The Complete Flag Variety and Schubert Polynomials - Anna Weigandt](https://www.youtube.com/watch?v=O-EGpRVKdZ8) |
 
 
 
@@ -2844,7 +2844,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 870. 对为什么要考虑射影空间而不是仿射空间，以及考虑复数域而不是实数域解释得很好。[Intersection Theory (1 of 5)](https://www.youtube.com/watch?v=NNvza1RS78c) 2025-8-15 15:44 崇德苑 209 室
 
-871. 接下来我将学习与 Lie 理论相关的几何。[The isomorphism problem for Schubert varieties - Edward Richmond](https://www.youtube.com/watch?v=RgP5ZoizEZQ) 2025-8-16 15:55 崇德苑 209 室
+871. 接下来我将学习与 Lie 理论相关的**几何**以及**组合**信息。[The isomorphism problem for Schubert varieties - Edward Richmond](https://www.youtube.com/watch?v=RgP5ZoizEZQ) 2025-8-16 15:55 崇德苑 209 室
+
+872. 把完全旗簇到可逆矩阵的转化解释得很具体。[The Complete Flag Variety and Schubert Polynomials - Anna Weigandt](https://www.youtube.com/watch?v=O-EGpRVKdZ8) 2025-8-16 16:34 崇德苑 209 室
 
 
 
