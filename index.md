@@ -340,7 +340,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Timo Richarz: Basics on Affine Grassmanianns](https://www.youtube.com/watch?v=du1YRliLEw8) | [Robert Cass: Perverse mod p sheaves on the affine Grassmannian](https://www.youtube.com/watch?v=MmIFuB05WQA&t=16s) | [Colloquium . Kamnitzer . 11/12/20. Categorification of reps & generalized affine Grassmannian slices](https://www.youtube.com/watch?v=hUuXAopSfyo) |
 [the-geometric-satake-equivalence](https://sites.google.com/a/bc.edu/keerthi/the-geometric-satake-equivalence) | [UIUC Schubert Summer School 2023](https://www.youtube.com/@UIUCSchubertSummerSchool2023/videos) | [Algebraic Geometry, ETH Spring 2020 Lectures](https://www.youtube.com/playlist?list=PLikaObfZqZLTCISvBRWBFvEUhm3IuLWtZ) |
 [Intersection Theory (1 of 5)](https://www.youtube.com/watch?v=NNvza1RS78c) | [The isomorphism problem for Schubert varieties - Edward Richmond](https://www.youtube.com/watch?v=RgP5ZoizEZQ) | [The Complete Flag Variety and Schubert Polynomials - Anna Weigandt](https://www.youtube.com/watch?v=O-EGpRVKdZ8) |
-[On torus orbit closures in flag varieties](https://www.youtube.com/watch?v=goiIM9ExYt4) |
+[On torus orbit closures in flag varieties](https://www.youtube.com/watch?v=goiIM9ExYt4) | [Week 5: Affine Grassmannians, affine flag varieties and their homology (Elchanan Nafcha)](https://www.youtube.com/watch?v=OMfTfA-NrbI&t=1s) |
 
 
 
@@ -2850,6 +2850,10 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 872. 把完全旗簇到可逆矩阵的转化解释得很具体。[The Complete Flag Variety and Schubert Polynomials - Anna Weigandt](https://www.youtube.com/watch?v=O-EGpRVKdZ8) 2025-8-16 16:34 崇德苑 209 室
 
 873. 用**组合**数据去刻画一些**几何**信息。[On torus orbit closures in flag varieties](https://www.youtube.com/watch?v=goiIM9ExYt4) 2025-8-17 14:34 崇德苑 209 室
+
+874. 将某个定义进行推广：**先将原定义的数据进行打碎变形重组为其他形式，然后借助其他形式进行推广**。如几何表示论中的旗簇 G/B 就经常被“增肥”为各种版本。[Week 5: Affine Grassmannians, affine flag varieties and their homology (Elchanan Nafcha)](https://www.youtube.com/watch?v=OMfTfA-NrbI&t=1s) 2025-8-17 15:45 崇德苑 209 室
+
+
 
 
 
