@@ -342,7 +342,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Intersection Theory (1 of 5)](https://www.youtube.com/watch?v=NNvza1RS78c) | [The isomorphism problem for Schubert varieties - Edward Richmond](https://www.youtube.com/watch?v=RgP5ZoizEZQ) | [The Complete Flag Variety and Schubert Polynomials - Anna Weigandt](https://www.youtube.com/watch?v=O-EGpRVKdZ8) |
 [On torus orbit closures in flag varieties](https://www.youtube.com/watch?v=goiIM9ExYt4) | [Week 5: Affine Grassmannians, affine flag varieties and their homology (Elchanan Nafcha)](https://www.youtube.com/watch?v=OMfTfA-NrbI&t=1s) | [Microlocal sheaves on certain affine Springer fibers - Zhiwei Yun](https://www.youtube.com/watch?v=sGn_wHDgx1o&t=715s) |
 [Theta intertwining sheaves - Zhiwei Yun](https://www.youtube.com/watch?v=8lPnrQfxSP0&t=72s) | [2022-05-09 NITheCS Colloquium: Bruce Bartlett, The geometry of the classical and quantum 6j symbols](https://www.youtube.com/watch?v=6v1yZzRmMJw&t=20s) | [Catharina Stroppel - A braided monoidal 2-category via Soergel bimodules - IPAM at UCLA](https://www.youtube.com/watch?v=ozX4Ba0RXzs) |
-[Higher torsion classes and silting complexes - Sondre Kvamme (NTNU Trondheim)](https://www.youtube.com/watch?v=tENYD_BUBus&t=457s) |
+[Higher torsion classes and silting complexes - Sondre Kvamme (NTNU Trondheim)](https://www.youtube.com/watch?v=tENYD_BUBus&t=457s) | [On the spectrum and support theory of a finite tensor category - Milen Yakimov (Northeastern Uni)](https://www.youtube.com/watch?v=qu7kp650uww) |
 
 
 
@@ -2855,7 +2855,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 874. 将某个定义进行推广：**先将原定义的数据进行打碎变形重组为其他形式，然后借助其他形式进行推广**。如几何表示论中的旗簇 G/B 就经常被“增肥”为各种版本。[Week 5: Affine Grassmannians, affine flag varieties and their homology (Elchanan Nafcha)](https://www.youtube.com/watch?v=OMfTfA-NrbI&t=1s) 2025-8-17 15:45 崇德苑 209 室
 
-875. **如何分割一个范畴：人为选择某些函子/运算；人为选择这些函子/运算的某些性质；利用这些函子的这些性质对整个范畴进行分割**。这两个选择意味着意味着不同的人可以有不同的分割喜好，完全可以和已有的分割不一致。如三角范畴的 T-结构，函子 Hom, [1], Hom 函子等于 0 的性质。2025-8-20 12:50 崇德苑 209 室
+875. **如何分割一个范畴（重要的发现）：人为选择某些函子/运算；人为选择这些函子/运算的某些性质；利用这些函子的这些性质对整个范畴进行分割**。这两个选择意味着意味着不同的人可以有不同的分割喜好，完全可以和已有的分割不一致。如三角范畴的 T-结构，函子 Hom, [1], Hom 函子等于 0 的性质。2025-8-20 12:50 崇德苑 209 室
 
 
 
