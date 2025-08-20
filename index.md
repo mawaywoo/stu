@@ -2854,6 +2854,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 874. 将某个定义进行推广：**先将原定义的数据进行打碎变形重组为其他形式，然后借助其他形式进行推广**。如几何表示论中的旗簇 G/B 就经常被“增肥”为各种版本。[Week 5: Affine Grassmannians, affine flag varieties and their homology (Elchanan Nafcha)](https://www.youtube.com/watch?v=OMfTfA-NrbI&t=1s) 2025-8-17 15:45 崇德苑 209 室
 
+875. **如何分割一个范畴：人为选择某些函子/运算；人为选择这些函子/运算的某些性质；利用这些函子的这些性质对整个范畴进行分割**。这两个选择意味着意味着不同的人可以有不同的分割喜好，完全可以和已有的分割不一致。如三角范畴的 T-结构，函子 Hom, [1], Hom 函子等于 0 的性质。2025-8-20 12:50 崇德苑 209 室
+
 
 
 
