@@ -342,6 +342,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Intersection Theory (1 of 5)](https://www.youtube.com/watch?v=NNvza1RS78c) | [The isomorphism problem for Schubert varieties - Edward Richmond](https://www.youtube.com/watch?v=RgP5ZoizEZQ) | [The Complete Flag Variety and Schubert Polynomials - Anna Weigandt](https://www.youtube.com/watch?v=O-EGpRVKdZ8) |
 [On torus orbit closures in flag varieties](https://www.youtube.com/watch?v=goiIM9ExYt4) | [Week 5: Affine Grassmannians, affine flag varieties and their homology (Elchanan Nafcha)](https://www.youtube.com/watch?v=OMfTfA-NrbI&t=1s) | [Microlocal sheaves on certain affine Springer fibers - Zhiwei Yun](https://www.youtube.com/watch?v=sGn_wHDgx1o&t=715s) |
 [Theta intertwining sheaves - Zhiwei Yun](https://www.youtube.com/watch?v=8lPnrQfxSP0&t=72s) | [2022-05-09 NITheCS Colloquium: Bruce Bartlett, The geometry of the classical and quantum 6j symbols](https://www.youtube.com/watch?v=6v1yZzRmMJw&t=20s) | [Catharina Stroppel - A braided monoidal 2-category via Soergel bimodules - IPAM at UCLA](https://www.youtube.com/watch?v=ozX4Ba0RXzs) |
+[Higher torsion classes and silting complexes - Sondre Kvamme (NTNU Trondheim)](https://www.youtube.com/watch?v=tENYD_BUBus&t=457s) |
 
 
 
