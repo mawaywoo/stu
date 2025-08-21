@@ -343,7 +343,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [On torus orbit closures in flag varieties](https://www.youtube.com/watch?v=goiIM9ExYt4) | [Week 5: Affine Grassmannians, affine flag varieties and their homology (Elchanan Nafcha)](https://www.youtube.com/watch?v=OMfTfA-NrbI&t=1s) | [Microlocal sheaves on certain affine Springer fibers - Zhiwei Yun](https://www.youtube.com/watch?v=sGn_wHDgx1o&t=715s) |
 [Theta intertwining sheaves - Zhiwei Yun](https://www.youtube.com/watch?v=8lPnrQfxSP0&t=72s) | [2022-05-09 NITheCS Colloquium: Bruce Bartlett, The geometry of the classical and quantum 6j symbols](https://www.youtube.com/watch?v=6v1yZzRmMJw&t=20s) | [Catharina Stroppel - A braided monoidal 2-category via Soergel bimodules - IPAM at UCLA](https://www.youtube.com/watch?v=ozX4Ba0RXzs) |
 [Higher torsion classes and silting complexes - Sondre Kvamme (NTNU Trondheim)](https://www.youtube.com/watch?v=tENYD_BUBus&t=457s) | [On the spectrum and support theory of a finite tensor category - Milen Yakimov (Northeastern Uni)](https://www.youtube.com/watch?v=qu7kp650uww) | [A glimpse of enumerative geometry- Coffee Meeting Talk by Yalong Cao](https://www.youtube.com/watch?v=7ALDJSrB_p4) |
-[Kayla Wright: Representation Theory of Marked Non-Orientable Surfaces](https://www.youtube.com/watch?v=PLgsF4rzdR4) |
+[Kayla Wright: Representation Theory of Marked Non-Orientable Surfaces](https://www.youtube.com/watch?v=PLgsF4rzdR4) | [Masterclass on Higher Representation Theory](https://www.youtube.com/playlist?list=PLAMniZX5MiiLLn9nd7AZpVuUj9YD6V8Vi) |
 
 
 
