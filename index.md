@@ -2858,6 +2858,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 875. **如何分割一个范畴（一种打碎范畴的方式）：人为选择某些函子/运算；人为选择这些函子/运算的某些性质；利用这些函子的这些性质对整个范畴进行分割**。这两个选择意味着意味着不同的人可以有不同的分割喜好，完全可以和已有的分割不一致。如三角范畴的 T-结构，函子 Hom, [1], Hom 函子等于 0 的性质。2025-8-20 12:50 崇德苑 209 室
 
+876. K0 群告诉我们**怎么分解和等同**一个对象。[Maru Sarazola (Cornell University)- Cotorsion pairs and a K-theory localization theorem](https://www.youtube.com/watch?v=_Gbt6DJapns&t=755s) 2025-8-21 21:16 崇德苑 209 室
+
 
 
 
