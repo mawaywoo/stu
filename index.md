@@ -2860,6 +2860,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 876. K0 群告诉我们**怎么分解和等同**一个对象。**用某些函子以及这些函子的某些性质去分割范畴**：如 Ext^1, Ker, Cok, Quot 等函子去分割范畴。[Maru Sarazola (Cornell University)- Cotorsion pairs and a K-theory localization theorem](https://www.youtube.com/watch?v=_Gbt6DJapns&t=755s) 2025-8-21 21:16 崇德苑 209 室
 
+877. a.**等变层 “=” 赋环座上的模**？b.**Grothendieck 群和 K-群** “=” 怎么**分解**对象。2025-8-22 13:51 崇德苑 209 室
+
 
 
 
