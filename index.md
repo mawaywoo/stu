@@ -344,7 +344,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Theta intertwining sheaves - Zhiwei Yun](https://www.youtube.com/watch?v=8lPnrQfxSP0&t=72s) | [2022-05-09 NITheCS Colloquium: Bruce Bartlett, The geometry of the classical and quantum 6j symbols](https://www.youtube.com/watch?v=6v1yZzRmMJw&t=20s) | [Catharina Stroppel - A braided monoidal 2-category via Soergel bimodules - IPAM at UCLA](https://www.youtube.com/watch?v=ozX4Ba0RXzs) |
 [Higher torsion classes and silting complexes - Sondre Kvamme (NTNU Trondheim)](https://www.youtube.com/watch?v=tENYD_BUBus&t=457s) | [On the spectrum and support theory of a finite tensor category - Milen Yakimov (Northeastern Uni)](https://www.youtube.com/watch?v=qu7kp650uww) | [A glimpse of enumerative geometry- Coffee Meeting Talk by Yalong Cao](https://www.youtube.com/watch?v=7ALDJSrB_p4) |
 [Kayla Wright: Representation Theory of Marked Non-Orientable Surfaces](https://www.youtube.com/watch?v=PLgsF4rzdR4) | [Masterclass on Higher Representation Theory](https://www.youtube.com/playlist?list=PLAMniZX5MiiLLn9nd7AZpVuUj9YD6V8Vi) | [Alex Simpson: Equality, equivalence and atomic sheaves part 1](https://www.youtube.com/watch?v=nLyPJT5Gkhk&t=175s) |
-[Masterclass: Proof of the geometric Langlands conjecture](https://www.youtube.com/playlist?list=PLAMniZX5MiiKAKZiBOxbT5tS7RpiZCT8I) |
+[Masterclass: Proof of the geometric Langlands conjecture](https://www.youtube.com/playlist?list=PLAMniZX5MiiKAKZiBOxbT5tS7RpiZCT8I) | [Perverse sheaves, microlocal sheaves and perverse Schobers [1] - Mikhail Kapranov](https://www.youtube.com/watch?v=0rx8OzD4WNM&t=1369s) |
 
 
 
@@ -2862,6 +2862,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 876. K0 群告诉我们**怎么分解和等同**一个对象。**用某些函子以及这些函子的某些性质去分割范畴**：如 Ext^1, Ker, Cok, Quot 等函子去分割范畴。[Maru Sarazola (Cornell University)- Cotorsion pairs and a K-theory localization theorem](https://www.youtube.com/watch?v=_Gbt6DJapns&t=755s) 2025-8-21 21:16 崇德苑 209 室
 
 877. a.**等变层 “=” 赋环座上的模**？b.**Grothendieck 群和 K-群** “=” 怎么**分解**对象。2025-8-22 13:51 崇德苑 209 室
+
+878. [Perverse sheaves, microlocal sheaves and perverse Schobers - Mikhail Kapranov](https://www.youtube.com/watch?v=0rx8OzD4WNM&t=1369s) 2025-8-23 15:03 崇德苑 209 室
 
 
 
