@@ -2863,7 +2863,7 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 877. a.**等变层 “=” 赋环座上的模**？b.**Grothendieck 群和 K-群** “=” 怎么**分解**对象。2025-8-22 13:51 崇德苑 209 室
 
-878. 不断积累对 perverse sheaves (上同调层复形)的各种常用的处理方式：**取偏曲层(复形)上同调实现复形到层的转化，继续做层的各种操作；或者对偏曲层的支撑集进行改变，比如限制到一个开子集等；层的支持集“=”哪个范畴上的层；构造几何对象上的层“=”在几何对象上堆向量空间(或其他代数结构)；通过堆积向量空间来表示层就可以把层用向量空间的图表来描述，进而用箭图的表示来表示层**。[Perverse sheaves, microlocal sheaves and perverse Schobers - Mikhail Kapranov](https://www.youtube.com/watch?v=0rx8OzD4WNM&t=1369s) 2025-8-23 15:03 崇德苑 209 室
+878. 不断积累对 perverse sheaves (上同调层复形)的各种常用的处理方式：**取偏曲层(复形)上同调实现复形到层的转化，继续做层的各种操作；或者对偏曲层的支撑集进行改变，比如限制到一个开子集等；层的支持集“=”哪个范畴上的层；构造几何对象上的层“=”在几何对象上堆向量空间(或其他代数结构)；通过堆积向量空间来表示层就可以把层用向量空间的图表来描述，进而用箭图的表示来表示层；对层所依赖的几何对象上的各种处理等同于对层的底座范畴上的处理，底范畴的性质影响层范畴的性质，类似地，几何对象的性质影响它上面的层范畴的性质**。[Perverse sheaves, microlocal sheaves and perverse Schobers - Mikhail Kapranov](https://www.youtube.com/watch?v=0rx8OzD4WNM&t=1369s) 2025-8-23 15:03 崇德苑 209 室
 
 
 
