@@ -345,6 +345,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Higher torsion classes and silting complexes - Sondre Kvamme (NTNU Trondheim)](https://www.youtube.com/watch?v=tENYD_BUBus&t=457s) | [On the spectrum and support theory of a finite tensor category - Milen Yakimov (Northeastern Uni)](https://www.youtube.com/watch?v=qu7kp650uww) | [A glimpse of enumerative geometry- Coffee Meeting Talk by Yalong Cao](https://www.youtube.com/watch?v=7ALDJSrB_p4) |
 [Kayla Wright: Representation Theory of Marked Non-Orientable Surfaces](https://www.youtube.com/watch?v=PLgsF4rzdR4) | [Masterclass on Higher Representation Theory](https://www.youtube.com/playlist?list=PLAMniZX5MiiLLn9nd7AZpVuUj9YD6V8Vi) | [Alex Simpson: Equality, equivalence and atomic sheaves part 1](https://www.youtube.com/watch?v=nLyPJT5Gkhk&t=175s) |
 [Masterclass: Proof of the geometric Langlands conjecture](https://www.youtube.com/playlist?list=PLAMniZX5MiiKAKZiBOxbT5tS7RpiZCT8I) | [Perverse sheaves, microlocal sheaves and perverse Schobers [1] - Mikhail Kapranov](https://www.youtube.com/watch?v=0rx8OzD4WNM&t=1369s) | [Computing perverse sheaves with the decomposition theorem: Office Hours - April 4 2025](https://www.youtube.com/watch?v=oB_lQl5YGyM) |
+[20090115 Derived categories and perverse sheaves Pramod N Achar](https://www.youtube.com/watch?v=QZdBK9H7XfE&list=PL6ud2X85OYNA4_sDq4TrLTm-Wtb_foDFj&index=6&t=40s) |
 
 
 
@@ -2866,6 +2867,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 878. 不断积累对 perverse sheaves (上同调层复形)的各种常用的处理方式：**取偏曲层(复形)上同调实现复形到层的转化，继续做层的各种操作；或者对偏曲层的支撑集进行改变，比如限制到一个开子集等；层的支持集“=”哪个范畴上的层；构造几何对象上的层“=”在几何对象上堆向量空间(或其他代数结构)；通过堆积向量空间来表示层就可以把层用向量空间的图表来描述，进而用箭图的表示来表示层；对层所依赖的几何对象上的各种处理等同于对层的底座范畴上的处理，底范畴的性质影响层范畴的性质，类似地，几何对象的性质影响它上面的层范畴的性质；偏曲层(复形) ——上同调，纯性——> (由纯性决定)某个(上同调)层 ——在几何对象上有机地堆积向量空间——> 向量空间的图表，即箭图的表示 ——> 由此就实现了偏曲层范畴可由箭图的表示范畴来刻画；前面我们已经知道，几何对象的地位相当于层的底范畴，所以我们可以通过对底范畴进行改动已达到对层范畴的优化，同理，我们可以通过对几何对象进行改动已实现几何对象上的层的优化，例如奇异解消会把原来的奇点消除，原空间上的偏曲层就会优化为新空间上的局部系统，见视频的近末尾部分**。[Perverse sheaves, microlocal sheaves and perverse Schobers - Mikhail Kapranov](https://www.youtube.com/watch?v=0rx8OzD4WNM&t=1369s) 2025-8-23 15:03 崇德苑 209 室
 
 879. 利用**偏曲数组(一组自然数)将同调里的“圈”的维数**进行调整，进而通过改动相交“圈”的维数改变同调群里的元素，**通过维数调整后，原来相交(transverse)的圈就变成不相交(perverse)了**。36:46 [A walk in the world of perverse sheaves - lecture 1](https://www.youtube.com/watch?v=bRyIjnkV8wI) 2025-8-23 21:44 崇德苑 209 室
+
+880. 偏曲层是一个**复形**，但取上同调可以得到一个**层**，在层上可以附加各种条件/运算，从而对偏曲层附加条件/运算。[20090115 Derived categories and perverse sheaves Pramod N Achar](https://www.youtube.com/watch?v=QZdBK9H7XfE&list=PL6ud2X85OYNA4_sDq4TrLTm-Wtb_foDFj&index=6&t=40s) 2025-8-24 22:53 崇德苑 209 室
+
 
 
 
