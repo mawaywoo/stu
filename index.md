@@ -555,13 +555,13 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [半噸兄弟 - 鬼迷心竅 / 半噸兄弟 - 諾言【半吨兄弟 精選情歌2024】 串烧歌! 翻唱25首歌曲!【100分钟】歌曲合集【动态歌词】【Lyrics】撕心裂肺! 最火最热门! 洗脑歌曲!💖](https://www.youtube.com/watch?v=CWTr-uYAQcc)
 
-[藍眼淚](https://www.youtube.com/watch?v=3xMykHuGEcA&list=PLL2yZKMabca_tML7M8dBOtaSUowVH3omD) 很喜欢这首歌！
+[藍眼淚](https://www.youtube.com/watch?v=3xMykHuGEcA&list=PLL2yZKMabca_tML7M8dBOtaSUowVH3omD) 
 
 [陳冠蒲-藍眼淚 封面原音版](https://www.youtube.com/watch?v=HvDLT670E_U&list=RDHvDLT670E_U&start_radio=1)
 
 [冬日柔和音乐、适合放松心神、缓解焦虑、一个人独处的好听英文歌单](https://www.youtube.com/watch?v=sL5mrEE2XPw)
 
-[一聽就不焦慮！ 全球最療癒輕音樂 | 10分鐘釋放壓力， 深度解壓音樂 | 緩解焦慮憂鬱 + 冥想放鬆 + 快速充電 + 睡眠音樂無廣告](https://www.youtube.com/watch?v=1xjXb0wm0EQ&list=RD1xjXb0wm0EQ&start_radio=1)
+[一聽就不焦慮！ 全球最療癒輕音樂 | 10分鐘釋放壓力， 深度解壓音樂 | 緩解焦慮憂鬱 + 冥想放鬆 + 快速充電 + 睡眠音樂無廣告](https://www.youtube.com/watch?v=1xjXb0wm0EQ&list=RD1xjXb0wm0EQ&start_radio=1) 很喜欢这首！除了轻音乐，还有山水、虫鸣鸟叫的背景音。
 
 
 ## 电影
