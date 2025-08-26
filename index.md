@@ -2872,6 +2872,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 881. 一个很具体的展示**常值预层和常值层的差别**的例子。[Constant sheaf](https://en.wikipedia.org/wiki/Constant_sheaf) 2025-8-26 13:54 崇德苑 209 室
 
+882. 局部常值函数与常值函数。[Locally constant function](https://en.wikipedia.org/wiki/Locally_constant_function) 2025-8-26 14:04 崇德苑 209 室
+
 
 
 
