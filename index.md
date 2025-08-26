@@ -2870,6 +2870,8 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 880. 偏曲层是一个**复形**，但取上同调可以得到一个**层**，在层上可以附加各种条件/运算，从而对偏曲层附加条件/运算。[20090115 Derived categories and perverse sheaves Pramod N Achar](https://www.youtube.com/watch?v=QZdBK9H7XfE&list=PL6ud2X85OYNA4_sDq4TrLTm-Wtb_foDFj&index=6&t=40s) 2025-8-24 22:53 崇德苑 209 室
 
+881. 一个很具体的展示**常值预层和常值层的差别**的例子。[Constant sheaf](https://en.wikipedia.org/wiki/Constant_sheaf) 2025-8-26 13:54 崇德苑 209 室
+
 
 
 
