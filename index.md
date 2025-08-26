@@ -561,6 +561,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [冬日柔和音乐、适合放松心神、缓解焦虑、一个人独处的好听英文歌单](https://www.youtube.com/watch?v=sL5mrEE2XPw)
 
+[一聽就不焦慮！ 全球最療癒輕音樂 | 10分鐘釋放壓力， 深度解壓音樂 | 緩解焦慮憂鬱 + 冥想放鬆 + 快速充電 + 睡眠音樂無廣告](https://www.youtube.com/watch?v=1xjXb0wm0EQ&list=RD1xjXb0wm0EQ&start_radio=1)
+
 
 ## 电影
 
