@@ -2876,6 +2876,9 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 
 882. 局部常值函数与常值函数。[Locally constant function](https://en.wikipedia.org/wiki/Locally_constant_function) 2025-8-26 14:04 崇德苑 209 室
 
+883. 茎运算、常值层运算、限制到开集运算和整体截断运算都要理解为单点空间或开子空间与其他空间的层之间的转化，把它放到**不同空间的函子之间的关系**更容易理解，如 11 页的 1.2.5 和 1.2.6 式。最近在学书 [Perverse Sheaves and
+Applications to Representation Theory](https://bookstore.ams.org/surv-258) 2025-8-26 16:41 崇德苑 209 室
+
 
 
 
