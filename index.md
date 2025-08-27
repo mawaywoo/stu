@@ -2879,6 +2879,12 @@ by Mike Prest](https://www.thriftbooks.com/w/model-theory-and-modules-london-mat
 883. 茎运算、常值层运算、限制到开集运算和整体截断运算都要理解为单点空间或开子空间与其他空间的层之间的转化，把它放到**不同空间的函子之间的关系**更容易理解，如 11 页的 1.2.5 和 1.2.6 式。最近在学书 [Perverse Sheaves and
 Applications to Representation Theory](https://bookstore.ams.org/surv-258) 2025-8-26 16:41 崇德苑 209 室
 
+884. 国自然青 C 依然没中，不想去吃饭，她给我点了一杯茶百道的青提茉莉奶茶，还附有文字“孩子你命太苦了，喝点甜的吧！”。给自己：做科研是为了自己精神娱乐，不要太功利，不必在意国内的圈子文化，甚至应该鄙视圈子文化，继续做出有影响力的文章来吧，加油！2025-8-27 13:58 崇德苑 209 室
+
+885. 
+
+
+
 
 
 
