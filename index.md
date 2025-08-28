@@ -563,6 +563,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [一聽就不焦慮！ 全球最療癒輕音樂 | 10分鐘釋放壓力， 深度解壓音樂 | 緩解焦慮憂鬱 + 冥想放鬆 + 快速充電 + 睡眠音樂無廣告](https://www.youtube.com/watch?v=1xjXb0wm0EQ&list=RD1xjXb0wm0EQ&start_radio=1) 很喜欢这首！除了轻音乐，还有山水、虫鸣鸟叫的背景音。
 
+[Hania Rani live at Invalides in Paris, France for Cercle](https://www.youtube.com/watch?v=J5oZ80Daduc&list=RDJ5oZ80Daduc&start_radio=1) 还不错！2025-8-28 22:24
+
 
 ## 电影
 
