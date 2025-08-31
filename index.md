@@ -2885,6 +2885,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 2025-
 
 885. **层的导出范畴有六个函子，常常要考虑这些函子之间的交换性**，特别是导出张量和导出 Hom 与其他四个导出函子的交换性。2025-8-27 15:40 崇德苑 209 室
 
+886. [12-15-2016- Zhiwei Yun](https://www.youtube.com/watch?v=itoE_twWn90) 2025-8-31 17:40 崇德苑 209 室
+
 
 
 
