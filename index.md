@@ -2887,6 +2887,9 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 2025-
 
 886. [12-15-2016- Zhiwei Yun](https://www.youtube.com/watch?v=itoE_twWn90) 2025-8-31 17:40 崇德苑 209 室
 
+887. 因为之前学过拓扑斯理论还有哲学理论，昨晚听喜马拉雅关于 Wittgenstein 维特根斯坦的作品，立马很对其很感兴趣。2025-9-1 14:22 崇德苑 209 室
+     
+
 
 
 
