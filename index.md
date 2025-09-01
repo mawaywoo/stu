@@ -345,7 +345,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Higher torsion classes and silting complexes - Sondre Kvamme (NTNU Trondheim)](https://www.youtube.com/watch?v=tENYD_BUBus&t=457s) | [On the spectrum and support theory of a finite tensor category - Milen Yakimov (Northeastern Uni)](https://www.youtube.com/watch?v=qu7kp650uww) | [A glimpse of enumerative geometry- Coffee Meeting Talk by Yalong Cao](https://www.youtube.com/watch?v=7ALDJSrB_p4) |
 [Kayla Wright: Representation Theory of Marked Non-Orientable Surfaces](https://www.youtube.com/watch?v=PLgsF4rzdR4) | [Masterclass on Higher Representation Theory](https://www.youtube.com/playlist?list=PLAMniZX5MiiLLn9nd7AZpVuUj9YD6V8Vi) | [Alex Simpson: Equality, equivalence and atomic sheaves part 1](https://www.youtube.com/watch?v=nLyPJT5Gkhk&t=175s) |
 [Masterclass: Proof of the geometric Langlands conjecture](https://www.youtube.com/playlist?list=PLAMniZX5MiiKAKZiBOxbT5tS7RpiZCT8I) | [Perverse sheaves, microlocal sheaves and perverse Schobers [1] - Mikhail Kapranov](https://www.youtube.com/watch?v=0rx8OzD4WNM&t=1369s) | [Computing perverse sheaves with the decomposition theorem: Office Hours - April 4 2025](https://www.youtube.com/watch?v=oB_lQl5YGyM) |
-[20090115 Derived categories and perverse sheaves Pramod N Achar](https://www.youtube.com/watch?v=QZdBK9H7XfE&list=PL6ud2X85OYNA4_sDq4TrLTm-Wtb_foDFj&index=6&t=40s) | [合集·维特根斯坦](https://space.bilibili.com/3546574904887937/lists/2275146?type=season) |
+[20090115 Derived categories and perverse sheaves Pramod N Achar](https://www.youtube.com/watch?v=QZdBK9H7XfE&list=PL6ud2X85OYNA4_sDq4TrLTm-Wtb_foDFj&index=6&t=40s) | [合集·维特根斯坦](https://space.bilibili.com/3546574904887937/lists/2275146?type=season) | [《逻辑哲学论》的秘密 （江怡）](https://www.bilibili.com/video/BV1Ct411C7RV/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -2887,7 +2887,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 2025-
 
 886. [12-15-2016- Zhiwei Yun](https://www.youtube.com/watch?v=itoE_twWn90) 2025-8-31 17:40 崇德苑 209 室
 
-887. 因为之前学过拓扑斯理论还有哲学理论，昨晚听喜马拉雅关于 Wittgenstein 维特根斯坦的作品，立马很对其很感兴趣。[合集·维特根斯坦](https://space.bilibili.com/3546574904887937/lists/2275146?type=season) 2025-9-1 14:22 崇德苑 209 室
+887. 因为之前学过拓扑斯理论还有哲学理论，昨晚听喜马拉雅关于 Wittgenstein 维特根斯坦的作品，立马很对其很感兴趣。[合集·维特根斯坦](https://space.bilibili.com/3546574904887937/lists/2275146?type=season) and [《逻辑哲学论》的秘密 （江怡）](https://www.bilibili.com/video/BV1Ct411C7RV/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-9-1 14:22 崇德苑 209 室
      
 
 
