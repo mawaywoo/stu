@@ -565,6 +565,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [Hania Rani live at Invalides in Paris, France for Cercle](https://www.youtube.com/watch?v=J5oZ80Daduc&list=RDJ5oZ80Daduc&start_radio=1) 还不错！2025-8-28 22:24
 
+[10首史诗般的交响乐终曲 - 德沃夏克、马勒、贝多芬等作曲 | Grand Symphonic Finales (by Mahler, Dvorak, Beethoven, Mozart a.o.)](https://www.youtube.com/watch?v=WdP6KxxflwQ&list=RDWdP6KxxflwQ&start_radio=1) 唯独喜欢那个不断积累力量的过程。2025-9-3 22:00
+
 
 ## 电影
 
