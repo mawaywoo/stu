@@ -2896,6 +2896,9 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 2025-
 
 889. [Ryan Reich - On Beilinson's "How to glue perverse sheaves"](https://www.youtube.com/watch?v=tr5p4evX490)，今天刚读完 [Perverse Sheaves and
 Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的第 4 章。 2025-9-4 22:22 崇德苑 209 室
+
+890. [Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) 能否用类似的方法去**统一阿贝尔范畴和三角范畴的粘合理论**？2025-9-4 23:03 崇德苑 209 室
+
      
 
 
