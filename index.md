@@ -2892,6 +2892,9 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 2025-
 887. 因为之前学过拓扑斯理论还有哲学理论，昨晚听喜马拉雅关于 Wittgenstein 维特根斯坦的作品，立马很对其很感兴趣。[合集·维特根斯坦](https://space.bilibili.com/3546574904887937/lists/2275146?type=season) and [《逻辑哲学论》的秘密 （江怡）](https://www.bilibili.com/video/BV1Ct411C7RV/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-9-1 14:22 崇德苑 209 室
 
 888. [Wittgenstein: A Wonderful Life (1989)](https://www.youtube.com/watch?v=8BoKjQfMihs) 2025-9-2 18:38 崇德苑 209 室
+
+889. [Ryan Reich - On Beilinson's "How to glue perverse sheaves"](https://www.youtube.com/watch?v=tr5p4evX490)，今天刚读完 [Perverse Sheaves and
+Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的第 4 章。 2025-9-4 22:22 崇德苑 209 室
      
 
 
