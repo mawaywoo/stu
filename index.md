@@ -2899,6 +2899,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 890. [Lucas Mann: Representation Theory via 6-Functor Formalisms](https://www.youtube.com/watch?v=UlV5TCsLcBQ) 能否用类似的方法去**统一阿贝尔范畴和三角范畴的粘合理论**？2025-9-4 23:03 崇德苑 209 室
 
+891. 今天她暑假返校了，明天开学，她又给我买了一双鞋，还给我剪了头发（仅一把剪刀）。2025-9-7 21:51 崇德苑 209 室
+
      
 
 
