@@ -96,6 +96,12 @@ Currently I'm doing my PhD in China.
 
 高等代数 BII，2024 信息与计算科学 3, 4 班，48 学时，寸金校区 
 
+**2025-2026 学年第 1 学期**: 
+
+线性代数，2024 电信 1,2 班以及 2024 物联网 1,2,3 班，48 学时；2025 机器人 1,2 班，40 学时，湖光校区
+
+解析几何 BII，2025 信息与计算科学 1,2 班，48 学时，寸金校区 
+
 ## Research
 
 My research interests are in representation theory, (higher/elementary/Grothendieck) topos theory, homotopy type theory, logic, model theory, constructive mathematic, tilting theory, torsion theory.
