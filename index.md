@@ -2909,6 +2909,9 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 891. 今天她暑假返校了，明天开学，她又给我买了一双鞋，还给我剪了头发（仅一把剪刀）。2025-9-7 21:51 崇德苑 209 室
 
+892. [Tai-Danae Bradley - 语言中的结构：范畴论视角](https://youtu.be/6CQv0SXgT7s) 把两对象之间的“某种关系、度量”变为态射，从而得到enriched范畴。范畴真正重要的或需要处理和编码的数据是态射。2025-9-13 13:16 崇德苑 209 室
+
+
      
 
 
