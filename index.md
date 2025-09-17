@@ -447,7 +447,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Bojana Femic](http://www.mi.sanu.ac.rs/~bfemic/) | [Yuri Berest](https://math.cornell.edu/yuri-berest) | [Luchezar L. Avramov](https://scholar.google.com/citations?user=IZ2PlOAAAAAJ&hl=en) | [Geoffrey Powell](https://math.univ-angers.fr/~powell/home/prepub/) | [Vanessa Miemietz](https://research-portal.uea.ac.uk/en/persons/vanessa-miemietz) | [Jaap van Oosten](https://webspace.science.uu.nl/~ooste110/) | [Nadia Romero](https://scholar.google.com/citations?user=7tn0uWQAAAAJ) | [Mateusz (Matti) Stroiński](https://sites.google.com/view/stroinski) | [Matias L. del Hoyo](https://sites.google.com/view/mldelhoyo/) | [Jun Maillard](https://jun.maillard.blue/) | 
 [Ivo Vekemans](https://www.ivovekemans.net/) | [Bryce Clarke](https://bryceclarke.github.io/) | [Cédric Bonnafé](https://imag.umontpellier.fr/~bonnafe/) | [Charlotte Chan](https://public.websites.umich.edu/~charchan/) | [Ting Xue](https://blogs.unimelb.edu.au/ting-xue/) | [Kent Vashaw](https://www.math.ucla.edu/~kentvashaw/) | [Nadia Romero](https://scholar.google.com/citations?user=7tn0uWQAAAAJ) | [Marcelo Fiore](https://www.cl.cam.ac.uk/~mpf23/) | [Elena Caviglia](https://elenacaviglia.github.io/publications/) | [Rory B. B. Lucyshyn-Wright](https://lucyshyn-wright.ca/) |
 [Lander Hermans](https://landerhermans.com/) | [Giuseppe Rosolini](https://scholar.google.com/citations?user=_T6lOuMAAAAJ&hl=en) | [Evan Patterson](https://www.epatters.org/) | [Greta Coraglia](https://etagreta.github.io/) | [Rory B. B. Lucyshyn-Wright](https://www.lucyshyn-wright.ca/) | [Alan S. Cigoli](https://www.researchgate.net/profile/Alan-Cigoli) | [Martin Szyld](https://cms.dm.uba.ar/Members/mszyld) | [Luca Mesiti](https://lucamesiti.github.io/talks/) | [Julia Yael Plavnik](https://sites.google.com/view/juliaplavnik/home) | [Ergun Yalcin](http://www.fen.bilkent.edu.tr/~yalcine/) |
-[Abhishek Banerjee](https://sites.google.com/site/abhishekb1313/Home) | [Pramod N. Achar](https://www.math.lsu.edu/~pramod/) |
+[Abhishek Banerjee](https://sites.google.com/site/abhishekb1313/Home) | [Pramod N. Achar](https://www.math.lsu.edu/~pramod/) | [Lyne Moser](https://lynemoser.com/research/) |
 
 
 
@@ -2910,6 +2910,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 891. 今天她暑假返校了，明天开学，她又给我买了一双鞋，还给我剪了头发（仅一把剪刀）。2025-9-7 21:51 崇德苑 209 室
 
 892. [Tai-Danae Bradley - 语言中的结构：范畴论视角](https://youtu.be/6CQv0SXgT7s) 把两对象之间的“某种关系、度量”变为态射，从而得到enriched范畴。范畴真正重要的或需要处理和编码的数据是态射。2025-9-13 13:16 崇德苑 209 室
+
+893. [Lyne Moser](https://lynemoser.com/research/) 2025-9-17 10:41 崇德苑 209 室
 
 
      
