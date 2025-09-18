@@ -2913,6 +2913,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 893. [Lyne Moser](https://lynemoser.com/research/) 2025-9-17 10:41 崇德苑 209 室
 
+894. [Isar Stubbe - Quantaloid enriched categories for sheaf theory (part 1)](https://www.youtube.com/watch?v=QVu9nOS9Xgk&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=17&t=567s) 2025-9-18 15:27 崇德苑 209 室
+
 
      
 
