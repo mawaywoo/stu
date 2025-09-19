@@ -2913,7 +2913,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 893. [Lyne Moser](https://lynemoser.com/research/) 2025-9-17 10:41 崇德苑 209 室
 
-894. [Sheaves and Cauchy-complete categories](https://scholar.google.com/scholar?cluster=15922681571124440536&hl=en&as_sdt=2005&sciodt=0,5) and [Sheaves on sites as Cauchy-complete categories](https://scholar.google.com/scholar?cluster=14750020869857219055&hl=en&as_sdt=2005&sciodt=0,5) and [Isar Stubbe - Quantaloid enriched categories for sheaf theory (part 1)](https://www.youtube.com/watch?v=QVu9nOS9Xgk&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=17&t=567s) and [Elio Pivet - Sheaves on bicategories](https://www.youtube.com/watch?v=KC08uQuePgM&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=24) 2025-9-18 15:27 崇德苑 209 室
+894. [Sheaves and Cauchy-complete categories](https://scholar.google.com/scholar?cluster=15922681571124440536&hl=en&as_sdt=2005&sciodt=0,5) and [Sheaves on sites as Cauchy-complete categories](https://scholar.google.com/scholar?cluster=14750020869857219055&hl=en&as_sdt=2005&sciodt=0,5) and [Isar Stubbe - Quantaloid enriched categories for sheaf theory (part 1)](https://www.youtube.com/watch?v=QVu9nOS9Xgk&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=17&t=567s) and [Isar Stubbe - Quantaloid enriched categories for sheaf theory (part 2)](https://www.youtube.com/watch?v=TwPV3Lmu7Lk&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=19) and [Elio Pivet - Sheaves on bicategories](https://www.youtube.com/watch?v=KC08uQuePgM&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=24) 2025-9-18 15:27 崇德苑 209 室
 
 
      
