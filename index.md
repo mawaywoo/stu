@@ -577,6 +577,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [spotify](https://open.spotify.com/) 2025-9-9 11:22
 
+[Ed Sheeran Full Hits Songs Collection Album 2025 - Ed Sheeran Best Songs Playlist 2025#ed](https://www.youtube.com/watch?v=N_E1E6VBoj8&list=RDN_E1E6VBoj8&start_radio=1)
+
 
 ## 电影
 
