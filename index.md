@@ -2920,7 +2920,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 894. [Sheaves and Cauchy-complete categories](https://scholar.google.com/scholar?cluster=15922681571124440536&hl=en&as_sdt=2005&sciodt=0,5) and [Sheaves on sites as Cauchy-complete categories](https://scholar.google.com/scholar?cluster=14750020869857219055&hl=en&as_sdt=2005&sciodt=0,5) and [Isar Stubbe - Quantaloid enriched categories for sheaf theory (part 1)](https://www.youtube.com/watch?v=QVu9nOS9Xgk&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=17&t=567s) and [Isar Stubbe - Quantaloid enriched categories for sheaf theory (part 2)](https://www.youtube.com/watch?v=TwPV3Lmu7Lk&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=19) and [Elio Pivet - Sheaves on bicategories](https://www.youtube.com/watch?v=KC08uQuePgM&list=PLq6qUEvr5AcpIt7YOcSMO0qbultI0YvxY&index=24) 2025-9-18 15:27 崇德苑 209 室
 
-895. [Urs Schreiber: Cyclic loop spaces via higher topos theory in high energy physics](https://www.youtube.com/watch?v=1Q1nqvQnsu0) 拓扑空间范畴也有“优劣”之分；高阶范畴也并不可怕，从范畴论的角度，它只是**在拓扑空间范畴(或者高阶范畴：事实上，高阶范畴也可以视为由各种拓扑空间粘接而成)中做各种范畴论构造**而已。2025-10-24 11:16 崇德苑 209 室
+895. [Urs Schreiber: Cyclic loop spaces via higher topos theory in high energy physics](https://www.youtube.com/watch?v=1Q1nqvQnsu0) 拓扑空间范畴也有“优劣”之分；高阶范畴也并不可怕，从范畴论的角度，它只是**在拓扑空间范畴(或者高阶范畴：事实上，高阶范畴也可以视为由各种拓扑空间粘接而成[Wolf, Higher Category Theory Internal to an Infinity Topos](https://www.youtube.com/watch?v=jZ_Eb-UGCr8))中做各种范畴论构造**而已。2025-10-24 11:16 崇德苑 209 室
 
 
      
