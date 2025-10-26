@@ -2922,6 +2922,9 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 895. [Urs Schreiber: Cyclic loop spaces via higher topos theory in high energy physics](https://www.youtube.com/watch?v=1Q1nqvQnsu0) 拓扑空间范畴也有“优劣”之分；高阶范畴也并不可怕，从范畴论的角度，它只是**在拓扑空间范畴(或者高阶范畴：事实上，高阶范畴也可以视为由各种拓扑空间粘接而成[Wolf, Higher Category Theory Internal to an Infinity Topos](https://www.youtube.com/watch?v=jZ_Eb-UGCr8))中做各种范畴论构造**而已。2025-10-24 11:16 崇德苑 209 室
 
+896. [Multiplicative structures on comodules in higher categories](https://arxiv.org/abs/2503.01002) 最近又对环谱、环谱上的模及无穷范畴感兴趣，“拓扑空间范畴”上的 Monoid，代数及其模理论(将1-范畴的理论搬到拓扑范畴/无穷范畴)，Monoid结构对应Operad结构。2025-10-26 17:22 崇德苑 209 室
+
+
 
      
 
