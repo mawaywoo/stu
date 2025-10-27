@@ -2924,7 +2924,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 896. [Multiplicative structures on comodules in higher categories](https://arxiv.org/abs/2503.01002) 最近又对环谱、环谱上的模及无穷范畴感兴趣，“拓扑空间范畴”上的 Monoid，代数及其模理论(将1-范畴的理论搬到拓扑范畴/无穷范畴)，Monoid结构对应Operad结构。2025-10-26 17:22 崇德苑 209 室
 
-897. 将函子范畴变为纤维范畴（straithtening-unstraithening）的好处：把**函子的信息先融为一体**，然后**借助纤维范畴的底范畴提取融合体的所需部分的信息**。最近在重看 Tony Yuyue 主讲的 HTT 和 HA。2025-10-27 15:48 崇德苑 209 室
+897. 将函子范畴变为纤维范畴（straithtening-unstraithening）的好处：把**函子的信息先融为一体**，然后**借助纤维范畴的底范畴提取融合体的所需部分的信息**。最近在重看 Tony Yuyue 主讲的 HTT 和 HA，见第 3、4 讲极限、余极限、Yoneda 嵌入以及伴随函子的定义方式。2025-10-27 15:48 崇德苑 209 室
 
 
 
