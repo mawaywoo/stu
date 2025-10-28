@@ -2926,6 +2926,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 897. 将函子范畴变为纤维范畴（straithtening-unstraithening）的好处：把**函子的信息先融为一体**，然后**借助纤维范畴的底范畴提取融合体的所需部分的信息**。最近在重看 Tony Yuyue 主讲的 HTT 和 HA，见第 3、4 讲极限、余极限、Yoneda 嵌入以及伴随函子的定义方式。2025-10-27 15:48 崇德苑 209 室
 
+898. 高阶范畴常常**借助纤维范畴的底范畴来提取信息**，如 oo-operad 的定义，见 Tony Yuyue 的第五讲。2025-10-28 9:11 崇德苑 209 室
+
 
 
      
