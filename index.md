@@ -2924,11 +2924,13 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 896. [Multiplicative structures on comodules in higher categories](https://arxiv.org/abs/2503.01002) 最近又对环谱、环谱上的模及无穷范畴感兴趣，“拓扑空间范畴”上的 Monoid，代数及其模理论(将1-范畴的理论搬到拓扑范畴/无穷范畴)，Monoid结构对应Operad结构。2025-10-26 17:22 崇德苑 209 室
 
-897. 将函子范畴变为纤维范畴（straithtening-unstraithening）的好处：把**函子的信息先融为一体**，然后**借助纤维范畴的底范畴提取融合体的所需部分的信息**。最近在重看 Tony Yuyue 主讲的 HTT 和 HA，见第 3、4 讲极限、余极限、Yoneda 嵌入以及伴随函子的定义方式。2025-10-27 15:48 崇德苑 209 室
+897. 将函子范畴变为纤维范畴（straithtening-unstraithening）的好处：把**函子的信息先融为一体**，然后**借助纤维范畴的底范畴提取融合体的所需部分的信息**。最近在重看 Tony Yue Yu 主讲的 HTT 和 HA，见第 3、4 讲极限、余极限、Yoneda 嵌入以及伴随函子的定义方式。2025-10-27 15:48 崇德苑 209 室
 
-898. 高阶范畴常常**借助纤维范畴的底范畴来提取信息**，如 oo-operad 的定义，见 Tony Yuyue 的第五讲。2025-10-28 9:11 崇德苑 209 室
+898. 高阶范畴常常**借助纤维范畴的底范畴来提取信息**，如 oo-operad 的定义，见 Tony Yue Yu 的第五讲。2025-10-28 9:11 崇德苑 209 室
 
 899. 纤维范畴的全范畴已包含底范畴的信息，为何还要带上底范畴呢？原因是：带上底范畴，便于**利用底范畴提取全范畴的相关信息**。这在无穷范畴的处理中很方便。2025-10-28 15:11 崇德苑 209 室
+
+900. 今天看完了 Tony Yue Yu 主讲的高阶范畴的前 7 讲（HTT + HA），可以结合 [Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=22) 重新回顾一下高阶代数理论。2025-10-29 10:51 崇德苑 209 室
 
 
 
