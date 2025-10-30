@@ -356,7 +356,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Maru Sarazola: "Double categorical equivalences"](https://www.youtube.com/live/wNJU7F6D9g4) | [Campanini, Some recent results on pretorsion theories in lextensive categories](https://www.youtube.com/watch?v=3Y5HEkR0TjY) | [Gran - Pretorsion theories](https://www.youtube.com/watch?v=U_zDLFFJMrY&t=2992s) |
 [Cappelletti, Protoadditive Functors and Pretorsion Theories in Multipointed Context](https://www.youtube.com/watch?v=zYjuzXiQMKI&t=307s) | [Categorical Logic and Higher Categories](https://gtendas.github.io/clhc/program/) | [Urs Schreiber - Geometric Orbifold Cohomology in Singular-Cohesive ∞-Topoi](https://www.youtube.com/watch?v=s7H3jgpnGwM&t=244s) |
 [Urs Schreiber: Cyclic loop spaces via higher topos theory in high energy physics](https://www.youtube.com/watch?v=1Q1nqvQnsu0) | [Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=22) | [Infinity-category 08: Rings and modules - Foling Zou](https://www.youtube.com/watch?v=8uWc9JXZKIQ) |
-[Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9&t=541s) |
+[Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9&t=541s) | [Higher Algebra 10: E_n-Algebras](https://www.youtube.com/watch?v=WNeYUvdX9E0&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=10) |
 
 
 
@@ -2933,7 +2933,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 900. 今天看完了 Tony Yue Yu 主讲的高阶范畴 [Coursevideos(PW: Geometry)](https://i.youku.com/i/UMTI1Mjk0NjA1MDA=) 的前 7 讲（HTT + HA），可以结合 [Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=22) and [Infinity-category 08: Rings and modules - Foling Zou](https://www.youtube.com/watch?v=8uWc9JXZKIQ) 重新回顾一下高阶代数理论。2025-10-29 10:51 崇德苑 209 室
 
-901. **Inf. Sym. Mon. Cat. 通常用纤维范畴（Over Segal Category）定义，但纤维范畴可以视为函子范畴，故也可以定义为由 Segal 范畴为源范畴的函子（函子范畴的观点是更自然的推广，因为它更符合 Lawwere 理论的观点）**，也许关于纤维范畴的理论，都可以这样理解：**用函子的观点去理解，用纤维范畴的观点去处理**。见 53:57 [Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9&t=541s) 另外，Segal 范畴这个组合范畴在 LiLiping 的论文（关于 shift 函子的那些论文）中貌似也有用到。2025-10-30 9:48 崇德苑 209 室
+901. **Inf. Sym. Mon. Cat. 通常用纤维范畴（Over Segal Category）定义，但纤维范畴可以视为函子范畴，故也可以定义为由 Segal 范畴为源范畴的函子（函子范畴的观点是更自然的推广，因为它更符合 Lawwere 理论的观点）**，也许关于纤维范畴的理论，都可以这样理解：**用函子的观点去理解，用纤维范畴的观点去处理**。见 53:57 [Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9&t=541s) 另外，Segal 范畴这个组合范畴在 LiLiping 的论文（关于 shift 函子的那些论文）中貌似也有用到。还可以接着看 [Higher Algebra 10: E_n-Algebras](https://www.youtube.com/watch?v=WNeYUvdX9E0&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=10) 2025-10-30 9:48 崇德苑 209 室
 
 902. 关于纤维范畴的理论：**用函子的观点去理解（更自然），用纤维范畴的角度去处理（易操作）**。见上一条 Lurie 关于无穷对称范畴的两种定义方式。2025-10-30 10:33 崇德苑 209 室
 
