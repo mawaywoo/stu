@@ -2935,6 +2935,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 901. **Inf. Sym. Mon. Cat. 通常用纤维范畴（Over Segal Category）定义，但纤维范畴可以视为函子范畴，故也可以定义为由 Segal 范畴为源范畴的函子（函子范畴的观点是更自然的推广，因为它更符合 Lawwere 理论的观点）**，也许关于纤维范畴的理论，都可以这样理解：**用函子的观点去理解，用纤维范畴的观点去处理**。见 53:57 [Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9&t=541s) 另外，Segal 范畴这个组合范畴在 LiLiping 的论文（关于 shift 函子的那些论文）中貌似也有用到。2025-10-30 9:48 崇德苑 209 室
 
+902. 关于纤维范畴的理论：**用函子的观点去理解（更自然），用纤维范畴的角度去处理（易操作）**。见上一条 Lurie 关于无穷对称范畴的两种定义方式。2025-10-30 10:33 崇德苑 209 室
+
 
 
 
