@@ -2933,7 +2933,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 900. 今天看完了 Tony Yue Yu 主讲的高阶范畴 [Coursevideos(PW: Geometry)](https://i.youku.com/i/UMTI1Mjk0NjA1MDA=) 的前 7 讲（HTT + HA），可以结合 [Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=22) and [Infinity-category 08: Rings and modules - Foling Zou](https://www.youtube.com/watch?v=8uWc9JXZKIQ) 重新回顾一下高阶代数理论。2025-10-29 10:51 崇德苑 209 室
 
-901. [Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9&t=541s) 2025-10-30 9:48 崇德苑 209 室
+901. **Inf. Sym. Mon. Cat. 通常用纤维范畴（Over Segal Category）定义，但纤维范畴可以视为函子范畴，故也可以定义为由 Segal 范畴为源范畴的函子**，见 53:57 [Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9&t=541s) 另外，Segal 范畴这个组合范畴在 LiLiping 的论文（关于 shift 函子的那些论文）中貌似也有用到。2025-10-30 9:48 崇德苑 209 室
 
 
 
