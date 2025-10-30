@@ -355,7 +355,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Ryan Reich - On Beilinson's "How to glue perverse sheaves"](https://www.youtube.com/watch?v=tr5p4evX490) | [【会议】局部与整体朗兰兹纲领里的新工具 IASM 杭州 BIRS](https://www.bilibili.com/video/BV1F5a4z6Ejd/?spm_id_from=333.788.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Mesiti, Lax normal conical 2 limits and the Grothendieck construction](https://www.youtube.com/watch?v=6FuIE2ukSfM) |
 [Maru Sarazola: "Double categorical equivalences"](https://www.youtube.com/live/wNJU7F6D9g4) | [Campanini, Some recent results on pretorsion theories in lextensive categories](https://www.youtube.com/watch?v=3Y5HEkR0TjY) | [Gran - Pretorsion theories](https://www.youtube.com/watch?v=U_zDLFFJMrY&t=2992s) |
 [Cappelletti, Protoadditive Functors and Pretorsion Theories in Multipointed Context](https://www.youtube.com/watch?v=zYjuzXiQMKI&t=307s) | [Categorical Logic and Higher Categories](https://gtendas.github.io/clhc/program/) | [Urs Schreiber - Geometric Orbifold Cohomology in Singular-Cohesive ∞-Topoi](https://www.youtube.com/watch?v=s7H3jgpnGwM&t=244s) |
-[Urs Schreiber: Cyclic loop spaces via higher topos theory in high energy physics](https://www.youtube.com/watch?v=1Q1nqvQnsu0) | [Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=22) |
+[Urs Schreiber: Cyclic loop spaces via higher topos theory in high energy physics](https://www.youtube.com/watch?v=1Q1nqvQnsu0) | [Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=22) | [Infinity-category 08: Rings and modules - Foling Zou](https://www.youtube.com/watch?v=8uWc9JXZKIQ) |
 
 
 
@@ -2930,7 +2930,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 899. 纤维范畴的全范畴已包含底范畴的信息，为何还要带上底范畴呢？原因是：带上底范畴，便于**利用底范畴提取全范畴的相关信息**。这在无穷范畴的处理中很方便。2025-10-28 15:11 崇德苑 209 室
 
-900. 今天看完了 Tony Yue Yu 主讲的高阶范畴 [Coursevideos(PW: Geometry)](https://i.youku.com/i/UMTI1Mjk0NjA1MDA=) 的前 7 讲（HTT + HA），可以结合 [Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=22) 重新回顾一下高阶代数理论。2025-10-29 10:51 崇德苑 209 室
+900. 今天看完了 Tony Yue Yu 主讲的高阶范畴 [Coursevideos(PW: Geometry)](https://i.youku.com/i/UMTI1Mjk0NjA1MDA=) 的前 7 讲（HTT + HA），可以结合 [Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=22) and [Infinity-category 08: Rings and modules - Foling Zou](https://www.youtube.com/watch?v=8uWc9JXZKIQ) 重新回顾一下高阶代数理论。2025-10-29 10:51 崇德苑 209 室
 
 
 
