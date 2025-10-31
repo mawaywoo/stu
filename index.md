@@ -2937,6 +2937,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 902. 关于纤维范畴的理论：**用函子的观点去理解（更自然），用纤维范畴的角度去处理（易操作）**。见上一条 Lurie 关于无穷对称范畴的两种定义方式。2025-10-30 10:33 崇德苑 209 室
 
+903. **operad 对应（推广）的是 monoidal 结构**，有了 monoidal 结构，才可以考虑代数和模结构。[Lander Hermans: Virtual double categories as coloured box operads](https://www.youtube.com/watch?v=5SSbeKz2yEA) 2025-10-31 10:07 崇德苑 209 室
+
 
 
 
