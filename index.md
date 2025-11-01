@@ -358,6 +358,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Urs Schreiber: Cyclic loop spaces via higher topos theory in high energy physics](https://www.youtube.com/watch?v=1Q1nqvQnsu0) | [Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=22) | [Infinity-category 08: Rings and modules - Foling Zou](https://www.youtube.com/watch?v=8uWc9JXZKIQ) |
 [Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9&t=541s) | [Higher Algebra 10: E_n-Algebras](https://www.youtube.com/watch?v=WNeYUvdX9E0&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=10) | [Infinity-category 09: The Barr-Beck-Lurie theorem - Hana Jia Kong](https://www.youtube.com/watch?v=gcnQZck0G_E) |
 [Foling Zou presents "Unital Operads and Monoids"](https://www.youtube.com/watch?v=g6DwTiyLHgA) | [Stenzel, The Comparison Lemma in higher topos theory](https://www.youtube.com/watch?v=F_NwnqEwpk0&t=1169s) | [BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=84&t=21s) |
+[Rune Haugseng's video](https://www.youtube.com/results?search_query=Rune+Haugseng) |
 
 
 
@@ -2940,7 +2941,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 903. **operad 对应（推广）的是 monoidal 结构**，有了 monoidal 结构，才可以考虑代数和模结构。[Lander Hermans: Virtual double categories as coloured box operads](https://www.youtube.com/watch?v=5SSbeKz2yEA) 2025-10-31 10:07 崇德苑 209 室
 
-904. 高阶代数：[BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=84&t=21s) and [Some remarks on higher Morita categories](https://arxiv.org/abs/2309.09761) and [The higher Morita category of E_n-algebras](https://arxiv.org/abs/1412.8459) and [Rune Haugseng](https://arxiv.org/search/math?searchtype=author&query=Haugseng,+R) 2025-11-1 12:21 崇德苑 209 室
+904. 高阶代数：[BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=84&t=21s) and [Some remarks on higher Morita categories](https://arxiv.org/abs/2309.09761) and [The higher Morita category of E_n-algebras](https://arxiv.org/abs/1412.8459) and [Rune Haugseng](https://arxiv.org/search/math?searchtype=author&query=Haugseng,+R) and [Rune Haugseng's video](https://www.youtube.com/results?search_query=Rune+Haugseng) |2025-11-1 12:21 崇德苑 209 室
 
 
 
