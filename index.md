@@ -2946,7 +2946,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 905. 解释得很好！易懂！**ordinary operad = multicategory** (将范畴的态射纵向排)，**所以 operad 的角色相当于 category 的角色**. 对于 operad P, Q，**态射 P ——> Q 称为 Q 中的 P-代数 (类比环态射 A ——> B 称为 A-代数，也可以用 Lawvere 理论去理解**)，见 28:48。Cat 通过 Nerve 构造产生无穷范畴（单纯集的组合刻画），而 Operad 是 Cat 的推广，故可否由 Operad 通过 Nerve 构造产生无穷 Operad（组合刻画）？见 46:38。[BilTop Redi Haderi What is an infinity operad? (part I)](https://www.youtube.com/watch?v=Z0fyva1_t7c&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=30) 2025-11-1 16:18 崇德苑 209 室
 
-906. 10:24 的例子是我们常见的 operad 的记号，它其实就是只有一个对象/颜色的 operad。[Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=12) 2025-11-1 20:46 崇德苑 209 室 
+906. 10:24 的例子是我们常见的 operad 的记号，它其实就是只有一个对象/颜色的 operad。通过调整对象/颜色和态射，operad 可以编码各种不同的代数结构，如 14:00 的模结构等。[Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=12) 2025-11-1 20:46 崇德苑 209 室 
 
 
 
