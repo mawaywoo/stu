@@ -2944,7 +2944,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 904. 高阶代数：[BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=84&t=21s) and [Some remarks on higher Morita categories](https://arxiv.org/abs/2309.09761) and [The higher Morita category of E_n-algebras](https://arxiv.org/abs/1412.8459) and [Rune Haugseng](https://arxiv.org/search/math?searchtype=author&query=Haugseng,+R) and [Rune Haugseng's video](https://www.youtube.com/results?search_query=Rune+Haugseng) 2025-11-1 12:21 崇德苑 209 室
 
-905. **ordinary operad = multicategory** (将范畴的态射纵向排)，所以 operad 的角色相当于 category 的角色. [BilTop Redi Haderi What is an infinity operad? (part I)](https://www.youtube.com/watch?v=Z0fyva1_t7c&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=30) 2025-11-1 16:18 崇德苑 209 室
+905. **ordinary operad = multicategory** (将范畴的态射纵向排)，**所以 operad 的角色相当于 category 的角色**. [BilTop Redi Haderi What is an infinity operad? (part I)](https://www.youtube.com/watch?v=Z0fyva1_t7c&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=30) 2025-11-1 16:18 崇德苑 209 室
 
 
 
