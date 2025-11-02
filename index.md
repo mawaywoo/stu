@@ -2948,7 +2948,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 906. 10:24 的例子是我们常见的 operad 的记号，它其实就是只有一个对象/颜色的 operad。通过调整对象/颜色和态射，operad 可以编码各种不同的代数结构，如 14:00 的模结构等。[Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=12) 2025-11-1 20:46 崇德苑 209 室
 
-907. **将 operad 推广到无穷的情形：首先将通常的 operad O 视为它的算子范畴 Op(O)，即属于 Cat/Fin_* 的形式，后者容易推广到无穷范畴的情形**，见 40:12 。[Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=12) 2025-11-2 20:32 崇德苑 209 室
+907. **将 operad 推广到无穷的情形：首先将通常的 operad O 视为它的算子范畴 Op(O)，即属于 Cat/Fin. 的形式，后者容易推广到无穷范畴的情形**，见 40:12 。[Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=12) 2025-11-2 20:32 崇德苑 209 室
 
 
 
