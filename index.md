@@ -2951,7 +2951,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 907. **将 operad 推广到无穷的情形：首先将通常的 operad O 视为它的算子范畴 Op(O)，即属于 Cat/Fin. 的形式（其好处就是把 multicategory 正合为通常的 category, 因为对于纤维范畴 Cat/Fin. Cat 已经包含了 Fin. 的信息了，且 Cat 是通常的范畴），后者容易推广到无穷范畴的情形**，见 40:12 之后。[Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=12) 2025-11-2 20:32 崇德苑 209 室
 
-908. 范畴可以分解为为由1个1-态射的集合，2个1-态射的合成集合，按此可以推广到无穷范畴，单纯集范畴 delta 里面编码的就是各种多个态射的合成集（以及它们之间的匹配关系），**delta 里面记录着无穷** [1],[2],[3],... 见 29:00. **无穷范畴 = 按各态射的合成长度分层储存**，见 30:00 的双无穷范畴的定义。**无穷范畴的 Segal 条件（关于 X_n 和 X_1 的条件）编码的就是多个态射的合成的那些匹配关系**。要区分是对态射还是对象层面的条件：**Segal 条件是对态射层面的条件（其实也包含对象层面的条件，对象可以视为态射 X_0），而 monoidal/operad 结构是对对象层面的条件（也可以视为在态射层面的限制，可以取 Segal 条件中的特殊情形，见 40:00）**，见 39:00. [BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2025-11-9 13:10 崇德苑 209 室
+908. 范畴可以分解为为由1个1-态射的集合，2个1-态射的合成集合，按此可以推广到无穷范畴，单纯集范畴 delta 里面编码的就是各种多个态射的合成集（以及它们之间的匹配关系），**delta 里面记录着无穷** [1],[2],[3],... 见 29:00. **无穷范畴 = 按各态射的合成长度分层储存**，见 30:00 的双无穷范畴的定义。**无穷范畴的 Segal 条件（关于 X_n 和 X_1 的条件）编码的就是多个态射的合成的那些匹配关系**。要区分是对态射还是对象层面的条件：**Segal 条件是对态射层面的条件（其实也包含对象层面的条件，对象可以视为态射 X_0），而 monoidal/operad 结构是对对象层面的条件（也可以视为在态射层面的限制，可以取 Segal 条件中的特殊情形，见 40:00）**，见 39:00. **调整源范畴中的 delta，就可以取出目标范畴中的其他信息**，如 42:00 中无穷范畴的双模的定义。[BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2025-11-9 13:10 崇德苑 209 室
 
 
 
