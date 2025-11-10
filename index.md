@@ -361,7 +361,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Rune Haugseng's video](https://www.youtube.com/results?search_query=Rune+Haugseng) | [Ieke Moerdijk: "Infinity categories and infinity operads"](https://www.youtube.com/watch?v=_ogy4wsP6o4&t=1120s) | [BilTop Redi Haderi What is an infinity operad? (part I)](https://www.youtube.com/watch?v=Z0fyva1_t7c&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=30) |
 [Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=12) | [Rune Haugseng, Introduction to Infinity Operads, 2/5, GeoTop Masterclass](https://www.youtube.com/watch?v=--gzeW5_Mxo) | [Rune Haugseng, Introduction to Infinity Operads, 5/5, GeoTop Masterclass](https://www.youtube.com/watch?v=QkBvzkjCxgM&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=5) |
 [Category Theory 101, Math & Higher Topos Theory in Physics ft. Urs Schreiber Know Time 138](https://www.youtube.com/watch?v=GO2UnQUHfu8) | [Operads and calculus [EHTW02]](https://www.youtube.com/playlist?list=PLGYCoKMjmerdICAV2rgx5189FOLCfoWd8) | [Francesca Pratali - The root functor](https://www.youtube.com/watch?v=v5CfUkiA_M8) |
-[https://www.youtube.com/watch?v=v5CfUkiA_M8](https://arxiv.org/search/math?searchtype=author&query=Pratali%2C+F) |
+[Francesca Pratali](https://arxiv.org/search/math?searchtype=author&query=Pratali%2C+F) |
 
 
 
