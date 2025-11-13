@@ -2958,6 +2958,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 909. **很有启发性，讲得很好**。[Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA) and [Tashi Walde, Higher Segal spaces via Higher Excision](https://www.youtube.com/watch?v=l7zGFheqY0U) 2025-11-12 19:44 崇德苑 209 室
 
+910. 对于 operad P，**P-代数** Q 是指 operad 态射 P——> Q，该怎么理解？通常 Q 是**比较具体**的 operad，P 中的**抽象的态射**就可以实现为 Q 中某个比较**具体的态射**，如 Q 由某个 SMC V 产生的，那个具体的态射就是 V 中从多重张量积到某个对象的态射，见 30:00。**P-代数可以理解为 P 的一个具体实现/表示**。[BilTop Redi Haderi What is an infinity operad? (part I)](https://www.youtube.com/watch?v=Z0fyva1_t7c&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=30) 2025-11-13 11:58 崇德苑 209 室
+
 
 
 
