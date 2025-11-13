@@ -363,7 +363,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Category Theory 101, Math & Higher Topos Theory in Physics ft. Urs Schreiber Know Time 138](https://www.youtube.com/watch?v=GO2UnQUHfu8) | [Operads and calculus [EHTW02]](https://www.youtube.com/playlist?list=PLGYCoKMjmerdICAV2rgx5189FOLCfoWd8) | [Francesca Pratali - The root functor](https://www.youtube.com/watch?v=v5CfUkiA_M8) |
 [Francesca Pratali](https://arxiv.org/search/math?searchtype=author&query=Pratali%2C+F) | [(infinity-)Operads in chains: A tree-like approach - Francesca Pratali](https://www.youtube.com/watch?v=oGUxvxWa2NI) | [Özgün Ünlü - Infinity operads as simplicial lists](https://www.youtube.com/watch?v=lFwzxGUMz48) |
 [Guglielmo Nocera - E n centers of monoidal infinity categories - CaCS2021](https://www.youtube.com/watch?v=5ir1BAbLt9o) | [Julie Rasmusen - Overview of enriched infinity-categories](https://www.youtube.com/watch?v=7xYF7O013ds) | [Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA) |
-[Tashi Walde, An axiomatization of synthetic category theory](https://www.youtube.com/watch?v=fiKKDu2b22o) |
+[Tashi Walde, An axiomatization of synthetic category theory](https://www.youtube.com/watch?v=fiKKDu2b22o) | [Tashi Walde, Higher Segal spaces via Higher Excision](https://www.youtube.com/watch?v=l7zGFheqY0U) |
 
 
 
@@ -2956,7 +2956,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 908. 范畴可以分解为为由1个1-态射的集合，2个1-态射的合成集合，按此可以推广到无穷范畴，单纯集范畴 delta 里面编码的就是各种多个态射的合成集（以及它们之间的匹配关系），**delta 里面记录着无穷** [1],[2],[3],... 见 29:00. **无穷范畴 = 按各态射的合成长度分层储存**，见 30:00 的双无穷范畴的定义。**无穷范畴的 Segal 条件（关于 X_n 和 X_1 的条件）编码的就是多个态射的合成的那些匹配关系**。要区分是对态射还是对象层面的条件：**Segal 条件是对态射层面的条件（其实也包含对象层面的条件，对象可以视为态射 X_0），而 monoidal/operad 结构是对对象层面的条件（也可以视为在态射层面的限制，可以取 Segal 条件中的特殊情形，见 40:00）**，见 39:00. **调整源范畴中的 delta，就可以取出目标范畴中的其他信息**，如 42:00 中无穷范畴的双模的定义。[BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2025-11-9 13:10 崇德苑 209 室
 
-909. 很有启发性，讲得很好。[Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA) 2025-11-12 19:44 崇德苑 209 室
+909. **很有启发性，讲得很好**。[Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA) and [Tashi Walde, Higher Segal spaces via Higher Excision](https://www.youtube.com/watch?v=l7zGFheqY0U) 2025-11-12 19:44 崇德苑 209 室
 
 
 
