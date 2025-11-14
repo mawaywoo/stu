@@ -364,6 +364,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Francesca Pratali](https://arxiv.org/search/math?searchtype=author&query=Pratali%2C+F) | [(infinity-)Operads in chains: A tree-like approach - Francesca Pratali](https://www.youtube.com/watch?v=oGUxvxWa2NI) | [Özgün Ünlü - Infinity operads as simplicial lists](https://www.youtube.com/watch?v=lFwzxGUMz48) |
 [Guglielmo Nocera - E n centers of monoidal infinity categories - CaCS2021](https://www.youtube.com/watch?v=5ir1BAbLt9o) | [Julie Rasmusen - Overview of enriched infinity-categories](https://www.youtube.com/watch?v=7xYF7O013ds) | [Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA) |
 [Tashi Walde, An axiomatization of synthetic category theory](https://www.youtube.com/watch?v=fiKKDu2b22o) | [Tashi Walde, Higher Segal spaces via Higher Excision](https://www.youtube.com/watch?v=l7zGFheqY0U) | [Jonathan Weinberger: Universes and higher algebra in synthetic ∞-category theory](https://www.youtube.com/watch?v=w0sS7ZQZV3g) |
+[Alex Kavvos: "Two-dimensional Kripke Semantics"](https://www.youtube.com/watch?v=X7CxkndABno) |
 
 
 
