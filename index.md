@@ -364,7 +364,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Francesca Pratali](https://arxiv.org/search/math?searchtype=author&query=Pratali%2C+F) | [(infinity-)Operads in chains: A tree-like approach - Francesca Pratali](https://www.youtube.com/watch?v=oGUxvxWa2NI) | [Özgün Ünlü - Infinity operads as simplicial lists](https://www.youtube.com/watch?v=lFwzxGUMz48) |
 [Guglielmo Nocera - E n centers of monoidal infinity categories - CaCS2021](https://www.youtube.com/watch?v=5ir1BAbLt9o) | [Julie Rasmusen - Overview of enriched infinity-categories](https://www.youtube.com/watch?v=7xYF7O013ds) | [Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA) |
 [Tashi Walde, An axiomatization of synthetic category theory](https://www.youtube.com/watch?v=fiKKDu2b22o) | [Tashi Walde, Higher Segal spaces via Higher Excision](https://www.youtube.com/watch?v=l7zGFheqY0U) | [Jonathan Weinberger: Universes and higher algebra in synthetic ∞-category theory](https://www.youtube.com/watch?v=w0sS7ZQZV3g) |
-[Alex Kavvos: "Two-dimensional Kripke Semantics"](https://www.youtube.com/watch?v=X7CxkndABno) | [higher categories and homotopical algebra reading group](https://www.youtube.com/playlist?list=PLfEFNcViWbwKHm9Y7D-YOd77-vV5DqlKP) |
+[Alex Kavvos: "Two-dimensional Kripke Semantics"](https://www.youtube.com/watch?v=X7CxkndABno) | [higher categories and homotopical algebra reading group](https://www.youtube.com/playlist?list=PLfEFNcViWbwKHm9Y7D-YOd77-vV5DqlKP) | [Francesca Pratali A straightening-unstraightening equivalence for oo-operads](https://www.youtube.com/watch?v=5YgFkqrQxG0&t=263s) |
 
 
 
@@ -2961,7 +2961,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 910. 对于 operad P，**P-代数** Q 是指 operad 态射 P——> Q，该怎么理解？通常 Q 是**比较具体**的 operad，P 中的**抽象的态射**就可以实现为 Q 中某个比较**具体的态射**，如 Q 由某个 SMC V 产生的，那个具体的态射就是 V 中从多重张量积到某个对象的态射，见 30:00。**P-代数 Q 可以理解为 P 在 Q 中的一个具体实现/表示**。Cat < Opd，**Operad 包含范畴的信息，且在范畴里加了额外数据：更多结构，如对象“张量”**，所以 **operad = category + monoid**，operad 不仅仅具**有 category 的角色，还有 monoid 的角色**。[BilTop Redi Haderi What is an infinity operad? (part I)](https://www.youtube.com/watch?v=Z0fyva1_t7c&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=30) 2025-11-13 11:58 崇德苑 209 室
 
-911. [higher categories and homotopical algebra reading group](https://www.youtube.com/playlist?list=PLfEFNcViWbwKHm9Y7D-YOd77-vV5DqlKP) 2025-11-14 9:31 崇德苑 209 室
+911. [higher categories and homotopical algebra reading group](https://www.youtube.com/playlist?list=PLfEFNcViWbwKHm9Y7D-YOd77-vV5DqlKP) and [Francesca Pratali A straightening-unstraightening equivalence for oo-operads](https://www.youtube.com/watch?v=5YgFkqrQxG0&t=263s) 2025-11-14 9:31 崇德苑 209 室
 
 
 
