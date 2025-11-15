@@ -365,7 +365,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Guglielmo Nocera - E n centers of monoidal infinity categories - CaCS2021](https://www.youtube.com/watch?v=5ir1BAbLt9o) | [Julie Rasmusen - Overview of enriched infinity-categories](https://www.youtube.com/watch?v=7xYF7O013ds) | [Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA) |
 [Tashi Walde, An axiomatization of synthetic category theory](https://www.youtube.com/watch?v=fiKKDu2b22o) | [Tashi Walde, Higher Segal spaces via Higher Excision](https://www.youtube.com/watch?v=l7zGFheqY0U) | [Jonathan Weinberger: Universes and higher algebra in synthetic ∞-category theory](https://www.youtube.com/watch?v=w0sS7ZQZV3g) |
 [Alex Kavvos: "Two-dimensional Kripke Semantics"](https://www.youtube.com/watch?v=X7CxkndABno) | [higher categories and homotopical algebra reading group](https://www.youtube.com/playlist?list=PLfEFNcViWbwKHm9Y7D-YOd77-vV5DqlKP) | [Francesca Pratali A straightening-unstraightening equivalence for oo-operads](https://www.youtube.com/watch?v=5YgFkqrQxG0&t=263s) |
-[Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&t=415s) |
+[Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&t=415s) | [Dr. Gijs Heuts Koszul duality for En-operads and En-algebras](https://www.youtube.com/watch?v=J75OjP9iGeI&t=54s) |
 
 
 
