@@ -366,7 +366,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Tashi Walde, An axiomatization of synthetic category theory](https://www.youtube.com/watch?v=fiKKDu2b22o) | [Tashi Walde, Higher Segal spaces via Higher Excision](https://www.youtube.com/watch?v=l7zGFheqY0U) | [Jonathan Weinberger: Universes and higher algebra in synthetic ∞-category theory](https://www.youtube.com/watch?v=w0sS7ZQZV3g) |
 [Alex Kavvos: "Two-dimensional Kripke Semantics"](https://www.youtube.com/watch?v=X7CxkndABno) | [higher categories and homotopical algebra reading group](https://www.youtube.com/playlist?list=PLfEFNcViWbwKHm9Y7D-YOd77-vV5DqlKP) | [Francesca Pratali A straightening-unstraightening equivalence for oo-operads](https://www.youtube.com/watch?v=5YgFkqrQxG0&t=263s) |
 [Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&t=415s) | [Dr. Gijs Heuts Koszul duality for En-operads and En-algebras](https://www.youtube.com/watch?v=J75OjP9iGeI&t=54s) | [Embedding 2-categories to (infinity 2)-categories](https://www.bilibili.com/video/BV13T4y1A7NV?spm_id_from=333.788.videopod.episodes&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=10) |
-[(∞, n)-categories, factorization homology, and algebraic K-theory](https://www.slmath.org/workshops/918) | [Floer homotopy seminar 3: Intro to spectra. Alice Hedenlund](https://www.youtube.com/watch?v=tzuQMYXGQmI) |
+[(∞, n)-categories, factorization homology, and algebraic K-theory](https://www.slmath.org/workshops/918) | [Floer homotopy seminar 3: Intro to spectra. Alice Hedenlund](https://www.youtube.com/watch?v=tzuQMYXGQmI) | [Martina Rovelli](https://www.youtube.com/results?search_query=+Martina+Rovelli) |
+[Martina Rovelli's webpage](https://sites.google.com/view/mrovelli) |
 
 
 
@@ -2964,6 +2965,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 910. 对于 operad P，**P-代数** Q 是指 operad 态射 P——> Q，该怎么理解？通常 Q 是**比较具体**的 operad，P 中的**抽象的态射**就可以实现为 Q 中某个比较**具体的态射**，如 Q 由某个 SMC V 产生的，那个具体的态射就是 V 中从多重张量积到某个对象的态射，见 30:00。**P-代数 Q 可以理解为 P 在 Q 中的一个具体实现/表示**。Cat < Opd，**Operad 包含范畴的信息，且在范畴里加了额外数据：更多结构，如对象“张量”**，所以 **operad = category + monoid**，operad 不仅仅具**有 category 的角色，还有 monoid 的角色**。[BilTop Redi Haderi What is an infinity operad? (part I)](https://www.youtube.com/watch?v=Z0fyva1_t7c&list=PLIaqxFvN7i98asNKhaHYBS-WVMrCJA72Y&index=30) 2025-11-13 11:58 崇德苑 209 室
 
 911. [higher categories and homotopical algebra reading group](https://www.youtube.com/playlist?list=PLfEFNcViWbwKHm9Y7D-YOd77-vV5DqlKP) and **无穷版本 Grothendieck 构造**：[Francesca Pratali A straightening-unstraightening equivalence for oo-operads](https://www.youtube.com/watch?v=5YgFkqrQxG0&t=263s) 24:24 中的 delta/Fin_* 和 Omega 两个范畴之间的函子沟通了**单纯版本和树状版本无穷范畴之间的联系**。and 各种不同的 fibration 的定义以及它们的 Grothendieck 纤维与函子对应，见 30:46。根据底范畴的**对象和 1-态射上的纤维的性质（纤维是不是足够好，如无穷群胚，或者 1-态射可以诱导纤维之间的函子，因为纤维之间的函子并不总是存在的）**，可以区分各种 fibration，见 35:22，**对 (co)cartesian fibration 解释得很好**. [Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&t=415s) 2025-11-14 9:31 崇德苑 209 室
+
+912. [Martina Rovelli](https://www.youtube.com/results?search_query=+Martina+Rovelli) and [Martina Rovelli's webpage](https://sites.google.com/view/mrovelli) 2025-11-18 15:10 崇德苑 209 室
 
 
 
