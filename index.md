@@ -2969,6 +2969,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 912. [Martina Rovelli](https://www.youtube.com/results?search_query=+Martina+Rovelli) and [Martina Rovelli's webpage](https://sites.google.com/view/mrovelli) and [Prof. Kathryn Hess Bellwald](https://www.epfl.ch/labs/hessbellwald-lab/hessbellwald/) 2025-11-18 15:10 崇德苑 209 室
 
+913. 对于高阶范畴，一定要想明白那些“**高阶同伦”到底怎么储存**？要区分哪部分存储**态射复合的同伦**，哪部分储存**各重张量积的同伦**。2025-11-21 7:57 崇德苑 209 室
+
 
 
 
