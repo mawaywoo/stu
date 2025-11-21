@@ -2971,6 +2971,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 913. 对于高阶范畴，一定要想明白那些“**高阶同伦”到底怎么储存**？要区分哪部分存储**态射复合的同伦**，哪部分储存**各重张量积的同伦**。2025-11-21 7:57 崇德苑 209 室
 
+914. 如何用**单纯集范畴的切片范畴编码“高阶结合律”**，见 29:20 的图表。[BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2025-11-21 8:43 崇德苑 209 室
+
 
 
 
