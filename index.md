@@ -2975,7 +2975,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 915. 如何理解 inert map 和 active map: **考虑 <n> ——> <1> 的两种映射，一种是(active) 0 ——> 0, other ——> 1; 另一种是(inert) i ——> 1, other ——> 0**, 见 42:00。**用 inert map 来编码对象的分解**，见 56:57。[Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&t=2159s) 2025-11-22 14:15 崇德苑 209 室
 
-916. Fin_* 和 Delta 是两个**不一样**的范畴（**对象分别为 < n > 和 [n]**），**前者编码 monoidal 结构，后者编码 infinity 结构（Delta 记录的是各 n-态射，把它替换为 Dendroidal Set Omega，便得到 multicategory/operad）**。**Omega 编码的是 operad 结构**。[Rune Haugseng, Introduction to Infinity Operads, 2/5, GeoTop Masterclass](https://www.youtube.com/watch?v=--gzeW5_Mxo) 2025-11-22 15:33 崇德苑 209 室 
+916. Fin_* 和 Delta 是两个**不一样**的范畴（**对象分别为 < n > 和 [n]**），**前者编码 monoidal 结构，后者编码 infinity 结构（Delta 记录的是各 n-态射，把它替换为 Dendroidal Set Omega，便得到 multicategory/operad）**。**Omega 编码的是 operad 结构**。[Rune Haugseng, Introduction to Infinity Operads, 2/5, GeoTop Masterclass](https://www.youtube.com/watch?v=--gzeW5_Mxo) and **Delta, Gamma, Omega 等范畴分别编码哪些结构**：[Twisted arrow categories of operads and Segal conditions](https://www.youtube.com/watch?v=BzAG1qPxg_A&t=1253s) 2025-11-22 15:33 崇德苑 209 室 
 
 
 
