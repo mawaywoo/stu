@@ -2978,7 +2978,9 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 915. 如何理解 inert map 和 active map: **考虑 <n> ——> <1> 的两种映射，一种是(active) 0 ——> 0, other ——> 1; 另一种是(inert) i ——> 1, other ——> 0**, 见 42:00。**用 inert map 来编码对象的分解**，见 56:57。[Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&t=2159s) 2025-11-22 14:15 崇德苑 209 室
 
-916. Fin_* 和 Delta 是两个**不一样**的范畴（**对象分别为 < n > 和 [n]**），**前者编码 monoidal 结构，后者编码 infinity 结构（Delta 记录的是各 n-态射，把它替换为 Dendroidal Set Omega，便得到 multicategory/operad）**。**Omega 编码的是 operad 结构**。[Rune Haugseng, Introduction to Infinity Operads, 2/5, GeoTop Masterclass](https://www.youtube.com/watch?v=--gzeW5_Mxo) and **Delta, Gamma, Omega 等范畴分别编码哪些结构**：[Twisted arrow categories of operads and Segal conditions](https://www.youtube.com/watch?v=BzAG1qPxg_A&t=1253s) 2025-11-22 15:33 崇德苑 209 室 
+916. Fin_* 和 Delta 是两个**不一样**的范畴（**对象分别为 < n > 和 [n]**），**前者编码 monoidal 结构，后者编码 infinity 结构（Delta 记录的是各 n-态射，把它替换为 Dendroidal Set Omega，便得到 multicategory/operad）**。**Omega 编码的是 operad 结构**。[Rune Haugseng, Introduction to Infinity Operads, 2/5, GeoTop Masterclass](https://www.youtube.com/watch?v=--gzeW5_Mxo) and **Delta, Gamma, Omega 等范畴分别编码哪些结构**：[Twisted arrow categories of operads and Segal conditions](https://www.youtube.com/watch?v=BzAG1qPxg_A&t=1253s) 2025-11-22 15:33 崇德苑 209 室
+
+917. 从**外部**研究无穷范畴，**公理化地**研究无穷范畴，将所有无穷范畴放在一起，构成一个无穷 cosmos，无穷范畴是里面的对象，**不用深入到每个无穷范畴里面去，不用考虑无穷范畴的某个具体模型，在 cosmos 里面（外部地）考虑各个无穷范畴的性质**。见 50:00。[Infinity category theory from scratch - Emily Riehls](https://www.bilibili.com/video/BV1S4411z7Kh/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-11-23 18:02 崇德苑 209 室
 
 
 
