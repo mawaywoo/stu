@@ -2982,6 +2982,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 917. 从**外部**研究无穷范畴，**公理化地**研究无穷范畴，将所有无穷范畴放在一起，构成一个无穷 cosmos，无穷范畴是里面的对象，**不用深入到每个无穷范畴里面去，不用考虑无穷范畴的某个具体模型，在 cosmos 里面（外部地）考虑各个无穷范畴的性质**。见 50:00。[Infinity category theory from scratch - Emily Riehls](https://www.bilibili.com/video/BV1S4411z7Kh/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-11-23 18:02 崇德苑 209 室
 
+918. 公理化无穷范畴的想法是：在无穷 cosmos 的同伦 **2-范畴中发展无穷范畴理论**。[Infinity category theory from scratch 2- Emily Riehls](https://www.bilibili.com/video/BV1S4411z7Kh?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) 2025-11-23 21:00 崇德苑 209 室
+
 
 
 
