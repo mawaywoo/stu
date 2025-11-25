@@ -372,7 +372,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Martina Rovelli's webpage](https://sites.google.com/view/mrovelli) | [Prof. Kathryn Hess Bellwald](https://www.epfl.ch/labs/hessbellwald-lab/hessbellwald/) | [Martina Rovelli, Towards an explicit comparison between globular & simplicial models of (∞,2)-cats](https://www.youtube.com/watch?v=JvViiA7WSqQ) |
 [Enriched Homotopy Coherent Structures](https://www.youtube.com/watch?v=FNiwJ_dTzQg) | [Soichiro Fujii - Nerves of T-categories](https://www.youtube.com/watch?v=t41lcVT2SRM) | [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0) |
 [Infinity category theory from scratch - Emily Riehls](https://www.bilibili.com/video/BV1S4411z7Kh/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Denis-Charles Cisinski Formalization of higher category theory I, Lecture 1](https://www.bilibili.com/video/BV1XuNqeFEja/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
-[Volodymyr Lyubashenko,Symmetric weak multicategories and biprops](https://www.youtube.com/watch?v=Qxtu2hf_wMs) |
+[Volodymyr Lyubashenko,Symmetric weak multicategories and biprops](https://www.youtube.com/watch?v=Qxtu2hf_wMs) | [Emily Riehl - 无穷范畴教能被教给本科生或计算机吗？Hardy 讲座](https://www.bilibili.com/video/BV1xbUxBuEyT/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Emily Riehl - 无穷范畴的综合理论 vs 无穷范畴的综合理论](https://www.bilibili.com/video/BV1r24y1M7VN/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -2983,7 +2983,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 917. 从**外部**研究无穷范畴，**公理化地**研究无穷范畴，将所有无穷范畴放在一起，构成一个无穷 cosmos，无穷范畴是里面的对象，**不用深入到每个无穷范畴里面去，不用考虑无穷范畴的某个具体模型，在 cosmos 里面（外部地）考虑各个无穷范畴的性质**。见 50:00。[Infinity category theory from scratch - Emily Riehls](https://www.bilibili.com/video/BV1S4411z7Kh/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-11-23 18:02 崇德苑 209 室
 
-918. 公理化无穷范畴的想法是：在无穷 cosmos K 的**同伦 2-范畴 K_2 中发展无穷范畴理论**。[Infinity category theory from scratch 2- Emily Riehls](https://www.bilibili.com/video/BV1S4411z7Kh?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) 2025-11-23 21:00 崇德苑 209 室
+918. 公理化无穷范畴的想法是：在无穷 cosmos K 的**同伦 2-范畴 K_2 中发展无穷范畴理论**。[Infinity category theory from scratch 2- Emily Riehls](https://www.bilibili.com/video/BV1S4411z7Kh?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) and [Emily Riehl - 无穷范畴的综合理论 vs 无穷范畴的综合理论](https://www.bilibili.com/video/BV1r24y1M7VN/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2025-11-23 21:00 崇德苑 209 室
 
 
 
