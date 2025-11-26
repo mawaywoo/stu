@@ -373,7 +373,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Enriched Homotopy Coherent Structures](https://www.youtube.com/watch?v=FNiwJ_dTzQg) | [Soichiro Fujii - Nerves of T-categories](https://www.youtube.com/watch?v=t41lcVT2SRM) | [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0) |
 [Infinity category theory from scratch - Emily Riehls](https://www.bilibili.com/video/BV1S4411z7Kh/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Denis-Charles Cisinski Formalization of higher category theory I, Lecture 1](https://www.bilibili.com/video/BV1XuNqeFEja/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Volodymyr Lyubashenko,Symmetric weak multicategories and biprops](https://www.youtube.com/watch?v=Qxtu2hf_wMs) | [Emily Riehl - 无穷范畴教能被教给本科生或计算机吗？Hardy 讲座](https://www.bilibili.com/video/BV1xbUxBuEyT/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Emily Riehl - 无穷范畴的综合理论 vs 无穷范畴的综合理论](https://www.bilibili.com/video/BV1r24y1M7VN/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
-[Nicolas Blanco - Generalisations of multicategories and their string diagrams • CaCS22](https://www.youtube.com/watch?v=keKWqCG2F5U) |
+[Nicolas Blanco - Generalisations of multicategories and their string diagrams • CaCS22](https://www.youtube.com/watch?v=keKWqCG2F5U) | [Rory Lucyshyn-Wright - Operads arising from base valued enriched functors](https://www.youtube.com/watch?v=ojqmWsv49wk) |
 
 
 
