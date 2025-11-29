@@ -2989,6 +2989,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 919. **函子的 catesion 和 cocartesion 性是为了得到纤维之间的态射**，见 6:48。[Infinity-category 04: Adjoint functors, presentability, tensor product - Yunze Lu](https://www.youtube.com/watch?v=k6vDLvVovFo&t=1s)  2025-11-26 9:03 湖光校区鲲园饭堂 2 楼
 
+920. ∞-范畴的范畴对象 delta —> Cat_∞，好比通常的双范畴要编码两重范畴，∞-范畴中的范畴对象（双∞-范畴）也**要编码两重 ∞-范畴**，delta 编码其中一重完全范畴。2025-11-29 16:14 崇德苑 209 室
+
 
 
 
