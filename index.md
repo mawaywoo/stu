@@ -2991,7 +2991,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 920. ∞-范畴的范畴对象 delta —> Cat_∞，好比通常的双范畴要编码两重范畴，∞-范畴中的范畴对象（双∞-范畴）也**要编码两重 ∞-范畴**，delta 编码其中一重完全范畴。2025-11-29 16:14 崇德苑 209 室
 
-921. 高阶 Morita 范畴，代数/monoid 和 双模都定义为**单纯对象**（不同的 domain 范畴，**切片范畴 = 原范畴的“小组合构件”范畴**，如 delta / [1] 范畴。），双模的 n-cell 理解为**由 n+1 个代数和它们之间的 n 个双模态射构成**，见 42:55 [BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2025-11-30 16:53 崇德苑 209 室
+921. 高阶 Morita 范畴，代数/monoid 和 双模都定义为**单纯对象**（不同的 domain 范畴，如 delta, delta / [1] 范畴），双模的 n-cell 理解为**由 n+1 个代数和它们之间的 n 个双模态射构成**，见 42:55 [BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2025-11-30 16:53 崇德苑 209 室
 
 
 
