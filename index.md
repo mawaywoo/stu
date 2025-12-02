@@ -2996,7 +2996,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 922. 此视频对**各范畴（s.m.c, operad, mult. cat, and their ∞-versions）之间的关系**梳理得比较清晰（见视频中的思维图）。**s.m.c 的数据可以编码为一个函子 D ——> Fin_*（见 22:22）**，后者容易推广到高阶的情形。**delta 和 Fin_star 是两个不一样的范畴**，见 25：08。[Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps) 2025-12-2 14:57 崇德苑 209 室
 
-923. **inert 态射表示一个“没有乘法结构”（输入端不做任何乘法）** 的态射，见 Tonny Yuyue 5，**无穷版本的代数和模都是通过无穷 operad (先构造通常的 operad Assoc, LM, 然后通过 tensor/localization 构造，产生无穷版本 Assoc^tensor, LM^tensor)来编码的**，operad 可以用来编码“代数结构”。**Assoc operad 是 Fin_star 的“一部分”，比 Fin_star 里的态射“少一些”**。2025-12-2 16:52 崇德苑 209 室
+923. **inert 态射表示一个“没有乘法结构”（输入端不做任何乘法）** 的态射，见 Tonny Yuyue 5，**无穷版本的代数和模都是通过无穷 operad (先构造通常的 operad Assoc, LM, 然后通过 tensor/localization 构造，产生无穷版本 Assoc^tensor, LM^tensor)来编码的**，operad 可以用来编码“代数结构”。**Assoc operad 是 Fin_star 的“一部分”，比 Fin_star 里的态射“少一些”**。代数和模的**都定义为某个无穷 operad 间的函子，只是所使用的 operad 不一样**。今天总算对高阶代数和模的定义理解了。2025-12-2 16:52 崇德苑 209 室
 
 
 
