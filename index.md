@@ -2993,7 +2993,7 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 921. 高阶 Morita 范畴，代数/monoid 和 双模都定义为**单纯对象**（不同的 domain 范畴，如 delta, delta / [1] 范畴），双模的 n-cell 理解为**由 n+1 个代数和它们之间的 n 个双模态射构成**，见 42:55 [BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2025-11-30 16:53 崇德苑 209 室
 
-922. 此视频对**各范畴（s.m.c, operad, mult. cat, and their ∞-versions）之间的关系**梳理得比较清晰（见视频中的思维图）。[Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps) 2025-12-2 14:57 崇德苑 209 室
+922. 此视频对**各范畴（s.m.c, operad, mult. cat, and their ∞-versions）之间的关系**梳理得比较清晰（见视频中的思维图）。**s.m.c 的数据可以编码为一个函子 D ——> Fin_*（见 22:22）**，后者容易推广到高阶的情形。[Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps) 2025-12-2 14:57 崇德苑 209 室
 
 
 
