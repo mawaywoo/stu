@@ -2989,9 +2989,11 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 919. **函子的 catesion 和 cocartesion 性是为了得到纤维之间的态射**，见 6:48。[Infinity-category 04: Adjoint functors, presentability, tensor product - Yunze Lu](https://www.youtube.com/watch?v=k6vDLvVovFo&t=1s)  2025-11-26 9:03 湖光校区鲲园饭堂 2 楼
 
-920. ∞-范畴的范畴对象 delta —> Cat_∞，好比通常的双范畴要编码两重范畴，∞-范畴中的范畴对象（双∞-范畴）也**要编码两重 ∞-范畴**，delta 编码其中一重完全范畴。2025-11-29 16:14 崇德苑 209 室
+920. ∞-范畴的范畴对象 delta —> Cat_∞，好比通常的双范畴要编码两重范畴，∞-范畴中的范畴对象（双 ∞-范畴）也**要编码两重 ∞-范畴**，delta 编码其中一重完全范畴。2025-11-29 16:14 崇德苑 209 室
 
 921. 高阶 Morita 范畴，代数/monoid 和 双模都定义为**单纯对象**（不同的 domain 范畴，如 delta, delta / [1] 范畴），双模的 n-cell 理解为**由 n+1 个代数和它们之间的 n 个双模态射构成**，见 42:55 [BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2025-11-30 16:53 崇德苑 209 室
+
+922. 此视频对**各范畴（s.m.c, operad, mult. cat, and their ∞-versions）之间的关系**梳理得比较清晰（见视频中的思维图）。[Infinity-category 07: Monoidal and symmetric monoidal structures - Foling Zou](https://www.youtube.com/watch?v=aeo03JZOxps) 2025-12-2 14:57 崇德苑 209 室
 
 
 
