@@ -376,7 +376,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Nicolas Blanco - Generalisations of multicategories and their string diagrams • CaCS22](https://www.youtube.com/watch?v=keKWqCG2F5U) | [Rory Lucyshyn-Wright - Operads arising from base valued enriched functors](https://www.youtube.com/watch?v=ojqmWsv49wk) | [Infinity-category 04: Adjoint functors, presentability, tensor product - Yunze Lu](https://www.youtube.com/watch?v=k6vDLvVovFo&t=1s) |
 [Infinity categories and homological algebra (Lecture 2)](https://www.youtube.com/watch?v=vAlWAEQvavw) | [Infinity categories and homological algebra (Lecture 3)](https://www.youtube.com/watch?v=7iGkGZ3W8I4) | [Denis-Charles Cisinski - Synthetic ∞-category theory and elementary ∞-topoi (part 1)](https://www.youtube.com/watch?v=zrYb3q04JB0) |
 [IWoAT Summer School 2023: Operads, Spectra and Multiplicative Structures](https://bimsa.net/activity/iwoat2023/) | [the International Workshop on Algebraic Topology (IWoAT)](https://iwoat.github.io/) | [the electronic Computational Homotopy Theory Seminar (eCHT)](https://s.wayne.edu/echt/echt-research-seminar/) |
-[Young Homotopy-Theorist Meeting](https://www.youtube.com/playlist?list=PLUbgZHsSoMEXp7R2OjvzzrWgaYwIiobjX) |
+[Young Homotopy-Theorist Meeting](https://www.youtube.com/playlist?list=PLUbgZHsSoMEXp7R2OjvzzrWgaYwIiobjX) | [Minicourse 1 – Lecture 1 - Clark Barwick](https://www.youtube.com/watch?v=05IuDGOB_-U&list=PLUbgZHsSoMEXp7R2OjvzzrWgaYwIiobjX&index=6) |
 
 
 
