@@ -2999,6 +2999,19 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
 
 923. **inert 态射表示一个“没有乘法结构”（输入端不做任何乘法）** 的态射，见 Tonny Yuyue 5（这一节值得多看几遍，当下是第三遍），**无穷版本的代数和模都是通过无穷 operad (先构造通常的 operad Assoc, LM, 然后通过 tensor/localization 构造，产生无穷版本 Assoc^tensor, LM^tensor)来编码的**，operad 可以用来编码“代数结构”。**Assoc operad 是 Fin_star 的“一部分”，比 Fin_star 里的态射“少一些”**。代数和模的**都定义为某个无穷 operad 间的函子（这也是我们在定义高阶代数和模时会首先介绍无穷 operad 理论的原因！），只是所使用的 operad 不一样**。今天总算对高阶代数和模的定义理解了。2025-12-2 16:52 崇德苑 209 室
 
+924. a.**operad 里的 objects 可以理解为 logic 中的 sorts**， 如群有一个 sort： G，模有两个 sorts： R 和 M。
+
+     b.P(n) 表示**所有** n 个叶子的 tree 的集合，theta in P(n) 表示**某个具体的** tree。如在 A_infy 代数定义中，K(n) 表示所有 n 张量（所有结合律）的集合。
+
+     c.P(n) 表示 n 个对象运算的**所有可能的结果**，如 k(n) 表示 n 重张量积的所有可能的结果（不同的结合律）。
+
+     d.**P(n) 编码的是所有同伦的数据**。
+
+     e.operad 中的**一个 tree 编码的是** n 个input 是如何等同于（记录**那个同伦数据**）那个 output 的。
+
+     f.[A gentle introduction to Algebraic Operads](https://arxiv.org/pdf/2508.01886) 这篇文章对了解 operad 理论很有帮助，写得**易懂**。2025-12-4 10:06 崇德苑 209 室
+     
+925. 
 
 
 
