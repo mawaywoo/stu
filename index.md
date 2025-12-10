@@ -3014,6 +3014,8 @@ Applications to Representation Theory](https://bookstore.ams.org/surv-258) 的�
      
 925. 视频 29:28 里的一个定理感觉很有用：**关于 Grothendieck 构造（twisted arrow category）上的预层范畴和代数范畴之间的等价**。[Twisted arrow categories of operads and Segal conditions](https://www.youtube.com/watch?v=BzAG1qPxg_A&t=335s) 2025-12-4 11:34 崇德苑 209 室
 
+926. **结构/数据的“叠加”**： 对于 operad O，O-monoidal 结构 O ——> C 可以视为**在 C 中加入 O-结构**。[An O-monoidal Grothendieck construction](https://arxiv.org/abs/2404.01031) and [Multiplicative structures on comodules in higher categories](https://arxiv.org/abs/2503.01002) 2025-12-10 8:02 湖光校区鲲园饭堂二楼
+
 
 
 
