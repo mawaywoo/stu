@@ -420,6 +420,12 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 [chinese beamer](https://cn.overleaf.com/latex/templates?q=chinese+beamer) 2024-11-25 14:37
 
+## 自然科学基金的latex模版 2025-12-12 11:58
+
+[模版 1](https://github.com/fylimas)
+
+[模版 2](https://github.com/huangwb8/ChineseResearchLaTeX)
+
 ## Talks
 
 [研究生学术论坛](http://math.stu.edu.cn/info/1053/2702.htm)
