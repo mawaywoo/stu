@@ -60,7 +60,7 @@ Good Lecture! [Lecture 12: Classifying topoi (Part 1)](https://www.youtube.com/w
 
 把范畴的表示为**层的截断**（不是层本身）=“**对原范畴先切割再组装/粘接**”。理论上，我们会有**许多其他**的切割和组装方式。(见 757 条)
 
-
+[ChatGPT](https://chatgpt.com/) 用 AI 帮助自己去理解某些数学概念，它知道许多知识，包括我没涉足的领域，把它当成是跨领域的合作者。2025-12-12 16:21 崇德苑 209 室
 
 ## Personal information
 
