@@ -377,7 +377,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Infinity categories and homological algebra (Lecture 2)](https://www.youtube.com/watch?v=vAlWAEQvavw) | [Infinity categories and homological algebra (Lecture 3)](https://www.youtube.com/watch?v=7iGkGZ3W8I4) | [Denis-Charles Cisinski - Synthetic ∞-category theory and elementary ∞-topoi (part 1)](https://www.youtube.com/watch?v=zrYb3q04JB0) |
 [IWoAT Summer School 2023: Operads, Spectra and Multiplicative Structures](https://bimsa.net/activity/iwoat2023/) | [the International Workshop on Algebraic Topology (IWoAT)](https://iwoat.github.io/) | [the electronic Computational Homotopy Theory Seminar (eCHT)](https://s.wayne.edu/echt/echt-research-seminar/) |
 [Young Homotopy-Theorist Meeting](https://www.youtube.com/playlist?list=PLUbgZHsSoMEXp7R2OjvzzrWgaYwIiobjX) | [Minicourse 1 – Lecture 1 - Clark Barwick](https://www.youtube.com/watch?v=05IuDGOB_-U&list=PLUbgZHsSoMEXp7R2OjvzzrWgaYwIiobjX&index=6) | [Foling Zou presents "Unital Operads and Monoids"](https://www.youtube.com/watch?v=g6DwTiyLHgA&t=1996s) |
-[Maple Conference 2019 - Distributive Laws Between the Operads Lie and Com](https://www.youtube.com/watch?v=4XUF1_FwuaQ) | [Lie Algebras and Homotopy Theory - Jacob Lurie](https://www.youtube.com/watch?v=LeaiPHAh0X0&t=192s) |
+[Maple Conference 2019 - Distributive Laws Between the Operads Lie and Com](https://www.youtube.com/watch?v=4XUF1_FwuaQ) | [Lie Algebras and Homotopy Theory - Jacob Lurie](https://www.youtube.com/watch?v=LeaiPHAh0X0&t=192s) | [The homotopy theory of operated algebras](https://www.youtube.com/watch?v=frKbvr6OBnM) |
+[]() |
 
 
 
@@ -3054,7 +3055,8 @@ Fibrations are about organizing multiple objects (a "block") that vary over a ba
 
 Algebras are about the structure of a single object (a "singleton") under the actions of an operad.
 
-928. 
+928. 最近对 Rota-Baxter operator 和 operad theory 感兴趣，起源于裴俊的一篇文章，我希望用 algebraic pattern 的语言重述它并推广到无穷 operad 的情形。最近也在看郭锂写的关于罗巴代数的书。[The homotopy theory of operated algebras](https://www.youtube.com/watch?v=frKbvr6OBnM) 2025-12-18 10:45 崇德苑 209 室
+     
 
 
 
