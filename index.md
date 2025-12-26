@@ -3056,6 +3056,8 @@ Fibrations are about organizing multiple objects (a "block") that vary over a ba
 Algebras are about the structure of a single object (a "singleton") under the actions of an operad.
 
 928. 最近对 Rota-Baxter operator 和 operad theory 感兴趣，起源于裴俊的一篇文章，我希望用 algebraic pattern 的语言重述它并推广到无穷 operad 的情形。最近也在看郭锂写的关于罗巴代数的书。[The homotopy theory of operated algebras](https://www.youtube.com/watch?v=frKbvr6OBnM) 2025-12-18 10:45 崇德苑 209 室
+
+929. tree 未必是平面上的树，理解为**三维空间中的树**。[Prof. Ieke Moerdijk Dendroidal sets and infinity-operads I](https://www.youtube.com/watch?v=aspIYkkJ-U0) 2025-12-26 11:34 崇德苑 209 室
      
 
 
