@@ -378,7 +378,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [IWoAT Summer School 2023: Operads, Spectra and Multiplicative Structures](https://bimsa.net/activity/iwoat2023/) | [the International Workshop on Algebraic Topology (IWoAT)](https://iwoat.github.io/) | [the electronic Computational Homotopy Theory Seminar (eCHT)](https://s.wayne.edu/echt/echt-research-seminar/) |
 [Young Homotopy-Theorist Meeting](https://www.youtube.com/playlist?list=PLUbgZHsSoMEXp7R2OjvzzrWgaYwIiobjX) | [Minicourse 1 – Lecture 1 - Clark Barwick](https://www.youtube.com/watch?v=05IuDGOB_-U&list=PLUbgZHsSoMEXp7R2OjvzzrWgaYwIiobjX&index=6) | [Foling Zou presents "Unital Operads and Monoids"](https://www.youtube.com/watch?v=g6DwTiyLHgA&t=1996s) |
 [Maple Conference 2019 - Distributive Laws Between the Operads Lie and Com](https://www.youtube.com/watch?v=4XUF1_FwuaQ) | [Lie Algebras and Homotopy Theory - Jacob Lurie](https://www.youtube.com/watch?v=LeaiPHAh0X0&t=192s) | [The homotopy theory of operated algebras](https://www.youtube.com/watch?v=frKbvr6OBnM) |
-[]() |
+[Prof. Ieke Moerdijk Dendroidal sets and infinity-operads I](https://www.youtube.com/watch?v=aspIYkkJ-U0) |
 
 
 
