@@ -379,7 +379,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Young Homotopy-Theorist Meeting](https://www.youtube.com/playlist?list=PLUbgZHsSoMEXp7R2OjvzzrWgaYwIiobjX) | [Minicourse 1 – Lecture 1 - Clark Barwick](https://www.youtube.com/watch?v=05IuDGOB_-U&list=PLUbgZHsSoMEXp7R2OjvzzrWgaYwIiobjX&index=6) | [Foling Zou presents "Unital Operads and Monoids"](https://www.youtube.com/watch?v=g6DwTiyLHgA&t=1996s) |
 [Maple Conference 2019 - Distributive Laws Between the Operads Lie and Com](https://www.youtube.com/watch?v=4XUF1_FwuaQ) | [Lie Algebras and Homotopy Theory - Jacob Lurie](https://www.youtube.com/watch?v=LeaiPHAh0X0&t=192s) | [The homotopy theory of operated algebras](https://www.youtube.com/watch?v=frKbvr6OBnM) |
 [Prof. Ieke Moerdijk Dendroidal sets and infinity-operads I](https://www.youtube.com/watch?v=aspIYkkJ-U0) | [Prof. Ieke Moerdijk Dendroidal sets and infinity-operads II](https://www.youtube.com/watch?v=MeHHFivxXkQ) | [Prof. Ieke Moerdijk Dendroidal sets and infinity-operads III](https://www.youtube.com/watch?v=Mq55zwlvi7A) |
-[Prof. Ieke Moerdijk Dendroidal sets and infinity-operads IV](https://www.youtube.com/watch?v=DqQp-2siKtU) | [Prof. Ieke Moerdijk Two models for infinity-operads](https://www.youtube.com/watch?v=4nTBZEo7qmg) |
+[Prof. Ieke Moerdijk Dendroidal sets and infinity-operads IV](https://www.youtube.com/watch?v=DqQp-2siKtU) | [Prof. Ieke Moerdijk Two models for infinity-operads](https://www.youtube.com/watch?v=4nTBZEo7qmg) | [HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) |
 
 
 
