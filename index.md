@@ -380,6 +380,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Maple Conference 2019 - Distributive Laws Between the Operads Lie and Com](https://www.youtube.com/watch?v=4XUF1_FwuaQ) | [Lie Algebras and Homotopy Theory - Jacob Lurie](https://www.youtube.com/watch?v=LeaiPHAh0X0&t=192s) | [The homotopy theory of operated algebras](https://www.youtube.com/watch?v=frKbvr6OBnM) |
 [Prof. Ieke Moerdijk Dendroidal sets and infinity-operads I](https://www.youtube.com/watch?v=aspIYkkJ-U0) | [Prof. Ieke Moerdijk Dendroidal sets and infinity-operads II](https://www.youtube.com/watch?v=MeHHFivxXkQ) | [Prof. Ieke Moerdijk Dendroidal sets and infinity-operads III](https://www.youtube.com/watch?v=Mq55zwlvi7A) |
 [Prof. Ieke Moerdijk Dendroidal sets and infinity-operads IV](https://www.youtube.com/watch?v=DqQp-2siKtU) | [Prof. Ieke Moerdijk Two models for infinity-operads](https://www.youtube.com/watch?v=4nTBZEo7qmg) | [HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) |
+[]() |
 
 
 
@@ -3061,6 +3062,8 @@ Algebras are about the structure of a single object (a "singleton") under the ac
 929. tree 未必是平面上的树，理解为**三维空间中的树**。记号：Omega(T) 和 Omega[T] 不一样（一个圆括号，一个中括号，这个区分在高阶范畴论中常常遇到），前者表示由树 T 生成的 operad，后者表示由树 T 所表示的可表函子，即 dendroidal set。[Prof. Ieke Moerdijk Dendroidal sets and infinity-operads I](https://www.youtube.com/watch?v=aspIYkkJ-U0) 对称和非对称 operad 很不一样，如 7:20 那里两边树的叶子**如果没有对叶子（输入端）的置换，它们的叶子是不一样的**。这就是为什么对称的 operad 才有张量积，而非对称的 operad 没有张量积，因为没有对叶子的置换，7:20 的那个关系无法成立。[Prof. Ieke Moerdijk Dendroidal sets and infinity-operads II](https://www.youtube.com/watch?v=MeHHFivxXkQ) 2025-12-26 11:34 崇德苑 209 室
 
 930. twisted arrow categories 推广了通常范畴的 twisted arrow categories，只是把原来的态射改为多输入的态射，**Tw(P) 中的态射是由一个多输入的态射变为另一个多输入的态射**（类似于通常箭头范畴中的一个态射通过前后复合产生另一个态射），**点 p 的上部和下部分别对应于通常箭头范畴中的两个互逆的态射**。态射复合的时候也要考虑 p 的上部和下部，对应于通常箭头范畴的态射两个左右态射。[Sergei Burkin --- Segal conditions and twisted arrow categories of operads](https://www.youtube.com/watch?v=tAOGf1PrliQ&t=1814s) 2025-12-28 16:32 崇德苑 209 室
+
+931. 双重无穷范畴或者 n-重无穷范畴怎么编码？**一个 delta 编码一重无穷范畴**，见 40:13 [HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2025-12-31 11:19 崇德苑 209 室
      
 
 
