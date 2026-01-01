@@ -3064,6 +3064,9 @@ Algebras are about the structure of a single object (a "singleton") under the ac
 930. twisted arrow categories 推广了通常范畴的 twisted arrow categories，只是把原来的态射改为多输入的态射，**Tw(P) 中的态射是由一个多输入的态射变为另一个多输入的态射**（类似于通常箭头范畴中的一个态射通过前后复合产生另一个态射），**点 p 的上部和下部分别对应于通常箭头范畴中的两个互逆的态射**。态射复合的时候也要考虑 p 的上部和下部，对应于通常箭头范畴的态射两个左右态射。[Sergei Burkin --- Segal conditions and twisted arrow categories of operads](https://www.youtube.com/watch?v=tAOGf1PrliQ&t=1814s) 2025-12-28 16:32 崇德苑 209 室
 
 931. 双重无穷范畴或者 n-重无穷范畴怎么编码？**一个 delta 编码一重无穷范畴**，见 40:13 [HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2025-12-31 11:19 崇德苑 209 室
+
+932. 如何理解 Lurie 的 infinity operads， symmetric monoidal infinity categories， O-monoidal infinity categories： 都完全打碎为**一列东西映到另一列东西（good!）**，这些列长度可以是任意的，这三个概念的差别就是，**怎么标码这些列的，以及这些列之间是怎么映的（inert- active）是由不同范畴控制的**，前两者是 Fin_*，后者是 O。2026-1-1 15:37 崇德苑 209 室
+
      
 
 
