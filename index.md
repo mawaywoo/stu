@@ -3067,6 +3067,8 @@ Algebras are about the structure of a single object (a "singleton") under the ac
 
 932. 如何理解 Lurie 的 infinity operads， symmetric monoidal infinity categories， O-monoidal infinity categories： 都完全打碎为**一列东西映到另一列东西（good!）**，这些列长度可以是任意的，这三个概念的差别就是，**怎么标码这些列的，以及这些列之间是怎么映的（inert- active）是由不同范畴控制的**，前两者是 Fin_*，后者是 O。2026-1-1 15:37 崇德苑 209 室
 
+933. 纤维积理解为“换基”，这里（Lurie HA construction 2.2.4.1）的包络构造理解为把 O 所有对象都赋予一个“乘积”。2026-1-3 14:34 崇德苑 209 室
+
      
 
 
