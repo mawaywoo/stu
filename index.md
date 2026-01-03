@@ -3069,6 +3069,8 @@ Algebras are about the structure of a single object (a "singleton") under the ac
 
 933. 纤维积理解为“换基”，这里（Lurie HA construction 2.2.4.1）的包络构造理解为把 O 所有对象都赋予一个“乘积”。2026-1-3 14:34 崇德苑 209 室
 
+934. **symmetric monoidal infinity category 和 infinity operads 的区别**就是前者是 cofibration，后者是**对 Fin_* 中的 inert maps** 才有 cofibration lifts，前者**对 Fin_* 的所有态射**都有 cofibration lifts，见 41:03。**并不是底范畴的所有态射都有 cofibration lifts 的**（cofibration = covariant functor），选取不同的态射子集，得到不同程度的 fibration。[Infinity-category 07_ Monoidal and symmetric monoidal structures - Foling Zou](https://www.bilibili.com/video/BV1Hz421f7FC/?spm_id_from=333.1007.0.0&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-1-3 23:14 崇德苑 209 室
+
      
 
 
