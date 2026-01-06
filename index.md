@@ -3071,6 +3071,8 @@ Algebras are about the structure of a single object (a "singleton") under the ac
 
 934. **symmetric monoidal infinity category 和 infinity operads 的区别**就是前者是 cofibration，后者是**对 Fin_* 中的 inert maps** 才有 cofibration lifts，前者**对 Fin_* 的所有态射**都有 cofibration lifts，见 41:03。**并不是底范畴的所有态射都有 cofibration lifts 的**（cofibration = covariant functor），选取不同的态射子集，得到不同程度的 fibration。[Infinity-category 07_ Monoidal and symmetric monoidal structures - Foling Zou](https://www.bilibili.com/video/BV1Hz421f7FC/?spm_id_from=333.1007.0.0&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-1-3 23:14 崇德苑 209 室
 
+935. 把 slice category C/A 当成一个 fibration 来理解，不把它视为和纤维范畴不一样的东西，此时它的底范畴就是 C 的某个对象 A。2026-1-6 10:53 崇德苑 209 室
+
      
 
 
