@@ -3078,7 +3078,7 @@ Algebras are about the structure of a single object (a "singleton") under the ac
 937. QUE: **What are the differences between coCartesian fibrations and Cartesian fibrations**? What is point? ANS:1. coCartesian fibrations encode how structure is freely transported forward.
 Cartesian fibrations encode how structure is pulled back under constraints. 2. Equivalently: **coCartesian = push, generate, act, substitute; Cartesian = pull, restrict, satisfy, depend**.
 3. coCartesian	Flow / push	Add degrees of freedom; Cartesian Tension / pull	Impose constraints. 4. coCartesian fibrations encode freedom. 5. coCartesian fibrations tell you how to build things.
-Cartesian fibrations tell you how to depend on things. Homotopy theory is a theory of building, not depending. Cartesian fibrations encode control. Homotopy theory prefers freedom. 6. **coCartesian = 自由，变大，扩张；Cartesian = 遗忘，变小，限制**。与此类似，**代数，余代数，模，余模的差异也在此，不仅仅是箭头上的反向、对偶**。2026-1-7 15:41 崇德苑 209 室
+Cartesian fibrations tell you how to depend on things. Homotopy theory is a theory of building, not depending. Cartesian fibrations encode control. Homotopy theory prefers freedom. 6. **coCartesian = 自由，变大，扩张；Cartesian = 遗忘，变小，限制**。与此类似，**代数，余代数，模，余模的差异也在此，不仅仅是箭头上的反向、对偶** (Variance is not about reversing arrows — it is about where universal properties live. Variance is not a syntactic choice — it is a choice of universal property. Covariance = universality of outputs; Contravariance = universality of inputs. A fibration does not encode arrows; it encodes which hom-spaces are universal.)。2026-1-7 15:41 崇德苑 209 室
 
      
 
