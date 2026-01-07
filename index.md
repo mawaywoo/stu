@@ -3073,6 +3073,8 @@ Algebras are about the structure of a single object (a "singleton") under the ac
 
 935. 把 slice category C/A 当成一个 fibration 来理解，不把它视为和纤维范畴不一样的东西，此时它的底范畴就是 C 的某个对象 A。2026-1-6 10:53 崇德苑 209 室
 
+936. **Generalized ∞-operads are to ∞-operads what presheaves are to sheaves**, except the “topology” is the operadic active–inert factorization system on Fin_*. 2026-1-7 14:37 崇德苑 209 室
+
      
 
 
