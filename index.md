@@ -3075,6 +3075,11 @@ Algebras are about the structure of a single object (a "singleton") under the ac
 
 936. **Generalized ∞-operads are to ∞-operads what presheaves are to sheaves**, except the “topology” is the operadic active–inert factorization system on Fin_*. 2026-1-7 14:37 崇德苑 209 室
 
+937. QUE: **What are the differences between coCartesian fibrations and Cartesian fibrations**? What is point? ANS:1. coCartesian fibrations encode how structure is freely transported forward.
+Cartesian fibrations encode how structure is pulled back under constraints. 2.Equivalently: **coCartesian = push, generate, act, substitute; Cartesian = pull, restrict, satisfy, depend**.
+3.coCartesian	Flow / push	Add degrees of freedom; Cartesian Tension / pull	Impose constraints. 4. coCartesian fibrations encode freedom. 5. coCartesian fibrations tell you how to build things.
+Cartesian fibrations tell you how to depend on things. Homotopy theory is a theory of building, not depending. Cartesian fibrations encode control. Homotopy theory prefers freedom. 6. **coCartesian = 自由，变大，扩张Cartesian = 遗忘，变小，限制**。2026-1-7 15:41 崇德苑 209 室
+
      
 
 
