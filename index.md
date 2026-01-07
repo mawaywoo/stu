@@ -3080,6 +3080,9 @@ Cartesian fibrations encode how structure is pulled back under constraints. 2. E
 3. coCartesian	Flow / push	Add degrees of freedom; Cartesian Tension / pull	Impose constraints. 4. coCartesian fibrations encode freedom. 5. coCartesian fibrations tell you how to build things.
 Cartesian fibrations tell you how to depend on things. Homotopy theory is a theory of building, not depending. Cartesian fibrations encode control. Homotopy theory prefers freedom. 6. **coCartesian = 自由，变大，扩张；Cartesian = 遗忘，变小，限制**。与此类似，**代数，余代数，模，余模的差异也在此，不仅仅是箭头上的反向、对偶** (Variance is not about reversing arrows — it is about where universal properties live. Variance is not a syntactic choice — it is a choice of universal property. Covariance = universality of outputs; Contravariance = universality of inputs. A fibration does not encode arrows; it encodes which hom-spaces are universal.)。2026-1-7 15:41 崇德苑 209 室
 
+938. **纤维范畴如何编码无穷态射**？不用列出**所有**的提升态射，只需列出提升态射的典范的同伦**代表元**。**A coCartesian/Cartesian edge is a homotopy-universal arrow that generates all other arrows over a base arrow**. Fibrations encode functors **not by listing all arrows**, but by **selecting these universal arrows**, which then control the full ∞-categorical structure. **coCartesian / Cartesian edges are homotopy-universal arrows**. They are the **“skeleton”** of the functor, enough to **reconstruct all higher coherent maps, without listing all arrows in the fibers**. This is why we can “encode a functor as a fibration”: you don’t need to write every arrow, just these special universal lifts. 2026-1-7 16:11 崇德苑 209 室
+
+
      
 
 
