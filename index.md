@@ -3083,6 +3083,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 938. **纤维范畴如何编码无穷态射**？不用列出**所有**的提升态射，只需列出提升态射的典范的同伦**代表元**。**A coCartesian/Cartesian edge is a homotopy-universal arrow that generates all other arrows over a base arrow**. Fibrations encode functors **not by listing all arrows**, but by **selecting these universal arrows**, which then control the full ∞-categorical structure. **coCartesian / Cartesian edges are homotopy-universal arrows**. They are the **“skeleton”** of the functor, enough to **reconstruct all higher coherent maps, without listing all arrows in the fibers**. This is why we can “encode a functor as a fibration”: you don’t need to write every arrow, just these special universal lifts. 2026-1-7 16:11 崇德苑 209 室
 
+939. 理解纤维范畴的每个纤维编码的是什么数据，如在无穷 operad 中，纤维编码的是啥，**纤维范畴有两个维度编码数据，纵向（纤维内部）+ 横向（纤维之间）**，理清楚这两个维度各编码什么数据。2026-1-11 20:34 崇德苑 209 室
+
 
      
 
