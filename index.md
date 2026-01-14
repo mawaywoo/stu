@@ -3085,6 +3085,10 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 939. 理解纤维范畴的每个纤维编码的是什么数据，如在无穷 operad 中，纤维编码的是啥，**纤维范畴有两个维度编码数据，纵向（纤维内部）+ 横向（纤维之间）**，理清楚这两个维度各编码什么数据。2026-1-11 20:34 崇德苑 209 室
 
+940. 在无穷范畴理论中，**增加限制条件 = 增加存储数据**，所以 symmetric monoidal infinity category 比 monoidal infinity category **“大”**，这两者可类比于交换环和环。**E_1 到 E_infinity，不断增加数据，不断变大**。对应的纤维范畴的底范畴分别为 N(Fin) 和 N(delta)，前者包含后者。2026-1-14 13:24 崇德苑 209 室
+
+941. 今天突然想到 **E_n operads 和 Hilbert cubes** 之间的联系。2026-1-14 13:25 崇德苑 209 室
+
 
      
 
