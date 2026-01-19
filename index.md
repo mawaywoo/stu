@@ -382,7 +382,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Prof. Ieke Moerdijk Dendroidal sets and infinity-operads IV](https://www.youtube.com/watch?v=DqQp-2siKtU) | [Prof. Ieke Moerdijk Two models for infinity-operads](https://www.youtube.com/watch?v=4nTBZEo7qmg) | [HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) |
 [Introduction to Infinity-one-categories](https://www.youtube.com/watch?v=QCRkJeHr7aE) | [Pu Zhang (July 9, 2025)](https://www.youtube.com/watch?v=yEtlPkEPnPA) | [RA Seminar](https://www.youtube.com/@raseminar9362) |
 [Richard Garner - Universal enrichments - December 12, 2025](https://www.youtube.com/watch?v=TyPMyzLMb0w) |
-[Jack Romo - Homotopy Bicategories of (infinity,2)-categories](https://www.youtube.com/watch?v=1YYWFcqKkSY) |
+[Jack Romo - Homotopy Bicategories of (infinity,2)-categories](https://www.youtube.com/watch?v=1YYWFcqKkSY) | [Endomorphisms and Automorphisms of the Framed Little Disk Operad](https://www.youtube.com/watch?v=r0-FkI3TiyI) |
 
 
 
