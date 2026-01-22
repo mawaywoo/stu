@@ -3090,7 +3090,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 941. 今天突然想到 **E_n operads 和 Hilbert cubes** 之间的联系。2026-1-14 13:25 崇德苑 209 室
 
-942. 在 8:49 里的 E_1 和 E_infinty 例子，解释了范畴论在的 **property** 和 **extra structue** 的差别（我此时才真正明白）：property 只需要**对已有的数据增加限制**（但**不增加数据**），而 extra structure 则需要真正**增加额外数据**。该视频**对 little disk operad 解释得更清晰**。[Higher Algebra 10: E_n-Algebras](https://www.youtube.com/watch?v=WNeYUvdX9E0) 2026-1-22 22:33 崇德苑 209 室
+942. 在 8:49 里的 E_1 和 E_infinty 例子，解释了范畴论在的 **property** 和 **extra structue** 的差别（我此时才真正明白）：property 只需要**对已有的数据增加限制**（但**不增加数据**），而 extra structure 则需要真正**增加额外数据**。该视频**对 little disk operad 解释得更清晰**。见 47:24，为什么要考虑保持 filtered colimit 和 **geometric realization** ? 因为这是在推广 sifted colimit = filtered colimit + **reflexive coequalizer**. [Higher Algebra 10: E_n-Algebras](https://www.youtube.com/watch?v=WNeYUvdX9E0) 2026-1-22 22:33 崇德苑 209 室
 
 
      
