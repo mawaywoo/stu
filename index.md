@@ -3094,7 +3094,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 943. 高阶范畴论中，常常考虑**增加 structure 而不是增加 property**, 正是因为要记录这些增加的 structure, 所以高阶范畴的 data 才会变得更多、更复杂。2026-1-23 20:50 崇德苑 209 室
 
-944. 如何避免直接处理无穷范畴————使用**模型范畴**。2026-1-28 13:23 崇德苑 209 室
+944. 1.如何避免直接处理无穷范畴————使用**模型范畴**。2.层论中的local operater也是同样的思想，**从“外部（容易）”进行“有限的”方式取出由复杂对象构成的“好的”子类**，从而规避了直接“内部”处理这些复杂的信息[André Joyal - Higher sheaves](https://www.youtube.com/watch?v=8YfYD47AO_k)。2026-1-28 13:23 崇德苑 209 室
 
 
      
