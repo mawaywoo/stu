@@ -383,7 +383,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Introduction to Infinity-one-categories](https://www.youtube.com/watch?v=QCRkJeHr7aE) | [Pu Zhang (July 9, 2025)](https://www.youtube.com/watch?v=yEtlPkEPnPA) | [RA Seminar](https://www.youtube.com/@raseminar9362) |
 [Richard Garner - Universal enrichments - December 12, 2025](https://www.youtube.com/watch?v=TyPMyzLMb0w) | [Jack Romo - Homotopy Bicategories of (infinity,2)-categories](https://www.youtube.com/watch?v=1YYWFcqKkSY) | [Endomorphisms and Automorphisms of the Framed Little Disk Operad](https://www.youtube.com/watch?v=r0-FkI3TiyI) | 
 [Michael Ching - Goodwillie calculus and operads](https://www.youtube.com/watch?v=RoEXerTU498) | [Topological Quantum Field Theory and the Cobordism Hypothesis](https://www.youtube.com/watch?v=Bo8GNfN-Xn4) | [The Classification of Extended Topological Field Theories -Jacob Lurie](https://www.youtube.com/watch?v=svsidHyNk1k) |
-[]() |
+[Introduction to Topological Quantum Field Theories](https://www.youtube.com/playlist?list=PL-_cKNuVAYAVU4pvZGnScwgy6EaM1VrVH) |
 
 
 
