@@ -384,6 +384,10 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Richard Garner - Universal enrichments - December 12, 2025](https://www.youtube.com/watch?v=TyPMyzLMb0w) | [Jack Romo - Homotopy Bicategories of (infinity,2)-categories](https://www.youtube.com/watch?v=1YYWFcqKkSY) | [Endomorphisms and Automorphisms of the Framed Little Disk Operad](https://www.youtube.com/watch?v=r0-FkI3TiyI) | 
 [Michael Ching - Goodwillie calculus and operads](https://www.youtube.com/watch?v=RoEXerTU498) | [Topological Quantum Field Theory and the Cobordism Hypothesis](https://www.youtube.com/watch?v=Bo8GNfN-Xn4) | [The Classification of Extended Topological Field Theories -Jacob Lurie](https://www.youtube.com/watch?v=svsidHyNk1k) |
 [Introduction to Topological Quantum Field Theories](https://www.youtube.com/playlist?list=PL-_cKNuVAYAVU4pvZGnScwgy6EaM1VrVH) | [Claudia Scheimbauer - En-algebras, extended topological field theories and dualizability](https://www.youtube.com/watch?v=W5m7-k1TIHY) | [Claudia Scheimbauer, Lecture I: Higher Categories for QFT](https://www.youtube.com/watch?v=5DHPrVoIg1I) |
+[Claudia Scheimbauer, Lecture II: Higher Categories for QFT](https://www.youtube.com/watch?v=ZxIec26_d4k) |
+
+
+
 
 
 
@@ -3096,7 +3100,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 944. 1.如何避免直接处理无穷范畴————使用**模型范畴**。2.层论中的local operater也是同样的思想，**从“外部（容易）”进行“有限的”方式取出由复杂对象构成的“好的”子类**，从而规避了直接“内部”处理这些复杂的信息[André Joyal - Higher sheaves](https://www.youtube.com/watch?v=8YfYD47AO_k)。2026-1-28 13:23 崇德苑 209 室
 
-945. 最近对 TQFT 感兴趣，也许它是**理解高阶范畴、高阶代数的一个很好的抓手**。[Claudia Scheimbauer](http://www.scheimbauer.at/) 这个讲座 [Claudia Scheimbauer, Lecture I: Higher Categories for QFT](https://www.youtube.com/watch?v=5DHPrVoIg1I) 对为什么需要无穷范畴讲得很清晰，在拓扑上很容易看到 (infy, n) 的 data，**n-dim 可以一直分割到 1-dim 的边界**，所以有 1 到 n 的态射，就是那些 bordisms，**大于 n-dimension 的都是 up to diffeomorphsms**，所以大于 n 的态射都是同构，见 41:00 左右。2026-1-29 21:18 崇德苑 209 室
+945. 最近对 TQFT 感兴趣，也许它是**理解高阶范畴、高阶代数的一个很好的抓手**。[Claudia Scheimbauer](http://www.scheimbauer.at/) 这个讲座 [Claudia Scheimbauer, Lecture I: Higher Categories for QFT](https://www.youtube.com/watch?v=5DHPrVoIg1I) 对为什么需要无穷范畴讲得很清晰，在拓扑上很容易看到 (infy, n) 的 data，**n-dim 可以一直分割到 1-dim 的边界**，所以有 1 到 n 的态射，就是那些 bordisms，**大于 n-dimension 的都是 up to diffeomorphsms**，所以大于 n 的态射都是同构，见 41:00 左右。这个视频对 Bordisms 这个无穷范畴解释得很形象，见 57:00，[Claudia Scheimbauer, Lecture II: Higher Categories for QFT](https://www.youtube.com/watch?v=ZxIec26_d4k) 2026-1-29 21:18 崇德苑 209 室
 
 
      
