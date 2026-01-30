@@ -386,7 +386,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Introduction to Topological Quantum Field Theories](https://www.youtube.com/playlist?list=PL-_cKNuVAYAVU4pvZGnScwgy6EaM1VrVH) | [Claudia Scheimbauer - En-algebras, extended topological field theories and dualizability](https://www.youtube.com/watch?v=W5m7-k1TIHY) | [Claudia Scheimbauer, Lecture I: Higher Categories for QFT](https://www.youtube.com/watch?v=5DHPrVoIg1I) |
 [Claudia Scheimbauer, Lecture II: Higher Categories for QFT](https://www.youtube.com/watch?v=ZxIec26_d4k) | [Higher Structures in Holomorphic and Topological Field Theory](https://www.youtube.com/playlist?list=PLx5f8IelFRgEr0U9iAylINGNl9sSpgWR6) | [Claudia Scheimbauer, Lecture III: Higher Categories for QFT](https://www.youtube.com/watch?v=CmhANCZDVQ4) |
 [Claudia Scheimbauer, lecture IV: Higher Categories for QFT](https://www.youtube.com/watch?v=IrHY-PMSCoE) | [Extending Topological Field Theories by Claudia Scheimbauer](https://www.youtube.com/watch?v=Cdjz5OqspAs) |
-
+[HHHW01 Dr. Claudia Scheimbauer Dualizability in the higher Morita category](https://www.youtube.com/watch?v=8WGdpSGnvk0) |
 
 
 
