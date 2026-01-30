@@ -384,7 +384,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Richard Garner - Universal enrichments - December 12, 2025](https://www.youtube.com/watch?v=TyPMyzLMb0w) | [Jack Romo - Homotopy Bicategories of (infinity,2)-categories](https://www.youtube.com/watch?v=1YYWFcqKkSY) | [Endomorphisms and Automorphisms of the Framed Little Disk Operad](https://www.youtube.com/watch?v=r0-FkI3TiyI) | 
 [Michael Ching - Goodwillie calculus and operads](https://www.youtube.com/watch?v=RoEXerTU498) | [Topological Quantum Field Theory and the Cobordism Hypothesis](https://www.youtube.com/watch?v=Bo8GNfN-Xn4) | [The Classification of Extended Topological Field Theories -Jacob Lurie](https://www.youtube.com/watch?v=svsidHyNk1k) |
 [Introduction to Topological Quantum Field Theories](https://www.youtube.com/playlist?list=PL-_cKNuVAYAVU4pvZGnScwgy6EaM1VrVH) | [Claudia Scheimbauer - En-algebras, extended topological field theories and dualizability](https://www.youtube.com/watch?v=W5m7-k1TIHY) | [Claudia Scheimbauer, Lecture I: Higher Categories for QFT](https://www.youtube.com/watch?v=5DHPrVoIg1I) |
-[Claudia Scheimbauer, Lecture II: Higher Categories for QFT](https://www.youtube.com/watch?v=ZxIec26_d4k) |
+[Claudia Scheimbauer, Lecture II: Higher Categories for QFT](https://www.youtube.com/watch?v=ZxIec26_d4k) | [Higher Structures in Holomorphic and Topological Field Theory](https://www.youtube.com/playlist?list=PLx5f8IelFRgEr0U9iAylINGNl9sSpgWR6) |
 
 
 
