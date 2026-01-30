@@ -3102,7 +3102,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 945. 最近对 TQFT 感兴趣，也许它是**理解高阶范畴、高阶代数的一个很好的抓手**。[Claudia Scheimbauer](http://www.scheimbauer.at/) 这个讲座 [Claudia Scheimbauer, Lecture I: Higher Categories for QFT](https://www.youtube.com/watch?v=5DHPrVoIg1I) 对为什么需要无穷范畴讲得很清晰，在拓扑上很容易看到 (infy, n) 的 data，**n-dim 可以一直分割到 1-dim 的边界**，所以有 1 到 n 的态射，就是那些 bordisms，**大于 n-dimension 的都是 up to diffeomorphsms**，所以大于 n 的态射都是同构，见 41:00 左右。这个视频对 Bordisms 这个无穷范畴解释得很形象，见 57:00，[Claudia Scheimbauer, Lecture II: Higher Categories for QFT](https://www.youtube.com/watch?v=ZxIec26_d4k) 用 Segal 的方式定义无穷范畴, (infy, 1)-cat 和 (infy, k)-cat 的复杂度相当，只是多一些 delta 而已，见 18:00 [Claudia Scheimbauer, Lecture III: Higher Categories for QFT](https://www.youtube.com/watch?v=CmhANCZDVQ4). 2026-1-29 21:18 崇德苑 209 室
 
-946. TQFT 为什么会涉及高阶范畴、高阶代数？**因为拓扑对象可以作无穷分割，而去模拟这种无穷分割代数也需要是无穷的**。AI 修改：拓扑量子场论自然涉及高阶范畴与高阶代数，其根源在于拓扑对象允许任意细分，而不同细分方式之间只在同伦意义下等价。为了在代数化过程中忠实记录这些切割–粘合操作及其所有高阶一致性数据，必须使用能够编码同伦与一致性的高阶范畴结构。**用代数去模拟拓扑的“拼接”**。AI 修改：TQFT 就是：把形状的拼接规则，翻译成规则的代数语言。2026-1-30 14:42 崇德苑 209 室
+946. TQFT 为什么会涉及高阶范畴、高阶代数？**因为拓扑对象可以作无穷分割，而去模拟这种无穷分割代数也需要是无穷的**。AI 修改：拓扑量子场论自然涉及高阶范畴与高阶代数，其根源在于拓扑对象允许任意细分，而不同细分方式之间只在同伦意义下等价。为了在代数化过程中忠实记录这些切割–粘合操作及其所有高阶一致性数据，必须使用能够编码同伦与一致性的高阶范畴结构。**用代数去模拟拓扑的“拼接”**。AI 修改：TQFT 就是：把形状的拼接规则，翻译成规则的代数语言。**拓扑负责切，En-代数负责拼，factorization homology 负责把所有拼法统一起来**。factorization homology 将流形的所有局部切割–拼接方式组织成一个 ∞-范畴，并通过对该范畴取同伦余极限，将 En-代数的高阶复合结构沿流形“积分”，从而得到 TQFT 的值。2026-1-30 14:42 崇德苑 209 室
 
 
      
