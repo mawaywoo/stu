@@ -3112,7 +3112,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 948. up to isomorphisms 导致唯一、低阶结构，去掉这个条件，即 **on the nose**，就会产生**无穷、高阶**结构，由此可见，无穷、高阶结构随处可见。见 44:00 [Claudia Scheimbauer lecture 2](https://www.youtube.com/watch?v=xAaXHI5H0z4) 2026-1-31 17:05 崇德苑 209 室
 
-949. 见 1:05:00，**E_n 代数、分解同调（分解同调可视为 E_n 代数沿着 Disk ——> Manld 的左 kan 扩张，理解为把局部圆盘上的 E_n 代数粘起来，见 1:06:00）也可以像 TQFT 那样理解：拓扑对象的表示论，即用代数去模拟拓扑结构**。[Scheimbauer lecture 4](https://www.youtube.com/watch?v=WcwScwT601w&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=8) 2026-1-31 23:18 崇德苑 209 室
+949. 见 1:05:00，**E_n 代数、分解同调（分解同调可视为 E_n 代数沿着 Disk ——> Manld 的左 kan 扩张，理解为把局部圆盘上的 E_n 代数粘起来，见 1:06:00 或者 [Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) 的开头）也可以像 TQFT 那样理解：拓扑对象的表示论，即用代数去模拟拓扑结构**。[Scheimbauer lecture 4](https://www.youtube.com/watch?v=WcwScwT601w&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=8) 2026-1-31 23:18 崇德苑 209 室
 
 
 
