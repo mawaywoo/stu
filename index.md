@@ -1,6 +1,6 @@
 # Maway Woo's Home Page
 
-1.**数据的打碎重组** 2.**上升-下降模式规避无穷等复杂度**
+1.**数据的打碎重组** 2.**上升-下降模式规避无穷等复杂度（945）**
 
 ![ME](https://github.com/mawaywoo/stu/blob/main/psb.jpg)
 
