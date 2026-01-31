@@ -3105,6 +3105,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 946. TQFT 为什么会涉及高阶范畴、高阶代数？**因为拓扑对象可以作无穷分割，而去模拟这种无穷分割代数也需要是无穷的**。AI 修改：拓扑量子场论自然涉及高阶范畴与高阶代数，其根源在于拓扑对象允许任意细分，而不同细分方式之间只在同伦意义下等价。为了在代数化过程中忠实记录这些切割–粘合操作及其所有高阶一致性数据，必须使用能够编码同伦与一致性的高阶范畴结构。**用代数去模拟拓扑的“拼接”**。AI 修改：TQFT 就是：把形状的拼接规则，翻译成规则的代数语言。**拓扑负责切，En-代数负责拼，factorization homology 负责把所有拼法统一起来**。factorization homology 将流形的所有局部切割–拼接方式组织成一个 ∞-范畴，并通过对该范畴取同伦余极限，将 En-代数的高阶复合结构沿流形“积分”，从而得到 TQFT 的值。2026-1-30 14:42 崇德苑 209 室
 
+947. TQFT = "高阶表示论"。[Claudia Scheimbauer lecture 1](https://www.youtube.com/watch?v=IsfIMaN2rak) 2026-1-31 14:58 崇德苑 209 室
+
 
      
 
