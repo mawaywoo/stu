@@ -3108,6 +3108,9 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 947. TQFT = "高阶表示论"。这个视频更多细节：[Claudia Scheimbauer lecture 1](https://www.youtube.com/watch?v=IsfIMaN2rak) Factorization Algebras 是 sheaf theories 的推广。[Clark Barwick, Factorization Algebras](https://www.youtube.com/watch?v=i653fqozzgI) 2026-1-31 14:58 崇德苑 209 室
 
+948. up to isomorphisms 导致唯一、低阶结构，去掉这个条件，就会产生无穷、高阶结构，由此可见，无穷、高阶结构随处可见。2026-1-31 17:05 崇德苑 209 室
+
+
 
      
 
