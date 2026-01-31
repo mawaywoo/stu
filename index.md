@@ -386,7 +386,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Introduction to Topological Quantum Field Theories](https://www.youtube.com/playlist?list=PL-_cKNuVAYAVU4pvZGnScwgy6EaM1VrVH) | [Claudia Scheimbauer - En-algebras, extended topological field theories and dualizability](https://www.youtube.com/watch?v=W5m7-k1TIHY) | [Claudia Scheimbauer, Lecture I: Higher Categories for QFT](https://www.youtube.com/watch?v=5DHPrVoIg1I) |
 [Claudia Scheimbauer, Lecture II: Higher Categories for QFT](https://www.youtube.com/watch?v=ZxIec26_d4k) | [Higher Structures in Holomorphic and Topological Field Theory](https://www.youtube.com/playlist?list=PLx5f8IelFRgEr0U9iAylINGNl9sSpgWR6) | [Claudia Scheimbauer, Lecture III: Higher Categories for QFT](https://www.youtube.com/watch?v=CmhANCZDVQ4) |
 [Claudia Scheimbauer, lecture IV: Higher Categories for QFT](https://www.youtube.com/watch?v=IrHY-PMSCoE) | [Extending Topological Field Theories by Claudia Scheimbauer](https://www.youtube.com/watch?v=Cdjz5OqspAs) |[HHHW01 Dr. Claudia Scheimbauer Dualizability in the higher Morita category](https://www.youtube.com/watch?v=8WGdpSGnvk0) |
-[Clark Barwick, Factorization Algebras](https://www.youtube.com/watch?v=i653fqozzgI) |
+[Clark Barwick, Factorization Algebras](https://www.youtube.com/watch?v=i653fqozzgI) | [Claudia Scheimbauer lecture 1](https://www.youtube.com/watch?v=IsfIMaN2rak) |
 
 
 
@@ -3105,7 +3105,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 946. TQFT 为什么会涉及高阶范畴、高阶代数？**因为拓扑对象可以作无穷分割，而去模拟这种无穷分割代数也需要是无穷的**。AI 修改：拓扑量子场论自然涉及高阶范畴与高阶代数，其根源在于拓扑对象允许任意细分，而不同细分方式之间只在同伦意义下等价。为了在代数化过程中忠实记录这些切割–粘合操作及其所有高阶一致性数据，必须使用能够编码同伦与一致性的高阶范畴结构。**用代数去模拟拓扑的“拼接”**。AI 修改：TQFT 就是：把形状的拼接规则，翻译成规则的代数语言。**拓扑负责切，En-代数负责拼，factorization homology 负责把所有拼法统一起来**。factorization homology 将流形的所有局部切割–拼接方式组织成一个 ∞-范畴，并通过对该范畴取同伦余极限，将 En-代数的高阶复合结构沿流形“积分”，从而得到 TQFT 的值。2026-1-30 14:42 崇德苑 209 室
 
-947. TQFT = "高阶表示论"。[Claudia Scheimbauer lecture 1](https://www.youtube.com/watch?v=IsfIMaN2rak) 2026-1-31 14:58 崇德苑 209 室
+947. TQFT = "高阶表示论"。[Claudia Scheimbauer lecture 1](https://www.youtube.com/watch?v=IsfIMaN2rak) Factorization Algebras 是 sheaf theories 的推广。[Clark Barwick, Factorization Algebras](https://www.youtube.com/watch?v=i653fqozzgI) 2026-1-31 14:58 崇德苑 209 室
 
 
      
