@@ -388,7 +388,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Claudia Scheimbauer, lecture IV: Higher Categories for QFT](https://www.youtube.com/watch?v=IrHY-PMSCoE) | [Extending Topological Field Theories by Claudia Scheimbauer](https://www.youtube.com/watch?v=Cdjz5OqspAs) |[HHHW01 Dr. Claudia Scheimbauer Dualizability in the higher Morita category](https://www.youtube.com/watch?v=8WGdpSGnvk0) |
 [Clark Barwick, Factorization Algebras](https://www.youtube.com/watch?v=i653fqozzgI) | [Claudia Scheimbauer lecture 1](https://www.youtube.com/watch?v=IsfIMaN2rak) | [Claudia Scheimbauer lecture 2](https://www.youtube.com/watch?v=xAaXHI5H0z4) |
 [Masterclass on Topological field theories and factorization homology](https://www.youtube.com/playlist?list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB) | [Scheimbauer lecture 3](https://www.youtube.com/watch?v=Ya1OeWtyuuQ&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=7) | [Scheimbauer lecture 4](https://www.youtube.com/watch?v=WcwScwT601w&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=8) |
-[Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) | [Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=11) | []() |
+[Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) | [Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=11) | [Scheimbauer lecture 7](https://www.youtube.com/watch?v=02upJwCNht8&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=14) |
 []() |
 
 
@@ -3117,6 +3117,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 950. 在 1:00:00 有很具体的 factorization algebra 的例子。**代数模拟开集，双模模拟开集的粘接，（代数）结构映射模拟开集的嵌入**。[Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) 2026-2-1 13:53 崇德苑 209 室
 
 951. factorization algebra 类似于 **sheaf theory, topos theory, constructable sheaf theory, pervesrse sheaf theory**. 在定义 TQFT 的 target 范畴，即用于模拟拓扑的无穷代数范畴（定义这个无穷的代数范畴很难），可以**用多个 factorization algebra 粘出无穷范畴，类似于用双模连接代数，粘出一个无穷范畴**，见 33:00. 在 40:00 具体构造连接拓扑无穷范畴和代数无穷范畴的函子，将**整个流形 M 上的 factorization algebra 不断调整拉回到某种特殊拓扑对象 I 上的 factorization algebra, 这里的来回涉及到拓扑对象 M 到 I 的变换构造，这不是那么容易构造的**，类似于层的拉回。其本质上是在**解构左 Kan 扩张**。将**大流形 M 上的无穷代数范畴，不断拉回到局部欧式空间 I 上的代数无穷范畴，去分析。到底拉倒哪种欧式空间 I，好坏程度就取决于对 M 的（局部、粘接）性质的假设了**。通过追踪拓扑对象之间的关系去追踪和比较他们上面的代数无穷范畴之间的关系，类似于层的思想，见 54:00 的那个例子，一直在通过变化拓扑对象去比较它们上面的 factorization algebra 的信息。**拓扑对象上的分割、粘接的自由度影响着它们上面的代数无穷范畴的分割、粘接的自由度**，hence “无穷层”。[Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=11) 2026-2-1 14:21 崇德苑 209 室
+
+952. [Scheimbauer lecture 7](https://www.youtube.com/watch?v=02upJwCNht8&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=14) 2026-2-1 15:42 崇德苑 209 室
 
 
 
