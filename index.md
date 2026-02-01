@@ -388,7 +388,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Claudia Scheimbauer, lecture IV: Higher Categories for QFT](https://www.youtube.com/watch?v=IrHY-PMSCoE) | [Extending Topological Field Theories by Claudia Scheimbauer](https://www.youtube.com/watch?v=Cdjz5OqspAs) |[HHHW01 Dr. Claudia Scheimbauer Dualizability in the higher Morita category](https://www.youtube.com/watch?v=8WGdpSGnvk0) |
 [Clark Barwick, Factorization Algebras](https://www.youtube.com/watch?v=i653fqozzgI) | [Claudia Scheimbauer lecture 1](https://www.youtube.com/watch?v=IsfIMaN2rak) | [Claudia Scheimbauer lecture 2](https://www.youtube.com/watch?v=xAaXHI5H0z4) |
 [Masterclass on Topological field theories and factorization homology](https://www.youtube.com/playlist?list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB) | [Scheimbauer lecture 3](https://www.youtube.com/watch?v=Ya1OeWtyuuQ&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=7) | [Scheimbauer lecture 4](https://www.youtube.com/watch?v=WcwScwT601w&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=8) |
-[Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) | []() | []() |
+[Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) | [Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=11) | []() |
 []() |
 
 
