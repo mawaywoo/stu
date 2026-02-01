@@ -3114,6 +3114,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 949. 见 1:05:00，**E_n 代数、分解同调（分解同调可视为 E_n 代数沿着 Disk ——> Manld 的左 kan 扩张，理解为把局部圆盘上的 E_n 代数粘起来，见 1:06:00 或者 [Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) 的开头）也可以像 TQFT 那样理解：拓扑对象的表示论，即用代数去模拟拓扑结构**。[Scheimbauer lecture 4](https://www.youtube.com/watch?v=WcwScwT601w&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=8) 2026-1-31 23:18 崇德苑 209 室
 
+950. 在 1:00:00 有很具体的 factorization algebra 的例子。[Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) 2026-2-1 13:53 崇德苑 209 室
+
 
 
      
