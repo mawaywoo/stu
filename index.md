@@ -3116,7 +3116,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 950. 在 1:00:00 有很具体的 factorization algebra 的例子。**代数模拟开集，双模模拟开集的粘接，（代数）结构映射模拟开集的嵌入**。[Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) 2026-2-1 13:53 崇德苑 209 室
 
-951. factorization algebra 类似于 **sheaf theory, topos theory, constructable sheaf theory, pervesrse sheaf theory**. 在定义 TQFT 的 target 范畴，即用于模拟拓扑的无穷代数范畴（定义这个无穷的代数范畴很难），可以**用多个 factorization algebra 粘出无穷范畴，类似于用双模连接代数，粘出一个无穷范畴**，见 33:00. 在 40:00 具体构造连接拓扑无穷范畴和代数无穷范畴的函子。[Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=11) 2026-2-1 14:21 崇德苑 209 室
+951. factorization algebra 类似于 **sheaf theory, topos theory, constructable sheaf theory, pervesrse sheaf theory**. 在定义 TQFT 的 target 范畴，即用于模拟拓扑的无穷代数范畴（定义这个无穷的代数范畴很难），可以**用多个 factorization algebra 粘出无穷范畴，类似于用双模连接代数，粘出一个无穷范畴**，见 33:00. 在 40:00 具体构造连接拓扑无穷范畴和代数无穷范畴的函子，将**整个流形 M 上的 factorization algebra 不断调整拉回到某种特殊拓扑对象 I 上的 factorization algebra, 这里的来回涉及到拓扑对象 M 到 I 的变换构造，这不是那么容易构造的**，类似于层的拉回。[Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=11) 2026-2-1 14:21 崇德苑 209 室
 
 
 
