@@ -3116,6 +3116,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 950. 在 1:00:00 有很具体的 factorization algebra 的例子。**代数模拟开集，双模模拟开集的粘接，（代数）结构映射模拟开集的嵌入**。[Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) 2026-2-1 13:53 崇德苑 209 室
 
+951. factorization algebra 类似于 **sheaf theory, topos theory, constructable sheaf theory, pervesrse sheaf theory**. [Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=11) 2026-2-1 14:21 崇德苑 209 室
+
 
 
      
