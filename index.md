@@ -3124,6 +3124,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 953. 高阶范畴在物理中的理解很自然：[TQFTs and Higher Categories](https://www.msri.org/workshops/906/schedules/27879) and [Claudia Scheimbauer-MSRI](https://www.slmath.org/people/40886?reDirectFrom=link) 分析学在物理中理解也很自然：[量子鬼道](https://space.bilibili.com/510673295?spm_id_from=333.337.0.0) 2026-2-3 14:02 崇德苑 209 室
 
+954. E_n 代数和分解代数都可以理解为**拓扑空间范畴的表示论**，而它们又可以作为 TQFT 的 target 范畴，即作为另一个拓扑空间范畴 Bord 的表示的目标范畴。2026-2-3 19:46 崇德苑 209 室
+
 
 
      
