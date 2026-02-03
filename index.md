@@ -391,7 +391,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) | [Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=11) | [Scheimbauer lecture 7](https://www.youtube.com/watch?v=02upJwCNht8&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=14) |
 [TQFTs and Higher Categories](https://www.msri.org/workshops/906/schedules/27879) | [Claudia Scheimbauer-MSRI](https://www.slmath.org/people/40886?reDirectFrom=link) | [量子鬼道](https://space.bilibili.com/510673295?spm_id_from=333.337.0.0) |
 [Introduction to higher categories, dualizability, and applications to topological field theories](https://www.slmath.org/workshops/907/schedules/27954) | [Connections for Women: Higher Categories and Categorification](https://www.slmath.org/workshops/907) | [Introductory Workshop: Quantum Symmetries](https://www.slmath.org/workshops/906) |
-[Moved Online-Tensor categories and topological quantum field theories](https://www.slmath.org/workshops/917) |
+[Moved Online-Tensor categories and topological quantum field theories](https://www.slmath.org/workshops/917) | [A survey of factorization algebras in TFTs](https://www.slmath.org/workshops/917/schedules/28171) |
 
 
 
