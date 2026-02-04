@@ -391,7 +391,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=10) | [Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=11) | [Scheimbauer lecture 7](https://www.youtube.com/watch?v=02upJwCNht8&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=14) |
 [TQFTs and Higher Categories](https://www.msri.org/workshops/906/schedules/27879) | [Claudia Scheimbauer-MSRI](https://www.slmath.org/people/40886?reDirectFrom=link) | [量子鬼道](https://space.bilibili.com/510673295?spm_id_from=333.337.0.0) |
 [Introduction to higher categories, dualizability, and applications to topological field theories](https://www.slmath.org/workshops/907/schedules/27954) | [Connections for Women: Higher Categories and Categorification](https://www.slmath.org/workshops/907) | [Introductory Workshop: Quantum Symmetries](https://www.slmath.org/workshops/906) |
-[Moved Online-Tensor categories and topological quantum field theories](https://www.slmath.org/workshops/917) | [A survey of factorization algebras in TFTs](https://www.slmath.org/workshops/917/schedules/28171) |
+[Moved Online-Tensor categories and topological quantum field theories](https://www.slmath.org/workshops/917) | [A survey of factorization algebras in TFTs](https://www.slmath.org/workshops/917/schedules/28171) | [【讲座】量子力学与几何](https://www.bilibili.com/video/BV1KiojYkEXg/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[浙大_袁野_2020年秋《量子场论(I)》](https://www.bilibili.com/video/BV1pi4y1r7EZ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -3125,6 +3126,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 953. 高阶范畴在物理中的理解很自然：[TQFTs and Higher Categories](https://www.msri.org/workshops/906/schedules/27879) and [Claudia Scheimbauer-MSRI](https://www.slmath.org/people/40886?reDirectFrom=link) 分析学在物理中理解也很自然：[量子鬼道](https://space.bilibili.com/510673295?spm_id_from=333.337.0.0) 2026-2-3 14:02 崇德苑 209 室
 
 954. E_n 代数和分解代数都可以理解为**拓扑空间范畴的表示论**，而它们又可以作为 TQFT 的 target 范畴，即作为另一个拓扑空间范畴 Bord 的表示的目标范畴。2026-2-3 19:46 崇德苑 209 室
+
+955. 终于对量子化、形变有了更深刻的理解了：[【讲座】量子力学与几何](https://www.bilibili.com/video/BV1KiojYkEXg/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 对理解怎么使用数学去探究物理有了大致的了解：[浙大_袁野_2020年秋《量子场论(I)》](https://www.bilibili.com/video/BV1pi4y1r7EZ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-2-4 13:30 崇德苑 209 室
 
 
 
