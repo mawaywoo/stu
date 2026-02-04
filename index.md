@@ -392,7 +392,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [TQFTs and Higher Categories](https://www.msri.org/workshops/906/schedules/27879) | [Claudia Scheimbauer-MSRI](https://www.slmath.org/people/40886?reDirectFrom=link) | [量子鬼道](https://space.bilibili.com/510673295?spm_id_from=333.337.0.0) |
 [Introduction to higher categories, dualizability, and applications to topological field theories](https://www.slmath.org/workshops/907/schedules/27954) | [Connections for Women: Higher Categories and Categorification](https://www.slmath.org/workshops/907) | [Introductory Workshop: Quantum Symmetries](https://www.slmath.org/workshops/906) |
 [Moved Online-Tensor categories and topological quantum field theories](https://www.slmath.org/workshops/917) | [A survey of factorization algebras in TFTs](https://www.slmath.org/workshops/917/schedules/28171) | [【讲座】量子力学与几何](https://www.bilibili.com/video/BV1KiojYkEXg/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
-[浙大_袁野_2020年秋《量子场论(I)》](https://www.bilibili.com/video/BV1pi4y1r7EZ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[浙大_袁野_2020年秋《量子场论(I)》](https://www.bilibili.com/video/BV1pi4y1r7EZ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Claudia Scheimbauer - Higher Morita categories](https://www.youtube.com/watch?v=P50Tj58FTxg&t=1106s) |
 
 
 
