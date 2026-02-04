@@ -3130,6 +3130,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 955. 终于对量子化、形变有了更深刻的理解了：[【讲座】量子力学与几何](https://www.bilibili.com/video/BV1KiojYkEXg/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 对理解怎么使用数学去探究物理有了大致的了解：[浙大_袁野_2020年秋《量子场论(I)》](https://www.bilibili.com/video/BV1pi4y1r7EZ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-2-4 13:30 崇德苑 209 室
 
+956. 为什么按亏格增长的 TQFT 不可行？在视频开头有解释：因为模拟它的代数范畴很复杂。[Christopher Douglas - Extended field theories in dimension 3, tensor categories, and Hopf algebras](https://www.youtube.com/watch?v=Us8ws6doEbE&list=PL0a6GqRfGOz1q5f5ogPGpUNA-wNerDElp&index=2) 2026-2-4 21:21 崇德苑 209 室
+
 
 
      
