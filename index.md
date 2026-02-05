@@ -394,6 +394,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Moved Online-Tensor categories and topological quantum field theories](https://www.slmath.org/workshops/917) | [A survey of factorization algebras in TFTs](https://www.slmath.org/workshops/917/schedules/28171) | [【讲座】量子力学与几何](https://www.bilibili.com/video/BV1KiojYkEXg/?spm_id_from=333.1007.top_right_bar_window_default_collection.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [浙大_袁野_2020年秋《量子场论(I)》](https://www.bilibili.com/video/BV1pi4y1r7EZ/?spm_id_from=333.1387.homepage.video_card.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Claudia Scheimbauer - Higher Morita categories](https://www.youtube.com/watch?v=P50Tj58FTxg&t=1106s) | [【格致论坛】现代几何与理论物理__王一男（北京大学物理学院）November 19, 2021](https://www.bilibili.com/video/BV14b4y137LT/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [Christopher Douglas - Topological field theory in dimensions 1 and 2](https://www.youtube.com/watch?v=54f0_dg4Hl4&t=41s) | [IMPA Meeting: Quantum Groups and 3-Manifold Invariants](https://www.youtube.com/playlist?list=PL0a6GqRfGOz1q5f5ogPGpUNA-wNerDElp) | [David Ben-Zvi](https://www.youtube.com/results?search_query=david+ben-zvi) |
+[Claudia Scheimbauer - A universal property of the higher category of spans and finite gauge theory](https://www.youtube.com/watch?v=yEwz-p7D1zA) |
 
 
 
