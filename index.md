@@ -3134,6 +3134,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 956. 为什么按亏格增长的 TQFT 不可行？在视频开头有解释：因为模拟它的代数范畴很复杂。[Christopher Douglas - Extended field theories in dimension 3, tensor categories, and Hopf algebras](https://www.youtube.com/watch?v=Us8ws6doEbE&list=PL0a6GqRfGOz1q5f5ogPGpUNA-wNerDElp&index=2) 2026-2-4 21:21 崇德苑 209 室
 
+957. 1.重点应该放在有一个无穷范畴，怎么操纵它，怎么往里面加东西，而不用纠结怎么看清无穷范畴；使用和操纵无穷范畴的数据，而不纠结怎么看清无穷范畴内部，“使用和操纵”是可以一些可以看清的“规则”，因此是有限且容易的；对无穷范畴施加各种可操作的规则，目标是弄清这些作用规则间的关系，而不是去分析被作用对象本身。2.通过施加各种明确规则，去探测无穷结构本身，规则是容易想清楚的，无穷结构却是难以把握的。3.双模，span都常用来模拟“连接”。4.我们直接计算和推理的是规则，而不是无穷结构本身。 2026-2-6 14:20 崇德苑 209 室
+
 
 
      
