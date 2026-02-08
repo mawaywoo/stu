@@ -396,6 +396,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Christopher Douglas - Topological field theory in dimensions 1 and 2](https://www.youtube.com/watch?v=54f0_dg4Hl4&t=41s) | [IMPA Meeting: Quantum Groups and 3-Manifold Invariants](https://www.youtube.com/playlist?list=PL0a6GqRfGOz1q5f5ogPGpUNA-wNerDElp) | [David Ben-Zvi](https://www.youtube.com/results?search_query=david+ben-zvi) |
 [Claudia Scheimbauer - A universal property of the higher category of spans and finite gauge theory](https://www.youtube.com/watch?v=yEwz-p7D1zA) | [FGC - Higher Structures Seminars](https://www.youtube.com/playlist?list=PLQsnDGjTk2vZGSSZ1dcrRVfXp62fnAKHj) | [David Ayala - Factorization homology of higher categories](https://www.youtube.com/watch?v=XCpKNlCOWM0&list=PLQsnDGjTk2vZGSSZ1dcrRVfXp62fnAKHj&index=42) |
 [Feza Gürsey Fizik ve Matematik Araştırma Merkezi](https://www.youtube.com/@fezagurseyfizikvematematik4516) | [量子故事会](https://www.youtube.com/playlist?list=PLYtoePJQbGmiO08bS7xF78czdQy6gDw9Q) | [Masterclass on nteractions between homotopy theory and representation theory](https://www.youtube.com/playlist?list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b) |
+[Categorical tools in low-dimensional quantum field theory (2024-08-20 ~ 2024-09-26)](https://www.youtube.com/playlist?list=PLg7CTkYyb580sJk6mjxqvz_jl24g4AMKp) |
 
 
 
