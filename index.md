@@ -396,7 +396,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Christopher Douglas - Topological field theory in dimensions 1 and 2](https://www.youtube.com/watch?v=54f0_dg4Hl4&t=41s) | [IMPA Meeting: Quantum Groups and 3-Manifold Invariants](https://www.youtube.com/playlist?list=PL0a6GqRfGOz1q5f5ogPGpUNA-wNerDElp) | [David Ben-Zvi](https://www.youtube.com/results?search_query=david+ben-zvi) |
 [Claudia Scheimbauer - A universal property of the higher category of spans and finite gauge theory](https://www.youtube.com/watch?v=yEwz-p7D1zA) | [FGC - Higher Structures Seminars](https://www.youtube.com/playlist?list=PLQsnDGjTk2vZGSSZ1dcrRVfXp62fnAKHj) | [David Ayala - Factorization homology of higher categories](https://www.youtube.com/watch?v=XCpKNlCOWM0&list=PLQsnDGjTk2vZGSSZ1dcrRVfXp62fnAKHj&index=42) |
 [Feza Gürsey Fizik ve Matematik Araştırma Merkezi](https://www.youtube.com/@fezagurseyfizikvematematik4516) | [量子故事会](https://www.youtube.com/playlist?list=PLYtoePJQbGmiO08bS7xF78czdQy6gDw9Q) | [Masterclass on nteractions between homotopy theory and representation theory](https://www.youtube.com/playlist?list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b) |
-[Categorical tools in low-dimensional quantum field theory (2024-08-20 ~ 2024-09-26)](https://www.youtube.com/playlist?list=PLg7CTkYyb580sJk6mjxqvz_jl24g4AMKp) |
+[Categorical tools in low-dimensional quantum field theory (2024-08-20 ~ 2024-09-26)](https://www.youtube.com/playlist?list=PLg7CTkYyb580sJk6mjxqvz_jl24g4AMKp) | [我們真的活在十維時空裡嗎?丘成桐院士從幾何和弦論談空間的內在形狀](https://www.youtube.com/watch?v=KYRLFw7i79w) |
 
 
 
@@ -3140,6 +3140,10 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 958.很好的科普视频，第 4 个视频介绍了量子的来源：[量子故事会](https://www.youtube.com/playlist?list=PLYtoePJQbGmiO08bS7xF78czdQy6gDw9Q) 2026-2-6 23:56 崇德苑 209 室
 
 959. **operad = remember order = weak composite**, good book: [Higher-dimensional categories: an illustrated guide book](https://zh.zlib.li/book/571642/1bc32b/higherdimensional-categories-an-illustrated-guide-book.html) 2026-2-9 15:47 崇德苑 209 室
+
+960. 最近学了很多理论物理的知识，期初是因为想从物理的角度去了解拓扑量子场论，在这个视频终于了解到了卡拉比-丘空间以及镜像对称在物理上的位置。[我們真的活在十維時空裡嗎?丘成桐院士從幾何和弦論談空間的內在形狀](https://www.youtube.com/watch?v=KYRLFw7i79w) 2026-2-9 23:52 崇德苑 209 室
+
+
 
 
 
