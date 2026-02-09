@@ -3139,6 +3139,9 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 958.很好的科普视频，第 4 个视频介绍了量子的来源：[量子故事会](https://www.youtube.com/playlist?list=PLYtoePJQbGmiO08bS7xF78czdQy6gDw9Q) 2026-2-6 23:56 崇德苑 209 室
 
+959. **operad = remember order = weak composite**, good book: [Higher-dimensional categories: an illustrated guide book](https://zh.zlib.li/book/571642/1bc32b/higherdimensional-categories-an-illustrated-guide-book.html) 2026-2-9 15:47 崇德苑 209 室
+
+
 
 
 
