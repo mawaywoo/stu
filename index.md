@@ -1,6 +1,6 @@
 # Maway Woo's Home Page
 
-1.**数据的打碎重组** 2.**上升-下降模式规避无穷等复杂度（945）**
+1.**数据的打碎重组** 2.**数据的对偶互补（961）** 3.**上升-下降模式规避无穷等复杂度（945）**
 
 ![ME](https://github.com/mawaywoo/stu/blob/main/psb.jpg)
 
@@ -397,7 +397,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Claudia Scheimbauer - A universal property of the higher category of spans and finite gauge theory](https://www.youtube.com/watch?v=yEwz-p7D1zA) | [FGC - Higher Structures Seminars](https://www.youtube.com/playlist?list=PLQsnDGjTk2vZGSSZ1dcrRVfXp62fnAKHj) | [David Ayala - Factorization homology of higher categories](https://www.youtube.com/watch?v=XCpKNlCOWM0&list=PLQsnDGjTk2vZGSSZ1dcrRVfXp62fnAKHj&index=42) |
 [Feza Gürsey Fizik ve Matematik Araştırma Merkezi](https://www.youtube.com/@fezagurseyfizikvematematik4516) | [量子故事会](https://www.youtube.com/playlist?list=PLYtoePJQbGmiO08bS7xF78czdQy6gDw9Q) | [Masterclass on nteractions between homotopy theory and representation theory](https://www.youtube.com/playlist?list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b) |
 [Categorical tools in low-dimensional quantum field theory (2024-08-20 ~ 2024-09-26)](https://www.youtube.com/playlist?list=PLg7CTkYyb580sJk6mjxqvz_jl24g4AMKp) | [我們真的活在十維時空裡嗎?丘成桐院士從幾何和弦論談空間的內在形狀](https://www.youtube.com/watch?v=KYRLFw7i79w) | [廣義相對論與數學 丘成桐 探索講座〖一方程式見宇宙〗](https://www.youtube.com/watch?v=DQqjQo-NiRw&t=27s) |
-[The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2357s) |
+[The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2357s) | [【习题讨论小组1】拓扑序简介（张智浩）](https://www.bilibili.com/video/BV1uy4y1M7PY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 
 
 
@@ -3146,7 +3146,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 961. a.无穷范畴在几何、拓扑中很自然出现；b.分层拓扑空间可以把奇异部分分割掉；c.可构造层的关键信息在于不同部分的接口，而exit path范畴记录的正是接口的信息；d.**除了数据的打碎重组，另一个比较的方式是：对偶，对偶 = 数据的互补部分，如果某个对应不容易看成是数据的打碎重组，那就基本上可看成是数据的互补，如 Galois 对应等**。44:30 [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2357s) 2026-2-12 14:55 崇德苑 209 室
 
-962. 2026-2-12 14:75 崇德苑 209 室
+962. 该视频解释得很易懂，特别涉及为什么拓扑量子场论需要用到范畴论。[【习题讨论小组1】拓扑序简介（张智浩）](https://www.bilibili.com/video/BV1uy4y1M7PY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-2-12 14:75 崇德苑 209 室
 
 
 
