@@ -397,7 +397,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Claudia Scheimbauer - A universal property of the higher category of spans and finite gauge theory](https://www.youtube.com/watch?v=yEwz-p7D1zA) | [FGC - Higher Structures Seminars](https://www.youtube.com/playlist?list=PLQsnDGjTk2vZGSSZ1dcrRVfXp62fnAKHj) | [David Ayala - Factorization homology of higher categories](https://www.youtube.com/watch?v=XCpKNlCOWM0&list=PLQsnDGjTk2vZGSSZ1dcrRVfXp62fnAKHj&index=42) |
 [Feza Gürsey Fizik ve Matematik Araştırma Merkezi](https://www.youtube.com/@fezagurseyfizikvematematik4516) | [量子故事会](https://www.youtube.com/playlist?list=PLYtoePJQbGmiO08bS7xF78czdQy6gDw9Q) | [Masterclass on nteractions between homotopy theory and representation theory](https://www.youtube.com/playlist?list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b) |
 [Categorical tools in low-dimensional quantum field theory (2024-08-20 ~ 2024-09-26)](https://www.youtube.com/playlist?list=PLg7CTkYyb580sJk6mjxqvz_jl24g4AMKp) | [我們真的活在十維時空裡嗎?丘成桐院士從幾何和弦論談空間的內在形狀](https://www.youtube.com/watch?v=KYRLFw7i79w) | [廣義相對論與數學 丘成桐 探索講座〖一方程式見宇宙〗](https://www.youtube.com/watch?v=DQqjQo-NiRw&t=27s) |
-[The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2357s) | [【习题讨论小组1】拓扑序简介（张智浩）](https://www.bilibili.com/video/BV1uy4y1M7PY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
+[The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2357s) | [【习题讨论小组1】拓扑序简介（张智浩）](https://www.bilibili.com/video/BV1uy4y1M7PY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [二维拓扑序系统边界态低能有效模型的相及相变 复旦理论物理报告会](https://www.youtube.com/watch?v=IS2mX96kKuI) |
+[复旦大学理论物理报告会](https://www.youtube.com/playlist?list=PLcXkpm2k3dBKeAw5xlMRLwGDGOrHBG6TA) |
 
 
 
