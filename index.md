@@ -3148,7 +3148,9 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 961. a.无穷范畴在几何、拓扑中很自然出现；b.分层拓扑空间可以把奇异部分分割掉；c.可构造层的关键信息在于不同部分的接口，而exit path范畴记录的正是接口的信息；d.**除了数据的打碎重组，另一个比较的方式是：对偶，对偶 = 数据的互补部分，如果某个对应不容易看成是数据的打碎重组，那就基本上可看成是数据的互补，如 Galois 对应等**。44:30 [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2357s) 2026-2-12 14:55 崇德苑 209 室
 
-962. 该视频解释得很易懂，特别涉及为什么拓扑量子场论需要用到范畴论。[【习题讨论小组1】拓扑序简介（张智浩）](https://www.bilibili.com/video/BV1uy4y1M7PY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-2-12 14:75 崇德苑 209 室
+962. 该视频解释得很易懂，特别涉及为什么拓扑量子场论需要用到范畴论。[【习题讨论小组1】拓扑序简介（张智浩）](https://www.bilibili.com/video/BV1uy4y1M7PY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-2-12 14:35 崇德苑 209 室
+
+963. 为什么 ∞-范畴其实并不难，因为**在精神上，我们完全可以把他们的结论当成是普通范畴来读**，只是在技术上要在 ∞-范畴中处理罢了————这是理解和接纳∞-范畴的钥匙。所以，**要理解无穷范畴的结论，首先搞懂普通范畴的情形**。2026-2-24 20:15 崇德苑 209 室
 
 
 
