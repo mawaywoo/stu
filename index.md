@@ -3160,6 +3160,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 963. 为什么 ∞-范畴其实并不难，因为**在精神上，我们完全可以把他们的结论当成是普通范畴来读**，只是在技术上要在 ∞-范畴中处理罢了——这是理解和接纳∞-范畴的钥匙。所以，**要理解无穷范畴的结论，首先搞懂普通范畴的情形**。2026-2-24 20:15 崇德苑 209 室
 
+964. 高阶模和通常模差不多，只是通常模的底是集合，高阶模的底可以是复杂的范畴，这点要习惯。[Enriched infty-categories as marked module categories](https://arxiv.org/abs/2501.07697) 2026-2-27 14:23 崇德苑 209 室
+
 
 
 
