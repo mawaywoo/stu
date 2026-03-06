@@ -3163,7 +3163,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 964. 高阶模和通常模差不多，只是通常模的底是集合，高阶模的底可以是复杂的范畴，这点要习惯。[Enriched infty-categories as marked module categories](https://arxiv.org/abs/2501.07697) 2026-2-27 14:23 崇德苑 209 室
 
 965. 可表 Segal 预层编码了 enriched 无穷范畴：F() 编码了对象空间，F(v) （+可表性）编码了态射空间。可表性的定义比较复杂，需要限制到两个对象上的纤维部分的函子的可表性，原因就是态射和两个对象的纤维有关，可表性编码的是两个对象的态射。[HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2026-3-5 22:48 崇德苑 209 室
-966. 
+
+966. **从一个好的无穷范畴 C 中**“构造”代数、双模等 Morita 范畴。[BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2026-3-6 13:10 湖光校区图书馆鲲园三楼 
 
 
 
