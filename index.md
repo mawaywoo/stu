@@ -407,7 +407,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2357s) | [【习题讨论小组1】拓扑序简介（张智浩）](https://www.bilibili.com/video/BV1uy4y1M7PY/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [二维拓扑序系统边界态低能有效模型的相及相变 复旦理论物理报告会](https://www.youtube.com/watch?v=IS2mX96kKuI) |
 [复旦大学理论物理报告会](https://www.youtube.com/playlist?list=PLcXkpm2k3dBKeAw5xlMRLwGDGOrHBG6TA) | [Symmetry Topological Field Theories 复旦理论物理报告会](https://www.youtube.com/watch?v=kWQMaWoXQQA&list=PLcXkpm2k3dBKeAw5xlMRLwGDGOrHBG6TA&index=25) | [PiTP 2015 - "Introduction to Topological and Conformal Field Theory (1 of 2)" - Robbert Dijkgraaf](https://www.youtube.com/watch?v=jEEQO-tcyHc) |
 [【纽约文化沙龙】第202期：理论物理是在干啥？](https://www.youtube.com/watch?v=FL8_mhZkp2Y) | [Claudia Scheimbauer - A factorization view on states/observables in topological field theories](https://www.youtube.com/watch?v=nN-qtnbtpW4) | [科学研究与论文写作-钟澄](https://zh.zlib.li/book/K9KmxAKe8d/%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C.html) |
-[科研论-钟澄](http://keyanlun.com/) | [最近收尾国自然本子的看过来 26-2-27更新](https://www.bilibili.com/video/BV1fcAUzoEW1/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | []() |
+[科研论-钟澄](http://keyanlun.com/) | [最近收尾国自然本子的看过来 26-2-27更新](https://www.bilibili.com/video/BV1fcAUzoEW1/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Julie Rasmusen - Overview of enriched infinity-categories](https://www.youtube.com/watch?v=7xYF7O013ds&t=1638s) |
 []() |
 
 
@@ -3164,7 +3164,9 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 965. 可表 Segal 预层编码了 enriched 无穷范畴：F() 编码了对象空间，F(v) （+可表性）编码了态射空间。可表性的定义比较复杂，需要限制到两个对象上的纤维部分的函子的可表性，原因就是态射和两个对象的纤维有关，可表性编码的是两个对象的态射。[HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2026-3-5 22:48 崇德苑 209 室
 
-966. **从一个好的无穷范畴 C 中**“构造”代数、双模等 Morita 范畴。[BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2026-3-6 13:10 湖光校区图书馆鲲园三楼 
+966. **从一个好的无穷范畴 C 中**“构造”代数、双模等 Morita 范畴。[BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2026-3-6 13:10 湖光校区图书馆鲲园三楼
+
+967. 数据的打碎重组。[Julie Rasmusen - Overview of enriched infinity-categories](https://www.youtube.com/watch?v=7xYF7O013ds&t=1638s) 2026-3-6 14:28 湖光校区图书馆鲲园三楼
 
 
 
