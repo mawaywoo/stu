@@ -3166,7 +3166,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 966. **从一个好的无穷范畴 C 中**“构造”代数、双模等 Morita 范畴。[BilTop Rune Haugseng Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8) 2026-3-6 13:10 湖光校区图书馆鲲园三楼
 
-967. 数据的打碎重组：各种 enriched infinity category 的思想都是**赋予每两个对象 x,y 一个 V 中的对象 v_{x,y}**，再用合适的方式（通过**函子或者multicategory**等）**把这些 v_{x,y} 组装起来**。[Julie Rasmusen - Overview of enriched infinity-categories](https://www.youtube.com/watch?v=7xYF7O013ds&t=1638s) 2026-3-6 14:28 湖光校区图书馆鲲园三楼
+967. 数据的打碎重组（**将 V-enriched 范畴中的各个态射 V 中的对象 C(x,y) 打碎重组为 multicategory 或者函子**）：各种 enriched infinity category 的思想都是**赋予每两个对象 x,y 一个 V 中的对象 C(x,y)**，再用合适的方式（通过**函子或者 multicategory** 等）**把这些 C(x,y) 组装起来**。各个 V 中的**对象 C(x,y) 的复合编码为 multicategory 的态射（多合到一）**，见 9:07。[Julie Rasmusen - Overview of enriched infinity-categories](https://www.youtube.com/watch?v=7xYF7O013ds&t=1638s) 2026-3-6 14:28 湖光校区图书馆鲲园三楼
 
 
 
