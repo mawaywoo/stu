@@ -3170,7 +3170,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 968. 在 monoid 中的张量（composition product/Kelly product）编码了 operad 中的 composition，这个和上一条的思想很类似。[Foling Zou presents "Unital Operads and Monoids"](https://www.youtube.com/watch?v=g6DwTiyLHgA) 2026-3-9 9:09 崇德苑 209 室
 
-969. 对于无穷范畴，**不能仅仅满足于知道 slogan，而要真正掌握具体实现**，如同伦猜想，具体的 space 和 infinity-groupoid 的定义是什么，这个等价具体怎么实现的等等。32:38 还解释了为什么拟范畴是 (infinity, 1)-范畴。[An elementary introduction to (infinity,1)-categories via quasi-categories](https://www.youtube.com/watch?v=L9T9df1Y3_w&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=1) 2026-3-12 11:04 崇德苑 209 室
+969. 对于无穷范畴，**不能仅仅满足于知道 slogan，而要真正掌握具体实现**，如同伦猜想，具体的 space 和 infinity-groupoid 的定义是什么，这个等价具体怎么实现的等等。32:38 还解释了为什么拟范畴是 (infinity, 1)-范畴。**要掌握无穷范畴，不能仅知道 slogan，更要落脚于具体实现（这才能更真切地感受到无穷范畴的魅力）**。[An elementary introduction to (infinity,1)-categories via quasi-categories](https://www.youtube.com/watch?v=L9T9df1Y3_w&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=1) 2026-3-12 11:04 崇德苑 209 室
 
 
 
