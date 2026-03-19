@@ -3178,7 +3178,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 971. 一个 **∞-范畴 = 无穷态射 + 无穷同伦**（单纯集储存了各阶态射和各阶同伦这些数据），对某一个具体的概念，弄清楚它**到底用了 ∞-范畴的哪部分信息**？（例如只用到了对象？只用到 1-态射？）2026-3-19 10:05 崇德苑 209 室。
 
-972. 关键在于：**如何有序地储存无穷数据**。[HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2026-3-19 11:29 崇德苑 209 室
+972. 关键在于：**如何有序地储存无穷数据**。所以要弄清楚**要储存的无穷数据有哪些？到底怎么安放它们？**[HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2026-3-19 11:29 崇德苑 209 室
 
 
 
