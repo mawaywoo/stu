@@ -3172,11 +3172,13 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 968. 在 monoid 中的张量（composition product/Kelly product）编码了 operad 中的 composition，这个和上一条的思想很类似。[Foling Zou presents "Unital Operads and Monoids"](https://www.youtube.com/watch?v=g6DwTiyLHgA) 2026-3-9 9:09 崇德苑 209 室
 
-969. 对于无穷范畴，**不能仅仅满足于知道 slogan，而要真正掌握具体实现**，如同伦猜想，具体的 space 和 infinity-groupoid 的定义是什么，这个等价具体怎么实现的等等。32:38 还解释了为什么拟范畴是 (infinity, 1)-范畴。**要掌握无穷范畴，不能仅知道 slogan，更要落脚于具体实现（这才能更真切地感受到无穷范畴的魅力），仅知道 slogan 就会止于表面，永远很难真正扎进去**，见 41:23 对 Hom 空间可缩性的低维展示。[An elementary introduction to (infinity,1)-categories via quasi-categories](https://www.youtube.com/watch?v=L9T9df1Y3_w&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=1) 2026-3-12 11:04 崇德苑 209 室。
+969. 对于无穷范畴，**不能仅仅满足于知道 slogan，而要真正掌握具体实现**，如同伦猜想，具体的 space 和 infinity-groupoid 的定义是什么，这个等价具体怎么实现的等等。32:38 还解释了为什么拟范畴是 (infinity, 1)-范畴。**要掌握无穷范畴，不能仅知道 slogan，更要落脚于具体实现（这才能更真切地感受到无穷范畴的魅力），仅知道 slogan 就会止于表面，永远很难真正扎进去**，见 41:23 对 Hom 空间可缩性的低维展示。[An elementary introduction to (infinity,1)-categories via quasi-categories](https://www.youtube.com/watch?v=L9T9df1Y3_w&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=1) 2026-3-12 11:04 崇德苑 209 室
 
-970. **知道 slogan 只能止于表面**。现在看 ∞-范畴理论不仅仅是看 slogan，而是要弄清楚实现该 slogan 的具体数据。即**每个概念背后的具体数据所指**。2026-3-17 10:25 崇德苑 209 室。
+970. **知道 slogan 只能止于表面**。现在看 ∞-范畴理论不仅仅是看 slogan，而是要弄清楚实现该 slogan 的具体数据。即**每个概念背后的具体数据所指**。2026-3-17 10:25 崇德苑 209 室
 
 971. 一个 **∞-范畴 = 无穷态射 + 无穷同伦**（单纯集储存了各阶态射和各阶同伦这些数据），对某一个具体的概念，弄清楚它**到底用了 ∞-范畴的哪部分信息**？（例如只用到了对象？只用到 1-态射？）2026-3-19 10:05 崇德苑 209 室。
+
+972. 关键在于：**如何有序地储存无穷数据**。[HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2026-3-19 11:29 崇德苑 209 室
 
 
 
