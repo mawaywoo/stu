@@ -409,7 +409,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [【纽约文化沙龙】第202期：理论物理是在干啥？](https://www.youtube.com/watch?v=FL8_mhZkp2Y) | [Claudia Scheimbauer - A factorization view on states/observables in topological field theories](https://www.youtube.com/watch?v=nN-qtnbtpW4) | [科学研究与论文写作-钟澄](https://zh.zlib.li/book/K9KmxAKe8d/%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E4%B8%8E%E8%AE%BA%E6%96%87%E5%86%99%E4%BD%9C.html) |
 [科研论-钟澄](http://keyanlun.com/) | [最近收尾国自然本子的看过来 26-2-27更新](https://www.bilibili.com/video/BV1fcAUzoEW1/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Julie Rasmusen - Overview of enriched infinity-categories](https://www.youtube.com/watch?v=7xYF7O013ds&t=1638s) |
 [JulieRasmusen](https://sites.google.com/view/julierasmusen/writings) | [An elementary introduction to (infinity,1)-categories via quasi-categories](https://www.youtube.com/watch?v=L9T9df1Y3_w&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=1) | [Gustavo Jasso: Exact ∞-categories](https://www.youtube.com/watch?v=75cjjWegL3M) |
-[Introduction to Infinity-one-categories A. Pavlov](https://www.youtube.com/playlist?list=PLq3E5oubNNoB4f59CLrsDUcSIN0Y3rdZf) |
+[Introduction to Infinity-one-categories A. Pavlov](https://www.youtube.com/playlist?list=PLq3E5oubNNoB4f59CLrsDUcSIN0Y3rdZf) | [Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA&t=112s) |
 
 
 
@@ -3179,6 +3179,9 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 971. 一个 **∞-范畴 = 无穷态射 + 无穷同伦**（单纯集储存了各阶态射和各阶同伦这些数据），对某一个具体的概念，弄清楚它**到底用了 ∞-范畴的哪部分信息**？（例如只用到了对象？只用到 1-态射？）2026-3-19 10:05 崇德苑 209 室。
 
 972. 关键在于：**如何有序地储存无穷数据**。所以要弄清楚**要储存的无穷数据有哪些？到底怎么安放它们？**[HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2026-3-19 11:29 崇德苑 209 室
+
+973. **两种储存无穷数据方式的比较：树状储存和线状储存**。[Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA&t=112s) 2026-3-19 15:49 崇德苑 209 室
+
 
 
 
