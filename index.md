@@ -3182,6 +3182,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 973. **两种储存无穷数据方式的比较：树状储存和线状储存**。[Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA&t=112s) 2026-3-19 15:49 崇德苑 209 室
 
+974. **operad P 的作用**之一就是可以**储存各阶同伦数据**：P(n) 储存所有 n 个复合为 1 个的所有同伦。[Francesca Pratali - (infinity-)Operads in chains: A tree-like approach](https://www.bilibili.com/video/BV1cr421h73A/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-3-22 15:06 崇德苑 209 室
+
 
 
 
