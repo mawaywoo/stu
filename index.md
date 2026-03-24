@@ -3190,6 +3190,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 976. 双范畴可以视为单纯集（范畴对象），**2-范畴**是特殊的双范畴，因此可以**视为特殊的范畴对象**（X_0 离散），见 7:06。单纯集 delta 中的**态射**可以**视为**某些**子集**，见 14:16，高阶范畴中常用这个观点，比如 Rune 的高阶 Morita 理论。[Simona Paoli: "Simplicial delta versus fat delta in higher category theory"](https://www.youtube.com/watch?v=AwEPPTyoCNI) 2026-3-24 10:20 崇德苑 209 室
 
+977. 现在终于能看懂了。[MSRI Infinity categories and why they are useful](https://www.bilibili.com/video/BV1vb411m7fh/?share_source=copy_web&vd_source=c2167ca5f88bbe68590458be4a19eeb2) 2026-3-24 23:54 崇德苑 209 室
+
 
 
 
