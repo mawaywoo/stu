@@ -411,7 +411,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [JulieRasmusen](https://sites.google.com/view/julierasmusen/writings) | [An elementary introduction to (infinity,1)-categories via quasi-categories](https://www.youtube.com/watch?v=L9T9df1Y3_w&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=1) | [Gustavo Jasso: Exact ∞-categories](https://www.youtube.com/watch?v=75cjjWegL3M) |
 [Introduction to Infinity-one-categories A. Pavlov](https://www.youtube.com/playlist?list=PLq3E5oubNNoB4f59CLrsDUcSIN0Y3rdZf) | [Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA&t=112s) | [Simona Paoli - The weakly globular approach to higher categories](https://www.bilibili.com/video/BV1oq9JYoEjk?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [A Gentle Introduction to Algebraic Operads (Felicia Ferraioli)](https://www.youtube.com/watch?v=NL2BjrKzzoI) | [Simona Paoli](https://www.youtube.com/results?search_query=Simona+Paoli) | [Simona Paoli: "Simplicial delta versus fat delta in higher category theory"](https://www.youtube.com/watch?v=AwEPPTyoCNI) |
-[Chris Schommer-Pries: The unicity of the homotopy theory of higher categories](https://www.youtube.com/watch?v=52HujNvYbAY&t=369s) |
+[Chris Schommer-Pries: The unicity of the homotopy theory of higher categories](https://www.youtube.com/watch?v=52HujNvYbAY&t=369s) | [ HHHW01 Prof. Thomas Nikolaus Higher categories and algebraic K-theory (1)](https://www.youtube.com/watch?v=2lVuXTVbv1s) |
 
 
 
@@ -3191,6 +3191,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 976. 双范畴可以视为单纯集（范畴对象），**2-范畴**是特殊的双范畴，因此可以**视为特殊的范畴对象**（X_0 离散），见 7:06。单纯集 delta 中的**态射**可以**视为**某些**子集**，见 14:16，高阶范畴中常用这个观点，比如 Rune 的高阶 Morita 理论。[Simona Paoli: "Simplicial delta versus fat delta in higher category theory"](https://www.youtube.com/watch?v=AwEPPTyoCNI) 2026-3-24 10:20 崇德苑 209 室
 
 977. 现在终于能看懂了。[MSRI Infinity categories and why they are useful](https://www.bilibili.com/video/BV1vb411m7fh/?share_source=copy_web&vd_source=c2167ca5f88bbe68590458be4a19eeb2) 2026-3-24 23:54 崇德苑 209 室
+
+978. 高阶群完备用右伴随定义，**没有给出它的具体模型，用万有性定义**；将某些交换图换到它的伴随图也许变得简单（**一对伴随通常都是一半复杂，另一半就简单**）[HHHW01 Prof. Thomas Nikolaus Higher categories and algebraic K-theory (1)](https://www.youtube.com/watch?v=2lVuXTVbv1s) 2026-3-25 14:23 崇德苑 209 室
 
 
 
