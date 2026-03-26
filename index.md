@@ -3195,7 +3195,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 978. 高阶群完备用右伴随定义，**没有给出它的具体模型，用万有性定义**；将某些交换图换到它的伴随图也许变得简单（**一对伴随通常都是一半复杂，另一半就简单**）[HHHW01 Prof. Thomas Nikolaus Higher categories and algebraic K-theory (1)](https://www.youtube.com/watch?v=2lVuXTVbv1s) 2026-3-25 14:23 崇德苑 209 室
 
-979. 之前对 Segal map 的定义域理解有偏差：**X(x_1,...,x_n) 不是理解为 n 个态射的复合，而是理解为一个以 x_i 为顶点的 n-单纯形**，见 20:54 [Enriched Segal categories as models for weakly enriched categories](https://www.youtube.com/watch?v=XYUtw4uBnRk&t=456s) 2026-3-26 10:40 崇德苑 209 室
+979. 之前对 Segal map 的定义域理解有偏差：**X(x_1,...,x_n) 不是理解为 n 个态射的复合，而是理解为一个以 x_i 为顶点的 n-单纯形**，见 20:54；在 23:52 中可以看见 Segal map 如何定义高阶态射的复合。由此可知，**Segal map 编码的就是同伦数据**。[Enriched Segal categories as models for weakly enriched categories](https://www.youtube.com/watch?v=XYUtw4uBnRk&t=456s) 2026-3-26 10:40 崇德苑 209 室
 
 
 
