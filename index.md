@@ -413,7 +413,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [A Gentle Introduction to Algebraic Operads (Felicia Ferraioli)](https://www.youtube.com/watch?v=NL2BjrKzzoI) | [Simona Paoli](https://www.youtube.com/results?search_query=Simona+Paoli) | [Simona Paoli: "Simplicial delta versus fat delta in higher category theory"](https://www.youtube.com/watch?v=AwEPPTyoCNI) |
 [Chris Schommer-Pries: The unicity of the homotopy theory of higher categories](https://www.youtube.com/watch?v=52HujNvYbAY&t=369s) | [HHHW01 Prof. Thomas Nikolaus Higher categories and algebraic K-theory (1)](https://www.youtube.com/watch?v=2lVuXTVbv1s) | [HHHW01 Prof. Thomas Nikolaus Higher categories and algebraic K-theory (2)](https://www.youtube.com/watch?v=mXYu5rxzzMM) |
 [Enriched Segal categories as models for weakly enriched categories](https://www.youtube.com/watch?v=XYUtw4uBnRk) | [Rune Haugseng: "Commutative rings, bispans, and their equivariant analogues"](https://www.youtube.com/live/EqF7611I2Ts) | [2026-03-12 Tangent Categories a mini course by Marcello Lanfranchi](https://youtu.be/01Vb5WE0Lus) |
-[]() |
+[BilTop Walker Stern Quasi-categories and simplicially enriched categories](https://www.youtube.com/watch?v=UMQcnkbi1xA) |
 
 
 
