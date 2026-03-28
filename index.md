@@ -412,7 +412,8 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Introduction to Infinity-one-categories A. Pavlov](https://www.youtube.com/playlist?list=PLq3E5oubNNoB4f59CLrsDUcSIN0Y3rdZf) | [Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA&t=112s) | [Simona Paoli - The weakly globular approach to higher categories](https://www.bilibili.com/video/BV1oq9JYoEjk?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [A Gentle Introduction to Algebraic Operads (Felicia Ferraioli)](https://www.youtube.com/watch?v=NL2BjrKzzoI) | [Simona Paoli](https://www.youtube.com/results?search_query=Simona+Paoli) | [Simona Paoli: "Simplicial delta versus fat delta in higher category theory"](https://www.youtube.com/watch?v=AwEPPTyoCNI) |
 [Chris Schommer-Pries: The unicity of the homotopy theory of higher categories](https://www.youtube.com/watch?v=52HujNvYbAY&t=369s) | [HHHW01 Prof. Thomas Nikolaus Higher categories and algebraic K-theory (1)](https://www.youtube.com/watch?v=2lVuXTVbv1s) | [HHHW01 Prof. Thomas Nikolaus Higher categories and algebraic K-theory (2)](https://www.youtube.com/watch?v=mXYu5rxzzMM) |
-[Enriched Segal categories as models for weakly enriched categories](https://www.youtube.com/watch?v=XYUtw4uBnRk) |
+[Enriched Segal categories as models for weakly enriched categories](https://www.youtube.com/watch?v=XYUtw4uBnRk) | [Rune Haugseng: "Commutative rings, bispans, and their equivariant analogues"](https://www.youtube.com/live/EqF7611I2Ts) | [2026-03-12 Tangent Categories a mini course by Marcello Lanfranchi](https://youtu.be/01Vb5WE0Lus) |
+[]() |
 
 
 
@@ -3196,6 +3197,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 978. 高阶群完备用右伴随定义，**没有给出它的具体模型，用万有性定义**；将某些交换图换到它的伴随图也许变得简单（**一对伴随通常都是一半复杂，另一半就简单**）[HHHW01 Prof. Thomas Nikolaus Higher categories and algebraic K-theory (1)](https://www.youtube.com/watch?v=2lVuXTVbv1s) 2026-3-25 14:23 崇德苑 209 室
 
 979. 之前对 Segal map 的定义域理解有偏差：**X(x_1,...,x_n) 不是理解为 n 个态射的复合，而是理解为一个以 x_i 为顶点的 n-单纯形**，见 20:54；在 23:52 中可以看见 Segal map 如何定义高阶态射的复合。由此可知，**Segal map 编码的就是同伦数据**；在定义高阶范畴时，其实实质**在用范畴数据定义“几何/单纯集”**，所以基本构件：**点，线，面，体...的定义就很重要，比如对点定义为一个点，还是可缩空间，由 Segal map 结合这些基本构件产生的无穷范畴/无穷几何就会很不一样**，34:55；要学会**用几何的观点去理解各种组合范畴**，如 delta，fin_* 等。[Enriched Segal categories as models for weakly enriched categories](https://www.youtube.com/watch?v=XYUtw4uBnRk&t=456s) 2026-3-26 10:40 崇德苑 209 室
+
+980. **从几何和拓扑的角度去理解各种组合范畴**，进而理解高阶范畴。2026-3-28 12:23 崇德苑 209 室
 
 
 
