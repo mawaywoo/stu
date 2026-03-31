@@ -3200,6 +3200,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 980. **从几何和拓扑的角度去理解各种组合范畴**，进而理解高阶范畴。2026-3-28 12:23 崇德苑 209 室
 
+981. 由 DK 对应：复形 <——> 单纯对象，所以**复形编码的也是一个几何/拓扑对象**，所以 dg-范畴是无穷范畴。2026-3-31 10:43 崇德苑 209 室
+
 
 
 
