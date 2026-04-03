@@ -413,7 +413,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [A Gentle Introduction to Algebraic Operads (Felicia Ferraioli)](https://www.youtube.com/watch?v=NL2BjrKzzoI) | [Simona Paoli](https://www.youtube.com/results?search_query=Simona+Paoli) | [Simona Paoli: "Simplicial delta versus fat delta in higher category theory"](https://www.youtube.com/watch?v=AwEPPTyoCNI) |
 [Chris Schommer-Pries: The unicity of the homotopy theory of higher categories](https://www.youtube.com/watch?v=52HujNvYbAY&t=369s) | [HHHW01 Prof. Thomas Nikolaus Higher categories and algebraic K-theory (1)](https://www.youtube.com/watch?v=2lVuXTVbv1s) | [HHHW01 Prof. Thomas Nikolaus Higher categories and algebraic K-theory (2)](https://www.youtube.com/watch?v=mXYu5rxzzMM) |
 [Enriched Segal categories as models for weakly enriched categories](https://www.youtube.com/watch?v=XYUtw4uBnRk) | [Rune Haugseng: "Commutative rings, bispans, and their equivariant analogues"](https://www.youtube.com/live/EqF7611I2Ts) | [2026-03-12 Tangent Categories a mini course by Marcello Lanfranchi](https://youtu.be/01Vb5WE0Lus) |
-[BilTop Walker Stern Quasi-categories and simplicially enriched categories](https://www.youtube.com/watch?v=UMQcnkbi1xA) | [Walker Stern - A story about spans](https://youtu.be/uZNeI9PvwTY) |
+[BilTop Walker Stern Quasi-categories and simplicially enriched categories](https://www.youtube.com/watch?v=UMQcnkbi1xA) | [Walker Stern - A story about spans](https://youtu.be/uZNeI9PvwTY) | [Saul Glasman-Some topics in stratified higher category theory](https://videos.birs.ca/2018/18w5147/201805081630-Glasman.mp4) |
 
 
 
@@ -3201,6 +3201,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 980. **从几何和拓扑的角度去理解各种组合范畴**，进而理解高阶范畴。2026-3-28 12:23 崇德苑 209 室
 
 981. 由 DK 对应：复形 <——> 单纯对象，所以**复形编码的也是一个几何/拓扑对象**，所以 dg-范畴是无穷范畴。2026-3-31 10:43 崇德苑 209 室
+
+982. 真正在应用中理解高阶范畴。[Saul Glasman-Some topics in stratified higher category theory](https://videos.birs.ca/2018/18w5147/201805081630-Glasman.mp4) 2026-4-3 12:21 湖光鲲园图书馆
 
 
 
