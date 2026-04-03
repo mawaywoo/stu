@@ -3206,7 +3206,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 982. 真正在应用中理解高阶范畴。[Saul Glasman-Some topics in stratified higher category theory](https://videos.birs.ca/2018/18w5147/201805081630-Glasman.mp4) 2026-4-3 12:21 湖光鲲园图书馆
 
-983. 高阶范畴论的会议。[higher category theory videos.birs.ca](https://videos.birs.ca/2018/18w5147/) 2026-4-3 13:45 湖光鲲园图书馆
+983. 高阶范畴论的会议。[higher category theory videos.birs.ca](https://videos.birs.ca/2018/18w5147/) **无穷范畴或 operad = 在范畴中离散地、组合地“重构”拓扑或几何对象**。[enriched infinity-operads Hongyi Chu](https://videos.birs.ca/2018/18w5147/201805101500-Chu.mp4) 2026-4-3 13:45 湖光鲲园图书馆
 
 
 
