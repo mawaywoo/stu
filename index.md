@@ -416,7 +416,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [BilTop Walker Stern Quasi-categories and simplicially enriched categories](https://www.youtube.com/watch?v=UMQcnkbi1xA) | [Walker Stern - A story about spans](https://youtu.be/uZNeI9PvwTY) | [Saul Glasman-Some topics in stratified higher category theory](https://videos.birs.ca/2018/18w5147/201805081630-Glasman.mp4) |
 [Saul Glasman](https://arxiv.org/search/?query=Saul+Glasman&searchtype=all&source=header) | [A Review of Stable Homotopy Theory by Saul Glasman Pre-talbot 021313 mp4](https://www.youtube.com/watch?v=Nbn6_m42X-I) | [higher category theory videos.birs.ca](https://videos.birs.ca/2018/18w5147/) |
 [enriched infinity-operads Hongyi Chu](https://videos.birs.ca/2018/18w5147/201805101500-Chu.mp4) | [Spectral Mackey functors & ∞-categorical approaches to equivariant homotopy theory](https://www.youtube.com/watch?v=S3uiKDDco9U) | [Interview with Saul Glasman](https://www.youtube.com/watch?v=V3SzIbVfeUw&t=580s) |
-[]() |
+[CIME #2 Stratified Homotopy Theory](https://www.youtube.com/watch?v=LijlOszieAs) |
 
 
 
