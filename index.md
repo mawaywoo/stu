@@ -3209,6 +3209,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 983. 高阶范畴论的会议。[higher category theory videos.birs.ca](https://videos.birs.ca/2018/18w5147/) **无穷范畴或 operad = 在范畴中离散地、组合地“重构”拓扑或几何对象（有各种各样的重构方式）**。[enriched infinity-operads Hongyi Chu](https://videos.birs.ca/2018/18w5147/201805101500-Chu.mp4) 2026-4-3 13:45 湖光鲲园图书馆
 
+984. 无穷范畴的应用。[Prof. Clark Barwick | Spectral Mackey functors & ∞-categorical approaches to equivariant homotopy theory](https://www.youtube.com/watch?v=S3uiKDDco9U) 2026-4-4 18:25 崇德苑 209 室
+
 
 
 
