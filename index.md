@@ -3212,9 +3212,9 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 984. 无穷范畴的应用。[Prof. Clark Barwick | Spectral Mackey functors & ∞-categorical approaches to equivariant homotopy theory](https://www.youtube.com/watch?v=S3uiKDDco9U) 2026-4-4 18:25 崇德苑 209 室
 
-985. 对**层和同伦型的对应**以及**常值层与局部常值层的区别（关键看开集相交部分是否连通**）解释得很生动，见 1:45:00。我的思考：**基本群（胚）记录的是跃迁、变化、monodromy，而局部常值层、可构造层记录的也是跃迁、变化，因此基本群的表示和层能形成对应**。[CIME #2 Stratified Homotopy Theory](https://www.youtube.com/watch?v=LijlOszieAs)  2026-4-4 22:33 崇德苑 209 室
+985. 对**层和同伦型的对应**以及**常值层与局部常值层的区别（关键看开集相交部分是否连通**）解释得很生动，见 1:45:00。我的思考：**基本群（胚）、Galois群记录的是跃迁、变化、分层、monodromy，而局部常值层、可构造层记录的也是跃迁、变化、分层，因此基本群的表示和层能形成对应**。结合下一条。[CIME #2 Stratified Homotopy Theory](https://www.youtube.com/watch?v=LijlOszieAs)  2026-4-4 22:33 崇德苑 209 室
 
-986. **等价两边（基本群的表示和层的对应）记录的都是跃迁、变化的数据**，结合上一条理解。**跃迁、变化数据范畴的等价**。可以**用局部常值层、可构造层和基本群、monodromy去记录跃迁、变化！** 这是我学到的最重要的idea!!![Clark Barwick - 1/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=xhFxRefpjKc) and [Peter Haine](https://www.youtube.com/results?search_query=peter+haine) 2026-4-4 23:09 崇德苑 209 室
+986. **等价两边（基本群/Galois群的表示和层的对应）记录的都是跃迁、变化、分层的数据**，结合上一条理解。**跃迁、变化、分层数据范畴的等价**。可以**用局部常值层、可构造层和基本群、Galois群、monodromy去记录跃迁、变化、分层！** 这是我学到的最重要的idea!!! [Clark Barwick - 1/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=xhFxRefpjKc) and [Peter Haine](https://www.youtube.com/results?search_query=peter+haine) 2026-4-4 23:09 崇德苑 209 室
 
 
 
