@@ -3211,6 +3211,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 984. 无穷范畴的应用。[Prof. Clark Barwick | Spectral Mackey functors & ∞-categorical approaches to equivariant homotopy theory](https://www.youtube.com/watch?v=S3uiKDDco9U) 2026-4-4 18:25 崇德苑 209 室
 
+985. 对**层和同伦型的对应**以及**常值层与局部常值层的区别（关键看开集相交部分是否连通**）解释得很生动，见 1:45:00 [CIME #2 Stratified Homotopy Theory](https://www.youtube.com/watch?v=LijlOszieAs)  2026-4-4 22:33 崇德苑 209 室
+
 
 
 
