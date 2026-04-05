@@ -113,11 +113,13 @@ Currently I'm doing my PhD in China.
 
 ## Research
 
-My research interests are in representation theory, (higher/elementary/Grothendieck) topos theory, homotopy type theory, logic, model theory, constructive mathematic, tilting theory, torsion theory, higher algebra, math physics, quantum field theory, algebraic topology, algebraic geometry.
-
+My research interests are in representation theory, (higher/elementary/Grothendieck) topos theory, homotopy type theory, logic, model theory, constructive mathematic, tilting theory, torsion theory.
 博士毕业 2023-6-21 
 
 ---
+
+higher algebra, math physics, quantum field theory, algebraic topology, algebraic geometry.
+
 
 ## Publication
 
