@@ -118,7 +118,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 
 ---
 
-higher algebra, math physics, quantum field theory, algebraic topology, algebraic geometry.
+higher category theory, higher topos theory, higher algebra, math physics, quantum field theory, algebraic topology, algebraic geometry, derived geometry, spectral geometry, higher representation theory, geometric representation theory.
 
 
 ## Publication
