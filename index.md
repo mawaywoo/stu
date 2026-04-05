@@ -3219,7 +3219,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 986. **等价两边（基本群/Galois群的表示和层的对应）记录的都是跃迁、变化、分层的数据**，结合上一条理解。**跃迁、变化、分层数据范畴的等价**。可以**用局部常值层、可构造层和基本群、Galois群、monodromy去记录跃迁、变化、分层！** 这是我学到的最重要的idea!!! [Clark Barwick - 1/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=xhFxRefpjKc) and [Peter Haine](https://www.youtube.com/results?search_query=peter+haine) 2026-4-4 23:09 崇德苑 209 室
 
-987. 接上一条，**分层空间（拓扑对象用偏序集去分割为不同维数的子部分，偏序集态射记录拓扑对象的子部分的连接关系）有点像 Rune Haugseng 用来编码高阶范畴的数据**。[Clark Barwick - 2/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=QGrPr4-j968&t=1099s) 2026-4-5 10:13 崇德苑 209 室
+987. 接上一条，**分层空间（拓扑对象用偏序集去分割为不同维数的子部分，偏序集态射记录拓扑对象的子部分的连接关系）有点像 Rune Haugseng 用来编码高阶范畴的数据**, 见 8:00。**Grothendieck 同伦假设：拓扑空间 = 无穷群胚，分层拓扑空间 = 无穷范畴 + 一个到偏序集的函子，后者的函子的纤维是 EI-范畴，是无穷群胚，故后者可以理解为将无穷群胚粘起来**，见 53:00 [Clark Barwick - 2/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=QGrPr4-j968&t=1099s) 2026-4-5 10:13 崇德苑 209 室
 
 
 
