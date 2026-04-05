@@ -113,7 +113,7 @@ Currently I'm doing my PhD in China.
 
 ## Research
 
-My research interests are in representation theory, (higher/elementary/Grothendieck) topos theory, homotopy type theory, logic, model theory, constructive mathematic, tilting theory, torsion theory.
+My research interests are in representation theory, (higher/elementary/Grothendieck) topos theory, homotopy type theory, logic, model theory, constructive mathematic, tilting theory, torsion theory, higher algebra, math physics, quantum field theory, algebraic topology, algebraic geometry.
 
 博士毕业 2023-6-21 
 
@@ -417,7 +417,7 @@ My research interests are in representation theory, (higher/elementary/Grothendi
 [Saul Glasman](https://arxiv.org/search/?query=Saul+Glasman&searchtype=all&source=header) | [A Review of Stable Homotopy Theory by Saul Glasman Pre-talbot 021313 mp4](https://www.youtube.com/watch?v=Nbn6_m42X-I) | [higher category theory videos.birs.ca](https://videos.birs.ca/2018/18w5147/) |
 [enriched infinity-operads Hongyi Chu](https://videos.birs.ca/2018/18w5147/201805101500-Chu.mp4) | [Spectral Mackey functors & ∞-categorical approaches to equivariant homotopy theory](https://www.youtube.com/watch?v=S3uiKDDco9U) | [Interview with Saul Glasman](https://www.youtube.com/watch?v=V3SzIbVfeUw&t=580s) |
 [CIME #2 Stratified Homotopy Theory](https://www.youtube.com/watch?v=LijlOszieAs) | [Clark Barwick - 1/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=xhFxRefpjKc) | [Peter Haine](https://www.youtube.com/results?search_query=peter+haine) |
-[]() |
+[Clark Barwick - 2/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=QGrPr4-j968&t=1099s) |
 
 
 
