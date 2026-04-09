@@ -525,7 +525,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Ivo Vekemans](https://www.ivovekemans.net/) | [Bryce Clarke](https://bryceclarke.github.io/) | [Cédric Bonnafé](https://imag.umontpellier.fr/~bonnafe/) | [Charlotte Chan](https://public.websites.umich.edu/~charchan/) | [Ting Xue](https://blogs.unimelb.edu.au/ting-xue/) | [Kent Vashaw](https://www.math.ucla.edu/~kentvashaw/) | [Nadia Romero](https://scholar.google.com/citations?user=7tn0uWQAAAAJ) | [Marcelo Fiore](https://www.cl.cam.ac.uk/~mpf23/) | [Elena Caviglia](https://elenacaviglia.github.io/publications/) | [Rory B. B. Lucyshyn-Wright](https://lucyshyn-wright.ca/) |
 [Lander Hermans](https://landerhermans.com/) | [Giuseppe Rosolini](https://scholar.google.com/citations?user=_T6lOuMAAAAJ&hl=en) | [Evan Patterson](https://www.epatters.org/) | [Greta Coraglia](https://etagreta.github.io/) | [Rory B. B. Lucyshyn-Wright](https://www.lucyshyn-wright.ca/) | [Alan S. Cigoli](https://www.researchgate.net/profile/Alan-Cigoli) | [Martin Szyld](https://cms.dm.uba.ar/Members/mszyld) | [Luca Mesiti](https://lucamesiti.github.io/talks/) | [Julia Yael Plavnik](https://sites.google.com/view/juliaplavnik/home) | [Ergun Yalcin](http://www.fen.bilkent.edu.tr/~yalcine/) |
 [Abhishek Banerjee](https://sites.google.com/site/abhishekb1313/Home) | [Pramod N. Achar](https://www.math.lsu.edu/~pramod/) | [Lyne Moser](https://lynemoser.com/research/) | [Isar Stubbe](https://orcid.org/0009-0000-3343-6028) | [Rune Haugseng](https://runegha.folk.ntnu.no/) | [邹佛灵](https://zzzflll.github.io/) | [孔嘉](https://hanajiakong.github.io/) | [Claudia Scheimbauer](http://www.scheimbauer.at/) | [Jürgen Fuchs](https://jfuchs.hotell.kau.se/gen/cv_5.html) | [Gustavo Jasso](https://gustavo.jasso.info/) |
-[Simona Paoli](https://sites.google.com/view/simona-paoli-webpage) | [Clark Barwick](https://webhomes.maths.ed.ac.uk/~cbarwick/) |
+[Simona Paoli](https://sites.google.com/view/simona-paoli-webpage) | [Clark Barwick](https://webhomes.maths.ed.ac.uk/~cbarwick/) | [Merlin Christ](https://merlinchrist.eu/) |
 
 
 
@@ -3225,6 +3225,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 987. 接上一条，**分层空间（拓扑对象用偏序集去分割为不同维数的子部分，偏序集态射记录拓扑对象的子部分的连接关系）有点像 Rune Haugseng 用来编码高阶范畴的数据**, 见 8:00。**Grothendieck 同伦假设：拓扑空间 = 无穷群胚，分层拓扑空间 = 无穷范畴 + 一个到偏序集的函子，后者的函子的纤维是 EI-范畴（刻画为到偏序集的函子是 conservative 的），是无穷群胚，故后者可以理解为将无穷群胚粘起来**，见 53:00 [Clark Barwick - 2/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=QGrPr4-j968&t=1099s) 2026-4-5 10:13 崇德苑 209 室
 
 988. **拓扑空间 ——> 分层 ——> 偏序集，见 30:00，所以偏序集编码的是拓扑空间，无穷范畴 = 在范畴中构造拓扑空间（利用偏序集、树等）**。终于明白**无穷范畴中为啥要考虑各种纤维范畴（left fib. right fib. Cart. fib. 等）了，因为对纤维做限制，也就是对相应的无穷范畴做限制**，如上一条提到的  conservative 函子，就是对偏序集的自同态的纤维做限制，要求纤维是群胚，本质上要求自同态都是自同构（EI-范畴）。[HHHW02 Prof. Clark Barwick Exodromy and endodromy](https://www.youtube.com/watch?v=1dyDYQdyNVw) 2026-4-7 13:37 崇德苑 209 室
+
+989. 需要借助 Barwick 和 Lurie 的工作。[Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&t=400s) and [Merlin Christ](https://merlinchrist.eu/) 2026-4-9 11:02 崇德苑 209 室
 
 
 
