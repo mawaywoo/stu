@@ -422,7 +422,8 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [CIME #2 Stratified Homotopy Theory](https://www.youtube.com/watch?v=LijlOszieAs) | [Clark Barwick - 1/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=xhFxRefpjKc) | [Peter Haine](https://www.youtube.com/results?search_query=peter+haine) |
 [Clark Barwick - 2/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=QGrPr4-j968&t=1099s) | [Clark Barwick's talks](https://www.slmath.org/people/10713) | [Clark Barwick - 3/3 Exodromy for ℓ-adic Sheaves](https://www.youtube.com/watch?v=1vgQoKy78vc) |
 [Clark Barwick, Math-Physics Seminar, Penn, December 8, 2020](https://www.youtube.com/watch?v=SNg1fepUmBI) | [HHHW02 Prof. Clark Barwick Exodromy and endodromy](https://www.youtube.com/watch?v=1dyDYQdyNVw) | [WHCGP: Clark Barwick, "Condensed/pyknotic structures: a gentle introduction"](https://www.youtube.com/watch?v=ZNtrQAK9PSo) |
-[Some remarks on the K-theory of exact infinity-categories - Christoph Winges (Regensburg)](https://www.youtube.com/watch?v=kJbieiifSzk) | [Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&t=400s) | []() |
+[Some remarks on the K-theory of exact infinity-categories - Christoph Winges (Regensburg)](https://www.youtube.com/watch?v=kJbieiifSzk) | [Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&t=400s) | [Merlin Christ's talks](https://www.youtube.com/results?search_query=Merlin+Christ) |
+[Merlin Christ 2/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=AvU6GejenxI) | []() | []() |
 []() |
 
 
