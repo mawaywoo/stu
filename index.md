@@ -3230,7 +3230,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 989. 需要借助 Barwick 和 Lurie 的工作。[Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&t=400s) and [Merlin Christ](https://merlinchrist.eu/) 2026-4-9 11:02 崇德苑 209 室
 
-990. 类似于 Barwick **Exit(X), Pi(X)** 无穷范畴，见前几条，**Quiver** 也在记录拓扑对象、图的变化和跃迁等信息，见 10:00。[Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) 2026-4-10 14:18 湖光鲲园图书馆
+990. 类似于 Barwick **Exit(X), Pi(X)** 无穷范畴，见前几条，**Quiver** 也在记录拓扑对象、图的变化和跃迁等信息，见 10:00。**拓扑对象、几何对象为什么和表示有关系？拓扑对象、几何对象 ——> 它们上的层可以模拟这些对象的变化、跃迁数据 ——> 这些跃迁数据也可以用路、Exit 路、箭图来记录 ——> 拓扑对象、几何对象上的层和路、箭图等的表示就通过变换化、跃迁数据的记录沟通起来了**，结合前面几条来理解。[Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) 2026-4-10 14:18 湖光鲲园图书馆
 
 
 
