@@ -424,7 +424,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Clark Barwick, Math-Physics Seminar, Penn, December 8, 2020](https://www.youtube.com/watch?v=SNg1fepUmBI) | [HHHW02 Prof. Clark Barwick Exodromy and endodromy](https://www.youtube.com/watch?v=1dyDYQdyNVw) | [WHCGP: Clark Barwick, "Condensed/pyknotic structures: a gentle introduction"](https://www.youtube.com/watch?v=ZNtrQAK9PSo) |
 [Some remarks on the K-theory of exact infinity-categories - Christoph Winges (Regensburg)](https://www.youtube.com/watch?v=kJbieiifSzk) | [Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&t=400s) | [Merlin Christ's talks](https://www.youtube.com/results?search_query=Merlin+Christ) |
 [Merlin Christ 2/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=AvU6GejenxI) | [Homotopy group quotients of dg categories and skew group algebras - Merlin Christ (Univ of Bonn)](https://www.youtube.com/watch?v=HNWQUrhIv08) | [Merlin Christ - Complexes of stable infinity categories](https://www.youtube.com/watch?v=NC8D0s93PFQ) |
-[]() | []() | []() |
+[Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) | []() | []() |
 []() |
 
 
@@ -3229,6 +3229,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 988. **拓扑空间 ——> 分层 ——> 偏序集，见 30:00，所以偏序集编码的是拓扑空间，无穷范畴 = 在范畴中构造拓扑空间（利用偏序集、树等）**。终于明白**无穷范畴中为啥要考虑各种纤维范畴（left fib. right fib. Cart. fib. 等）了，因为对纤维做限制，也就是对相应的无穷范畴做限制**，如上一条提到的  conservative 函子，就是对偏序集的自同态的纤维做限制，要求纤维是群胚，本质上要求自同态都是自同构（EI-范畴）。[HHHW02 Prof. Clark Barwick Exodromy and endodromy](https://www.youtube.com/watch?v=1dyDYQdyNVw) 2026-4-7 13:37 崇德苑 209 室
 
 989. 需要借助 Barwick 和 Lurie 的工作。[Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&t=400s) and [Merlin Christ](https://merlinchrist.eu/) 2026-4-9 11:02 崇德苑 209 室
+
+990. 类似于 Barwick **Exit(X), Pi(X)** 无穷范畴，见前几条，**Quiver** 也在记录拓扑对象、图的变化和跃迁等信息，见 10:00。[Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) 2026-4-10 14:18 湖光鲲园图书馆
 
 
 
