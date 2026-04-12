@@ -3232,6 +3232,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 990. 类似于 Barwick **Exit(X), Pi(X)** 无穷范畴，见前几条，**Quiver** 也在记录拓扑对象、图的变化和跃迁等信息，见 10:00。**拓扑对象、几何对象为什么和表示有关系？拓扑对象、几何对象 ——> 它们上的层可以模拟这些对象的变化、跃迁数据 ——> 这些跃迁数据也可以用路、Exit 路、箭图来记录 ——> 拓扑对象、几何对象上的层和路、箭图等的表示就通过变换化、跃迁数据的记录沟通起来了**，结合前面几条来理解。[Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) 2026-4-10 14:18 湖光鲲园图书馆
 
+991. **在谈论无穷范畴的性质、结构时，不一定需要依赖某个具体的模型**。[Bastiaan Cnossen - Introduction to stable ∞-categories, part 1 (1/7/25, KK+H workshop)](https://www.youtube.com/watch?v=0mI0gwzHNLc&list=PLpDLIYx2LJUny95gcq-7OOa1E6hADp_py&index=2&t=16s) 2026-4-12 10:17 崇德苑 209 室
+
 
 
 
