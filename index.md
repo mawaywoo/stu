@@ -425,6 +425,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Some remarks on the K-theory of exact infinity-categories - Christoph Winges (Regensburg)](https://www.youtube.com/watch?v=kJbieiifSzk) | [Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&t=400s) | [Merlin Christ's talks](https://www.youtube.com/results?search_query=Merlin+Christ) |
 [Merlin Christ 2/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=AvU6GejenxI) | [Homotopy group quotients of dg categories and skew group algebras - Merlin Christ (Univ of Bonn)](https://www.youtube.com/watch?v=HNWQUrhIv08) | [Merlin Christ - Complexes of stable infinity categories](https://www.youtube.com/watch?v=NC8D0s93PFQ) |
 [Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) | [Bastiaan Cnossen - Introduction to stable ∞-categories, part 1 (1/7/25, KK+H workshop)](https://www.youtube.com/watch?v=0mI0gwzHNLc&list=PLpDLIYx2LJUny95gcq-7OOa1E6hADp_py&index=2&t=16s) | []() |
+[Bastiaan Cnossen's talks](https://www.youtube.com/results?search_query=Bastiaan+Cnossen) | []() | []() |
 []() |
 
 
@@ -527,7 +528,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Ivo Vekemans](https://www.ivovekemans.net/) | [Bryce Clarke](https://bryceclarke.github.io/) | [Cédric Bonnafé](https://imag.umontpellier.fr/~bonnafe/) | [Charlotte Chan](https://public.websites.umich.edu/~charchan/) | [Ting Xue](https://blogs.unimelb.edu.au/ting-xue/) | [Kent Vashaw](https://www.math.ucla.edu/~kentvashaw/) | [Nadia Romero](https://scholar.google.com/citations?user=7tn0uWQAAAAJ) | [Marcelo Fiore](https://www.cl.cam.ac.uk/~mpf23/) | [Elena Caviglia](https://elenacaviglia.github.io/publications/) | [Rory B. B. Lucyshyn-Wright](https://lucyshyn-wright.ca/) |
 [Lander Hermans](https://landerhermans.com/) | [Giuseppe Rosolini](https://scholar.google.com/citations?user=_T6lOuMAAAAJ&hl=en) | [Evan Patterson](https://www.epatters.org/) | [Greta Coraglia](https://etagreta.github.io/) | [Rory B. B. Lucyshyn-Wright](https://www.lucyshyn-wright.ca/) | [Alan S. Cigoli](https://www.researchgate.net/profile/Alan-Cigoli) | [Martin Szyld](https://cms.dm.uba.ar/Members/mszyld) | [Luca Mesiti](https://lucamesiti.github.io/talks/) | [Julia Yael Plavnik](https://sites.google.com/view/juliaplavnik/home) | [Ergun Yalcin](http://www.fen.bilkent.edu.tr/~yalcine/) |
 [Abhishek Banerjee](https://sites.google.com/site/abhishekb1313/Home) | [Pramod N. Achar](https://www.math.lsu.edu/~pramod/) | [Lyne Moser](https://lynemoser.com/research/) | [Isar Stubbe](https://orcid.org/0009-0000-3343-6028) | [Rune Haugseng](https://runegha.folk.ntnu.no/) | [邹佛灵](https://zzzflll.github.io/) | [孔嘉](https://hanajiakong.github.io/) | [Claudia Scheimbauer](http://www.scheimbauer.at/) | [Jürgen Fuchs](https://jfuchs.hotell.kau.se/gen/cv_5.html) | [Gustavo Jasso](https://gustavo.jasso.info/) |
-[Simona Paoli](https://sites.google.com/view/simona-paoli-webpage) | [Clark Barwick](https://webhomes.maths.ed.ac.uk/~cbarwick/) | [Merlin Christ](https://merlinchrist.eu/) |
+[Simona Paoli](https://sites.google.com/view/simona-paoli-webpage) | [Clark Barwick](https://webhomes.maths.ed.ac.uk/~cbarwick/) | [Merlin Christ](https://merlinchrist.eu/) | [Bastiaan Cnossen](https://sites.google.com/view/bastiaan-cnossen/home) |
 
 
 
@@ -3232,7 +3233,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 990. 类似于 Barwick **Exit(X), Pi(X)** 无穷范畴，见前几条，**Quiver** 也在记录拓扑对象、图的变化和跃迁等信息，见 10:00。**拓扑对象、几何对象为什么和表示有关系？拓扑对象、几何对象 ——> 它们上的层可以模拟这些对象的变化、跃迁数据 ——> 这些跃迁数据也可以用路、Exit 路、箭图来记录 ——> 拓扑对象、几何对象上的层和路、箭图等的表示就通过变换化、跃迁数据的记录沟通起来了**，结合前面几条来理解。[Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) 2026-4-10 14:18 湖光鲲园图书馆
 
-991. **在谈论无穷范畴的性质、结构时，不一定需要依赖某个具体的模型**。[Bastiaan Cnossen - Introduction to stable ∞-categories, part 1 (1/7/25, KK+H workshop)](https://www.youtube.com/watch?v=0mI0gwzHNLc&list=PLpDLIYx2LJUny95gcq-7OOa1E6hADp_py&index=2&t=16s) 2026-4-12 10:17 崇德苑 209 室
+991. **在谈论无穷范畴的性质、结构时，不一定需要依赖某个具体的模型：类似于 1-范畴那样，由泛性质等等来描述，很多结论类似于 1-范畴的描述，只是把 Set 替换为 space，相等替换为等价等等**。见：[Bastiaan Cnossen - Introduction to stable ∞-categories, part 1 (1/7/25, KK+H workshop)](https://www.youtube.com/watch?v=0mI0gwzHNLc&list=PLpDLIYx2LJUny95gcq-7OOa1E6hADp_py&index=2&t=16s) 2026-4-12 10:17 崇德苑 209 室
 
 
 
