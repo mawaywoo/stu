@@ -3235,7 +3235,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 991. **在谈论无穷范畴的性质、结构时，不一定需要依赖某个具体的模型：类似于 1-范畴那样，由泛性质（泛性质可以规避具体的模型）等等来描述，很多结论类似于 1-范畴的描述，只是把 Set 替换为 space，相等替换为等价等等**。见：[Bastiaan Cnossen - Introduction to stable ∞-categories, part 1 (1/7/25, KK+H workshop)](https://www.youtube.com/watch?v=0mI0gwzHNLc&list=PLpDLIYx2LJUny95gcq-7OOa1E6hADp_py&index=2&t=16s) 2026-4-12 10:17 崇德苑 209 室
 
-992. 在高阶范畴中的交换图表意味着**存在高阶同伦数据**见证交换性，1-范畴的交换图表没有这些数据，这是差别；**一个交换图是拉回（笛卡尔），是指“最优”的那个交换图，推出交换图也是右下角是“最优”的，如核和余核，一个交换图是双笛卡尔的，即既是拉回又是推出，即左上和右下的对象都是“最优”的，这是在模拟一个的态射的核和余核构成的正合列或特殊三角；类比阿贝尔范畴去理解稳定无穷范畴，如核、余核、正合列等等**。[Bastiaan Cnossen - Introduction to stable ∞-categories, part 2 (1/8/25, KK+H workshop)](https://www.youtube.com/watch?v=EmPQMKoh8TU&list=PLpDLIYx2LJUny95gcq-7OOa1E6hADp_py&index=3) 2026-4-12 11:16 崇德苑 209 室
+992. 在高阶范畴中的交换图表意味着**存在高阶同伦数据**见证交换性，1-范畴的交换图表没有这些数据，这是差别；**一个交换图是拉回（笛卡尔），是指“最优”的那个交换图，推出交换图也是右下角是“最优”的，如核和余核，一个交换图是双笛卡尔的，即既是拉回又是推出，即左上和右下的对象都是“最优”的，这是在模拟一个的态射的核和余核构成的正合列或特殊三角；类比阿贝尔范畴去理解稳定无穷范畴，如核、余核、正合列等等**。为什么同伦 monad 会有高阶数据，见 48:00 的解释。[Bastiaan Cnossen - Introduction to stable ∞-categories, part 2 (1/8/25, KK+H workshop)](https://www.youtube.com/watch?v=EmPQMKoh8TU&list=PLpDLIYx2LJUny95gcq-7OOa1E6hADp_py&index=3) 2026-4-12 11:16 崇德苑 209 室
 
 
 
