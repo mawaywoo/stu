@@ -3239,6 +3239,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 993. (∞, 1)-范畴 = 1-范畴 + 同伦论；(∞,  2)-范畴 = 2-范畴 + 同伦论；所以 ∞-范畴只是同伦范畴的“同伦弱化”，很多泛性质基本不变。此时的同伦弱化不是通常的 1-维同伦弱化，而是高维同伦弱化。2026-4-13 15:05 崇德苑 209 室
 
+994. 谈论无穷范畴时，**不一定**需要借助某一个具体的模型，结合 991 条理解。[Axiomatization of ∞-categories - Bastiaan Cnossen](https://www.youtube.com/watch?v=tfye-7QzbWk) 2026-4-14 11:24 崇德苑 209 室
+
 
 
 
