@@ -3242,7 +3242,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 994. 谈论无穷范畴时，**不一定**需要借助某一个具体的模型，结合 991 条理解。[Axiomatization of ∞-categories - Bastiaan Cnossen](https://www.youtube.com/watch?v=tfye-7QzbWk) 2026-4-14 11:24 崇德苑 209 室
 
-995. **笛卡尔 = 拉回，余笛卡尔 = 推出**，笛卡尔纤维 = 反变函子（存在拉回函子 f^*，f |——> f^*），余笛卡尔纤维 = 共变函子（存在推出函子 f_*，f |——> f_*），见 6:25 [Bastiaan Cnossen : Construction of six-functor formalisms](https://www.youtube.com/watch?v=gQezafxlmF4) 2026-4-15 10:13 崇德苑 209 室
+995. **笛卡尔 = 拉回，余笛卡尔 = 推出**，笛卡尔纤维 = 反变函子（存在拉回函子 f^*，f |——> f^*），余笛卡尔纤维 = 共变函子（存在推出函子 f _*，f |——> f _*），见 6:25 [Bastiaan Cnossen : Construction of six-functor formalisms](https://www.youtube.com/watch?v=gQezafxlmF4) 2026-4-15 10:13 崇德苑 209 室
 
 
 
