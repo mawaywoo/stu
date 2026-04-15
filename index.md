@@ -426,7 +426,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Merlin Christ 2/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=AvU6GejenxI) | [Homotopy group quotients of dg categories and skew group algebras - Merlin Christ (Univ of Bonn)](https://www.youtube.com/watch?v=HNWQUrhIv08) | [Merlin Christ - Complexes of stable infinity categories](https://www.youtube.com/watch?v=NC8D0s93PFQ) |
 [Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) | [Bastiaan Cnossen - Introduction to stable ∞-categories, part 1 (1/7/25, KK+H workshop)](https://www.youtube.com/watch?v=0mI0gwzHNLc&list=PLpDLIYx2LJUny95gcq-7OOa1E6hADp_py&index=2&t=16s) | [Bastiaan Cnossen - Introduction to stable ∞-categories, part 2 (1/8/25, KK+H workshop)](https://www.youtube.com/watch?v=EmPQMKoh8TU&list=PLpDLIYx2LJUny95gcq-7OOa1E6hADp_py&index=3) |
 [Bastiaan Cnossen's talks](https://www.youtube.com/results?search_query=Bastiaan+Cnossen) | [Axiomatization of ∞-categories - Bastiaan Cnossen](https://www.youtube.com/watch?v=tfye-7QzbWk) | [Dr. Bastiaan Cnossen  Parametrized higher semiadditivity](https://www.youtube.com/watch?v=Q-9vUsRr0pA) |
-[Bastiaan Cnossen : Construction of six-functor formalisms](https://www.youtube.com/watch?v=gQezafxlmF4) | []() | []() |
+[Bastiaan Cnossen : Construction of six-functor formalisms](https://www.youtube.com/watch?v=gQezafxlmF4) | [Tomer Schlank "Stable Homotopy and Higher Algebra"](https://www.youtube.com/watch?v=Bv86YUeMS7Y) | []() |
 []() |
 
 
