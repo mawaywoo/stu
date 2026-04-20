@@ -3247,6 +3247,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 996. **线性、Enriched 版本的高阶范畴**，有趣！[Arne Mertens - A colax monoidal approach to quasi-categories](https://www.youtube.com/watch?v=8ahFAnpwWZ0&t=92s) 2026-4-19 13:18 崇德苑 209 室
 
+997. Cartesian monodal category 和 monodal category 的差别：前者具有投影映射，能丢弃信息，单位 I 必为终对象；有对角映射，能复制信息，张量积必为积。**笛卡尔 = 投影、对角意思的存在性**。2026-4-20 10:27 崇德苑 209 室
+
 
 
 
