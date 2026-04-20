@@ -428,6 +428,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Bastiaan Cnossen's talks](https://www.youtube.com/results?search_query=Bastiaan+Cnossen) | [Axiomatization of ∞-categories - Bastiaan Cnossen](https://www.youtube.com/watch?v=tfye-7QzbWk) | [Dr. Bastiaan Cnossen  Parametrized higher semiadditivity](https://www.youtube.com/watch?v=Q-9vUsRr0pA) |
 [Bastiaan Cnossen : Construction of six-functor formalisms](https://www.youtube.com/watch?v=gQezafxlmF4) | [Tomer Schlank "Stable Homotopy and Higher Algebra"](https://www.youtube.com/watch?v=Bv86YUeMS7Y) | [Introduction to \infty-categories (re-uploaded so that one can see more than 1/4 of the screen)](https://www.youtube.com/watch?v=oj04EoIcEjg) |
 [An elementary introduction to (infinity,1)-categories via quasi-categories](https://www.youtube.com/watch?v=L9T9df1Y3_w&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=1) | [Arne Mertens - A colax monoidal approach to quasi-categories](https://www.youtube.com/watch?v=8ahFAnpwWZ0&t=92s) | [CT2024, Arne Mertens: Non-cartesian internalisation and enriched quasi-categories](https://www.youtube.com/watch?v=DOQydtxf-00) |
+[Maxime Ramzi - An introduction to dualizable categories](https://www.youtube.com/watch?v=s8Ec1SB1BeQ&list=PL76swe7AN-hTUhfhHj7wFuKgHB-0nq6YM&index=13) | []() | []() |
 []() |
 
 
