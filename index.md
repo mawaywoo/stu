@@ -3250,7 +3250,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 997. Cartesian monodal category 和 monodal category 的差别(**× ≠ ☒**)：前者具有投影映射，能丢弃信息，单位 I 必为终对象；有对角映射，能复制信息，张量积必为积。**笛卡尔 = 投影、对角映射的存在性**。2026-4-20 10:27 崇德苑 209 室
 
-998. **Span(F) 如何编码 monoid 的信息**：见 7:38 和 22:22 [Rune Haugseng: "Commutative rings, bispans, and their equivariant analogues"](https://www.youtube.com/watch?v=EqF7611I2Ts) 2026-4-20 13:37 崇德苑 209 室
+998. **Span(F) 如何编码 monoid 的信息**：见 7:38 和 22:22 [Rune Haugseng: "Commutative rings, bispans, and their equivariant analogues"](https://www.youtube.com/watch?v=EqF7611I2Ts) 以及 22:22 的 [Rune Haugseng - Homotopy-coherent distributivity and the universal property of bispans](https://www.youtube.com/watch?v=a8Udb5z0es0&t=162s)，在某种程度上，**环 R 的限制（子部分的匹配关系）、乘法、加法运算抽出来，被 Span(Fin) 所抓住、模拟**。2026-4-20 13:37 崇德苑 209 室
 
 
 
