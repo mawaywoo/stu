@@ -429,7 +429,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Bastiaan Cnossen : Construction of six-functor formalisms](https://www.youtube.com/watch?v=gQezafxlmF4) | [Tomer Schlank "Stable Homotopy and Higher Algebra"](https://www.youtube.com/watch?v=Bv86YUeMS7Y) | [Introduction to \infty-categories (re-uploaded so that one can see more than 1/4 of the screen)](https://www.youtube.com/watch?v=oj04EoIcEjg) |
 [An elementary introduction to (infinity,1)-categories via quasi-categories](https://www.youtube.com/watch?v=L9T9df1Y3_w&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=1) | [Arne Mertens - A colax monoidal approach to quasi-categories](https://www.youtube.com/watch?v=8ahFAnpwWZ0&t=92s) | [CT2024, Arne Mertens: Non-cartesian internalisation and enriched quasi-categories](https://www.youtube.com/watch?v=DOQydtxf-00) |
 [Maxime Ramzi - An introduction to dualizable categories](https://www.youtube.com/watch?v=s8Ec1SB1BeQ&list=PL76swe7AN-hTUhfhHj7wFuKgHB-0nq6YM&index=13) | [Rune Haugseng: "Commutative rings, bispans, and their equivariant analogues"](https://www.youtube.com/watch?v=EqF7611I2Ts) | [Rune Haugseng - Homotopy-coherent distributivity and the universal property of bispans](https://www.youtube.com/watch?v=a8Udb5z0es0&t=162s) |
-[]() |
+[André Joyal: "Higher topos theory and Goodwillie Calculus"](https://www.youtube.com/watch?v=AAUWJ7NHJGk&t=632s) | []() | []() |
 
 
 
@@ -3240,7 +3240,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 992. 在高阶范畴中的交换图表意味着**存在高阶同伦数据**见证交换性，1-范畴的交换图表没有这些数据，这是差别；**一个交换图是拉回（笛卡尔），是指“最优”的那个交换图，推出交换图也是右下角是“最优”的，如核和余核，一个交换图是双笛卡尔的，即既是拉回又是推出，即左上和右下的对象都是“最优”的，这是在模拟一个的态射的核和余核构成的正合列或特殊三角；类比阿贝尔范畴去理解稳定无穷范畴，如核、余核、正合列等等**。为什么同伦 monad 会有高阶数据，见 48:00 的解释。[Bastiaan Cnossen - Introduction to stable ∞-categories, part 2 (1/8/25, KK+H workshop)](https://www.youtube.com/watch?v=EmPQMKoh8TU&list=PLpDLIYx2LJUny95gcq-7OOa1E6hADp_py&index=3) 2026-4-12 11:16 崇德苑 209 室
 
-993. (∞, 1)-范畴 = 1-范畴 + 同伦论；(∞,  2)-范畴 = 2-范畴 + 同伦论；所以 ∞-范畴只是同伦范畴的“同伦弱化”，很多泛性质基本不变。此时的同伦弱化不是通常的 1-维同伦弱化，而是高维同伦弱化。2026-4-13 15:05 崇德苑 209 室
+993. **(∞, 1)-范畴 = 1-范畴 + 同伦论；(∞,  2)-范畴 = 2-范畴 + 同伦论**；所以 ∞-范畴只是同伦范畴的“同伦弱化”，很多泛性质基本不变。此时的同伦弱化不是通常的 1-维同伦弱化，而是高维同伦弱化。2026-4-13 15:05 崇德苑 209 室
 
 994. 谈论无穷范畴时，**不一定**需要借助某一个具体的模型，结合 991 条理解。[Axiomatization of ∞-categories - Bastiaan Cnossen](https://www.youtube.com/watch?v=tfye-7QzbWk) 2026-4-14 11:24 崇德苑 209 室
 
@@ -3251,6 +3251,10 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 997. Cartesian monodal category 和 monodal category 的差别(**× ≠ ☒**)：前者具有投影映射，能丢弃信息，单位 I 必为终对象；有对角映射，能复制信息，张量积必为积。**笛卡尔 = 投影、对角映射的存在性**。2026-4-20 10:27 崇德苑 209 室
 
 998. **Span(F) 如何编码 monoid 的信息**：见 7:38 和 22:22 [Rune Haugseng: "Commutative rings, bispans, and their equivariant analogues"](https://www.youtube.com/watch?v=EqF7611I2Ts) 以及 22:22 的 [Rune Haugseng - Homotopy-coherent distributivity and the universal property of bispans](https://www.youtube.com/watch?v=a8Udb5z0es0&t=162s)，在某种程度上，**环 R 的限制（子部分的匹配关系）、乘法、加法运算抽出来，被 Span(Fin) 所抓住、模拟**，在无穷范畴中，常常**用一些简单的组合范畴去模拟某些运算（某个代数结构里的所有运算，如环的加法、乘法）间的匹配关系，再把这个匹配系统赋予某个无穷范畴，便得到无穷范畴版本的代数结构**，GOOD !!!。常见的无穷化的手段：**把运算和承载运算的客体（集合）分离开来，用简单的组合范畴模拟运算，再把客体替换为为无穷范畴，用函子的方式连接运算和客体**。如 semring = Fun*(biSpan(Fin), C)，biSpan(Fin) 编码的就是加法、乘法、限制，无穷范畴 C 编码的就是承载运算的客体。**高阶代数/结构 = subFun(模拟代数运算的组合范畴(简单)，无穷范畴(承载运算的“无穷版集合”))**，beautiful !!! 源范畴是关系范畴，是简单的、容易的，目标范畴的无穷部分，是 Detal 的部分，结构的无穷版本关键在于无穷化目标范畴，**源范畴编码的信息总是简单的，编码的是结构和关系部分（这部分总是有限的，单独分离出来），这是添加到无穷范畴的简单部分**，函子可以抽离和叠加关系、结构（将源范畴的信息叠加到目标范畴），**高阶代数、结构常常用函子的方式来定义，因为高阶代数通常可以分离为有限的关系范畴 + 无穷的底范畴**。2026-4-20 13:37 崇德苑 209 室
+
+999. Joyal 介绍他发展无穷范畴的历程。[André Joyal: "Higher topos theory and Goodwillie Calculus"](https://www.youtube.com/watch?v=AAUWJ7NHJGk&t=632s) 2026-4-21 11:20 崇德苑 209 室
+
+1000. 如何理解无穷范畴：见 993,997,998 条。2026-4-21 11:23 崇德苑 209 室
 
 
 
