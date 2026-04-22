@@ -3256,6 +3256,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1000. 如何理解无穷范畴：见 993,997,998 条。2026-4-21 11:23 崇德苑 209 室
 
+1001. inert maps = partial maps, 没有用完定义域中的所有对象。[Prof. Ieke Moerdijk Two models for infinity-operads](https://www.youtube.com/watch?v=4nTBZEo7qmg&t=2912s) 2026-4-22 14:25 崇德苑 209 室
+
 
 
 
