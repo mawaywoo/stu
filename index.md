@@ -3261,7 +3261,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1002. **为了把 Grothendieck fibration (property) 转化为 functor (structure)**, 需要在 fibration 中选定一些 **cleavage**；同理，为了把 Cartesian fibration 转化为 functor, 需要在 fibration 中指定一些 **Cartesian lift**。这就是 (co)Cartesian fibration 的含义。终于理解到了这个概念！结合下一条。2026-4-23 10:08 崇德苑 209 室
 
-1003. **不是所有的 fibration 都等同于某个函子（就好比不是所有 X 上的空间都是平展空间），left/right/(co)Cartesian 条件正是使 fibration 等同于某个函子的条件**，见 35:25 并结合上一条理解。[Introduction to infinity-category theory - David Gepner](https://www.youtube.com/watch?v=FPhkljSrmbw&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=2) 2026-4-23 22:21 崇德苑 209 室
+1003. **不是所有的 fibration 都等同于某个函子（就好比不是所有 X 上的空间 Y 都是平展空间），left/right/(co)Cartesian 条件正是使 fibration 等同于某个函子的条件**，见 35:25 并结合上一条理解。[Introduction to infinity-category theory - David Gepner](https://www.youtube.com/watch?v=FPhkljSrmbw&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=2) 2026-4-23 22:21 崇德苑 209 室
 
 
 
