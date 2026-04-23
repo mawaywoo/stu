@@ -3261,7 +3261,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1002. **为了把 Grothendieck fibration (property) 转化为 functor (structure)**, 需要在 fibration 中选定一些 **cleavage**；同理，为了把 Cartesian fibration 转化为 functor, 需要在 fibration 中指定一些 **Cartesian lift**。这就是 (co)Cartesian fibration 的含义。终于理解到了这个概念！2026-4-23 10:08 崇德苑 209 室
 
-1003. Quillen model category (L,R) 有点像二维向量空间的一组基 {a,b} 满足的性质：**正交性和生成性**，问题：能否从这个角度，把 Quillen model category 推广到任意有限维的情形 (S1,...Sn), Si 满足：彼此正交且任意态射可以分解为 Si 中态射的合成？2026-4-23 10:13 崇德苑 209 室
+1003. 
 
 
 
