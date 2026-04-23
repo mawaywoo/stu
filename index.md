@@ -430,7 +430,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [An elementary introduction to (infinity,1)-categories via quasi-categories](https://www.youtube.com/watch?v=L9T9df1Y3_w&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=1) | [Arne Mertens - A colax monoidal approach to quasi-categories](https://www.youtube.com/watch?v=8ahFAnpwWZ0&t=92s) | [CT2024, Arne Mertens: Non-cartesian internalisation and enriched quasi-categories](https://www.youtube.com/watch?v=DOQydtxf-00) |
 [Maxime Ramzi - An introduction to dualizable categories](https://www.youtube.com/watch?v=s8Ec1SB1BeQ&list=PL76swe7AN-hTUhfhHj7wFuKgHB-0nq6YM&index=13) | [Rune Haugseng: "Commutative rings, bispans, and their equivariant analogues"](https://www.youtube.com/watch?v=EqF7611I2Ts) | [Rune Haugseng - Homotopy-coherent distributivity and the universal property of bispans](https://www.youtube.com/watch?v=a8Udb5z0es0&t=162s) |
 [André Joyal: "Higher topos theory and Goodwillie Calculus"](https://www.youtube.com/watch?v=AAUWJ7NHJGk&t=632s) | [Prof. Ieke Moerdijk Two models for infinity-operads](https://www.youtube.com/watch?v=4nTBZEo7qmg&t=2912s) | [André Joyal - Higher sheaves](https://www.youtube.com/watch?v=8YfYD47AO_k) |
-[HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (1)](https://www.youtube.com/watch?v=7A2NsuNLa4Q) | []() | []() |
+[HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (1)](https://www.youtube.com/watch?v=7A2NsuNLa4Q) | [Introduction to infinity-category theory - David Gepner](https://www.youtube.com/watch?v=FPhkljSrmbw&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=2) | []() |
 
 
 
@@ -3259,9 +3259,9 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1001. inert maps = partial maps, 没有用完定义域中的所有对象。[Prof. Ieke Moerdijk Two models for infinity-operads](https://www.youtube.com/watch?v=4nTBZEo7qmg&t=2912s) 2026-4-22 14:25 崇德苑 209 室
 
-1002. **为了把 Grothendieck fibration (property) 转化为 functor (structure)**, 需要在 fibration 中选定一些 **cleavage**；同理，为了把 Cartesian fibration 转化为 functor, 需要在 fibration 中指定一些 **Cartesian lift**。这就是 (co)Cartesian fibration 的含义。终于理解到了这个概念！2026-4-23 10:08 崇德苑 209 室
+1002. **为了把 Grothendieck fibration (property) 转化为 functor (structure)**, 需要在 fibration 中选定一些 **cleavage**；同理，为了把 Cartesian fibration 转化为 functor, 需要在 fibration 中指定一些 **Cartesian lift**。这就是 (co)Cartesian fibration 的含义。终于理解到了这个概念！结合下一条。2026-4-23 10:08 崇德苑 209 室
 
-1003. 
+1003. **不是所有的 fibration 都等同于某个函子，left/right/(co)Cartesian 条件正是使 fibration 等同于某个函子的条件**，见 35:25 并结合上一条理解。[Introduction to infinity-category theory - David Gepner](https://www.youtube.com/watch?v=FPhkljSrmbw&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=2) 2026-4-23 22:21 崇德苑 209 室
 
 
 
