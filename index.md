@@ -431,7 +431,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Maxime Ramzi - An introduction to dualizable categories](https://www.youtube.com/watch?v=s8Ec1SB1BeQ&list=PL76swe7AN-hTUhfhHj7wFuKgHB-0nq6YM&index=13) | [Rune Haugseng: "Commutative rings, bispans, and their equivariant analogues"](https://www.youtube.com/watch?v=EqF7611I2Ts) | [Rune Haugseng - Homotopy-coherent distributivity and the universal property of bispans](https://www.youtube.com/watch?v=a8Udb5z0es0&t=162s) |
 [André Joyal: "Higher topos theory and Goodwillie Calculus"](https://www.youtube.com/watch?v=AAUWJ7NHJGk&t=632s) | [Prof. Ieke Moerdijk Two models for infinity-operads](https://www.youtube.com/watch?v=4nTBZEo7qmg&t=2912s) | [André Joyal - Higher sheaves](https://www.youtube.com/watch?v=8YfYD47AO_k) |
 [HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (1)](https://www.youtube.com/watch?v=7A2NsuNLa4Q) | [Introduction to infinity-category theory - David Gepner](https://www.youtube.com/watch?v=FPhkljSrmbw&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=2) | [Tobias Dyckerhoff - A categorified Dold–Kan correspondence](https://www.youtube.com/watch?v=HQbM2BZ8Zis) |
-[]() | []() | []() |
+[David Gepner - Nov 13, 2015 - Morning Session (Part 1 of 2)-Homotopy theory from the viewpoint of infinity-topoi and derived algebraic geometry](https://www.youtube.com/watch?v=r4Jj6TIWw1Y) | []() | []() |
 []() |
 
 
