@@ -432,6 +432,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [André Joyal: "Higher topos theory and Goodwillie Calculus"](https://www.youtube.com/watch?v=AAUWJ7NHJGk&t=632s) | [Prof. Ieke Moerdijk Two models for infinity-operads](https://www.youtube.com/watch?v=4nTBZEo7qmg&t=2912s) | [André Joyal - Higher sheaves](https://www.youtube.com/watch?v=8YfYD47AO_k) |
 [HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (1)](https://www.youtube.com/watch?v=7A2NsuNLa4Q) | [Introduction to infinity-category theory - David Gepner](https://www.youtube.com/watch?v=FPhkljSrmbw&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=2) | [Tobias Dyckerhoff - A categorified Dold–Kan correspondence](https://www.youtube.com/watch?v=HQbM2BZ8Zis) |
 [David Gepner - Nov 13, 2015 - Morning Session (Part 1 of 2)-Homotopy theory from the viewpoint of infinity-topoi and derived algebraic geometry](https://www.youtube.com/watch?v=r4Jj6TIWw1Y) | [Leon Liu - En Algebra in m-Categories](https://www.youtube.com/watch?v=pOGXYaO83FA) | [Eckmann-Hilton argument](https://www.youtube.com/results?search_query=eckmann-hilton+argument) |
+[What is...an Eckmann-Hilton argument?](https://www.youtube.com/watch?v=DpoXQE0gNRs) | []() | []() |
 []() |
 
 
@@ -3267,7 +3268,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1004. a. operad 编码运算，monoid(al) 在别的范畴具体显示 operad 编码的运算，这是两个不同的世界，**表示论的两个世界**。b. 函子（作用）是这两者的交互桥梁，注意区分和识别。c. **注意区分不同世界里的结构，以及它们是如何交互的**，比如 O-monoid C 定义中，就涉及到 O 中 inert map 和 C 中的 product 的交互关系。d. **一定要区分清楚在哪个世界，如 O-algebra 和 O-monoid 的区别，前者是在 operad 世界中的态射，而后者是一个 operad 和另一个具有 product 的范畴直接的关系**。 2026-4-26 15:03 崇德苑 209 室
 
-1005. [Leon Liu - En Algebra in m-Categories](https://www.youtube.com/watch?v=pOGXYaO83FA) and [Eckmann-Hilton argument](https://www.youtube.com/results?search_query=eckmann-hilton+argument) 2026-4-26 16:32 崇德苑 209 室
+1005. [Leon Liu - En Algebra in m-Categories](https://www.youtube.com/watch?v=pOGXYaO83FA) and [Eckmann-Hilton argument](https://www.youtube.com/results?search_query=eckmann-hilton+argument) and [What is...an Eckmann-Hilton argument?](https://www.youtube.com/watch?v=DpoXQE0gNRs) 最后一个视频对理解 En operad 很有用，在 21:00 的 Eckmann-Hilton clock 可以**变形( infinity )-“同伦”，可以移动( n )-“有空间移动”，很形象地解释 infinity E_n operad 的加法 En + Em = En+m**, 两个 E1 产生一个 E2. 2026-4-26 16:32 崇德苑 209 室
 
 
 
