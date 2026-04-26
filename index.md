@@ -3265,6 +3265,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1003. **不是所有的 fibration 都等同于某个函子（就好比不是所有 X 上的空间 Y 都是平展空间），left/right/(co)Cartesian 条件正是使 fibration 等同于某个函子的条件**，见 35:25 并结合上一条理解。[Introduction to infinity-category theory - David Gepner](https://www.youtube.com/watch?v=FPhkljSrmbw&list=PLmt4E1O4dy0VB3rUckXWBV2J_5PUhaoIy&index=2) 2026-4-23 22:21 崇德苑 209 室
 
+1004. a. operad 编码运算，monoid(al) 在别的范畴具体显示 operad 编码的运算，这是两个不同的世界，**表示论的两个世界**。b. 函子（作用）是这两者的交互桥梁，注意区分和识别。c. **注意区分不同世界里的结构，以及它们是如何交互的**，比如 O-monoid C 定义中，就涉及到 O 中 inert map 和 C 中的 product 的交互关系。d. **一定要区分清楚在哪个世界，如 O-algebra 和 O-monoid 的区别，前者是在 operad 世界中的态射，而后者是一个 operad 和另一个具有 product 的范畴直接的关系**。 2026-4-26 15:03 崇德苑 209 室  
+
 
 
 
