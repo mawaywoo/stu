@@ -3271,6 +3271,9 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1005. [Leon Liu - En Algebra in m-Categories](https://www.youtube.com/watch?v=pOGXYaO83FA) and [CTOf23, Amartya Shekhar Dubey: E_n-algebras in (m+1)-categories](https://www.youtube.com/watch?v=8esbMHjuQhs) and [Eckmann-Hilton argument](https://www.youtube.com/results?search_query=eckmann-hilton+argument) and [What is...an Eckmann-Hilton argument?](https://www.youtube.com/watch?v=DpoXQE0gNRs) 最后一个视频对理解 En operad 很有用，在 21:00 的 Eckmann-Hilton clock 可以**变形( infinity )-“同伦”，可以移动( n )-“有空间移动”，很形象地解释 infinity E_n operad 的加法 En + Em = En+m**, 两个 E1 产生一个 E2. 2026-4-26 16:32 崇德苑 209 室
 
+1006. E1 可以通过 Ai 分解，而 E2 又可以通过 E1 分解，**那么 E2 如何通过 Ai 分解**？需要所有的 Ai 吗？其实**只需要对角线上的楼梯上的那些 Ai**, 其余的 Ai 都可以被这些数据推出来。[Leon Liu - En Algebra in m-Categories](https://www.youtube.com/watch?v=pOGXYaO83FA) 2026-4-28 15:58 崇德苑 209 室
+
+
 
 
 
