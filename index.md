@@ -434,7 +434,8 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [David Gepner - Nov 13, 2015 - Morning Session (Part 1 of 2)-Homotopy theory from the viewpoint of infinity-topoi and derived algebraic geometry](https://www.youtube.com/watch?v=r4Jj6TIWw1Y) | [Leon Liu - En Algebra in m-Categories](https://www.youtube.com/watch?v=pOGXYaO83FA) | [Eckmann-Hilton argument](https://www.youtube.com/results?search_query=eckmann-hilton+argument) |
 [What is...an Eckmann-Hilton argument?](https://www.youtube.com/watch?v=DpoXQE0gNRs) | [Eckmann-Hilton 1](https://www.youtube.com/watch?v=Rjdo-RWQVIY) | [Eckmann-Hilton 2 (beware typo at 4:13)](https://www.youtube.com/watch?v=wnRqo7UHa-k) |
 [CTOf23, Amartya Shekhar Dubey: E_n-algebras in (m+1)-categories](https://www.youtube.com/watch?v=8esbMHjuQhs) | [Amartya Shekhar Dubey'talks](https://www.youtube.com/results?search_query=Amartya+Shekhar+Dubey) | [Marcelo Aguiar: The Eckmann-Hilton argument in duoidal categories](https://www.youtube.com/watch?v=APYTHfYRTZE) |
-["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) | [Martina Rovelli's talks](https://www.youtube.com/results?search_query=Martina+Rovelli) | []() |
+["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) | [Martina Rovelli's talks](https://www.youtube.com/results?search_query=Martina+Rovelli) | [Viktoriya Ozornova: Equivalences in higher categories](https://www.youtube.com/watch?v=nVFfjmtDJzw) |
+[Viktoriya Ozornova's talks](https://www.youtube.com/results?search_query=+Viktoriya+Ozornova) | []() | []() |
 []() |
 
 
@@ -538,7 +539,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Lander Hermans](https://landerhermans.com/) | [Giuseppe Rosolini](https://scholar.google.com/citations?user=_T6lOuMAAAAJ&hl=en) | [Evan Patterson](https://www.epatters.org/) | [Greta Coraglia](https://etagreta.github.io/) | [Rory B. B. Lucyshyn-Wright](https://www.lucyshyn-wright.ca/) | [Alan S. Cigoli](https://www.researchgate.net/profile/Alan-Cigoli) | [Martin Szyld](https://cms.dm.uba.ar/Members/mszyld) | [Luca Mesiti](https://lucamesiti.github.io/talks/) | [Julia Yael Plavnik](https://sites.google.com/view/juliaplavnik/home) | [Ergun Yalcin](http://www.fen.bilkent.edu.tr/~yalcine/) |
 [Abhishek Banerjee](https://sites.google.com/site/abhishekb1313/Home) | [Pramod N. Achar](https://www.math.lsu.edu/~pramod/) | [Lyne Moser](https://lynemoser.com/research/) | [Isar Stubbe](https://orcid.org/0009-0000-3343-6028) | [Rune Haugseng](https://runegha.folk.ntnu.no/) | [邹佛灵](https://zzzflll.github.io/) | [孔嘉](https://hanajiakong.github.io/) | [Claudia Scheimbauer](http://www.scheimbauer.at/) | [Jürgen Fuchs](https://jfuchs.hotell.kau.se/gen/cv_5.html) | [Gustavo Jasso](https://gustavo.jasso.info/) |
 [Simona Paoli](https://sites.google.com/view/simona-paoli-webpage) | [Clark Barwick](https://webhomes.maths.ed.ac.uk/~cbarwick/) | [Merlin Christ](https://merlinchrist.eu/) | [Bastiaan Cnossen](https://sites.google.com/view/bastiaan-cnossen/home) | [Tomer Schlank](https://sites.google.com/view/tomer-schlank) | [Arne Mertens](https://arnemertens.com/) | [Maxime Ramzi](https://sites.google.com/view/maxime-ramzi-en) |[Tobias Dyckerhoff](https://www.math.uni-hamburg.de/home/dyckerhoff/) | [Yu Leon Liu](https://leon2k2k2k.github.io/) | [Martina Rovelli](https://sites.google.com/view/mrovelli) |
-[]() |
+[Viktoriya Ozornova](https://people.mpim-bonn.mpg.de/viktoriya.ozornova/) |
 
 
 
