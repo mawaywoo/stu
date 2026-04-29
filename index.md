@@ -434,6 +434,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [David Gepner - Nov 13, 2015 - Morning Session (Part 1 of 2)-Homotopy theory from the viewpoint of infinity-topoi and derived algebraic geometry](https://www.youtube.com/watch?v=r4Jj6TIWw1Y) | [Leon Liu - En Algebra in m-Categories](https://www.youtube.com/watch?v=pOGXYaO83FA) | [Eckmann-Hilton argument](https://www.youtube.com/results?search_query=eckmann-hilton+argument) |
 [What is...an Eckmann-Hilton argument?](https://www.youtube.com/watch?v=DpoXQE0gNRs) | [Eckmann-Hilton 1](https://www.youtube.com/watch?v=Rjdo-RWQVIY) | [Eckmann-Hilton 2 (beware typo at 4:13)](https://www.youtube.com/watch?v=wnRqo7UHa-k) |
 [CTOf23, Amartya Shekhar Dubey: E_n-algebras in (m+1)-categories](https://www.youtube.com/watch?v=8esbMHjuQhs) | [Amartya Shekhar Dubey'talks](https://www.youtube.com/results?search_query=Amartya+Shekhar+Dubey) | [Marcelo Aguiar: The Eckmann-Hilton argument in duoidal categories](https://www.youtube.com/watch?v=APYTHfYRTZE) |
+["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) | []() | []() |
 []() |
 
 
