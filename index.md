@@ -435,7 +435,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [What is...an Eckmann-Hilton argument?](https://www.youtube.com/watch?v=DpoXQE0gNRs) | [Eckmann-Hilton 1](https://www.youtube.com/watch?v=Rjdo-RWQVIY) | [Eckmann-Hilton 2 (beware typo at 4:13)](https://www.youtube.com/watch?v=wnRqo7UHa-k) |
 [CTOf23, Amartya Shekhar Dubey: E_n-algebras in (m+1)-categories](https://www.youtube.com/watch?v=8esbMHjuQhs) | [Amartya Shekhar Dubey'talks](https://www.youtube.com/results?search_query=Amartya+Shekhar+Dubey) | [Marcelo Aguiar: The Eckmann-Hilton argument in duoidal categories](https://www.youtube.com/watch?v=APYTHfYRTZE) |
 ["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) | [Martina Rovelli's talks](https://www.youtube.com/results?search_query=Martina+Rovelli) | [Viktoriya Ozornova: Equivalences in higher categories](https://www.youtube.com/watch?v=nVFfjmtDJzw) |
-[Viktoriya Ozornova's talks](https://www.youtube.com/results?search_query=+Viktoriya+Ozornova) | []() | []() |
+[Viktoriya Ozornova's talks](https://www.youtube.com/results?search_query=+Viktoriya+Ozornova) | [Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0&t=10s) | []() |
 []() |
 
 
