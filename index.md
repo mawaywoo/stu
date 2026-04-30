@@ -3278,7 +3278,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1007. ["n-Complicial sets as a model for (∞,n)-categories", talk by **Martina Rovelli** at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) and [Martina Rovelli's talks](https://www.youtube.com/results?search_query=Martina+Rovelli) and [**Viktoriya Ozornova**: Equivalences in higher categories](https://www.youtube.com/watch?v=nVFfjmtDJzw) and [Viktoriya Ozornova's talks](https://www.youtube.com/results?search_query=+Viktoriya+Ozornova) 更多关于 **(infinity, n)-范畴**的模型。2026-4-29 15:45 崇德苑 209 室
 
-1008. [Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0&t=10s) and [Viktoriya Ozornova - Exploring (∞, n)-categories through n-complicial sets – Part 2](https://www.youtube.com/watch?v=4pDBnzBVHQE&t=43s) 2026-4-30 14:25 崇德苑 209 室
+1008. Nerve 函子的推广。[Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0&t=10s) and [Viktoriya Ozornova - Exploring (∞, n)-categories through n-complicial sets – Part 2](https://www.youtube.com/watch?v=4pDBnzBVHQE&t=43s) 2026-4-30 14:25 崇德苑 209 室
 
 
 
