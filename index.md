@@ -435,7 +435,8 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [What is...an Eckmann-Hilton argument?](https://www.youtube.com/watch?v=DpoXQE0gNRs) | [Eckmann-Hilton 1](https://www.youtube.com/watch?v=Rjdo-RWQVIY) | [Eckmann-Hilton 2 (beware typo at 4:13)](https://www.youtube.com/watch?v=wnRqo7UHa-k) |
 [CTOf23, Amartya Shekhar Dubey: E_n-algebras in (m+1)-categories](https://www.youtube.com/watch?v=8esbMHjuQhs) | [Amartya Shekhar Dubey'talks](https://www.youtube.com/results?search_query=Amartya+Shekhar+Dubey) | [Marcelo Aguiar: The Eckmann-Hilton argument in duoidal categories](https://www.youtube.com/watch?v=APYTHfYRTZE) |
 ["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) | [Martina Rovelli's talks](https://www.youtube.com/results?search_query=Martina+Rovelli) | [Viktoriya Ozornova: Equivalences in higher categories](https://www.youtube.com/watch?v=nVFfjmtDJzw) |
-[Viktoriya Ozornova's talks](https://www.youtube.com/results?search_query=+Viktoriya+Ozornova) | [Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0&t=10s) | []() |
+[Viktoriya Ozornova's talks](https://www.youtube.com/results?search_query=+Viktoriya+Ozornova) | [Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0&t=10s) | [Viktoriya Ozornova - Exploring (∞, n)-categories through n-complicial sets – Part 2](https://www.youtube.com/watch?v=4pDBnzBVHQE&t=43s) |
+[]() | []() | []() |
 []() |
 
 
@@ -3276,6 +3277,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 1006. E1 可以通过 Ai 分解，而 E2 又可以通过 E1 分解，**那么 E2 如何通过 Ai 分解**？需要所有的 Ai 吗？其实**只需要对角线上的楼梯上的那些 Ai**, 其余的 Ai 都可以被这些数据推出来。[Leon Liu - En Algebra in m-Categories](https://www.youtube.com/watch?v=pOGXYaO83FA) 2026-4-28 15:58 崇德苑 209 室
 
 1007. ["n-Complicial sets as a model for (∞,n)-categories", talk by **Martina Rovelli** at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) and [Martina Rovelli's talks](https://www.youtube.com/results?search_query=Martina+Rovelli) and [**Viktoriya Ozornova**: Equivalences in higher categories](https://www.youtube.com/watch?v=nVFfjmtDJzw) and [Viktoriya Ozornova's talks](https://www.youtube.com/results?search_query=+Viktoriya+Ozornova) 更多关于 **(infinity, n)-范畴**的模型。2026-4-29 15:45 崇德苑 209 室
+
+1008. [Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0&t=10s) and [Viktoriya Ozornova - Exploring (∞, n)-categories through n-complicial sets – Part 2](https://www.youtube.com/watch?v=4pDBnzBVHQE&t=43s) 2026-4-30 14:25 崇德苑 209 室
 
 
 
