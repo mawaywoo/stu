@@ -436,7 +436,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [CTOf23, Amartya Shekhar Dubey: E_n-algebras in (m+1)-categories](https://www.youtube.com/watch?v=8esbMHjuQhs) | [Amartya Shekhar Dubey'talks](https://www.youtube.com/results?search_query=Amartya+Shekhar+Dubey) | [Marcelo Aguiar: The Eckmann-Hilton argument in duoidal categories](https://www.youtube.com/watch?v=APYTHfYRTZE) |
 ["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) | [Martina Rovelli's talks](https://www.youtube.com/results?search_query=Martina+Rovelli) | [Viktoriya Ozornova: Equivalences in higher categories](https://www.youtube.com/watch?v=nVFfjmtDJzw) |
 [Viktoriya Ozornova's talks](https://www.youtube.com/results?search_query=+Viktoriya+Ozornova) | [Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0&t=10s) | [Viktoriya Ozornova - Exploring (∞, n)-categories through n-complicial sets – Part 2](https://www.youtube.com/watch?v=4pDBnzBVHQE&t=43s) |
-[CT2024, Martina Rovelli: Limits and colimits in (∞, n)-category theory](https://www.youtube.com/watch?v=lsg_Sxh4k5M&t=132s) | []() | []() |
+[CT2024, Martina Rovelli: Limits and colimits in (∞, n)-category theory](https://www.youtube.com/watch?v=lsg_Sxh4k5M&t=132s) | [Lyne Moser: Dening limits in (∞, n)-categories](https://www.youtube.com/watch?v=NwHhwXEaN2U) | []() |
 []() |
 
 
@@ -3280,7 +3280,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1008. Nerve 函子的推广。[Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0&t=10s) and [Viktoriya Ozornova - Exploring (∞, n)-categories through n-complicial sets – Part 2](https://www.youtube.com/watch?v=4pDBnzBVHQE&t=43s) 2026-4-30 14:25 崇德苑 209 室
 
-1009. 低维和无穷维概念的差异对比。[CT2024, Martina Rovelli: Limits and colimits in (∞, n)-category theory](https://www.youtube.com/watch?v=lsg_Sxh4k5M&t=132s) 2026-5-1 9:28 崇德苑 209 室
+1009. 低维和无穷维概念的差异对比，这样对比着讲**很具启发性**，例如 **Segal object = categorical object**，还有各种 Nerve 函子的推广（**将原 Nerve 函子的源范畴、目标范畴进行改变产生的推广**） [CT2024, Martina Rovelli: Limits and colimits in (∞, n)-category theory](https://www.youtube.com/watch?v=lsg_Sxh4k5M&t=132s) and [Lyne Moser: Dening limits in (∞, n)-categories](https://www.youtube.com/watch?v=NwHhwXEaN2U) 2026-5-1 9:28 崇德苑 209 室
 
 
 
