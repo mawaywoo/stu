@@ -437,7 +437,8 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 ["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) | [Martina Rovelli's talks](https://www.youtube.com/results?search_query=Martina+Rovelli) | [Viktoriya Ozornova: Equivalences in higher categories](https://www.youtube.com/watch?v=nVFfjmtDJzw) |
 [Viktoriya Ozornova's talks](https://www.youtube.com/results?search_query=+Viktoriya+Ozornova) | [Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0&t=10s) | [Viktoriya Ozornova - Exploring (∞, n)-categories through n-complicial sets – Part 2](https://www.youtube.com/watch?v=4pDBnzBVHQE&t=43s) |
 [CT2024, Martina Rovelli: Limits and colimits in (∞, n)-category theory](https://www.youtube.com/watch?v=lsg_Sxh4k5M&t=132s) | [Lyne Moser: Dening limits in (∞, n)-categories](https://www.youtube.com/watch?v=NwHhwXEaN2U) | [Ozornova, Equivalences in higher categories](https://www.youtube.com/watch?v=d2bv3pVwoBs&t=265s) |
-[333分钟，一口气看完，深度解读现代物理学几乎所有理论！](https://www.bilibili.com/video/BV1cz421i7k8/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Higher Category Theory For Beginners With Homotopy io](https://www.youtube.com/watch?v=f0jletHI4Tk) | []() |
+[333分钟，一口气看完，深度解读现代物理学几乎所有理论！](https://www.bilibili.com/video/BV1cz421i7k8/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Higher Category Theory For Beginners With Homotopy io](https://www.youtube.com/watch?v=f0jletHI4Tk) | [Model Structures for ∞-Groupoids and ∞-Categories on Cubical Sets](https://www.youtube.com/watch?v=Q-jc8fxJ8w8) |
+[]() | []() | []() |
 []() |
 
 
