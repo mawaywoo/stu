@@ -436,7 +436,8 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [CTOf23, Amartya Shekhar Dubey: E_n-algebras in (m+1)-categories](https://www.youtube.com/watch?v=8esbMHjuQhs) | [Amartya Shekhar Dubey'talks](https://www.youtube.com/results?search_query=Amartya+Shekhar+Dubey) | [Marcelo Aguiar: The Eckmann-Hilton argument in duoidal categories](https://www.youtube.com/watch?v=APYTHfYRTZE) |
 ["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) | [Martina Rovelli's talks](https://www.youtube.com/results?search_query=Martina+Rovelli) | [Viktoriya Ozornova: Equivalences in higher categories](https://www.youtube.com/watch?v=nVFfjmtDJzw) |
 [Viktoriya Ozornova's talks](https://www.youtube.com/results?search_query=+Viktoriya+Ozornova) | [Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0&t=10s) | [Viktoriya Ozornova - Exploring (∞, n)-categories through n-complicial sets – Part 2](https://www.youtube.com/watch?v=4pDBnzBVHQE&t=43s) |
-[CT2024, Martina Rovelli: Limits and colimits in (∞, n)-category theory](https://www.youtube.com/watch?v=lsg_Sxh4k5M&t=132s) | [Lyne Moser: Dening limits in (∞, n)-categories](https://www.youtube.com/watch?v=NwHhwXEaN2U) | []() |
+[CT2024, Martina Rovelli: Limits and colimits in (∞, n)-category theory](https://www.youtube.com/watch?v=lsg_Sxh4k5M&t=132s) | [Lyne Moser: Dening limits in (∞, n)-categories](https://www.youtube.com/watch?v=NwHhwXEaN2U) | [Ozornova, Equivalences in higher categories](https://www.youtube.com/watch?v=d2bv3pVwoBs&t=265s) |
+[]() | []() | []() |
 []() |
 
 
