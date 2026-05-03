@@ -439,7 +439,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [CT2024, Martina Rovelli: Limits and colimits in (∞, n)-category theory](https://www.youtube.com/watch?v=lsg_Sxh4k5M&t=132s) | [Lyne Moser: Dening limits in (∞, n)-categories](https://www.youtube.com/watch?v=NwHhwXEaN2U) | [Ozornova, Equivalences in higher categories](https://www.youtube.com/watch?v=d2bv3pVwoBs&t=265s) |
 [333分钟，一口气看完，深度解读现代物理学几乎所有理论！](https://www.bilibili.com/video/BV1cz421i7k8/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [Higher Category Theory For Beginners With Homotopy io](https://www.youtube.com/watch?v=f0jletHI4Tk) | [Model Structures for ∞-Groupoids and ∞-Categories on Cubical Sets](https://www.youtube.com/watch?v=Q-jc8fxJ8w8) |
 [Martina Rovelli, Towards an explicit comparison between globular & simplicial models of (∞,2)-cats](https://www.youtube.com/watch?v=JvViiA7WSqQ) | [Julie Bergner's talks](https://www.youtube.com/results?search_query=Julie+Bergner) | [Prof. Julie Bergner Models for (infty,n)-categories with discreteness conditions](https://www.youtube.com/watch?v=0Ll_VMBs9NA) |
-[Julie Bergner: "Models for (∞,n)-categories with discreteness conditions"](https://www.youtube.com/watch?v=8KamUrJyJrY) | []() | []() |
+[Julie Bergner: "Models for (∞,n)-categories with discreteness conditions"](https://www.youtube.com/watch?v=8KamUrJyJrY) | [eCHT Minicourse part 1, Julie Bergner, 14 May 2024-introduction to 1-Segal and 2-Segal sets and spaces](https://www.youtube.com/watch?v=gddmNtPEg54) | []() |
 []() |
 
 
