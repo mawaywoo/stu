@@ -3287,6 +3287,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1010. 解释得很透彻：比如，**enriched 的方法的弊端是结合律太严格，所以采用 Segal map 的方法；internal 和 enriched 相比的弊端是 X0 是拓扑空间而非是集合（对象 X0 是集合还是拓扑空间是区别 Segal category 和 Segal space 的关键），所以需要将拓扑空间实现为集合；X0 拓扑空间实现集合有两种方式：离散空间和 complete Segal 条件，两者是“互补”的条件，而非“等同”的条件；discrete 和 complete 条件都是为了把 internal 定义的 space 实现为 category，即离散的 X0 或者 X1；Segal category 的 X0 是离散集合，complete Segal space 的 X0 仍然是一个拓扑空间，该拓扑空间的对象 X0,0 是一个离散集合；Theta_2 实际上是 Detal 的 2-维推广，背后的 idea 解释得很清晰；各种无穷范畴的模型之间的关系也理得很很清楚**。很好的一个 talk，值得反复观看，对掌握高阶范畴背后的想法很有帮助，可以结合 Julie Bergner 的两篇关于无穷范畴的 survey 文章来学习。[Prof. Julie Bergner | Models for (infty,n)-categories with discreteness conditions](https://www.youtube.com/watch?v=0Ll_VMBs9NA) also [Julie Bergner: "Models for (∞,n)-categories with discreteness conditions"](https://www.youtube.com/watch?v=8KamUrJyJrY) 2026-5-3 10:18 崇德苑 209 室
 
+1011. **对 Segal map 的产生和定义通过例子娓娓道来**，形象易懂！[eCHT Minicourse part 1, Julie Bergner, 14 May 2024-introduction to 1-Segal and 2-Segal sets and spaces](https://www.youtube.com/watch?v=gddmNtPEg54) 2026-5-3 14:47 崇德苑 209 室
+
 
 
 
