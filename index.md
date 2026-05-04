@@ -3292,7 +3292,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1011. **对 Segal map 的产生和定义通过例子娓娓道来**，形象易懂！[eCHT Minicourse part 1, Julie Bergner, 14 May 2024: introduction to 1-Segal and 2-Segal sets and spaces](https://www.youtube.com/watch?v=gddmNtPEg54) and [eCHT Minicourse part 2, Julie Bergner, 16 May 2024: 2-Segal spaces and the S.-construction](https://www.youtube.com/watch?v=HFAbosc6YPY) and [eCHT Minicourse part 3, Julie Bergner, 21 May 2024: the general S.-construction ans Hall algebras](https://www.youtube.com/watch?v=DRg1UKNLpng&list=PL65yIu7prXPXAddp7lSwVnK-hM5D0Lx8T&index=2) and [eCHT Minicourse part 4, Julie Bergner, 23 May 2024: the conclusion](https://www.youtube.com/watch?v=diizjodIEAU) 2026-5-3 14:47 崇德苑 209 室
 
-1012. 最近因为对高阶范畴理论很感兴趣，所以了解到 Julie Bergner，看到这个视频才发现，原来我博一的时候就看过 Julie Bergner 的 talk，当时学的单纯集就是和她学的，讲得很生动具体，很喜欢她的讲课风格。[An introduction to homotopical categories 1-4, by Julie Bergner](https://www.slmath.org/people/22352) 2026-5-4 8:58 崇德苑 209 室
+1012. 最近因为对高阶范畴理论很感兴趣，所以了解到 Julie Bergner，看到这个视频才发现，原来我博一的时候就看过 Julie Bergner 的 talk，当时学的单纯集就是和她学的，讲得很生动具体，很喜欢她的讲课风格。后两节对 D-K 等价以及模型范畴的解释很受启发！[An introduction to homotopical categories 1-4, by Julie Bergner](https://www.slmath.org/people/22352) 2026-5-4 8:58 崇德苑 209 室
 
 
 
