@@ -441,7 +441,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Martina Rovelli, Towards an explicit comparison between globular & simplicial models of (∞,2)-cats](https://www.youtube.com/watch?v=JvViiA7WSqQ) | [Julie Bergner's talks](https://www.youtube.com/results?search_query=Julie+Bergner) | [Prof. Julie Bergner Models for (infty,n)-categories with discreteness conditions](https://www.youtube.com/watch?v=0Ll_VMBs9NA) |
 [Julie Bergner: "Models for (∞,n)-categories with discreteness conditions"](https://www.youtube.com/watch?v=8KamUrJyJrY) | [eCHT Minicourse part 1, Julie Bergner, 14 May 2024: introduction to 1-Segal and 2-Segal sets and spaces](https://www.youtube.com/watch?v=gddmNtPEg54) | [eCHT Minicourse part 2, Julie Bergner, 16 May 2024: 2-Segal spaces and the S.-construction](https://www.youtube.com/watch?v=HFAbosc6YPY) |
 [eCHT Minicourse part 3, Julie Bergner, 21 May 2024: the general S.-construction ans Hall algebras](https://www.youtube.com/watch?v=DRg1UKNLpng&list=PL65yIu7prXPXAddp7lSwVnK-hM5D0Lx8T&index=2) | [eCHT Minicourse part 4, Julie Bergner, 23 May 2024: the conclusion](https://www.youtube.com/watch?v=diizjodIEAU) | [Elena Caviglia - On the exactness of the 2-category of triangulated categories](https://www.youtube.com/watch?v=EmIaFfrHUKg) |
-[An introduction to homotopical categories 1-4, by Julie Bergner](https://www.slmath.org/people/22352) | [Julie Bergner SLMath](https://www.slmath.org/people/22352) | []() |
+[An introduction to homotopical categories 1-4, by Julie Bergner](https://www.slmath.org/people/22352) | [Julie Bergner SLMath](https://www.slmath.org/people/22352) | [Models for homotopical higher categories, Julie Bergner](https://www.slmath.org/workshops/685/schedules/17889) |
 []() |
 
 
