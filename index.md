@@ -443,7 +443,8 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [eCHT Minicourse part 3, Julie Bergner, 21 May 2024: the general S.-construction ans Hall algebras](https://www.youtube.com/watch?v=DRg1UKNLpng&list=PL65yIu7prXPXAddp7lSwVnK-hM5D0Lx8T&index=2) | [eCHT Minicourse part 4, Julie Bergner, 23 May 2024: the conclusion](https://www.youtube.com/watch?v=diizjodIEAU) | [Elena Caviglia - On the exactness of the 2-category of triangulated categories](https://www.youtube.com/watch?v=EmIaFfrHUKg) |
 [An introduction to homotopical categories 1-4, by Julie Bergner](https://www.slmath.org/people/22352) | [Julie Bergner SLMath](https://www.slmath.org/people/22352) | [Models for homotopical higher categories, Julie Bergner](https://www.slmath.org/workshops/685/schedules/17889) |
 [Direct proofs of properties and structures of model structures for (∞, 1)-categories, Julie Bergner](https://www.slmath.org/workshops/797/schedules/22691) | [HHH Prof. Julie Bergner The Waldhausen S-construction as an equivalence of homotopy theories](https://www.youtube.com/watch?v=ak-b2gApyF4) | [Assistant Professor Martina Rovelli Dept of Maths and Stats Colloquium series 31 March 2021: discovering higher categories](https://www.youtube.com/watch?v=bmlkzwRQcM4) |
-[Chris Kapulkin (UWO): Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=JCIgtpJIUvQ) | [Markus Spitzweck's talks](https://www.youtube.com/results?search_query=Markus+Spitzweck) | []() |
+[Chris Kapulkin (UWO): Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=JCIgtpJIUvQ) | [Markus Spitzweck's talks](https://www.youtube.com/results?search_query=Markus+Spitzweck) | [topological field theories and higher categories](https://www.slmath.org/video-details/906/27879) |
+[Claudia Scheimbauer's talks](https://www.slmath.org/people/40886?reDirectFrom=link) | []() | []() |
 []() |
 
 
