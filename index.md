@@ -444,7 +444,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [An introduction to homotopical categories 1-4, by Julie Bergner](https://www.slmath.org/people/22352) | [Julie Bergner SLMath](https://www.slmath.org/people/22352) | [Models for homotopical higher categories, Julie Bergner](https://www.slmath.org/workshops/685/schedules/17889) |
 [Direct proofs of properties and structures of model structures for (∞, 1)-categories, Julie Bergner](https://www.slmath.org/workshops/797/schedules/22691) | [HHH Prof. Julie Bergner The Waldhausen S-construction as an equivalence of homotopy theories](https://www.youtube.com/watch?v=ak-b2gApyF4) | [Assistant Professor Martina Rovelli Dept of Maths and Stats Colloquium series 31 March 2021: discovering higher categories](https://www.youtube.com/watch?v=bmlkzwRQcM4) |
 [Chris Kapulkin (UWO): Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=JCIgtpJIUvQ) | [Markus Spitzweck's talks](https://www.youtube.com/results?search_query=Markus+Spitzweck) | [topological field theories and higher categories](https://www.slmath.org/video-details/906/27879) |
-[Claudia Scheimbauer's talks](https://www.slmath.org/people/40886?reDirectFrom=link) | []() | []() |
+[Claudia Scheimbauer's talks](https://www.slmath.org/people/40886?reDirectFrom=link) | [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) | []() |
 []() |
 
 
@@ -3297,6 +3297,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 1012. 最近因为对高阶范畴理论很感兴趣，所以了解到 Julie Bergner，看到这个视频才发现，原来我博一的时候就看过 Julie Bergner 的 talk，当时学的单纯集就是和她学的，讲得很生动具体，很喜欢她的讲课风格。后两节对 D-K 等价以及模型范畴的解释很受启发！[An introduction to homotopical categories 1-4, by Julie Bergner](https://www.slmath.org/people/22352) 2026-5-4 8:58 崇德苑 209 室
 
 1013. 各种无穷范畴的模型：delta, cube, tree。[Chris Kapulkin (UWO): Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=JCIgtpJIUvQ) 2026-5-5 18:06 崇德苑 209 室
+
+1014. 20:13 的例子解释了为什么要引进 complete Segal condition. [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) 2026-5-11 21:45 崇德苑 209 室
 
 
 
