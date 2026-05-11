@@ -445,6 +445,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Direct proofs of properties and structures of model structures for (∞, 1)-categories, Julie Bergner](https://www.slmath.org/workshops/797/schedules/22691) | [HHH Prof. Julie Bergner The Waldhausen S-construction as an equivalence of homotopy theories](https://www.youtube.com/watch?v=ak-b2gApyF4) | [Assistant Professor Martina Rovelli Dept of Maths and Stats Colloquium series 31 March 2021: discovering higher categories](https://www.youtube.com/watch?v=bmlkzwRQcM4) |
 [Chris Kapulkin (UWO): Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=JCIgtpJIUvQ) | [Markus Spitzweck's talks](https://www.youtube.com/results?search_query=Markus+Spitzweck) | [topological field theories and higher categories](https://www.slmath.org/video-details/906/27879) |
 [Claudia Scheimbauer's talks](https://www.slmath.org/people/40886?reDirectFrom=link) | [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) | [Nima Rasekh Talks](https://www.youtube.com/playlist?list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw) |
+[Eleftherios Chatzitheodoridis: Rational complete Segal spaces](https://www.youtube.com/watch?v=JqVDw32rM6A) | []() | []() |
 []() |
 
 
@@ -3298,7 +3299,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1013. 各种无穷范畴的模型：delta, cube, tree。[Chris Kapulkin (UWO): Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=JCIgtpJIUvQ) 2026-5-5 18:06 崇德苑 209 室
 
-1014. 20:13 的例子解释了为什么要引进 complete Segal condition. [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) 2026-5-11 21:45 崇德苑 209 室
+1014. 20:13 的例子解释了为什么要引进 complete Segal condition. [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) and [Eleftherios Chatzitheodoridis: Rational complete Segal spaces](https://www.youtube.com/watch?v=JqVDw32rM6A) 2026-5-11 21:45 崇德苑 209 室
 
 
 
