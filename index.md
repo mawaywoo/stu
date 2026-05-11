@@ -444,7 +444,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [An introduction to homotopical categories 1-4, by Julie Bergner](https://www.slmath.org/people/22352) | [Julie Bergner SLMath](https://www.slmath.org/people/22352) | [Models for homotopical higher categories, Julie Bergner](https://www.slmath.org/workshops/685/schedules/17889) |
 [Direct proofs of properties and structures of model structures for (∞, 1)-categories, Julie Bergner](https://www.slmath.org/workshops/797/schedules/22691) | [HHH Prof. Julie Bergner The Waldhausen S-construction as an equivalence of homotopy theories](https://www.youtube.com/watch?v=ak-b2gApyF4) | [Assistant Professor Martina Rovelli Dept of Maths and Stats Colloquium series 31 March 2021: discovering higher categories](https://www.youtube.com/watch?v=bmlkzwRQcM4) |
 [Chris Kapulkin (UWO): Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=JCIgtpJIUvQ) | [Markus Spitzweck's talks](https://www.youtube.com/results?search_query=Markus+Spitzweck) | [topological field theories and higher categories](https://www.slmath.org/video-details/906/27879) |
-[Claudia Scheimbauer's talks](https://www.slmath.org/people/40886?reDirectFrom=link) | [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) | []() |
+[Claudia Scheimbauer's talks](https://www.slmath.org/people/40886?reDirectFrom=link) | [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) | [Nima Rasekh Talks](https://www.youtube.com/playlist?list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw) |
 []() |
 
 
