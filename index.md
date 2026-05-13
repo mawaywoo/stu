@@ -446,7 +446,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Chris Kapulkin (UWO): Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=JCIgtpJIUvQ) | [Markus Spitzweck's talks](https://www.youtube.com/results?search_query=Markus+Spitzweck) | [topological field theories and higher categories](https://www.slmath.org/video-details/906/27879) |
 [Claudia Scheimbauer's talks](https://www.slmath.org/people/40886?reDirectFrom=link) | [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) | [Nima Rasekh Talks](https://www.youtube.com/playlist?list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw) |
 [Eleftherios Chatzitheodoridis: Rational complete Segal spaces](https://www.youtube.com/watch?v=JqVDw32rM6A) | [Quasi-2-Segal sets](https://www.youtube.com/watch?v=HjftcBgvSqg) | [BilTop Walker Stern A story about spans](https://www.youtube.com/watch?v=uZNeI9PvwTY) |
-[Walker Stern-Commutative and Frobenius algebras in span categories](https://www.youtube.com/watch?v=AK4ZCJuGK6M) | [Walker Stern - Generalizing Quillen's Theorem A](https://www.youtube.com/watch?v=Z-hIXF2bKdo&t=2645s) | []() |
+[Walker Stern-Commutative and Frobenius algebras in span categories](https://www.youtube.com/watch?v=AK4ZCJuGK6M) | [Walker Stern - Generalizing Quillen's Theorem A](https://www.youtube.com/watch?v=Z-hIXF2bKdo&t=2645s) | [Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA) |
 []() |
 
 
@@ -3302,7 +3302,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1014. 20:13 的例子解释了为什么要引进 complete Segal condition. [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) and [Eleftherios Chatzitheodoridis: Rational complete Segal spaces](https://www.youtube.com/watch?v=JqVDw32rM6A) 2026-5-11 21:45 崇德苑 209 室
 
-1015. **Span 编码的信息和 Delta 编码的信息可以互相转化**。[BilTop Walker Stern A story about spans](https://www.youtube.com/watch?v=uZNeI9PvwTY) and 31:40 的 **delta ——> Fin** 的映射 cut 的示意图（**这里很形象地解释了 Fin 比 Delta 多增加了一些信息：对称置换的信息**）；主要想法：**对结合代数增加更多限制实现为对 Detal 范畴增加更多信息**，所以对 shape 范畴的比较很重要。[Walker Stern - Commutative and Frobenius algebras in span categories](https://www.youtube.com/watch?v=AK4ZCJuGK6M) 这个 talk 比 前面那个 talk 更具体，很受启发。2026-5-13 11:25 崇德苑 209 室
+1015. **Span 编码的信息和 Delta 编码的信息可以互相转化**。[BilTop Walker Stern A story about spans](https://www.youtube.com/watch?v=uZNeI9PvwTY) and 31:40 的 **delta ——> Fin** 的映射 cut 的示意图（**这里很形象地解释了 Fin 比 Delta 多增加了一些信息：对称置换的信息**）；主要想法：**对结合代数增加更多限制实现为对 Detal 范畴增加更多信息**，所以对 shape 范畴的比较很重要。[Walker Stern - Commutative and Frobenius algebras in span categories](https://www.youtube.com/watch?v=AK4ZCJuGK6M) 这个 talk 比 前面那个 talk 更具体，很受启发。and **44:00 Omega ——> Delta 的映射（不是 Delta ——> Omega 的包含映射）** [Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA) 这三个 talk 给我的**启发（！！！**）就是：**Delta 范畴是连接枢纽，不管是 Span(C) 中的代数对象、Segal 预层还是 dedroidal set，都能“看见”范畴 Delta，正是 Delta 的沟通作用，让这三者得以比较**。2026-5-13 11:25 崇德苑 209 室
 
 
 
