@@ -3302,7 +3302,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1014. 20:13 的例子解释了为什么要引进 complete Segal condition. [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) and [Eleftherios Chatzitheodoridis: Rational complete Segal spaces](https://www.youtube.com/watch?v=JqVDw32rM6A) 2026-5-11 21:45 崇德苑 209 室
 
-1015. **Span 编码的信息和 Delta 编码的信息可以互相转化**。[BilTop Walker Stern A story about spans](https://www.youtube.com/watch?v=uZNeI9PvwTY) and [Walker Stern - Commutative and Frobenius algebras in span categories](https://www.youtube.com/watch?v=AK4ZCJuGK6M) 2026-5-13 11:25 崇德苑 209 室
+1015. **Span 编码的信息和 Delta 编码的信息可以互相转化**。[BilTop Walker Stern A story about spans](https://www.youtube.com/watch?v=uZNeI9PvwTY) and 31:40 的 **delta ——> Fin** 的映射 cut 的示意图 [Walker Stern - Commutative and Frobenius algebras in span categories](https://www.youtube.com/watch?v=AK4ZCJuGK6M) 2026-5-13 11:25 崇德苑 209 室
 
 
 
