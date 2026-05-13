@@ -446,6 +446,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Chris Kapulkin (UWO): Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=JCIgtpJIUvQ) | [Markus Spitzweck's talks](https://www.youtube.com/results?search_query=Markus+Spitzweck) | [topological field theories and higher categories](https://www.slmath.org/video-details/906/27879) |
 [Claudia Scheimbauer's talks](https://www.slmath.org/people/40886?reDirectFrom=link) | [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) | [Nima Rasekh Talks](https://www.youtube.com/playlist?list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw) |
 [Eleftherios Chatzitheodoridis: Rational complete Segal spaces](https://www.youtube.com/watch?v=JqVDw32rM6A) | [Quasi-2-Segal sets](https://www.youtube.com/watch?v=HjftcBgvSqg) | [BilTop Walker Stern A story about spans](https://www.youtube.com/watch?v=uZNeI9PvwTY) |
+[Walker Stern - Commutative and Frobenius algebras in span categories](https://www.youtube.com/watch?v=AK4ZCJuGK6M) | []() | []() |
 []() |
 
 
@@ -3301,7 +3302,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1014. 20:13 的例子解释了为什么要引进 complete Segal condition. [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) and [Eleftherios Chatzitheodoridis: Rational complete Segal spaces](https://www.youtube.com/watch?v=JqVDw32rM6A) 2026-5-11 21:45 崇德苑 209 室
 
-1015. **Span 编码的信息和 Delta 编码的信息可以互相转化**。[BilTop Walker Stern A story about spans](https://www.youtube.com/watch?v=uZNeI9PvwTY) 2026-5-13 11:25 崇德苑 209 室
+1015. **Span 编码的信息和 Delta 编码的信息可以互相转化**。[BilTop Walker Stern A story about spans](https://www.youtube.com/watch?v=uZNeI9PvwTY) and [Walker Stern - Commutative and Frobenius algebras in span categories](https://www.youtube.com/watch?v=AK4ZCJuGK6M) 2026-5-13 11:25 崇德苑 209 室
 
 
 
