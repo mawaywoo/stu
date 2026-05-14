@@ -447,6 +447,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Claudia Scheimbauer's talks](https://www.slmath.org/people/40886?reDirectFrom=link) | [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o) | [Nima Rasekh Talks](https://www.youtube.com/playlist?list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw) |
 [Eleftherios Chatzitheodoridis: Rational complete Segal spaces](https://www.youtube.com/watch?v=JqVDw32rM6A) | [Quasi-2-Segal sets](https://www.youtube.com/watch?v=HjftcBgvSqg) | [BilTop Walker Stern A story about spans](https://www.youtube.com/watch?v=uZNeI9PvwTY) |
 [Walker Stern-Commutative and Frobenius algebras in span categories](https://www.youtube.com/watch?v=AK4ZCJuGK6M) | [Walker Stern - Generalizing Quillen's Theorem A](https://www.youtube.com/watch?v=Z-hIXF2bKdo&t=2645s) | [Tashi Walde: 2-Segal spaces as invertible infinity-operads](https://www.youtube.com/watch?v=aDYuvajubGA) |
+[Tom Leinster: "An introduction to n-categories"](https://www.youtube.com/watch?v=6bnU7_6CNa0) | []() | []() |
 []() |
 
 
