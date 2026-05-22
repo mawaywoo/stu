@@ -3309,7 +3309,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1016. **指标范畴**间的比较。[Amartya Shekhar Dubey: Unital k-Restricted Infinity-Operads (TACT2025)](https://www.youtube.com/watch?v=45NZEf26o9g) and [Amartya Shekhar Dubey --- Unital k-restricted Infinity Operads](https://www.youtube.com/watch?v=yRLUfj-7y2c&t=484s) 2026-5-22 13:22 湖光校区鲲园图书馆
 
-1017. 读了 Rezk 的文章 [A model for the homotopy theory of homotopy theory](https://arxiv.org/abs/math/9811037) 后，对该报告 [HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (1)](https://www.youtube.com/watch?v=7A2NsuNLa4Q) and [HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (2)](https://www.youtube.com/watch?v=0G1co3lw8rI&t=12s) 理解得更透彻了。 2026-5-22 14:38 湖光校区鲲园图书馆
+1017. 读了 Rezk 的文章 [A model for the homotopy theory of homotopy theory](https://arxiv.org/abs/math/9811037) 后，对该报告 [HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (1)](https://www.youtube.com/watch?v=7A2NsuNLa4Q) and [HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (2)](https://www.youtube.com/watch?v=0G1co3lw8rI&t=12s) 理解得更透彻了，视频 (2) 对高维 Segal 条件的推广的动机讲得很受启发。2026-5-22 14:38 湖光校区鲲园图书馆
 
 
 
