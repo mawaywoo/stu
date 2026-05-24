@@ -3317,7 +3317,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1019. 对比 1-范畴的构造解释高阶范畴的构造，比较容易理解。[BilTop Igor Sikora Basic constructions in quasicategories](https://www.youtube.com/watch?v=A-nDtd3mjxI) and 解释得很好（虽然无声音），比如解释 Segal 空间如何编码范畴结构时，为啥需要 Reedy 模型结构，因为 Reedy 结构可以用来保证范畴结构中的态射空间、态射复合的存在性，见 17:00 左右的解释；高阶范畴 = 范畴部分 + 同伦部分，高阶范畴的同伦范畴把同伦部分的信息抹掉，只保留范畴部分的信息；24:36 对 Reedy 等价是 DK-等价解释得很好。[BilTop Igor Sikora Segal spaces II](https://www.youtube.com/watch?v=VOfp32oF2v8&t=46s) and [BilTop Igor Sikora Simplicial categories](https://www.youtube.com/watch?v=SJccSIMzeWE) 2026-5-24 10:02 崇德苑 209 室
 
-1020. 为什么定义无穷范畴需要考虑 Fibration，**因为 Segal map 存在 section map 就需要 Fibration 条件保证**，见 18:02；**低维的 spine 可以推广到高维的三角剖分**，见 19:29 [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 1](https://www.youtube.com/watch?v=bmrSe-vV5J4) 2026-5-24 17:52 崇德苑 209 室
+1020. 为什么定义无穷范畴需要考虑 Fibration，**因为 Segal map 存在 section map 就需要 Fibration 条件保证**，见 18:02；**低维的 spine 可以推广到高维的三角剖分**，见 19:29；这个 talk 举了许多 2-Segal set 的例子。[TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 1](https://www.youtube.com/watch?v=bmrSe-vV5J4) 2026-5-24 17:52 崇德苑 209 室
 
 
 
