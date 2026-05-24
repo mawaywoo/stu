@@ -451,6 +451,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Amartya Shekhar Dubey: Unital k-Restricted Infinity-Operads (TACT2025)](https://www.youtube.com/watch?v=45NZEf26o9g) | [Amartya Shekhar Dubey --- Unital k-restricted Infinity Operads](https://www.youtube.com/watch?v=yRLUfj-7y2c&t=484s) | [HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (1)](https://www.youtube.com/watch?v=7A2NsuNLa4Q) |
 [HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (2)](https://www.youtube.com/watch?v=0G1co3lw8rI&t=12s) | [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o&t=1260s) | [For­mal­iz­ing high­er cat­e­gories — Nima Rasekh](https://www.youtube.com/watch?v=lSL6FXfdIms) |
 [BilTop Igor Sikora Basic constructions in quasicategories](https://www.youtube.com/watch?v=A-nDtd3mjxI) | [BilTop Igor Sikora Segal spaces II](https://www.youtube.com/watch?v=VOfp32oF2v8&t=46s) | [BilTop Igor Sikora Simplicial categories](https://www.youtube.com/watch?v=SJccSIMzeWE) |
+[TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 1](https://www.youtube.com/watch?v=bmrSe-vV5J4) | []() | []() |
 []() |
 
 
@@ -3315,6 +3316,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 1018. 在 26:26 中高阶范畴 X 的扭曲箭头范畴构造是 1-范畴版本（取 n=0,1）的推广，用指标范畴去取出高阶范畴中的对象、方向相反的 1-态射、2-态射等等；同构与 X2n+1 在 1-范畴中也容易看清楚，比如 1-态射就是一对方向相反的态射，编码数据就是三个态射，因为另一个态射就是三个态射的复合，已被前三个态射决定了。F(m) 和 Delta^m 编码的几乎相同的信息，前者考虑编码其拓扑属性，后者考虑编码其范畴属性。[Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o&t=1260s) 在 13:36 中有高阶范畴的简单例子，该例子很容易看清楚：[For­mal­iz­ing high­er cat­e­gories — Nima Rasekh](https://www.youtube.com/watch?v=lSL6FXfdIms) 2026-5-23 16:17 崇德苑 209 室
 
 1019. 对比 1-范畴的构造解释高阶范畴的构造，比较容易理解。[BilTop Igor Sikora Basic constructions in quasicategories](https://www.youtube.com/watch?v=A-nDtd3mjxI) and 解释得很好（虽然无声音），比如解释 Segal 空间如何编码范畴结构时，为啥需要 Reedy 模型结构，因为 Reedy 结构可以用来保证范畴结构中的态射空间、态射复合的存在性，见 17:00 左右的解释；高阶范畴 = 范畴部分 + 同伦部分，高阶范畴的同伦范畴把同伦部分的信息抹掉，只保留范畴部分的信息；24:36 对 Reedy 等价是 DK-等价解释得很好。[BilTop Igor Sikora Segal spaces II](https://www.youtube.com/watch?v=VOfp32oF2v8&t=46s) and [BilTop Igor Sikora Simplicial categories](https://www.youtube.com/watch?v=SJccSIMzeWE) 2026-5-24 10:02 崇德苑 209 室
+
+1020. 为什么定义无穷范畴需要考虑 Fibration，**因为 Segal map 存在 section map 就需要 Fibration 条件保证**，见 18:02 [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 1](https://www.youtube.com/watch?v=bmrSe-vV5J4) 2026-5-24 17:52 崇德苑 209 室
 
 
 
