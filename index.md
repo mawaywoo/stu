@@ -3319,6 +3319,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1020. 为什么定义无穷范畴需要考虑 Fibration，**因为 Segal map 存在 section map 就需要 Fibration 条件保证**，见 18:02；**低维的 spine 可以推广到高维的三角剖分**，见 19:29；这个 talk 举了许多 2-Segal set 的例子。[TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 1](https://www.youtube.com/watch?v=bmrSe-vV5J4) and [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 2](https://www.youtube.com/watch?v=dTYVUortKS0) 2026-5-24 17:52 崇德苑 209 室
 
+1021. **高阶预层通常用纤维的语言来描述**，因为高阶预层的函子性用纤维的语言更容易表达。所以，**纤维理论事实上可以看成是低阶函子理论的推广**。启发就是：**当要把某个函子结论推广到高阶的情形时，记得用纤维的语言；当理解纤维理论时，可以退化到函子理论中去理解**。见第 17 页：[Complete Segal Objects](https://arxiv.org/abs/1805.03561) 2026-5-26 13:29 崇德苑 209 室
+
 
 
 
