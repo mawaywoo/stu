@@ -452,7 +452,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (2)](https://www.youtube.com/watch?v=0G1co3lw8rI&t=12s) | [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o&t=1260s) | [For­mal­iz­ing high­er cat­e­gories — Nima Rasekh](https://www.youtube.com/watch?v=lSL6FXfdIms) |
 [BilTop Igor Sikora Basic constructions in quasicategories](https://www.youtube.com/watch?v=A-nDtd3mjxI) | [BilTop Igor Sikora Segal spaces II](https://www.youtube.com/watch?v=VOfp32oF2v8&t=46s) | [BilTop Igor Sikora Simplicial categories](https://www.youtube.com/watch?v=SJccSIMzeWE) |
 [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 1](https://www.youtube.com/watch?v=bmrSe-vV5J4) | [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 2](https://www.youtube.com/watch?v=dTYVUortKS0) | [Nima Rasekh, Constructing coproducts in locally cartesian closed ∞-categories](https://www.youtube.com/watch?v=tSe85xp8lf0&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=9) |
-[Rasekh - Fibrations of (oo,n)-Categories](https://www.youtube.com/watch?v=v33asCDcLtQ&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=12) | [Brandon Doherty, Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=oouDvcwSVT8) | []() |
+[Rasekh - Fibrations of (oo,n)-Categories](https://www.youtube.com/watch?v=v33asCDcLtQ&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=12) | [Brandon Doherty, Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=oouDvcwSVT8) | [Duality in Higher Categories-I by Pranav Pandit](https://www.youtube.com/watch?v=fc4vsf1jeOU) |
 []() |
 
 
@@ -3321,6 +3321,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 1020. 为什么定义无穷范畴需要考虑 Fibration，**因为 Segal map 存在 section map 就需要 Fibration 条件保证**，见 18:02；**低维的 spine 可以推广到高维的三角剖分**，见 19:29；这个 talk 举了许多 2-Segal set 的例子。[TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 1](https://www.youtube.com/watch?v=bmrSe-vV5J4) and [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 2](https://www.youtube.com/watch?v=dTYVUortKS0) 2026-5-24 17:52 崇德苑 209 室
 
 1021. **高阶预层通常用纤维的语言来描述**，因为高阶预层的函子性用纤维的语言更容易表达。所以，**纤维理论事实上可以看成是低阶函子理论的推广**。启发就是：**当要把某个函子结论推广到高阶的情形时，记得用纤维的语言；当理解纤维理论时，可以退化到函子理论中去理解**。见第 17 页：[Complete Segal Objects](https://arxiv.org/abs/1805.03561) and 见 2:37 [Rasekh - Fibrations of (oo,n)-Categories](https://www.youtube.com/watch?v=v33asCDcLtQ&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=12) 2026-5-26 13:29 崇德苑 209 室
+
+1022. **model category = raltive category + extra structure**, 28:24 [Duality in Higher Categories-I by Pranav Pandit](https://www.youtube.com/watch?v=fc4vsf1jeOU) 2026-5-28 15:05 崇德苑 209 室
 
 
 
