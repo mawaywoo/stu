@@ -452,7 +452,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [HHHW01 Prof. Tobias Dyckerhoff Higher Segal spaces (2)](https://www.youtube.com/watch?v=0G1co3lw8rI&t=12s) | [Complete Segal Spaces as a Model of Higher Categories](https://www.youtube.com/watch?v=GeCydxPen3o&t=1260s) | [For­mal­iz­ing high­er cat­e­gories — Nima Rasekh](https://www.youtube.com/watch?v=lSL6FXfdIms) |
 [BilTop Igor Sikora Basic constructions in quasicategories](https://www.youtube.com/watch?v=A-nDtd3mjxI) | [BilTop Igor Sikora Segal spaces II](https://www.youtube.com/watch?v=VOfp32oF2v8&t=46s) | [BilTop Igor Sikora Simplicial categories](https://www.youtube.com/watch?v=SJccSIMzeWE) |
 [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 1](https://www.youtube.com/watch?v=bmrSe-vV5J4) | [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 2](https://www.youtube.com/watch?v=dTYVUortKS0) | [Nima Rasekh, Constructing coproducts in locally cartesian closed ∞-categories](https://www.youtube.com/watch?v=tSe85xp8lf0&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=9) |
-[Rasekh - Fibrations of (oo,n)-Categories](https://www.youtube.com/watch?v=v33asCDcLtQ&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=12) | []() | []() |
+[Rasekh - Fibrations of (oo,n)-Categories](https://www.youtube.com/watch?v=v33asCDcLtQ&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=12) | [Brandon Doherty, Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=oouDvcwSVT8) | []() |
 []() |
 
 
