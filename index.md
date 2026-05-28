@@ -132,7 +132,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 
 [Torsion pairs in categories of modules on ringed finite sites, Communications in Algebra](https://arxiv.org/abs/2403.15001) or [online](https://www.tandfonline.com/doi/full/10.1080/00927872.2025.2516108?src=exp-la)
 
-[Pseudoskew category algebras and modules over representations of small categories](https://arxiv.org/abs/2406.19883)
+[Pseudoskew category algebras and modules over representations of small categories](https://arxiv.org/abs/2406.19883) or [Indian Journal of Pure and Applied Mathematics](https://link.springer.com/article/10.1007/s13226-026-00982-y)
 
 [A characterization of modules over dg-representations of small categories](https://arxiv.org/abs/2409.04442)
 
