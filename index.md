@@ -3325,6 +3325,8 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1022. **model category = raltive category + extra structure**, 28:24 [Duality in Higher Categories-I by Pranav Pandit](https://www.youtube.com/watch?v=fc4vsf1jeOU) and **单纯阿贝尔群和链复形分 DK-等价视为单纯集和拓扑空间的 Quillen 等价的 Set 到 Ab 版本的推广**，见 12:49 [Duality In Higher Categories II by Pranav Pandit](https://www.youtube.com/watch?v=w0M7synarxU) 2026-5-28 15:05 崇德苑 209 室
 
+1023. 孙雯雯到此一游。2026-5-28 16:21 东十 209
+
 
 
 
