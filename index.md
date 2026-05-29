@@ -453,7 +453,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [BilTop Igor Sikora Basic constructions in quasicategories](https://www.youtube.com/watch?v=A-nDtd3mjxI) | [BilTop Igor Sikora Segal spaces II](https://www.youtube.com/watch?v=VOfp32oF2v8&t=46s) | [BilTop Igor Sikora Simplicial categories](https://www.youtube.com/watch?v=SJccSIMzeWE) |
 [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 1](https://www.youtube.com/watch?v=bmrSe-vV5J4) | [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 2](https://www.youtube.com/watch?v=dTYVUortKS0) | [Nima Rasekh, Constructing coproducts in locally cartesian closed ∞-categories](https://www.youtube.com/watch?v=tSe85xp8lf0&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=9) |
 [Rasekh - Fibrations of (oo,n)-Categories](https://www.youtube.com/watch?v=v33asCDcLtQ&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=12) | [Brandon Doherty, Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=oouDvcwSVT8) | [Duality in Higher Categories-I by Pranav Pandit](https://www.youtube.com/watch?v=fc4vsf1jeOU) |
-[Duality In Higher Categories II by Pranav Pandit](https://www.youtube.com/watch?v=w0M7synarxU) | [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) | []() |
+[Duality In Higher Categories II by Pranav Pandit](https://www.youtube.com/watch?v=w0M7synarxU) | [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) | [Duality In Higher Categories IV by Pranav Pandit](https://www.youtube.com/watch?v=RX8gZJP1YU4&t=35s) |
 []() |
 
 
@@ -3331,7 +3331,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1025. 以上两条是小孙写的。2026-5-28 16:25 崇德苑 209 室
 
-1026. [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) 2026-5-29 13:36 湖光校区鲲园图书馆书架间
+1026. [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) and [Duality In Higher Categories IV by Pranav Pandit](https://www.youtube.com/watch?v=RX8gZJP1YU4&t=35s) 2026-5-29 13:36 湖光校区鲲园图书馆书架间
       
 
 
