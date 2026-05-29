@@ -3331,7 +3331,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1025. 以上两条是小孙写的。2026-5-28 16:25 崇德苑 209 室
 
-1026. [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) and [Duality In Higher Categories IV by Pranav Pandit](https://www.youtube.com/watch?v=RX8gZJP1YU4&t=35s) 2026-5-29 13:36 湖光校区鲲园图书馆书架间
+1026. [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) and 对偶和伴随的关系，见 3:30 的解释：[Duality In Higher Categories IV by Pranav Pandit](https://www.youtube.com/watch?v=RX8gZJP1YU4&t=35s) 2026-5-29 13:36 湖光校区鲲园图书馆书架间
       
 
 
