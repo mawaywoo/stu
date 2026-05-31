@@ -3333,7 +3333,7 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 
 1026. [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) and 对偶和伴随的关系，见 3:30 的解释；该报告有许多无穷范畴的内容。[Duality In Higher Categories IV by Pranav Pandit](https://www.youtube.com/watch?v=RX8gZJP1YU4&t=35s) 2026-5-29 13:36 湖光校区鲲园图书馆书架间
 
-1027. **how to understand all kinds of fibration?**
+1027. **how to understand all kinds of fibration?** ![各种纤维和组合范畴的理解（对掌握无穷范畴很有帮助） - DeepSeek 20260531](https://github.com/mawaywoo/stu/blob/mawaywoo/%E5%90%84%E7%A7%8D%E7%BA%A4%E7%BB%B4%E5%92%8C%E7%BB%84%E5%90%88%E8%8C%83%E7%95%B4%E7%9A%84%E7%90%86%E8%A7%A3%EF%BC%88%E5%AF%B9%E6%8E%8C%E6%8F%A1%E6%97%A0%E7%A9%B7%E8%8C%83%E7%95%B4%E5%BE%88%E6%9C%89%E5%B8%AE%E5%8A%A9%EF%BC%89%20-%20DeepSeek%2020260531.pdf)
       
       a) A quasicategory (or ∞-category) is a simplicial set where every inner horn (Λⁿ_k, 0<k<n) has a filler. This replaces the usual composition law.
 A fibration is a map of simplicial sets with a lifting property against certain horn inclusions. **Different fibrations correspond to different lifting conditions**.
