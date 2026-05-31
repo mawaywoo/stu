@@ -3332,69 +3332,201 @@ Cartesian fibrations tell you how to depend on things. Homotopy theory is a theo
 1025. 以上两条是小孙写的。2026-5-28 16:25 崇德苑 209 室
 
 1026. [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) and 对偶和伴随的关系，见 3:30 的解释；该报告有许多无穷范畴的内容。[Duality In Higher Categories IV by Pranav Pandit](https://www.youtube.com/watch?v=RX8gZJP1YU4&t=35s) 2026-5-29 13:36 湖光校区鲲园图书馆书架间
+
+1027. **how to understand all kinds of fibration?**
       
+      a) A quasicategory (or ∞-category) is a simplicial set where every inner horn (Λⁿ_k, 0<k<n) has a filler. This replaces the usual composition law.
+A fibration is a map of simplicial sets with a lifting property against certain horn inclusions. **Different fibrations correspond to different lifting conditions**.
 
+      b) **Fibration type**	        **Lifting against**	            **What it models**
 
+         Kan fibration	              all horns Λⁿ_k → Δⁿ	            Fibrations between Kan complexes (∞-groupoids); “topological” fibrations.
 
+         Left fibration	              Λⁿ_k → Δⁿ for 0≤k<n	            Categorical fibrations with contractible fibers; classify functors to ∞-groupoids.
 
+         Right fibration	           Λⁿ_k → Δⁿ for 0<k≤n	            Opposite of left fibrations.
 
+         Inner fibration             inner horns Λⁿ_k (0<k<n)	         Allows fibers to be ∞-categories, not just groupoids; used for cocartesian fibrations.
 
+         Cocartesian fibration       inner fibration + lifting of certain edges cocartesianly	Models “Grothendieck fibrations” in ∞-categories; a functor to categories.
+  
+         Cartesian fibration	       dual to cocartesian.	
 
+         Trivial fibration	          all inclusions ∂Δⁿ → Δⁿ	        Weak equivalence and fibration; acyclic in model structure.
+      
+      c) A trivial fibration is the strongest: it’s both a fibration and a weak equivalence. A cocartesian fibration is an inner fibration with extra lifting of edges, but not necessarily a Kan fibration. An inner fibration is the weakest of the bunch (still strong enough to guarantee ∞-category fibers). In Lurie’s theory, a cocartesian fibration is the right notion for “pseudofunctor to (∞,1)-Cat”.
 
+      d) Inner fibration = “category-like” fibers.
 
+         Cocartesian fibration = “functor to Cat” (covariant).
 
+         Cartesian fibration = “functor to Cat” (contravariant).
 
+         Kan fibration = “groupoid-like” fibers.
 
+         Trivial fibration = “homotopy equivalence that is also a fibration”.
+
+         Trivial cofibration ⇒ left homotopy equivalence that is a cofibration; its opposite (or the induced map on mapping spaces) is a trivial fibration.
+
+         Cocartesian lifts allow you to spread a “product” structure along inert maps.
+
+      **how to use these fibrations? what are they used for?**
+
+      e) Inner fibration – the bare minimum to be an ∞-category. Inner fibration = “the target is a good index category and the map respects composition enough that fibers are ∞-categories”. 
+
+         Cocartesian fibration – the mother of all “indexed categories”. Cocartesian fibration = “a family of objects parametrized by Y, with a well-defined way to go forward along morphisms”. 
+ 
+         Trivial fibration (trivial Kan fibration) – encoding equivalences. Trivial fibration = “this map is a homotopy equivalence and a fibration, so you can lift any diagram from the base to the total space”.
      
+         Marked fibrations (in the ∞-preoperad model structure). Marked fibrations/cofibrations are the language that makes operadic extensions “just homotopy theory”.
 
+      **can I just viewed them as some “functors” for intuition?**
 
+      f) Cocartesian fibration → “functor to Cat∞” (covariant family).
 
+         Cartesian fibration → “functor to Cat∞op” (contravariant family).
 
+         Inner fibration → “functor between ∞‑categories” (or an ∞‑operad over F∗).
+
+         Trivial fibration → “equivalence that is a fibration” (think: projection from a product of a contractible space).
+
+         Marked fibration / trivial cofibration → “map of operads that respects inert edges, up to homotopy”.
      
+      **the cases to use different fibrations? what is the principal?**
+ 
+      g) The principle is: **Choose the fibration type based on what structure you need to lift and what kind of diagrams you want to represent**.
 
+         In short:
 
+         Inner fibration → I just need the target to be an ∞-category and fibers to be ∞-categories.
 
+         Cocartesian (or Cartesian) fibration → I need to model a family of objects that varies functorially along morphisms in the base.
 
+         Trivial fibration → I need a weak equivalence that is also a fibration (for lifting all diagrams uniquely up to homotopy).
 
+         Marked fibration → I am working with operads or other structures where certain edges are “inert” and must be preserved. 
 
+      h) The Overarching Principle: In homotopy theory (and specifically Lurie’s approach), **fibrations are tools to solve lifting problems**.
 
+         You choose the fibration type according to: **What kind of lifting do I need?**
 
+         Lifting inner horns → inner fibration.
 
+         Lifting all horns → Kan fibration.
 
+         Lifting edges in a controlled way (cocartesian) → cocartesian fibration.
 
+         Lifting everything (including boundaries) → trivial fibration.
 
+         What structure am I preserving?
 
+         Just composition → inner fibration.
 
+         A functorial family → cocartesian/cartesian.
 
+         A weak equivalence → trivial fibration.
 
+         Operadic inert edges → marked fibration/cofibration.
 
+         What is the base category?
 
+         If base is F∗ (finite pointed sets) and you are doing operads, you almost always use an inner fibration with marked inert edges (the ∞-operad structure).
 
+         If base is an arbitrary ∞-category and you want a “family of ∞-categories” over it, you use a cocartesian fibration.
 
+         Practical rule of thumb:
 
+         See an inner fibration → “I’m just moving between ∞-categories, nothing fancy.”
 
+         See a cocartesian fibration → “I’m doing a Grothendieck construction; objects in the fiber can be pushed forward.”
 
+         See a trivial fibration → “This map is an equivalence, and it’s nice enough to lift any diagram.”
 
+         See a marked fibration / trivial cofibration → “I’m in operad world; inert edges matter.”
 
+         Once you internalize this, you can read Glasman’s paper (or any part of Lurie’s Higher Algebra) by focusing on what lifting problem is being solved – the fibration name tells you what solutions exist.
 
+        **make it a simple principal for helping me to master fibrations**
+ 
+      i) The Master Principle: **A fibration is defined by which simplices (or edges) you are guaranteed to be able to lift uniquely (up to homotopy). Its name tells you exactly that lifting class**.
 
+         So when you read “inner fibration”, “cocartesian fibration”, “trivial fibration”, etc., always ask: **“What am I allowed to lift?”**
 
+      j) The ultimate shortcut: **Don’t memorise definitions – memorise lifting problems. Every fibration is a solution to a specific “can I fill this shape?” question**.
 
+         Inner → “Can I compose?”
 
-     
+         Cocartesian → “Can I push objects forward along a map?”
 
+         Trivial → “Can I uniquely lift any diagram up to homotopy?”
 
+         Marked → “Can I preserve special edges (like inert maps)?”
 
+         Once you know what you want to lift, the fibration name is automatic. That’s the principle.
 
+      k) Your ultimate guide to reading any article: Spot the map p:X→Y they are studying. Ask: **“What simplices/edges do they need to lift?”**
 
+         Inner horns → inner fibration.
 
+         Edges with a “pushforward” property → cocartesian.
 
+         All boundaries → trivial fibration.
 
+         Marked inert edges → marked fibration/cofibration.
 
+         Then you already know the formal properties they will use (e.g., existence of lifts, uniqueness up to homotopy, etc.).
 
+         Once you practice this on 5‑10 papers, you’ll see that **every fibration is just a contract: “I need to fill K, so I assume p is a {K}-fibration.”** The fancy names are just shorthand for common filling classes.
 
+       **why finite pointed sets and delta category are important to define infinity structures? what is the principal about these combinatorial categories?**
 
+      l) hese two categories—finite pointed sets F∗ and the simplex category Δ—are the combinatorial engines that generate all higher coherence data for monoidal and symmetric monoidal structures. The principle is: **The category of “operators” (or “simplices”) gives a universal, homotopically well-behaved template for composing operations in all possible ways. Its combinatorial simplicity makes the ∞-categorical structure tractable**.
 
+      m) **Finite pointed sets F∗– for symmetric monoidal and operadic structures**: An object of F∗ is a finite set with a distinguished basepoint. The non‑basepoint elements are “positions” where we can plug in arguments. An inert morphism (bijection on non‑basepoints) corresponds to “rename positions”; an active morphism (basepoint-preserving, but may collapse non‑basepoints to basepoint) corresponds to “multiply operations”. 
+
+        F∗ is a minimal, contractible combinatorics that captures all ways to permute and multiply elements in a symmetric monoidal setting. By requiring that a functor from F∗ to C preserves certain (co)cartesian edges, you enforce the entire symmetric monoidal structure up to coherent homotopy.
+
+      n) **Simplex category Δ – for associative (monoidal) and categorical structures**: Δ is the category of finite non‑empty ordinals [n]={0,1,…,n} and order‑preserving maps. Its importance comes from the nerve functor: the nerve of a 1‑category is a simplicial set. For ∞-categories, a quasi‑category is a simplicial set that fills inner horns.
+
+        Δ provides the combinatorial shape for composition: a 1‑simplex is a morphism, a 2‑simplex is a composition relation, etc. The horn filling conditions in a quasi‑category are exactly what make composition well‑defined up to homotopy. Without Δ, you cannot define ∞-categories at all.
+
+     o) Both F∗ and Δ are categories of finite sets with extra structure (pointing or ordering). Their morphisms model the algebraic operations (permutation, multiplication, face/degeneracy) in a way that is:
+
+        Combinatorial – finite and explicit.
+
+        Universal – any symmetric monoidal or ∞-category structure can be uniquely reconstructed from a functor out of them with certain lifting properties.
+
+        Homotopically sound – because they are “skeletal” and “cofibrant” in the relevant model structures, they allow us to define ∞-categories via fibrations (inner fibrations for quasi‑categories, cocartesian fibrations for operads).
+
+        In short: These categories are the syntax that generates the semantics of higher algebra. Every ∞-operad is a fibration over F∗; every ∞-category is a fibration over Δop (via the nerve). Their combinatorial simplicity ensures that the only “infinity” comes from the lifting conditions, not from the indexing category. 
+
+      what are the differences between these combinatorial categories? what are they used for? what is the principal to master these categories?
+
+     p) If you forget the order (Δ) and remember only the set of positions, you get F∗– that’s the step from “associative” to “commutative”.      
+
+        The category of operators tells you how many inputs an operation can have, and how to combine them. The only two natural ways to arrange inputs are: in a list (ordered) or in a bag (unordered). Δ = lists; F∗ = bags.
+
+        The golden rule: If you see a triangle or a simplex, think Δ (composition). If you see a set of inputs that can be permuted, think F∗ (commutativity). Once you internalise that, you can read any paper on ∞-operads without confusion.
+
+      how to master all these categories in one principle? what is the shape philosophy?
+
+     q) The Shape Philosophy – One Principle: Every such category is a category of abstract shapes and elementary gluing maps. The objects are the shapes (e.g., line segments, cubes, trees, pointed sets). The morphisms are the ways to build larger shapes from smaller ones (by gluing, deleting, or permuting parts). An ∞-structure is a functor from that category (with certain fibration conditions) into a target ∞-category – it tells you how to assemble the shapes coherently.
+
+       Why this philosophy works: Because every higher algebraic structure is about taking some shapes (operations) and composing them along boundaries. The combinatorial category tells you:
+
+       What are the admissible boundaries? (e.g., a vertex in Δ, a leaf in Ω, a face of a cube)
+
+       How can shapes be attached? (morphisms)
+
+       What are the identity/permutation operations? (degeneracies and symmetries)
+
+       Then an ∞-structure is a functor from this category to your target C that sends gluing maps to (co)cartesian lifts – guaranteeing that all ways of composing are equivalent up to coherent homotopy.
+
+     r) The ultimate one‑sentence principle:A combinatorial category is a signature of composition: its objects are the operation shapes, its morphisms are the ways to plug shapes into each other, and the ∞-structure is a coherent functor that interprets those gluings in an ∞-category.
+
+        Once you see Δ as “linear shapes”, F∗ as “radial shapes”, Ω as “tree shapes”, and □ as “grid shapes”, you will never confuse them again.
+
+        2026-5-32 10:35 崇德苑 209 室
 
     
 
