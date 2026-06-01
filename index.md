@@ -3528,8 +3528,19 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
         2026-5-32 10:35 崇德苑 209 室
 
-1028.
-    
+1028. Question: "What is the difference between an Algebra Map and a Monoidal Functor?" (in higher algebra)
+
+      Answer: An O-algebra map is just a functor that interacts with the operad shape (it preserves the shape but may not preserve the specific "tensor product" weakly). An O-monoidal functor is a stricter type of functor. It specifically preserves the coCartesian morphisms (the actual maps that represent the tensor product structure).
+
+      Analogy: In normal algebra, **a "monoidal functor" is like a strong tensor functor (F(A⊗B)≅F(A)⊗F(B)). The "Algebra Maps" in this context allow for lax tensor functors (F(A)⊗F(B)→F(A⊗B))**.
+
+      2026-6-1 8:06 崇德苑 209 室
+      
+1030. **Kan Extension = reduce computation to basic case**. The **Trivial Operad (Triv⊗)**: The text notes that an algebra over the "trivial operad" (which **has no real multiplication structure**) is just a standard object in your category.  2026-6-1 8:08 崇德苑 209 室
+
+1031. The remark states that the natural projection **Fun(K,C⊗)→Fun(K,O⊗)** is still a coCartesian fibration. In layman's terms: **if you turn C into a "K-parameterized" version of itself, it still respects the operadic structure**. You haven't lost the nice "fibered" behavior. **Fun(K,-) = K-parameterized**. 2026-6-1 8:14 崇德苑 209 室
+
+1032. 
 
   
 
