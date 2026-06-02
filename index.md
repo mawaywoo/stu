@@ -3540,7 +3540,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1031. The remark states that the natural projection **Fun(K,C⊗)→Fun(K,O⊗)** is still a coCartesian fibration. In layman's terms: **if you turn C into a "K-parameterized" version of itself, it still respects the operadic structure**. You haven't lost the nice "fibered" behavior. **Fun(K,-) = K-parameterized**. 2026-6-1 8:14 崇德苑 209 室
 
-1032. 
+1032. (a) **coCartesian fibration 编码左伴随，张量积，余极限**，因为它把 [2] —> [1] 映射提升为两个对象映到一个对象（张量）。(b) **right fibration 则编码态射空间**的限制，用于探究态射空间映射的忠实性。(c) **fibration 编码结构的遗传性**。(d) 态射 f 上的**切片范畴 C/f 表示通过态射 f 进行分解的态射范畴，想象成以 f 上的锥为对象的范畴**。[194 页的映射 Psi，倒数第 4-5 行（**拉回 = 限制，C/f = 透过 f 分解的态射范畴，trivial Kan fib. = contractibal fibers, "equivalence"**）](https://www.math.ias.edu/~lurie/papers/HA.pdf) 可以理解为“从范畴 D 中的对象 d' 到范畴 C 的对象 c 中态射全体，与 d' 经过固定态射 f: d ——> c 到达 c 的态射的全体“基本等同”（平凡 Kan 纤维），即 d' 到 c 的态射都可以经过范畴 D 中的对象 d 分解”，**脑中想象一个图：两个互相包含的圈，大圈表示范畴 C，小圈表示范畴 D，还有三个态射 d' ——> c, d' ——> d, d ——> c 构成的三角形，平凡 Kan 纤维则表示该三角形存在一个 2-cell 等价，指向 d ——> c**。2026-6-2 14:48 崇德苑 209 室 
 
   
 
