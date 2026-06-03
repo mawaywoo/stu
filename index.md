@@ -3545,7 +3545,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1032. a. 关于某个函子的切片范畴：[43 页 Proposition 1.2.9.3 的范畴 C/p 是指范畴 C 中由对象 p(-) 构成的 diagram 上的锥（因为 over p-diagram）构成的范畴, 其中 p : K → C 是一个单纯集映射](https://www.math.ias.edu/~lurie/papers/HTT.pdf), 此外，**该锥范畴还可以表示成一个单纯集，见 21:00，其 idea 是利用单纯集的 join 运算可以将底下的 diagram 和点 join 成一个锥**。[Introduction to infinity-category theory - David Gepner](https://www.youtube.com/watch?v=FPhkljSrmbw&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=12) **此外，44:00 的 Cartesian fibration 定义中的关于切片范畴的映射的理解：X/g 表示通过 g 分解的所有态射（g 是 X 中的某个态射和 1031 里的 C/f 一个意思，和本条的 C/p 不是一个意思，但它们都是某种 diagram 的锥或余锥，只是 diagram 的产生方式不一样），X/y 表示以 y 为终点的所有态射，那个等价态射的 codomian 的编码的就是 Cart. fib. 定义中的那些态射信息**。2026-6-3 10:21 崇德苑 209 室
 
-      b. **在 11:05 的那两个提升交换图的理解同上：交换图上一行的那个态射（切片范畴理解同 1031 的 C/f）可以想象成 i, phi, f 三个态射上有一个顶点，构成三个三角形的图形，那个态射编码的正是这些三角形的交换性的蕴含关系；而右边的提升图则可以类似于 1034 那样理解，那些字母可以对应替换为 1034 中的三棱柱和去掉底部的那个罩子**。[Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=15&t=1059s)
+      b. **在 11:05 的那两个提升交换图的理解同上：交换图上一行的那个态射（切片范畴理解同 1031 的 C/f）可以想象成 i, phi, f 三个态射上有一个顶点，构成三个三角形的图形，那个态射编码的正是这些三角形的交换性的蕴含关系；而右边的提升图则可以类似于 1034 那样理解，那些字母可以对应替换为 1034 中的三棱柱和去掉底部的那个罩子，A 看成是 B 的边缘，S 看成是 T 的边缘**。[Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=15&t=1059s)
 
 1033. 昨天小孙 iPad 里的考研笔记受损了，没恢复过来，全部比较没备份，很心疼她。2026-6-3 10:24 崇德苑 209 室
 
