@@ -3540,7 +3540,13 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1031. The remark states that the natural projection **Fun(K,C⊗)→Fun(K,O⊗)** is still a coCartesian fibration. In layman's terms: **if you turn C into a "K-parameterized" version of itself, it still respects the operadic structure**. You haven't lost the nice "fibered" behavior. **Fun(K,-) = K-parameterized**. 2026-6-1 8:14 崇德苑 209 室
 
-1032. (a) **coCartesian fibration 编码左伴随，张量积，余极限**，因为它把 [2] —> [1] 映射提升为两个对象映到一个对象（张量）。(b) **right fibration 则编码态射空间**的限制，用于探究态射空间映射的忠实性。(c) **fibration 编码结构的遗传性**。(d) 态射 f 上的**切片范畴 C/f 表示通过态射 f 进行分解的态射范畴，想象成以 f 上的锥为对象的范畴**。[194 页的映射 Psi，倒数第 4-5 行（**拉回 = 限制，C/f = 透过 f 分解的态射范畴，trivial Kan fib. = contractibal fibers, "equivalence"**）](https://www.math.ias.edu/~lurie/papers/HA.pdf) 可以理解为“从范畴 D 中的对象 d' 到范畴 C 的对象 c 中态射全体，与 d' 经过固定态射 f: d ——> c 到达 c 的态射的全体“基本等同”（平凡 Kan 纤维），即 d' 到 c 的态射都可以经过范畴 D 中的对象 d 分解”，**脑中想象一个图：两个互相包含的圈，大圈表示范畴 C，小圈表示范畴 D，还有三个态射 d' ——> c, d' ——> d, d ——> c 构成的三角形，平凡 Kan 纤维则表示该三角形存在一个 2-cell 等价，指向 d ——> c**。2026-6-2 14:48 崇德苑 209 室 
+1032. (a) **coCartesian fibration 编码左伴随，张量积，余极限**，因为它把 [2] —> [1] 映射提升为两个对象映到一个对象（张量）。(b) **right fibration 则编码态射空间**的限制，用于探究态射空间映射的忠实性。(c) **fibration 编码结构的遗传性**。(d) 态射 f 上的**切片范畴 C/f 表示通过态射 f 进行分解的态射范畴，想象成以 f 上的锥为对象的范畴**。[194 页的映射 Psi，倒数第 4-5 行（**拉回 = 限制，C/f = 透过 f 分解的态射范畴，trivial Kan fib. = contractibal fibers, "equivalence"**）](https://www.math.ias.edu/~lurie/papers/HA.pdf) 可以理解为“从范畴 D 中的对象 d' 到范畴 C 的对象 c 中态射全体，与 d' 经过固定态射 f: d ——> c 到达 c 的态射的全体“基本等同”（平凡 Kan 纤维），即 d' 到 c 的态射都可以经过范畴 D 中的对象 d 分解”，**脑中想象一个图：两个互相包含的圈，大圈表示范畴 C，小圈表示范畴 D，还有三个态射 d' ——> c, d' ——> d, d ——> c 构成的三角形，平凡 Kan 纤维则表示该三角形存在一个 2-cell 等价，指向 d ——> c**。2026-6-2 14:48 崇德苑 209 室
+
+1033. 关于某个函子的切片范畴：[43 页 Proposition 1.2.9.3 的范畴 C/p 是指范畴 C 中由对象 p(-) 构成的 diagram 上的锥（因为 over p-diagram）构成的范畴, 其中 p : K → C 是一个单纯集映射](https://www.math.ias.edu/~lurie/papers/HTT.pdf) 2026-6-3 10:21 崇德苑 209 室
+
+1034. 昨天小孙 iPad 里的考研笔记受损了，没恢复过来，全部比较没备份，很心疼她。2026-6-3 10:24 崇德苑 209 室
+
+1035. [195 页（Proof of Proposition 2.2.1.1. ）倒数第二个交换图左上角那个符号的理解：n=2，左下角表示一个三棱柱，左上角那个余积表示三棱柱去掉底部三角形的其他面，左项表示三个长方形侧面、右项表示顶部的那个三角形、中下那项表示顶部三角形的边缘，余积表示把顶部三角形和四周长方形沿着共同的边缘粘起来](https://www.math.ias.edu/~lurie/papers/HA.pdf) 2026-6-3 10:27 崇德苑 209 室
 
   
 
