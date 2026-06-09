@@ -3551,6 +3551,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1034. [195 页（Proof of Proposition 2.2.1.1. ）倒数第二个交换图左上角那个符号的理解：n=2，左下角表示一个三棱柱，左上角那个余积表示三棱柱去掉底部三角形的其他面，左项表示三个长方形侧面、右项表示顶部的那个三角形、中下那项表示顶部三角形的边缘，余积表示把顶部三角形和四周长方形沿着共同的边缘粘起来](https://www.math.ias.edu/~lurie/papers/HA.pdf) 2026-6-3 10:27 崇德苑 209 室
 
+1035.  In §2.4.4, we will show that if p : C → D is a Cartesian fibration of ∞-categories, then **we can reduce many questions about C to similar questions about the base D and about the fibers of p**. Cartesian fibration 的 data 由 D 和 p 的 fibers 决定，**因为 C 可以由这些 fibers 拼出来**。[HTT page 114](https://www.math.ias.edu/~lurie/papers/HTT.pdf) 2026-6-9 11:11 崇德苑 209 室
+
   
 
 
