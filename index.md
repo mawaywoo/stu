@@ -3553,7 +3553,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1035. Slogan: **All down to analy fibers!** In §2.4.4, we will show that if p : C → D is a Cartesian fibration of ∞-categories, then **we can reduce many questions about C to similar questions about the base D and about the fibers of p**. Cartesian fibration 的 data 由 D 和 p 的 fibers 决定，**因为 C 可以由这些 fibers 拼出来**。[HTT page 114](https://www.math.ias.edu/~lurie/papers/HTT.pdf) 2026-6-9 11:11 崇德苑 209 室
 
-1036. why fibrations are considered in higher category? **all about reducing to fibers!** 2026-6-9 11:42 崇德苑 209 室
+1036. why fibrations are considered in higher category? **all about reducing to fibers!** （意识到这点对理解无穷范畴中的各种 Fibrations 至关重要）2026-6-9 11:42 崇德苑 209 室
 
   
 
