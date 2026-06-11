@@ -3555,7 +3555,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1036. why fibrations are considered in higher category? **all about reducing to fibers!** （意识到这点对理解无穷范畴中的各种 Fibrations 至关重要）2026-6-9 11:42 崇德苑 209 室
 
-1037. [HTT page 147 Denition 3.1.1.1. marked anodyne morphisms](https://www.math.ias.edu/~lurie/papers/HTT.pdf): [理解标记无核态射定义 1 - DeepSeek](https://github.com/mawaywoo/stu/blob/mawaywoo/%E7%90%86%E8%A7%A3%E6%A0%87%E8%AE%B0%E6%97%A0%E6%A0%B8%E6%80%81%E5%B0%84%E5%AE%9A%E4%B9%89%20-%20DeepSeek.pdf) and [理解标记无核态射定义 2- DeepSeek](https://github.com/mawaywoo/stu/blob/mawaywoo/%E7%90%86%E8%A7%A3%E6%A0%87%E8%AE%B0%E6%97%A0%E6%A0%B8%E6%80%81%E5%B0%84%E5%AE%9A%E4%B9%89%20-%20DeepSeek%20(1).pdf) 2026-6-11 0:21 崇德苑 209 室
+1037. 类似于用 horn-filling 定义无穷范畴，**无碍(anodyne)补洞的作用是构建高维信息**。[HTT page 147 Denition 3.1.1.1. marked anodyne morphisms](https://www.math.ias.edu/~lurie/papers/HTT.pdf): [理解标记无核态射定义 1 - DeepSeek](https://github.com/mawaywoo/stu/blob/mawaywoo/%E7%90%86%E8%A7%A3%E6%A0%87%E8%AE%B0%E6%97%A0%E6%A0%B8%E6%80%81%E5%B0%84%E5%AE%9A%E4%B9%89%20-%20DeepSeek.pdf) and [理解标记无核态射定义 2- DeepSeek](https://github.com/mawaywoo/stu/blob/mawaywoo/%E7%90%86%E8%A7%A3%E6%A0%87%E8%AE%B0%E6%97%A0%E6%A0%B8%E6%80%81%E5%B0%84%E5%AE%9A%E4%B9%89%20-%20DeepSeek%20(1).pdf) 2026-6-11 0:21 崇德苑 209 室
  
 
   
