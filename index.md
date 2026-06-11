@@ -454,7 +454,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 1](https://www.youtube.com/watch?v=bmrSe-vV5J4) | [TRHW01 Prof. Julie Bergner 2-Segal spaces in homotopy theory, algebra, and algebraic K-theory, part 2](https://www.youtube.com/watch?v=dTYVUortKS0) | [Nima Rasekh, Constructing coproducts in locally cartesian closed ∞-categories](https://www.youtube.com/watch?v=tSe85xp8lf0&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=9) |
 [Rasekh - Fibrations of (oo,n)-Categories](https://www.youtube.com/watch?v=v33asCDcLtQ&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=12) | [Brandon Doherty, Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=oouDvcwSVT8) | [Duality in Higher Categories-I by Pranav Pandit](https://www.youtube.com/watch?v=fc4vsf1jeOU) |
 [Duality In Higher Categories II by Pranav Pandit](https://www.youtube.com/watch?v=w0M7synarxU) | [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) | [Duality In Higher Categories IV by Pranav Pandit](https://www.youtube.com/watch?v=RX8gZJP1YU4&t=35s) |
-[Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=15&t=1059s) | []() | []() |
+[Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=15&t=1059s) | [Complicial stuff](https://www.youtube.com/playlist?list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX) | []() |
 []() |
 
 
