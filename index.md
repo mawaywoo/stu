@@ -3560,6 +3560,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1037. 类似于用 horn-filling 定义无穷范畴，**无碍(anodyne)补洞的作用是构建高维信息**。[HTT page 147 Denition 3.1.1.1. marked anodyne morphisms](https://www.math.ias.edu/~lurie/papers/HTT.pdf): [理解标记无核态射定义 1 - DeepSeek](https://github.com/mawaywoo/stu/blob/mawaywoo/%E7%90%86%E8%A7%A3%E6%A0%87%E8%AE%B0%E6%97%A0%E6%A0%B8%E6%80%81%E5%B0%84%E5%AE%9A%E4%B9%89%20-%20DeepSeek.pdf) and [理解标记无核态射定义 2- DeepSeek](https://github.com/mawaywoo/stu/blob/mawaywoo/%E7%90%86%E8%A7%A3%E6%A0%87%E8%AE%B0%E6%97%A0%E6%A0%B8%E6%80%81%E5%B0%84%E5%AE%9A%E4%B9%89%20-%20DeepSeek%20(1).pdf) 2026-6-11 0:21 崇德苑 209 室
 
 1038. 结合上一条的关于 marked simplicial set 定义的理解来学习这个视频系列，该系列视频很好地解释了为什么需要“marked”？[Complicial stuff](https://www.youtube.com/playlist?list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX) 和视频下方的参考文献 2026-6-11 13:08 崇德苑 209 室
+
+1039. marked 技术也好，model structure 也好，**可以理解为用来构建 fibration 的工具**，即定义底范畴的哪些结构（marked edge，horn等）可以 lift 到全范畴？当底范畴为终范畴时，便会得到某些特殊的范畴、对象（即 fibrant 对象，如无穷范畴、投射对象等）；**fibrant 对象 ‘=’ 退化为只有一个 fiber 构成的 fibration**。2026-6-14 12:55 崇德苑 209 室
  
 
   
