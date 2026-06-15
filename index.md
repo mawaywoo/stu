@@ -3562,6 +3562,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1038. 结合上一条的关于 marked simplicial set 定义的理解来学习这个视频系列，该系列视频很好地解释了为什么需要“marked”？[Complicial stuff](https://www.youtube.com/playlist?list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX) 和视频下方的参考文献 2026-6-11 13:08 崇德苑 209 室
 
 1039. marked 技术也好，model structure 也好，**可以理解为用来构建 fibration 的工具**，即定义底范畴的哪些结构（marked edge，horn等）可以 lift 到全范畴？当底范畴为终范畴时，便会得到某些特殊的范畴、对象（即 fibrant 对象，如无穷范畴、投射对象等）；**fibrant 对象 ‘=’ 退化为只有一个 fiber 构成的 fibration**。2026-6-14 12:55 崇德苑 209 室
+
+1040. 对 complical set 定义的**图示解释**得很好，上述 1037-1039 条在这个图示中也能得到很好的诠释，比如为什么 marked simplical set 比 simplicial set 编码更多信息，无碍 (anodyne) 映射实际上在通过定义底范畴的哪些结构（marked edge，horn等）可以 lift 到全范畴去构建 fibration，complical set 的定义就是通过定义无碍映射来构建 complical set 这个 fibration 的。["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) 2026-6-15 9:12 崇德苑 209 室
  
 
   
