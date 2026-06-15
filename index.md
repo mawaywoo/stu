@@ -3566,6 +3566,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1040. 对 complical set 定义的**图示解释**得很好，上述 1037-1039 条在这个图示中也能得到很好的诠释，比如为什么 marked simplical set 比 simplicial set 编码更多信息，无碍 (anodyne) 映射实际上在通过定义底范畴的哪些结构（marked edge，horn等）可以 lift 到全范畴去构建 fibration，complical set 的定义就是通过定义无碍映射来构建 complical set 这个 fibration 的。["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8) 2026-6-15 9:12 崇德苑 209 室
 
 1041. Quillen 的 model category 可以理解为通过定义“底范畴-全范畴的提升结构”去（几何地）构建 fibration，**model category “=” 构建 fibration**。2026-6-15 9:22 崇德苑 209 室
+
+1042. **对于高阶范畴，n>2 时，Street nerve 函子不一定是 fully-faithful 的**，见 21:50，这也是引进 marked simplicial set 的原因之一。[Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0) 2026-6-15 15:17 崇德苑 209 室
  
 
   
