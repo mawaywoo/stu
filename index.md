@@ -3567,7 +3567,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1041. Quillen 的 model category 可以理解为通过定义“底范畴-全范畴的提升结构”去（几何地）构建 fibration，**model category “=” 构建 fibration**。2026-6-15 9:22 崇德苑 209 室
 
-1042. **对于高阶范畴，n>2 时，Street nerve 函子不一定是 fully-faithful 的**，见 21:50，这也是引进 marked simplicial set 的原因之一。[Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0) 2026-6-15 15:17 崇德苑 209 室
+1042. **对于高阶范畴，n>2 时，Street nerve 函子不一定是 fully-faithful 的**，见 21:50，这也是引进 marked simplicial set 的原因之一。另一个原因就是**单纯集 ND 无法识别高阶范畴 D 中态射的合成**，见 24:00 中的例子。[Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0) 2026-6-15 15:17 崇德苑 209 室
  
 
   
