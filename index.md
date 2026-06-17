@@ -3568,6 +3568,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1041. Quillen 的 model category 可以理解为通过定义“底范畴-全范畴的提升结构”去（几何地）构建 fibration，**model category “=” 构建 fibration**。2026-6-15 9:22 崇德苑 209 室
 
 1042. **对于高阶范畴，n>2 时，Street nerve 函子不一定是 fully-faithful 的**，见 21:50，这也是引进 marked simplicial set 的原因之一。另一个原因就是**单纯集 ND 无法识别高阶范畴 D 中态射的合成**，见 24:00 中的例子（**无法识别例子中的这两个图哪个是态射的合成，所以需要引进 marked 来标记出第二个才是态射的合成**，这种困扰不会出现在 1-范畴中，因为两个 1-态射的合成是唯一的，没有不同的 2-态射去见证这些合成）。[Martina Rovelli - Exploring (∞, n)-categories through n-complicial sets – Part 1](https://www.youtube.com/watch?v=vXRkEaS-1F0) 2026-6-15 15:17 崇德苑 209 室
+
+1043. **operads 中的 objects, colors = sorts**，objects 不等于 inputs; **multicategory 不等于 ordinary category**, 但是前者可以用后者的语言来重述。[Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y) 2026-6-17 16:42 崇德苑 209 室
  
 
   
