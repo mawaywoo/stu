@@ -3573,7 +3573,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1044. algebraic pattern O 中的分解是先 inert 再 active，而不是另一个方向（先满后单），原因就是 O 取的是 Omega 等的对偶范畴；此外，为啥需要 element 范畴，在 Fin* 中很容易看清楚，因为所有的 n-态射都要分解为 1-态射，所以这里的 1-态射的基本构件就是 elementary 的部分，见 48:00。[Rune Haugseng, Introduction to Infinity Operads, 2/5, GeoTop Masterclass](https://www.youtube.com/watch?v=--gzeW5_Mxo&t=160s) 2026-6-18 9:37 崇德苑 209 室
 
-1045. 一个概念通常有 functor 和 fibration 两种定义方式。[Rune Haugseng, Introduction to Infinity Operads, 3/5, GeoTop Masterclass](https://www.youtube.com/watch?v=Ybfn7PnQfI4)  2026-6-18 11:04 崇德苑 209 室
+1045. 一个概念通常有 functor 和 fibration 两种定义方式，这两种方式可以视为**数据的打碎重组**，函子性 = coCartesian 提升 无穷 operad 定义的 (1)；Segal 条件 = 无穷 operad 定义的 (2)-(3)。[Rune Haugseng, Introduction to Infinity Operads, 3/5, GeoTop Masterclass](https://www.youtube.com/watch?v=Ybfn7PnQfI4)  2026-6-18 11:04 崇德苑 209 室
 
  
 
