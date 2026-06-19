@@ -455,7 +455,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Rasekh - Fibrations of (oo,n)-Categories](https://www.youtube.com/watch?v=v33asCDcLtQ&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=12) | [Brandon Doherty, Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=oouDvcwSVT8) | [Duality in Higher Categories-I by Pranav Pandit](https://www.youtube.com/watch?v=fc4vsf1jeOU) |
 [Duality In Higher Categories II by Pranav Pandit](https://www.youtube.com/watch?v=w0M7synarxU) | [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) | [Duality In Higher Categories IV by Pranav Pandit](https://www.youtube.com/watch?v=RX8gZJP1YU4&t=35s) |
 [Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=15&t=1059s) | [Complicial stuff](https://www.youtube.com/playlist?list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX) | [Yuki Maehara's talks](https://www.youtube.com/results?search_query=Yuki+Maehara) |
-[Higher Categories and Categorification](https://www.slmath.org/programs/323#videos_programs) | []() | []() |
+[Higher Categories and Categorification](https://www.slmath.org/programs/323#videos_programs) | [[PMB 2nd Workshop] I. Introduction to Hopfological algebra - Y.Qi](https://www.youtube.com/watch?v=Jx5QF-Te83E) | []() |
 []() |
 
 
