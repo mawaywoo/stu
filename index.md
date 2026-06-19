@@ -3577,7 +3577,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1046. **截断范畴 ——> 更多平凡的同伦群 ——> 空间越来越连通 ——> Ek 结构也越多自由度，即越交换**，见 25:11；一方面，截断范畴 C (n, 1)-范畴 ——> 态射空间 C(x, y) 的大于 n-1 阶的同伦群都是平凡的，n 刻画的是态射空间的自由度和连通程度，另一方面，Ek = configuration space in R^k，k 越大，R^k 也越多自由度，越连通；**截断范畴的 n 给出能容纳的“扭”结构的最高程度，高于 n 都是平凡的，n 越大，能容纳的“扭”结构越多，而 Ek 的 k 则表示能显现 k 个“扭”结构的最高维的 R^k 空间，再高维就会打破“扭”结构，n 越小，扭越少，越交换，k 越大，扭越少，越交换**，截断范畴的态射空间和 Ek 的嵌入空间都可以理解为拓扑空间，**这两个拓扑空间都在衡量“扭”结构的舒展程度**。[Rune Haugseng, Introduction to Infinity Operads, 5/5, GeoTop Masterclass](https://www.youtube.com/watch?v=QkBvzkjCxgM&t=33s) 2026-6-19 10:55 崇德苑 209 室
 
-1047. 任意的**正合范畴可以嵌入到一个阿贝尔范畴**，可以把它推广到 Extriangular 范畴的版本，即**某些特殊的 Extriangular 范畴可以嵌入到正合无穷范畴**，这是引入正合无穷范畴的动机之一。[Gustavo Jasso: Exact ∞-categories](https://www.youtube.com/watch?v=75cjjWegL3M&t=84s) 2026-6-19 23:03 崇德苑 209 室
+1047. 任意的**正合范畴可以嵌入到一个阿贝尔范畴**，可以把它推广到 Extriangular 范畴的版本，即**某些特殊的 Extriangular 范畴可以嵌入到正合无穷范畴**，这是引入正合无穷范畴的动机之一。dg-A-infinity 范畴和无穷范畴是不一样的 enriched 范畴（前者 Hom 是一个 dg-复形，后者 Hom 是一个无穷群胚），前者可以通过 A-infinity Nerve 函子变为后者。[Gustavo Jasso: Exact ∞-categories](https://www.youtube.com/watch?v=75cjjWegL3M&t=84s) 2026-6-19 23:03 崇德苑 209 室
 
  
 
