@@ -3575,6 +3575,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1045. 一个概念通常有 functor 和 fibration 两种定义方式，这两种方式可以视为**数据的打碎重组**，函子性 = coCartesian 提升 无穷 operad 定义的 (1)；Segal 条件 = 无穷 operad 定义的 (2)-(3)。[Rune Haugseng, Introduction to Infinity Operads, 3/5, GeoTop Masterclass](https://www.youtube.com/watch?v=Ybfn7PnQfI4)  2026-6-18 11:04 崇德苑 209 室
 
+1046. **截断范畴 ——> 更多平凡的同伦群 ——> 空间越来越连通 ——> Ek 结构也越多自由度，即越交换**，见 25:11 [Rune Haugseng, Introduction to Infinity Operads, 5/5, GeoTop Masterclass](https://www.youtube.com/watch?v=QkBvzkjCxgM&t=33s) 2026-6-19 10:55 崇德苑 209 室
+
  
 
   
