@@ -3579,7 +3579,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1047. 任意的**正合范畴可以嵌入到一个阿贝尔范畴**，可以把它推广到 Extriangular 范畴的版本，即**某些特殊的 Extriangular 范畴可以嵌入到正合无穷范畴**，这是引入正合无穷范畴的动机之一。dg-A-infinity 范畴和无穷范畴是不一样的 enriched 范畴（前者 Hom 是一个 dg-复形，后者 Hom 是一个无穷群胚），前者可以通过 A-infinity Nerve 函子变为后者。[Gustavo Jasso: Exact ∞-categories](https://www.youtube.com/watch?v=75cjjWegL3M&t=84s) 2026-6-19 23:03 崇德苑 209 室
 
-1048. 重温：各种**不依赖具体 model** 的高阶范畴论构造的描述。也是由该报告，我知道**无穷范畴不包括 2-范畴**，因为 (infinity,1)-category = 1-category (not 2-category) + homotopy theory. [Bastiaan Cnossen - Introduction to stable ∞-categories, part 1 (1/7/25, KK+H workshop)](https://www.youtube.com/watch?v=0mI0gwzHNLc) 2026-6-20 14:02 崇德苑 209 室
+1048. 重温：各种**不依赖具体 model** 的高阶范畴论构造的描述。也是由该报告，我知道**无穷范畴不包括 2-范畴**，因为 (infinity,1)-category = 1-category (not 2-category) + homotopy theory. **通过无穷局部化函子，可以将通常的拓扑空间范畴、表示论中的各种模范畴、复形范畴变为无穷范畴**。[Bastiaan Cnossen - Introduction to stable ∞-categories, part 1 (1/7/25, KK+H workshop)](https://www.youtube.com/watch?v=0mI0gwzHNLc) and [Bastiaan Cnossen - Introduction to stable ∞-categories, part 2 (1/8/25, KK+H workshop)](https://www.youtube.com/watch?v=EmPQMKoh8TU) 2026-6-20 14:02 崇德苑 209 室
 
 
  
