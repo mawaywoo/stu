@@ -3588,7 +3588,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1051. good talk! 将通常的环层**推广到更广义的层**（涉及到拓扑空间，进而涉及到无穷范畴）便得到更广义的空间，**将通常的层推广到无穷范畴版本，即推广到同伦版本**；对于广义空间 (X, O_X)，**层 O_X 编码了大部分信息**，拓扑空间 X 编码的信息很有限；将各种拉回、推出等**视为构造新对象的工具**，见 40:25，所以当某个对象的定义方式为满足某个交换图，**该交换图可以理解为给出了该对象的构造方式**。[Informal talk in Derived Geometry (Jacob Lurie)](https://www.youtube.com/watch?v=YWpD6c69k_M) 2026-6-21 17:24 崇德苑 209 室
 
-1052. 商运算通常会破坏原有的某些结构，所以需要引进高阶空间。DAG = homotopical/higher alg. geo. [Kadri İlker Berktav - What is derived algebraic geometry?](https://www.youtube.com/watch?v=7Q-F2FyUDtc) 2026-6-21 19:05 崇德苑 209 室
+1052. 商运算通常会破坏原有的某些结构，所以需要引进高阶空间、高阶范畴。DAG = homotopical/higher alg. geo. 该报告对 DAG 解释得很好。[Kadri İlker Berktav - What is derived algebraic geometry?](https://www.youtube.com/watch?v=7Q-F2FyUDtc) 2026-6-21 19:05 崇德苑 209 室
 
 
  
