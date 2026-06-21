@@ -3585,7 +3585,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1050. 为了更好地理解 Lurie 的高阶代数，直接的方式是理解它在 derived algebraic geometry 中的应用。[Dennis Gaitsgory - 1/4 Singular support of coherent sheaves](https://www.youtube.com/watch?v=S7f_SSZIXQQ)  2026-6-21 11:23 崇德苑 209 室
 
-1051. good talk! 将通常的环层**推广到更广义的层**（涉及到拓扑空间，进而涉及到无穷范畴）便得到更广义的空间；将各种拉回、推出等**视为构造新对象的工具**，见 40:25，所以当某个对象的定义方式为满足某个交换图，**该交换图可以理解为给出了该对象的构造方式**。[Informal talk in Derived Geometry (Jacob Lurie)](https://www.youtube.com/watch?v=YWpD6c69k_M) 2026-6-21 17:24 崇德苑 209 室
+1051. good talk! 将通常的环层**推广到更广义的层**（涉及到拓扑空间，进而涉及到无穷范畴）便得到更广义的空间，**将通常的层推广到无穷范畴版本，即推广到同伦版本**；对于广义空间 (X, O_X)，**层 O_X 编码了大部分信息**，拓扑空间 X 编码的信息很有限；将各种拉回、推出等**视为构造新对象的工具**，见 40:25，所以当某个对象的定义方式为满足某个交换图，**该交换图可以理解为给出了该对象的构造方式**。[Informal talk in Derived Geometry (Jacob Lurie)](https://www.youtube.com/watch?v=YWpD6c69k_M) 2026-6-21 17:24 崇德苑 209 室
 
 
  
