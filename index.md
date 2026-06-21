@@ -455,7 +455,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Rasekh - Fibrations of (oo,n)-Categories](https://www.youtube.com/watch?v=v33asCDcLtQ&list=PL4quE6Mhntx_4zNmwEAHbBL3w-PzYV4Vw&index=12) | [Brandon Doherty, Cubical models of (∞,1)-categories](https://www.youtube.com/watch?v=oouDvcwSVT8) | [Duality in Higher Categories-I by Pranav Pandit](https://www.youtube.com/watch?v=fc4vsf1jeOU) |
 [Duality In Higher Categories II by Pranav Pandit](https://www.youtube.com/watch?v=w0M7synarxU) | [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) | [Duality In Higher Categories IV by Pranav Pandit](https://www.youtube.com/watch?v=RX8gZJP1YU4&t=35s) |
 [Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=15&t=1059s) | [Complicial stuff](https://www.youtube.com/playlist?list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX) | [Yuki Maehara's talks](https://www.youtube.com/results?search_query=Yuki+Maehara) |
-[Higher Categories and Categorification](https://www.slmath.org/programs/323#videos_programs) | [[PMB 2nd Workshop] I. Introduction to Hopfological algebra - Y.Qi](https://www.youtube.com/watch?v=Jx5QF-Te83E) | []() |
+[Higher Categories and Categorification](https://www.slmath.org/programs/323#videos_programs) | [[PMB 2nd Workshop] I. Introduction to Hopfological algebra - Y.Qi](https://www.youtube.com/watch?v=Jx5QF-Te83E) | [Informal talk in Derived Geometry (Jacob Lurie)](https://www.youtube.com/watch?v=YWpD6c69k_M) |
 []() |
 
 
@@ -3584,6 +3584,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1049. 一个**范畴**也可以视为另一个更大范畴中的**代数或者模对象**，如导出范畴、复形范畴等都可以视为代数或者模对象。[Hopfological algebra, revisited](https://arxiv.org/abs/2606.19485) and [Kernel theorems for rigidly-compactly generated infty-categories](https://arxiv.org/abs/2606.10553) and [A universal characterization of higher algebraic K-theory](https://arxiv.org/abs/1001.2282) and [Quasi-affine schemes and singly compactly generated t-structures](https://arxiv.org/abs/2606.19417) and [A study in derived algebraic geometry part 1](https://people.mpim-bonn.mpg.de/gaitsgde/Book/Vol1.pdf) and [Integral Transforms and Drinfeld Centers in Derived Algebraic Geometry](https://arxiv.org/abs/0805.0157) and [Higher traces, noncommutative motives, and the categorified Chern character](https://arxiv.org/abs/1511.03589) 2026-6-20 21:51 崇德苑 209 室
 
 1050. 为了更好地理解 Lurie 的高阶代数，直接的方式是理解它在 derived algebraic geometry 中的应用。[Dennis Gaitsgory - 1/4 Singular support of coherent sheaves](https://www.youtube.com/watch?v=S7f_SSZIXQQ)  2026-6-21 11:23 崇德苑 209 室
+
+1051. good talk! 将通常的环层**推广到更广义的层**（涉及到拓扑空间，进而涉及到无穷范畴）便得到更广义的空间；将各种拉回、推出等**视为构造新对象的工具**，见 40:25 [Informal talk in Derived Geometry (Jacob Lurie)](https://www.youtube.com/watch?v=YWpD6c69k_M) 2026-6-21 17:24 崇德苑 209 室
 
 
  
