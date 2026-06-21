@@ -3583,6 +3583,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1049. 一个**范畴**也可以视为另一个更大范畴中的**代数或者模对象**，如导出范畴、复形范畴等都可以视为代数或者模对象。[Hopfological algebra, revisited](https://arxiv.org/abs/2606.19485) and [Kernel theorems for rigidly-compactly generated infty-categories](https://arxiv.org/abs/2606.10553) and [A universal characterization of higher algebraic K-theory](https://arxiv.org/abs/1001.2282) and [Quasi-affine schemes and singly compactly generated t-structures](https://arxiv.org/abs/2606.19417) and [A study in derived algebraic geometry part 1](https://people.mpim-bonn.mpg.de/gaitsgde/Book/Vol1.pdf) and [Integral Transforms and Drinfeld Centers in Derived Algebraic Geometry](https://arxiv.org/abs/0805.0157) and [Higher traces, noncommutative motives, and the categorified Chern character](https://arxiv.org/abs/1511.03589) 2026-6-20 21:51 崇德苑 209 室
 
+1050. 为了更好地理解 Lurie 的高阶代数，直接的方式是理解它在 derived algebraic geometry 中的应用。[Dennis Gaitsgory - 1/4 Singular support of coherent sheaves](https://www.youtube.com/watch?v=S7f_SSZIXQQ)  2026-6-21 11:23 崇德苑 209 室
+
 
  
 
