@@ -456,7 +456,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Duality In Higher Categories II by Pranav Pandit](https://www.youtube.com/watch?v=w0M7synarxU) | [Duality In Higher Categories III by Pranav Pandit](https://www.youtube.com/watch?v=IjaBK97GVfU) | [Duality In Higher Categories IV by Pranav Pandit](https://www.youtube.com/watch?v=RX8gZJP1YU4&t=35s) |
 [Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=15&t=1059s) | [Complicial stuff](https://www.youtube.com/playlist?list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX) | [Yuki Maehara's talks](https://www.youtube.com/results?search_query=Yuki+Maehara) |
 [Higher Categories and Categorification](https://www.slmath.org/programs/323#videos_programs) | [[PMB 2nd Workshop] I. Introduction to Hopfological algebra - Y.Qi](https://www.youtube.com/watch?v=Jx5QF-Te83E) | [Informal talk in Derived Geometry (Jacob Lurie)](https://www.youtube.com/watch?v=YWpD6c69k_M) |
-[Kadri İlker Berktav - What is derived algebraic geometry?](https://www.youtube.com/watch?v=7Q-F2FyUDtc) | [Mini-lecture series on derived geometry](https://www.youtube.com/playlist?list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ) | []() |
+[Kadri İlker Berktav - What is derived algebraic geometry?](https://www.youtube.com/watch?v=7Q-F2FyUDtc) | [Mini-lecture series on derived geometry](https://www.youtube.com/playlist?list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ) | [BilTop Ilker Kadri Berktav Derived geometry I: Basics of infinity-categories](https://www.youtube.com/watch?v=mcnnvReizUI&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=1&t=196s) |
 []() |
 
 
@@ -3589,6 +3589,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1051. good talk! 将通常的环层**推广到更广义的层**（涉及到拓扑空间，进而涉及到无穷范畴）便得到更广义的空间，**将通常的层推广到无穷范畴版本，即推广到同伦版本**；对于广义空间 (X, O_X)，**层 O_X 编码了大部分信息**，拓扑空间 X 编码的信息很有限；将各种拉回、推出等**视为构造新对象的工具**，见 40:25，所以当某个对象的定义方式为满足某个交换图，**该交换图可以理解为给出了该对象的构造方式**。[Informal talk in Derived Geometry (Jacob Lurie)](https://www.youtube.com/watch?v=YWpD6c69k_M) 2026-6-21 17:24 崇德苑 209 室
 
 1052. 商运算通常会破坏原有的某些结构，所以需要引进高阶空间、高阶范畴。DAG = homotopical/higher alg. geo. 该报告对 DAG 解释得很好。[Kadri İlker Berktav - What is derived algebraic geometry?](https://www.youtube.com/watch?v=7Q-F2FyUDtc) 2026-6-21 19:05 崇德苑 209 室
+
+1053. 在 26:20 中拓扑空间产生的 n-范畴的定义：points, paths, homotopies ... 这些概念的定义是**递归地**，如 path: f: **[0,1]** ——> X; homotopy: **[0,1]^2** ——> X ... 高阶范畴常用的定义方式：**递归地取某种 shape** [BilTop Ilker Kadri Berktav Derived geometry I: Basics of infinity-categories](https://www.youtube.com/watch?v=mcnnvReizUI&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=1&t=196s) 2026-6-22 9:45 崇德苑 209 室
 
 
  
