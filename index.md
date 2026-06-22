@@ -3593,7 +3593,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1053. 在 26:20 中拓扑空间产生的 n-范畴的定义：points, paths, homotopies ... 这些概念的定义是**递归地**，如 path: f: **[0,1]** ——> X; homotopy: **[0,1]^2** ——> X ... 高阶范畴常用的定义方式：**递归地取某种 shape** [BilTop Ilker Kadri Berktav Derived geometry I: Basics of infinity-categories](https://www.youtube.com/watch?v=mcnnvReizUI&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=1&t=196s) 2026-6-22 9:45 崇德苑 209 室
 
-1054. [BilTop Ilker Kadri Berktav Derived geometry II: Basics of infinity-categories](https://www.youtube.com/watch?v=shZY5Ph2QpA&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=2) 2026-6-22 10:31 崇德苑 209 室
+1054. 通常范畴通过无穷局部化可以产生无穷范畴，所以 cdga 范畴可以产生无穷范畴，进而产生高阶空间。[BilTop Ilker Kadri Berktav Derived geometry II: Basics of infinity-categories](https://www.youtube.com/watch?v=shZY5Ph2QpA&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=2) 2026-6-22 10:31 崇德苑 209 室
 
 
  
