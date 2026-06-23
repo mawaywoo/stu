@@ -3600,7 +3600,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1056. 代数地定义微分几何的相关概念：切复形、余切复形、微分形式等，并比较 cdga 比通常代数增加的信息维度。[BilTop Ilker Kadri Berktav Derived geometry III: Introduction to higher spaces](https://www.youtube.com/watch?v=40g4cWDvx_M&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=3&t=91s) 2026-6-23 9:29 崇德苑 209 室
 
-1057. 类比流形：functor of points 观点定义导出概形、叠形就是把交换代数上的**集合层替换为高阶/同伦层**，集合替换为高阶范畴，衡量几何对象中的全体**点**，交换代数替换为 cdga，衡量几何对象的**函数空间全体**；p: spec A ——> X 理解为点 p 的 A-chart；cdga 是一个复形，通常的代数仅仅是 0-part，**其余 degree 编码就是导出部分的信息**；Qch(SpecR)=R-Mod，**所以（预）层构造通常会比增加许多“代数”之外的信息**。[BilTop Ilker Kadri Berktav Derived geometry IV: Introduction to derived symplectic geometry](https://www.youtube.com/watch?v=RG2bn4xbUPM&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=4)  2026-6-23 10:24 崇德苑 209 室
+1057. 类比流形：functor of points 观点定义导出概形、叠形就是把交换代数上的**集合层替换为高阶/同伦层**，集合替换为高阶范畴，衡量几何对象中的全体**点**，交换代数替换为 cdga，衡量几何对象的**函数空间全体**；p: spec A ——> X 理解为点 p 的 A-chart；cdga 是一个复形，通常的代数仅仅是 0-part，**其余 degree 编码就是导出部分的信息**；Qch(SpecR)=R-Mod，**所以（预）层构造通常会比增加许多“代数”之外的信息！！！**。[BilTop Ilker Kadri Berktav Derived geometry IV: Introduction to derived symplectic geometry](https://www.youtube.com/watch?v=RG2bn4xbUPM&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=4)  2026-6-23 10:24 崇德苑 209 室
 
 
  
