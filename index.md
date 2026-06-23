@@ -458,7 +458,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Higher Categories and Categorification](https://www.slmath.org/programs/323#videos_programs) | [[PMB 2nd Workshop] I. Introduction to Hopfological algebra - Y.Qi](https://www.youtube.com/watch?v=Jx5QF-Te83E) | [Informal talk in Derived Geometry (Jacob Lurie)](https://www.youtube.com/watch?v=YWpD6c69k_M) |
 [Kadri İlker Berktav - What is derived algebraic geometry?](https://www.youtube.com/watch?v=7Q-F2FyUDtc) | [Mini-lecture series on derived geometry](https://www.youtube.com/playlist?list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ) | [BilTop Ilker Kadri Berktav Derived geometry I: Basics of infinity-categories](https://www.youtube.com/watch?v=mcnnvReizUI&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=1&t=196s) |
 [BilTop Ilker Kadri Berktav Derived geometry II: Basics of infinity-categories](https://www.youtube.com/watch?v=shZY5Ph2QpA&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=2) | [Special Lecture Series on Derived Algebraic/Differential Geo](https://www.youtube.com/playlist?list=PL0NRmB0fnLJRk75jsBXXt7J8TCWY9EpI4) | [BilTop Ilker Kadri Berktav Derived geometry III: Introduction to higher spaces](https://www.youtube.com/watch?v=40g4cWDvx_M&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=3&t=91s) |
-[BilTop Ilker Kadri Berktav Derived geometry IV: Introduction to derived symplectic geometry](https://www.youtube.com/watch?v=RG2bn4xbUPM&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=4) | []() | []() |
+[BilTop Ilker Kadri Berktav Derived geometry IV: Introduction to derived symplectic geometry](https://www.youtube.com/watch?v=RG2bn4xbUPM&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=4) | [BilTop Ilker Kadri Berktav Derived geometry V: Topics in derived symplectic geometry](https://www.youtube.com/watch?v=xgMvCx-ilIE&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=5) | []() |
 []() |
 
 
@@ -3600,7 +3600,9 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1056. 代数地定义微分几何的相关概念：切复形、余切复形、微分形式等，并比较 cdga 比通常代数增加的信息维度。[BilTop Ilker Kadri Berktav Derived geometry III: Introduction to higher spaces](https://www.youtube.com/watch?v=40g4cWDvx_M&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=3&t=91s) 2026-6-23 9:29 崇德苑 209 室
 
-1057. 类比流形：functor of points 观点定义导出概形、叠形就是把交换代数上的**集合层替换为高阶/同伦层**，集合替换为高阶范畴，衡量几何对象中的全体**点**，交换代数替换为 cdga，衡量几何对象的**函数空间全体**；p: spec A ——> X 理解为点 p 的 A-chart；cdga 是一个复形，通常的代数仅仅是 0-part，**其余 degree 编码就是导出部分的信息**；Qch(SpecR)=R-Mod，**所以（预）层构造通常会比增加许多“代数”之外的信息！！！**。[BilTop Ilker Kadri Berktav Derived geometry IV: Introduction to derived symplectic geometry](https://www.youtube.com/watch?v=RG2bn4xbUPM&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=4)  2026-6-23 10:24 崇德苑 209 室
+1057. 类比流形：functor of points 观点定义导出概形、叠形就是把交换代数上的**集合层替换为高阶/同伦层**，集合替换为高阶范畴，衡量几何对象中的全体**点**，交换代数替换为 cdga，衡量几何对象的**函数空间全体**；p: spec A ——> X 理解为点 p 的 A-chart；cdga 是一个复形，通常的代数仅仅是 0-part，**其余 degree 编码就是导出部分的信息**；Qch(SpecR)=R-Mod，**所以（预）层构造通常会比增加许多“代数”之外的信息！！！**。[BilTop Ilker Kadri Berktav Derived geometry IV: Introduction to derived symplectic geometry](https://www.youtube.com/watch?v=RG2bn4xbUPM&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=4) 2026-6-23 10:24 崇德苑 209 室
+
+1058. [BilTop Ilker Kadri Berktav Derived geometry V: Topics in derived symplectic geometry](https://www.youtube.com/watch?v=xgMvCx-ilIE&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=5) 2026-6-23 11:24 崇德苑 209 室
 
 
  
