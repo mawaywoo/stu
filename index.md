@@ -457,7 +457,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Infinity-category 03: Left/right fibrations, straightening/unstraightening functors - Ang Li](https://www.youtube.com/watch?v=5E1DuXlUaqA&list=PLmB9zOCKwySG7ZPy4a7ojNVRpofoPt1nC&index=15&t=1059s) | [Complicial stuff](https://www.youtube.com/playlist?list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX) | [Yuki Maehara's talks](https://www.youtube.com/results?search_query=Yuki+Maehara) |
 [Higher Categories and Categorification](https://www.slmath.org/programs/323#videos_programs) | [[PMB 2nd Workshop] I. Introduction to Hopfological algebra - Y.Qi](https://www.youtube.com/watch?v=Jx5QF-Te83E) | [Informal talk in Derived Geometry (Jacob Lurie)](https://www.youtube.com/watch?v=YWpD6c69k_M) |
 [Kadri İlker Berktav - What is derived algebraic geometry?](https://www.youtube.com/watch?v=7Q-F2FyUDtc) | [Mini-lecture series on derived geometry](https://www.youtube.com/playlist?list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ) | [BilTop Ilker Kadri Berktav Derived geometry I: Basics of infinity-categories](https://www.youtube.com/watch?v=mcnnvReizUI&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=1&t=196s) |
-[BilTop Ilker Kadri Berktav Derived geometry II: Basics of infinity-categories](https://www.youtube.com/watch?v=shZY5Ph2QpA&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=2) | []() | []() |
+[BilTop Ilker Kadri Berktav Derived geometry II: Basics of infinity-categories](https://www.youtube.com/watch?v=shZY5Ph2QpA&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=2) | [Special Lecture Series on Derived Algebraic/Differential Geo](https://www.youtube.com/playlist?list=PL0NRmB0fnLJRk75jsBXXt7J8TCWY9EpI4) | []() |
 []() |
 
 
@@ -3594,6 +3594,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1053. 在 26:20 中拓扑空间产生的 n-范畴的定义：points, paths, homotopies ... 这些概念的定义是**递归地**，如 path: f: **[0,1]** ——> X; homotopy: **[0,1]^2** ——> X ... 高阶范畴常用的定义方式：**递归地取某种 shape** [BilTop Ilker Kadri Berktav Derived geometry I: Basics of infinity-categories](https://www.youtube.com/watch?v=mcnnvReizUI&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=1&t=196s) 2026-6-22 9:45 崇德苑 209 室
 
 1054. 通常范畴通过无穷局部化可以产生无穷范畴，所以 cdga 范畴可以产生无穷范畴，进而产生高阶空间。[BilTop Ilker Kadri Berktav Derived geometry II: Basics of infinity-categories](https://www.youtube.com/watch?v=shZY5Ph2QpA&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=2) 2026-6-22 10:31 崇德苑 209 室
+
+1055. 最近对 Derived Algebraic Geometry 很感兴趣。[Special Lecture Series on Derived Algebraic/Differential Geo](https://www.youtube.com/playlist?list=PL0NRmB0fnLJRk75jsBXXt7J8TCWY9EpI4) 2026-6-23 8:35 崇德苑 209 室
 
 
  
