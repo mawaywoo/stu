@@ -3605,6 +3605,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1058. [BilTop Ilker Kadri Berktav Derived geometry V: Topics in derived symplectic geometry](https://www.youtube.com/watch?v=xgMvCx-ilIE&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=5) 2026-6-23 11:24 崇德苑 209 室
 
+1059. 对**范畴化**解释得很有启发性。[A note on Chern character, loop spaces and derived algebraic geometry](https://arxiv.org/abs/0804.1274) 2026-6-26 14:03 崇德苑 209 室
+
 
  
 
