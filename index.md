@@ -3610,6 +3610,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1060. 对于某个 schem X，如何产生比 Set 更多的 data：可以考虑切片范畴 Schem/X，从而对 X 赋予了一个范畴（not Set）。[Algebraic Spaces and Stacks: Ideas](https://www.youtube.com/watch?v=9SrNfj5OE8s) and [Stacks](https://www.youtube.com/playlist?list=PLJmfLfPx1Oec9YzTuiC-huiAGPEES3YN6) 2026-6-27 10:03 崇德苑 209 室
 
+1061. 对象或态射的可表性 = 对象或者态射能被某个具体的几何对象所控制、所代表，进而可以通过这个具体的几何对象的性质去定义被它所代表的对象和态射的性质，见 10:50，简而言之，**可表性 = 可约化到某个稍简单的几何代表元层面**。[Algebraic Spaces and Stacks: Representabilty](https://www.youtube.com/watch?v=FtHHK_sLZSg&list=PLJmfLfPx1Oec9YzTuiC-huiAGPEES3YN6&index=5) 2026-6-27 10:33 崇德苑 209 室
+
 
  
 
