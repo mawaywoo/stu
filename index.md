@@ -460,7 +460,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [BilTop Ilker Kadri Berktav Derived geometry II: Basics of infinity-categories](https://www.youtube.com/watch?v=shZY5Ph2QpA&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=2) | [Special Lecture Series on Derived Algebraic/Differential Geo](https://www.youtube.com/playlist?list=PL0NRmB0fnLJRk75jsBXXt7J8TCWY9EpI4) | [BilTop Ilker Kadri Berktav Derived geometry III: Introduction to higher spaces](https://www.youtube.com/watch?v=40g4cWDvx_M&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=3&t=91s) |
 [BilTop Ilker Kadri Berktav Derived geometry IV: Introduction to derived symplectic geometry](https://www.youtube.com/watch?v=RG2bn4xbUPM&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=4) | [BilTop Ilker Kadri Berktav Derived geometry V: Topics in derived symplectic geometry](https://www.youtube.com/watch?v=xgMvCx-ilIE&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=5) | [BunG Seminar Talk XXXVIII: Akhil Mathew. Basics of derived algebraic geometry](https://www.youtube.com/watch?v=wi87Du_G1y8&t=221s) |
 [Derived Algebraic Geometry Winter School 2013](https://video.ethz.ch/events/2013/dag) | [Derived schemes and derived Artin 1-stacks](https://video.ethz.ch/events/2013/dag/v/OqFKAqV63TI?order=old_to_new) | [David Rydh. Local structure of algebraic stacks and applications](https://www.youtube.com/watch?v=0-QgVUKmnLs) |
-[Algebraic Spaces and Stacks: Ideas](https://www.youtube.com/watch?v=9SrNfj5OE8s) | [Stacks](https://www.youtube.com/playlist?list=PLJmfLfPx1Oec9YzTuiC-huiAGPEES3YN6) | []() |
+[Algebraic Spaces and Stacks: Ideas](https://www.youtube.com/watch?v=9SrNfj5OE8s) | [Stacks](https://www.youtube.com/playlist?list=PLJmfLfPx1Oec9YzTuiC-huiAGPEES3YN6) | [What is a local/infinitesimal deformation of a scheme?](https://www.youtube.com/watch?v=QOOcDp4OraI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=1) |
 []() |
 
 
@@ -3613,6 +3613,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1061. 对象或态射的可表性 = 对象或者态射能被某个具体的几何对象所控制、所代表，进而可以通过这个具体的几何对象的性质去定义被它所代表的对象和态射的性质，见 10:50，简而言之，**可表性 = 可约化到某个稍简单的几何代表元层面**。[Algebraic Spaces and Stacks: Representabilty](https://www.youtube.com/watch?v=FtHHK_sLZSg&list=PLJmfLfPx1Oec9YzTuiC-huiAGPEES3YN6&index=5) 2026-6-27 10:33 崇德苑 209 室
 
 1062. 代数几何中常常**利用简单的几何对象去构建复杂的几何对象，复杂几何对象的相关概念约化到简单的几何对象中的相关概念去定义**，如代数叠形的相关概念可以借助代数空间中的相关概念去定义，概形可以约化到仿射概形中去定义等等，约化的手段可以通过**截断、局部拼接**等运算来实现。这种约化的手段还包括**取仿射点、仿射坐标卡** p: spec A ——> X，**约化到熟悉的几何对象**！2026-6-27 17:03 崇德苑 209 室
+
+1063.该视频对形变的几何解释得很形象，见 5:30，即考虑**简单几何对象 spec A 加粗为简单的几何对象 spec A' 时，spec A 上的覆盖几何对象的加粗形变有哪些**？[What is a local/infinitesimal deformation of a scheme?](https://www.youtube.com/watch?v=QOOcDp4OraI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=1) 2026-6-27 22:06 崇德苑 209 室
 
 
  
