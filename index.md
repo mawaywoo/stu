@@ -460,6 +460,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [BilTop Ilker Kadri Berktav Derived geometry II: Basics of infinity-categories](https://www.youtube.com/watch?v=shZY5Ph2QpA&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=2) | [Special Lecture Series on Derived Algebraic/Differential Geo](https://www.youtube.com/playlist?list=PL0NRmB0fnLJRk75jsBXXt7J8TCWY9EpI4) | [BilTop Ilker Kadri Berktav Derived geometry III: Introduction to higher spaces](https://www.youtube.com/watch?v=40g4cWDvx_M&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=3&t=91s) |
 [BilTop Ilker Kadri Berktav Derived geometry IV: Introduction to derived symplectic geometry](https://www.youtube.com/watch?v=RG2bn4xbUPM&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=4) | [BilTop Ilker Kadri Berktav Derived geometry V: Topics in derived symplectic geometry](https://www.youtube.com/watch?v=xgMvCx-ilIE&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=5) | [BunG Seminar Talk XXXVIII: Akhil Mathew. Basics of derived algebraic geometry](https://www.youtube.com/watch?v=wi87Du_G1y8&t=221s) |
 [Derived Algebraic Geometry Winter School 2013](https://video.ethz.ch/events/2013/dag) | [Derived schemes and derived Artin 1-stacks](https://video.ethz.ch/events/2013/dag/v/OqFKAqV63TI?order=old_to_new) | [David Rydh. Local structure of algebraic stacks and applications](https://www.youtube.com/watch?v=0-QgVUKmnLs) |
+[Algebraic Spaces and Stacks: Ideas](https://www.youtube.com/watch?v=9SrNfj5OE8s) | []() | []() |
 []() |
 
 
