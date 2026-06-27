@@ -3614,7 +3614,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1062. 代数几何中常常**利用简单的几何对象去构建复杂的几何对象，复杂几何对象的相关概念约化到简单的几何对象中的相关概念去定义**，如代数叠形的相关概念可以借助代数空间中的相关概念去定义，概形可以约化到仿射概形中去定义等等，约化的手段可以通过**截断、局部拼接**等运算来实现。这种约化的手段还包括**取仿射点、仿射坐标卡** p: spec A ——> X，**约化到熟悉的几何对象**！2026-6-27 17:03 崇德苑 209 室
 
-1063.该视频对**形变**的几何解释得很形象，见 5:30，即考虑**简单几何对象 spec A 加粗为简单的几何对象 spec A' 时，spec A 上的覆盖几何对象的加粗形变有哪些**？[What is a local/infinitesimal deformation of a scheme?](https://www.youtube.com/watch?v=QOOcDp4OraI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=1) 2026-6-27 22:06 崇德苑 209 室
+1063.该视频对**形变**的几何解释得很形象，见 5:30，即考虑**简单几何对象 spec A 加粗为简单的几何对象 spec A' 时，spec A 上的覆盖几何对象的加粗形变有哪些**？8:50 的切向量的例子很好贴切，简单说就是：**形变 = 寻找覆盖空间中，底空间的某种形状在上空间的对应的形状（形状提升）**。[What is a local/infinitesimal deformation of a scheme?](https://www.youtube.com/watch?v=QOOcDp4OraI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=1) 2026-6-27 22:06 崇德苑 209 室
 
 
  
