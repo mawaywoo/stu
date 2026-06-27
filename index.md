@@ -3612,6 +3612,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1061. 对象或态射的可表性 = 对象或者态射能被某个具体的几何对象所控制、所代表，进而可以通过这个具体的几何对象的性质去定义被它所代表的对象和态射的性质，见 10:50，简而言之，**可表性 = 可约化到某个稍简单的几何代表元层面**。[Algebraic Spaces and Stacks: Representabilty](https://www.youtube.com/watch?v=FtHHK_sLZSg&list=PLJmfLfPx1Oec9YzTuiC-huiAGPEES3YN6&index=5) 2026-6-27 10:33 崇德苑 209 室
 
+1062. 代数几何中常常**利用简单的几何对象去构建复杂的几何对象，复杂几何对象的相关概念约化到简单的几何对象中的相关概念去定义**，如代数叠形的相关概念可以借助代数空间中的相关概念去定义，概形可以约化到仿射概形中去定义等等，约化的手段可以通过**截断、局部拼接**等运算来实现。这种约化的手段还包括**取仿射点、仿射坐标卡** p: spec A ——> X，**约化到熟悉的几何对象**！2026-6-27 17:03 崇德苑 209 室
+
 
  
 
