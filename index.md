@@ -3608,6 +3608,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1059. 对**范畴化**解释得很有启发性。[A note on Chern character, loop spaces and derived algebraic geometry](https://arxiv.org/abs/0804.1274) 2026-6-26 14:03 崇德苑 209 室
 
+1060. 对于某个 schem X，如何产生比 Set 更多的 data：可以考虑切片范畴 Schem/X，从而对 X 赋予了一个范畴（not Set）。[Algebraic Spaces and Stacks: Ideas](https://www.youtube.com/watch?v=9SrNfj5OE8s) 2026-6-27 10:03 崇德苑 209 室
+
 
  
 
