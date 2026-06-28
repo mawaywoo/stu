@@ -462,6 +462,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Derived Algebraic Geometry Winter School 2013](https://video.ethz.ch/events/2013/dag) | [Derived schemes and derived Artin 1-stacks](https://video.ethz.ch/events/2013/dag/v/OqFKAqV63TI?order=old_to_new) | [David Rydh. Local structure of algebraic stacks and applications](https://www.youtube.com/watch?v=0-QgVUKmnLs) |
 [Algebraic Spaces and Stacks: Ideas](https://www.youtube.com/watch?v=9SrNfj5OE8s) | [Stacks](https://www.youtube.com/playlist?list=PLJmfLfPx1Oec9YzTuiC-huiAGPEES3YN6) | [What is a local/infinitesimal deformation of a scheme?](https://www.youtube.com/watch?v=QOOcDp4OraI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=1) |
 [Infinitesimal/Local Deformations of Rings](https://www.youtube.com/watch?v=ejZiCeLtQWI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=2) | [Deformation Theory of Line Bundles Part 1](https://www.youtube.com/watch?v=CoLVr3Odb0w&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=4) | [Deformation Theory of Line Bundles part 2](https://www.youtube.com/watch?v=iZvcWkKDn0A&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=5) |
+[(baby) Cup Product with Kodaira-Spencer](https://www.youtube.com/watch?v=jfoH8cBMxqw&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=6) | []() | []() |
 []() |
 
 
@@ -3617,7 +3618,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1063. 该视频对**形变**的几何解释得很形象，见 5:30，即考虑**简单几何对象 spec A 加粗为简单的几何对象 spec A' 时，spec A 上的覆盖几何对象的加粗形变有哪些**？8:50 和 13:30 的例子都很贴切，简单说就是：**形变 = 在覆盖空间中，寻找底空间的某种形状的加粗在上空间的对应的形状的加粗**。[What is a local/infinitesimal deformation of a scheme?](https://www.youtube.com/watch?v=QOOcDp4OraI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=1) 结合前一个视频，**从几何的角度（即覆盖空间的形状加粗角度）去理解**环的形变会更形象些：[Infinitesimal/Local Deformations of Rings](https://www.youtube.com/watch?v=ejZiCeLtQWI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=2) 能真正地从几何的角度去理解代数几何真的很有趣，之前一直抓不到代数几何结论的几何图像。2026-6-27 22:06 崇德苑 209 室
 
-1064. 形变可以通过上同调去度量：线丛的形变 <——> 上同调类的形变。[Deformation Theory of Line Bundles Part 1](https://www.youtube.com/watch?v=CoLVr3Odb0w&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=4) and [Deformation Theory of Line Bundles part 2](https://www.youtube.com/watch?v=iZvcWkKDn0A&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=5) 2026-6-28 10:11 崇德苑 209 室
+1064. 形变可以通过上同调去度量：线丛的形变 <——> 上同调类的形变。[Deformation Theory of Line Bundles Part 1](https://www.youtube.com/watch?v=CoLVr3Odb0w&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=4) and [Deformation Theory of Line Bundles part 2](https://www.youtube.com/watch?v=iZvcWkKDn0A&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=5) and [(baby) Cup Product with Kodaira-Spencer](https://www.youtube.com/watch?v=jfoH8cBMxqw&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=6) 2026-6-28 10:11 崇德苑 209 室
 
 
  
