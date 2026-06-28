@@ -461,7 +461,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [BilTop Ilker Kadri Berktav Derived geometry IV: Introduction to derived symplectic geometry](https://www.youtube.com/watch?v=RG2bn4xbUPM&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=4) | [BilTop Ilker Kadri Berktav Derived geometry V: Topics in derived symplectic geometry](https://www.youtube.com/watch?v=xgMvCx-ilIE&list=PLG0vtdirMOgMLAafyPRTP0Wwnz3P1sPnQ&index=5) | [BunG Seminar Talk XXXVIII: Akhil Mathew. Basics of derived algebraic geometry](https://www.youtube.com/watch?v=wi87Du_G1y8&t=221s) |
 [Derived Algebraic Geometry Winter School 2013](https://video.ethz.ch/events/2013/dag) | [Derived schemes and derived Artin 1-stacks](https://video.ethz.ch/events/2013/dag/v/OqFKAqV63TI?order=old_to_new) | [David Rydh. Local structure of algebraic stacks and applications](https://www.youtube.com/watch?v=0-QgVUKmnLs) |
 [Algebraic Spaces and Stacks: Ideas](https://www.youtube.com/watch?v=9SrNfj5OE8s) | [Stacks](https://www.youtube.com/playlist?list=PLJmfLfPx1Oec9YzTuiC-huiAGPEES3YN6) | [What is a local/infinitesimal deformation of a scheme?](https://www.youtube.com/watch?v=QOOcDp4OraI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=1) |
-[Infinitesimal/Local Deformations of Rings](https://www.youtube.com/watch?v=ejZiCeLtQWI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=2) | []() | []() |
+[Infinitesimal/Local Deformations of Rings](https://www.youtube.com/watch?v=ejZiCeLtQWI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=2) | [Deformation Theory of Line Bundles Part 1](https://www.youtube.com/watch?v=CoLVr3Odb0w&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=4) | []() |
 []() |
 
 
@@ -3616,6 +3616,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1062. 代数几何中常常**利用简单的几何对象去构建复杂的几何对象，复杂几何对象的相关概念约化到简单的几何对象中的相关概念去定义**，如代数叠形的相关概念可以借助代数空间中的相关概念去定义，概形可以约化到仿射概形中去定义等等，约化的手段可以通过**截断、局部拼接**等运算来实现。这种约化的手段还包括**取仿射点、仿射坐标卡** p: spec A ——> X，**约化到熟悉的几何对象**！2026-6-27 17:03 崇德苑 209 室
 
 1063. 该视频对**形变**的几何解释得很形象，见 5:30，即考虑**简单几何对象 spec A 加粗为简单的几何对象 spec A' 时，spec A 上的覆盖几何对象的加粗形变有哪些**？8:50 和 13:30 的例子都很贴切，简单说就是：**形变 = 在覆盖空间中，寻找底空间的某种形状的加粗在上空间的对应的形状的加粗**。[What is a local/infinitesimal deformation of a scheme?](https://www.youtube.com/watch?v=QOOcDp4OraI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=1) 结合前一个视频，**从几何的角度（即覆盖空间的形状加粗角度）去理解**环的形变会更形象些：[Infinitesimal/Local Deformations of Rings](https://www.youtube.com/watch?v=ejZiCeLtQWI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=2) 能真正地从几何的角度去理解代数几何真的很有趣，之前一直抓不到代数几何结论的几何图像。2026-6-27 22:06 崇德苑 209 室
+
+1064. 形变可以通过上同调去度量。[Deformation Theory of Line Bundles Part 1](https://www.youtube.com/watch?v=CoLVr3Odb0w&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=4) 2026-6-28 10:11 崇德苑 209 室
 
 
  
