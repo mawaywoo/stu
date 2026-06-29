@@ -3624,7 +3624,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1065. 等监考完、改完卷后好好学习这两个短课程。[【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks](https://www.bilibili.com/video/BV1WV4y1q7K9/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) and [【Algebraic Stacks】【QGM】by Amit Hogadi](https://www.bilibili.com/video/BV1yJ411R72C/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-6-29 0:02 崇德苑 209 室
 
-1066. **商群胚**的构造，见 15:45 and 20:14，商构造通常产生高阶数据。[【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks](https://www.bilibili.com/video/BV1WV4y1q7K9/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-6-29 14:04 崇德苑 209 室
+1066. **商群胚**的构造，见 15:45 and 20:14，商构造通常产生高阶数据。[【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks](https://www.bilibili.com/video/BV1WV4y1q7K9/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 该课程系列首先回顾了无穷范畴的相关理论。2026-6-29 14:04 崇德苑 209 室
 
 
  
