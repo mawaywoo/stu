@@ -3626,7 +3626,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1066. **商群胚**的构造，见 15:45 and 20:14，商构造通常产生高阶数据。[【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221031](https://www.bilibili.com/video/BV1WV4y1q7K9/?spm_id_from=333.1007.top_right_bar_window_custom_collection.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 该课程系列首先回顾了无穷范畴的相关理论。2026-6-29 14:04 崇德苑 209 室
 
-1067. 18:45 中用和通常的 nerve 构造来对比解释 Duskin nerve（增加了 2-态射部分），很好。[【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221107](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) 2026-6-29 15:36 崇德苑 209 室
+1067. 18:45 中用和通常的 nerve 构造来对比解释 Duskin nerve（增加了 2-态射部分），很好。此时考虑的层都是无穷/高阶层，见 1:11:27 [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221107](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) 2026-6-29 15:36 崇德苑 209 室
 
 
  
