@@ -3628,7 +3628,9 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1067. 18:45 中用和通常的 nerve 构造来对比解释 Duskin nerve（增加了 2-态射部分），很好。此时考虑的层都是无穷/高阶层，见 1:11:27，和通常层的定义差不多，就是需要考虑更多的相容数据，通常开集的交替换为“多重交”，即开集的 Cech nerve （某个单纯集）。[【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221107](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) 2026-6-29 15:36 崇德苑 209 室
 
-1068. 子范畴拓扑，复杂几何对象约化到简单几何对象（简单对象粘成复杂几何对象：affine ——> scheme）[【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221114](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=3) 2026-6-29 23:37 崇德苑 209 室 
+1068. 子范畴拓扑，复杂几何对象约化到简单几何对象（简单对象粘成复杂几何对象：affine ——> scheme）[【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221114](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=3) 2026-6-29 23:37 崇德苑 209 室
+
+1069. [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221121](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=4) 2026-6-30 11:44 崇德苑 209 室
 
 
  
