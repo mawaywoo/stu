@@ -3630,7 +3630,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1068. 子范畴拓扑，复杂几何对象约化到简单几何对象（简单对象粘成复杂几何对象：affine ——> scheme）[【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221114](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=3) 2026-6-29 23:37 崇德苑 209 室
 
-1069. [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221121](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=4) 2026-6-30 11:44 崇德苑 209 室
+1069. 复杂几何对象由简单几何对象粘成的，所以复杂对象上的层也是由简单对象上的层粘起来的，如 stack 上的拟凝聚层由 R-Mod 的极限得到，见 49:00 [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221121](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=4) 2026-6-30 11:44 崇德苑 209 室
 
 
  
