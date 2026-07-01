@@ -3642,6 +3642,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1072. [NCCR SwissMAP - Master Class in Geometry, Topology and Physics](https://www.youtube.com/playlist?list=PLqX5gFCSJtMDqQP3DJtc1Bh06NjDIsxu9) 2026-7-1 10:15 崇德苑 209 室
 
+1073. [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221205](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=6) 2026-7-1 11:57 崇德苑 209 室
+
 
  
 
