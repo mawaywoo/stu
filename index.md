@@ -466,7 +466,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Infinitesimal/Local Deformations of Rings](https://www.youtube.com/watch?v=ejZiCeLtQWI&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=2) | [Deformation Theory of Line Bundles Part 1](https://www.youtube.com/watch?v=CoLVr3Odb0w&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=4) | [Deformation Theory of Line Bundles part 2](https://www.youtube.com/watch?v=iZvcWkKDn0A&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=5) |
 [(baby) Cup Product with Kodaira-Spencer](https://www.youtube.com/watch?v=jfoH8cBMxqw&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=6) | [Geometric Deformations of Principally Polarized Abelian Schemes](https://www.youtube.com/watch?v=bC4StrngKfQ&list=PLJmfLfPx1OefCsG5eaIxctHIfCBH2rnv-&index=7) | [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks](https://www.bilibili.com/video/BV1WV4y1q7K9/?spm_id_from=333.788.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) |
 [【Algebraic Stacks】【QGM】by Amit Hogadi](https://www.bilibili.com/video/BV1yJ411R72C/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [NCMW - Intersection Theory (2022)](https://www.youtube.com/playlist?list=PLzNx6FGVASN1WDsR-s8_y8MnQvuMrfgrv) | [Triple masterclass on Algebraic Geometry, June 2014](https://qgm.au.dk/video/mc/triple-masterclass/) |
-[Differentiable Stacks, Poisson Geometry and related geometric structures](https://www.youtube.com/playlist?list=PLqX5gFCSJtMBs7VJ27QqIzNB18JgVF-5N) | []() | []() |
+[Differentiable Stacks, Poisson Geometry and related geometric structures](https://www.youtube.com/playlist?list=PLqX5gFCSJtMBs7VJ27QqIzNB18JgVF-5N) | [NCCR SwissMAP - Master Class in Geometry, Topology and Physics](https://www.youtube.com/playlist?list=PLqX5gFCSJtMDqQP3DJtc1Bh06NjDIsxu9) | []() |
 []() |
 
 
@@ -3637,6 +3637,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1070. **Everything that can be thought at all can be thought clearly. Everything that can be put into words can be put clearly. 凡是可思的都可以被清楚地思考。凡是可说的都可以用文字清楚地叙说**。引：直到现在我才深刻地感受到这句话的正确性，higher category 跟 higher stack 的产生历程充分地验证了这一点。它在 Grothendieck 飘渺的思绪中一点一点地浮现出身影，然后成为片段的文字。接着它又被后面的数学家不断接着思考，然后用语言更加清晰地表达出来，这也充分验证了语言是思想的边界，凡是可思的都可以用语言清楚地表达出来，这维特根斯坦哲学的核心命题。**而做数学的过程则是将你所思考的模糊数学对象用语言清楚地表达出来**。我不知道数学家**在思考一个还没有定义只有模糊印象的对象时，在那灵光还差一闪的时刻，会不会感受到语言的乏力**，从而触摸到那不可说的门槛，但从我这局外人来看，在数学历史的片段中，在数学概念的背后似乎真有一个无法表述的庞然大物。[Towards Higher Categories and Higher Stacks 1](https://zhuanlan.zhihu.com/p/606734015?share_code=DxKNk9CHLjW6&utm_psn=2055418292798484654) 所以，我们学习某个概念、定理等时，最主要的是**要知道文字背后所要表达的意思**，然后再学习别人是**如何表达该层意思的**。2026-6-30 22:34 崇德苑 209 室
 
 1071. [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221128](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=5) 2026-6-30 23:07 崇德苑 209 室
+
+1072. [NCCR SwissMAP - Master Class in Geometry, Topology and Physics](https://www.youtube.com/playlist?list=PLqX5gFCSJtMDqQP3DJtc1Bh06NjDIsxu9) 2026-7-1 10:15 崇德苑 209 室
 
 
  
