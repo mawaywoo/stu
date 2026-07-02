@@ -3644,7 +3644,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1073. diagonal map 是 monomorphism 意味着函子的取值为集合（离散群胚），而不是范畴，用此可以区分代数叠形和代数空间，见 17:20；通常的商空间仅仅把轨道视为一个点，而商叠形则还需要记录这些轨道的自同构，所以**稳定化子就是描述叠形的一种高效的语言**，见 22:30 [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221205](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=6) 2026-7-1 11:57 崇德苑 209 室
 
-1074. 对角映射编码自同构。[代数栈对角映射单态射等价集合层-deepseek 20260702](https://github.com/mawaywoo/stu/blob/mawaywoo/%E4%BB%A3%E6%95%B0%E6%A0%88%E5%AF%B9%E8%A7%92%E6%98%A0%E5%B0%84%E5%8D%95%E6%80%81%E5%B0%84%E7%AD%89%E4%BB%B7%E9%9B%86%E5%90%88%E5%B1%82-deepseek%2020260702.pdf) 2026-7-2 13:46 崇德苑 209 室
+1074. 对角映射编码自同构；对角映射的可表性意味着将自同构限制为一个好的几何对象。[代数栈对角映射单态射等价集合层-deepseek 20260702](https://github.com/mawaywoo/stu/blob/mawaywoo/%E4%BB%A3%E6%95%B0%E6%A0%88%E5%AF%B9%E8%A7%92%E6%98%A0%E5%B0%84%E5%8D%95%E6%80%81%E5%B0%84%E7%AD%89%E4%BB%B7%E9%9B%86%E5%90%88%E5%B1%82-deepseek%2020260702.pdf) 2026-7-2 13:46 崇德苑 209 室
 
 
 
