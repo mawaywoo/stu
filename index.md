@@ -3642,7 +3642,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1072. [NCCR SwissMAP - Master Class in Geometry, Topology and Physics](https://www.youtube.com/playlist?list=PLqX5gFCSJtMDqQP3DJtc1Bh06NjDIsxu9) 2026-7-1 10:15 崇德苑 209 室
 
-1073. diagonal map 是 monomorphism 意味着函子的取值为集合（离散群胚），而不是范畴，用此可以区分代数叠形和代数空间，见 17:20；通常的商空间仅仅把轨道视为一个点，而商叠形则还需要记录这些轨道的自同构。[【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221205](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=6) 2026-7-1 11:57 崇德苑 209 室
+1073. diagonal map 是 monomorphism 意味着函子的取值为集合（离散群胚），而不是范畴，用此可以区分代数叠形和代数空间，见 17:20；通常的商空间仅仅把轨道视为一个点，而商叠形则还需要记录这些轨道的自同构，所以**稳定化子就是描述叠形的一种高效的语言**，见 22:30 [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221205](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=6) 2026-7-1 11:57 崇德苑 209 室
 
 
  
