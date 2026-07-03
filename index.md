@@ -3648,7 +3648,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1075. [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221212](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=7)  2026-7-3 11:46 崇德苑 209 室
 
-1076. 常思考：用什么语言来表达这个模糊的思想？2026-7-3 11:47 崇德苑 209 室
+1076. 常思考：用什么语言来表达这个模糊的思想？比如如何 zoom in 曲线? 使用平展拓扑的语言，见 16:00 的例子。[Lecture 2: The etale experience--sites and sheaves](https://www.youtube.com/watch?v=Y6-BlpdtZPI&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=5) 2026-7-3 11:47 崇德苑 209 室
 
 
 
