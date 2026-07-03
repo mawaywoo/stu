@@ -3650,6 +3650,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1076. 常思考：**用什么语言来表达这个模糊的思想**？比如如何 zoom in 曲线? 使用平展拓扑的语言，见 16:00 的例子；在 9:00 中平展态射的各种等价定义，也是用不同的语言表达平展空间的这个几何现象。[Lecture 2: The etale experience--sites and sheaves](https://www.youtube.com/watch?v=Y6-BlpdtZPI&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=5) 2026-7-3 11:47 崇德苑 209 室
 
+1077. 当明白了要表达的是什么想法时，对所采用的语言的理解就更容易读懂和掌握了，所以重要的是**先要弄清想要表达的想法，然后再选取适当的语言去描述该想法**。[Lecture 3: Groupoids and prestacks](https://www.youtube.com/watch?v=4okbOAjhsBU&t=307s) 2026-7-3 13:28 崇德苑 209 室
+
 
 
  
