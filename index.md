@@ -3646,6 +3646,10 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1074. 对角映射编码自同构；对角映射的可表性意味着将自同构限制为一个好的几何对象。[代数栈对角映射单态射等价集合层-deepseek 20260702](https://github.com/mawaywoo/stu/blob/mawaywoo/%E4%BB%A3%E6%95%B0%E6%A0%88%E5%AF%B9%E8%A7%92%E6%98%A0%E5%B0%84%E5%8D%95%E6%80%81%E5%B0%84%E7%AD%89%E4%BB%B7%E9%9B%86%E5%90%88%E5%B1%82-deepseek%2020260702.pdf) 2026-7-2 13:46 崇德苑 209 室
 
+1075. [【课程】Adeel A. Khan - A Modern Introduction to Algebraic Stacks 20221212](https://www.bilibili.com/video/BV1WV4y1q7K9?spm_id_from=333.788.player.switch&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=7)  2026-7-3 11:46 崇德苑 209 室
+
+1076. 常思考：用什么语言来表达这个模糊的思想？2026-7-3 11:47 崇德苑 209 室
+
 
 
  
