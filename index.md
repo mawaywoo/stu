@@ -3652,6 +3652,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1077. 当明白了要表达的是什么想法时，对所采用的语言的理解就更容易读懂和掌握了，所以重要的是**先要弄清想要表达的想法，然后再选取适当的语言去描述该想法**。[Lecture 3: Groupoids and prestacks](https://www.youtube.com/watch?v=4okbOAjhsBU&t=307s) 2026-7-3 13:28 崇德苑 209 室
 
+1078. 她今天回家了，驮了一大箱考研的复习书回家。她走后，房间冷冷清清的，有点不习惯。我今天还得继续改试卷。2026-7-8 13:00 崇德苑 209 室
+
 
 
  
