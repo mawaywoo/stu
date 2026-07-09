@@ -3658,7 +3658,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1080. 原来纤维范畴的条件可以视为：存在拉回 + **拉回的泛性质（= 即通常的 Cartesion 态射）**，见 2:00；高阶 fiber product 的泛性质也比通常的 fiber product 编码更多数据，而且所有的数据满足自然的相容关系，见 16:00；prestack 是一个纤维范畴，stack 则是再加态射和对象的粘接条件，见 34:00 [Lecture 4: Stacks](https://www.youtube.com/watch?v=F3dT9CthdnM&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=3) 2026-7-9 10:44 崇德苑 209 室
 
-1081. [Lecture 5: Algebraic spaces and stacks](https://www.youtube.com/watch?v=2EQKUi24tU4&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=2) 2026-7-9 15:31 崇德苑 209 室
+1081. **可表映射的作用：所考虑的性质 P 可约化到“简单的”几何对象/映射上去**，见 30:55 [Lecture 5: Algebraic spaces and stacks](https://www.youtube.com/watch?v=2EQKUi24tU4&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=2) 2026-7-9 15:31 崇德苑 209 室
 
 
 
