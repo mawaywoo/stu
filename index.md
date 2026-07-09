@@ -3660,6 +3660,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1081. **可表映射的作用：所考虑的性质 P 可约化到“简单的”几何对象/映射上去**，见 30:55 [Lecture 5: Algebraic spaces and stacks](https://www.youtube.com/watch?v=2EQKUi24tU4&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=2) 2026-7-9 15:31 崇德苑 209 室
 
+1082. [Lecture 6: First properties of algebraic spaces and stacks](https://www.youtube.com/watch?v=khGhZrYaEQ0&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=1) 2026-7-9 21:02 崇德苑 209 室
+
 
 
  
