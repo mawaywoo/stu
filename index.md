@@ -3654,6 +3654,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1078. 她今天回家了，驮了一大箱考研的复习书回家。她走后，房间冷冷清清的，有点不习惯。我今天还得继续改试卷。2026-7-8 13:00 崇德苑 209 室
 
+1079. 由群胚的 fiber product 可以感受到，高阶范畴的范畴论构造比通常范畴的范畴论构造要**多记录一些数据**（集合中的相等，在群胚中则变为同构，需要记录该同构映射），见 28:00 [Lecture 3: Groupoids and prestacks](https://www.youtube.com/watch?v=4okbOAjhsBU&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=4&t=1163s) 2026-7-9 9:55 崇德苑 209 室
+
 
 
  
