@@ -3656,7 +3656,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1079. 由群胚的 fiber product 可以感受到，高阶范畴的范畴论构造比通常范畴的范畴论构造要**多记录一些数据**（集合中的相等，在群胚中则变为同构，需要记录该同构映射），见 28:00；**高阶范畴的产生往往是为了记录更多的数据**，如 prestack 相较于 functor，见 36:00 [Lecture 3: Groupoids and prestacks](https://www.youtube.com/watch?v=4okbOAjhsBU&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=4&t=1163s) 今天改完试卷了（多亏小孙帮忙改），只需小孙帮我一起录入成绩即可，然后就可以专心地学习新知识了。2026-7-9 9:55 崇德苑 209 室
 
-1080. 原来纤维范畴的条件可以视为：存在拉回 + **拉回的泛性质（= 即通常的 Cartesion 态射）**；2:00 [Lecture 4: Stacks](https://www.youtube.com/watch?v=F3dT9CthdnM&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=3) 2026-7-9 10:44 崇德苑 209 室
+1080. 原来纤维范畴的条件可以视为：存在拉回 + **拉回的泛性质（= 即通常的 Cartesion 态射）**，见 2:00；高阶 fiber product 的泛性质也比通常的 fiber product 编码更多数据，见 16:00 [Lecture 4: Stacks](https://www.youtube.com/watch?v=F3dT9CthdnM&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=3) 2026-7-9 10:44 崇德苑 209 室
 
 
 
