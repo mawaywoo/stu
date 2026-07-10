@@ -3660,7 +3660,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1081. **可表映射的作用一：所考虑的性质 P 可约化到“简单的”几何对象/映射上去**，见 30:55 [Lecture 5: Algebraic spaces and stacks](https://www.youtube.com/watch?v=2EQKUi24tU4&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=2) 2026-7-9 15:31 崇德苑 209 室
 
-1082. **可表映射的作用二：通过可表性，可以将“简单的”几何对象/映射的性质赋予到可表映射上去**，见 6:00；为什么对角映射很重要：**diagonal encodes "stackiness"**（对角映射编码自同构，进而编码叠性质），见 26:00，特别地，**对角映射编码 stabilizer，而 stabilizer 的性质又决定着几何空间的性质**，见 29:31 的表 1 [Lecture 6: First properties of algebraic spaces and stacks](https://www.youtube.com/watch?v=khGhZrYaEQ0&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=1) 2026-7-9 21:02 崇德苑 209 室
+1082. **可表映射的作用二：通过可表性，可以将“简单的”几何对象/映射的性质赋予到可表映射上去**，见 6:00；为什么对角映射很重要：**diagonal encodes "stackiness"**（对角映射编码自同构，进而编码叠性质），见 26:00，特别地，**对角映射编码 stabilizer，而 stabilizer 的性质又决定着几何空间的性质**，见 29:31 的表 1；50:00 的例子 1 对理解代数叠形以及它的拓扑空间很有帮助 [Lecture 6: First properties of algebraic spaces and stacks](https://www.youtube.com/watch?v=khGhZrYaEQ0&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=1) 2026-7-9 21:02 崇德苑 209 室
 
 
 
