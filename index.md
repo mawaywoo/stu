@@ -3664,7 +3664,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1083. [Lecture 7: Representability of the diagonal](https://www.youtube.com/watch?v=0pTldcBiDUs&list=PLhFI5R_xInjdhtWuhgYlA8NZGXO-unnl4&index=7) 2026-7-10 11:07 崇德苑 209 室
 
-1084. handling infinity data；see the infinity data clearly；also know how infinity it is；see what infinity data it contains；**how many level of infinity data were combined（每加一个修饰语可能就意味着叠加了一重无穷数据）**，如：第2节（第1页）中的 **M in CAlg(RMod_V(Pr))编码了好几重无穷数据：M in Pr（第1重无穷数据Pr），V 在 M 的右模结构（第2重无穷数据RMod_V），M 自身的对称张量结构（第3重无穷数据CAlg）**[Enriched ∞-operads as marked algebras](https://arxiv.org/pdf/2607.06676) ；在看高阶范畴理论时，时刻提醒自己“**处理的每个概念背后都是一堆无穷数据**”，意识到这点，才能感受到高阶范畴与通常范畴理论的差异所在，以及意识到处理高阶范畴的困难所在，也才能体会到高阶范畴的强度和高效之处。2026-7-10 14:41 崇德苑 209 室
+1084. handling infinity data；see the infinity data clearly；also know how infinity it is；see what infinity data it contains；**how many level of infinity data were combined（每加一个修饰语可能就意味着叠加了一重无穷数据）**，如：第2节（第1页）中的 **M in CAlg(RMod_V(Pr)) 编码了好几重无穷数据：M in Pr（第1重无穷数据 Pr），V 在 M 的右模结构（第2重无穷数据 RMod_V），M 自身的对称张量结构（第3重无穷数据 CAlg），在同一页或者Appendix A，有许多遗忘函子以及它们的左伴随函子，这些函子本质上在说去掉哪一重无穷数据或添加哪一重无穷数据**[Enriched ∞-operads as marked algebras](https://arxiv.org/pdf/2607.06676) ；在看高阶范畴理论时，时刻提醒自己“**处理的每个概念背后都是一堆无穷数据**”，意识到这点，才能感受到高阶范畴与通常范畴理论的差异所在，以及意识到处理高阶范畴的困难所在，也才能体会到高阶范畴的强度和高效之处。2026-7-10 14:41 崇德苑 209 室
 
 
 
