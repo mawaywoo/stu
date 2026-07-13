@@ -3670,7 +3670,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1085. 第ii页中的等价 **Fun(C, Fun(C^op, V)) ≃ End^L_V(Fun(C^op, V))** 可以视为线性函子的等价 **Fun(C, A) = Fun_k(kC, A)**，结合上一条理解。[Enriched ∞-categories as marked module categories](https://arxiv.org/pdf/2501.07697) 2026-7-11 23:04 崇德苑 209 室
 
-1086. 高阶范畴、高阶代数的正确且高效的模式是程序员模式：**放心大胆地调用别人写的程序库里的函数，而不用去了解库里每个函数的具体代码**。2026-7-13 0:27 崇德苑 209 室
+1086. 高阶范畴、高阶代数的正确且高效的学习模式是**程序员模式**：**放心大胆地调用别人写的程序库里的函数，而不用去了解库里每个函数的具体代码**。2026-7-13 0:27 崇德苑 209 室
 
 
 
