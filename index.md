@@ -3672,7 +3672,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1086. 高阶范畴、高阶代数的正确且高效的学习模式是**程序员模式**：**放心大胆地调用别人写的程序库里的函数，而不用去了解库里每个函数的具体代码**。2026-7-13 0:27 崇德苑 209 室
 
-1087. 处理高阶范畴时，要注意**区分各种无穷数据的 level，只有把各层无穷数据都理清楚就不会感觉到混乱**，如 Observation 2.23 和 Proposition 2.24 等无非就是多重无穷信息/结构/作用的**逐步叠加**；Lemma 2.25. 中的 P(C) ⊗ V 可以视为**可表线性化**，其中 P(-) 实现可表化，- ⊗ V 实现线性化 [Enriched ∞-categories as marked module categories](https://arxiv.org/pdf/2501.07697) 2026-7-14 10:22 崇德苑 209 室
+1087. 处理高阶范畴时，要注意**区分各种无穷数据的 level，只有把各层无穷数据都理清楚就不会感觉到混乱**，如 Observation 2.23 和 Proposition 2.24 等无非就是**多重无穷信息/结构/作用的逐步叠加**；Lemma 2.25. 中的 P(C) ⊗ V 可以视为**可表线性化**，其中 P(-) 实现可表化，- ⊗ V 实现线性化 [Enriched ∞-categories as marked module categories](https://arxiv.org/pdf/2501.07697) 2026-7-14 10:22 崇德苑 209 室
 
 
 
