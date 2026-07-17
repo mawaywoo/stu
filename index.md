@@ -3674,7 +3674,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1087. 处理高阶范畴时，要注意**区分各种无穷数据的 level，只有把各层无穷数据都理清楚就不会感觉到混乱**，如 Observation 2.23 和 Proposition 2.24 等无非就是**多重无穷信息/结构/作用的逐步叠加**；Lemma 2.25. 中的 P(C) ⊗ V 可以视为**可表线性化**，其中 P(-) 实现可表化，- ⊗ V 实现线性化；第2页的等价 **P(C) ⊗ D ≃ Fun(C^op,D)** 可以理解为**函子取值的线性化（通过 - ⊗ D 将 S 替换为 D，类似于 - ⊗ k 把 Set 替换为 Vec，这点可以在第8页倒数第四行可以看出来 P(C) ≃ P(C)⊗S → P(C)⊗V ≃ Fun(C^op, V)，S 是 Pr 中的终对象）**；Definition 2.38. 中**的 C 本质就是 P(C)⊗V（视为 V-值函子） 的一个特殊的自同态**（本文的 V-enriched 范畴本质上就定义为这样的一个自同态），进而后面的左 C-模和 C,D-双模结构（Remark 2.40）就很容易理解了 [Enriched ∞-categories as marked module categories](https://arxiv.org/pdf/2501.07697) 2026-7-14 10:22 崇德苑 209 室
 
-1088. 切片范畴可以理解为**通过某对象或某态射分解**，如第 4 页的等价 **(C/Y )/f ≃ C/X** 的左端就可以理解为“**范畴 C 中的以对象 Y 为终点且该通过 f 分解的态射全体**”，结合前面的 1031-1032 条 [The internal Yoneda Lemma for locally Cartesian closed infty-categories](https://arxiv.org/pdf/2607.14016) 2026-7-17 9:47 崇德苑 209 室
+1088. 切片范畴可以理解为**通过某对象或某态射分解**，如第 4 页的等价 **(C/Y )/f ≃ C/X** 的左端就可以理解为“**范畴 C 中的以对象 Y 为终点且该通过 f 分解的态射全体**”，结合前面的 1031-1032 条；切片纤维范畴与可表函子的互化；“(-1)-截断 = 次终对象 = 可缩性 = 唯一性” [The internal Yoneda Lemma for locally Cartesian closed infty-categories](https://arxiv.org/pdf/2607.14016) 2026-7-17 9:47 崇德苑 209 室
 
 
 
