@@ -3678,7 +3678,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1089. 在 2.2.4. 节的 enriched in space S 时的例子可以得到 enriched 到一般情形的很多启发。[Yoneda lemma for enriched ∞-categories](https://arxiv.org/pdf/1805.07635) 2026-7-18 11:46 崇德苑 209 室
 
-1090. 由 27 页的 Lemma（**该引理上面那两段也很好解释了 Rune 和 Lurie 的双模 operad 定义的关系**）可以看出 Lurie’s approximation of operads 的重要性：Strong approximation of operads **allows one to have an alternative description** of Op/O (see p.18)，定义了双模的情形，可进一步定义左模、右模等 operad 的逼近，见 28 页的 2.9.3 节；此外 2.9.1. 中 ∆/C 的定义也很有启发性: ∆ ×_Cat Cat^[1] ×_Cat {C}, **Cat^[1] 表示函子，∆ 和 {C} 表示具体限制函子的 domain 和 codomain**（很多时候高阶范畴通过拉回或纤维积构造来进行进一步的“**限制**”）；整个 2.9. Examples 都值得花时间搞懂，搞懂这些例子对理解一般的理论很有帮助，相当于有了一定的抓手 [Yoneda lemma for enriched ∞-categories](https://arxiv.org/pdf/1805.07635) 2026-7-19 12:13 崇德苑 209 室
+1090. 由 27 页的 Lemma（**该引理上面那两段也很好解释了 Rune 和 Lurie 的双模 operad 定义的关系**）可以看出 Lurie’s approximation of operads 的重要性：Strong approximation of operads **allows one to have an alternative description** of Op/O (see p.18)，定义了双模的情形，可进一步定义左模、右模等 operad 的逼近，见 28 页的 2.9.3 节；此外 2.9.1. 中 ∆/C 的定义也很有启发性: ∆ ×_Cat Cat^[1] ×_Cat {C}, **Cat^[1] 表示函子，∆ 和 {C} 表示具体限制函子的 domain 和 codomain**（很多时候高阶范畴通过拉回或纤维积构造来进行进一步的“**限制**”）；整个 2.9. Examples 都值得花时间搞懂，搞懂这些例子对理解一般的理论很有帮助，相当于有了一定的抓手；公式 (31) 可以视为**簇版本的 Curry–Howard correspondence**，Q 簇是恒等簇，可以移向左边、右边 [Yoneda lemma for enriched ∞-categories](https://arxiv.org/pdf/1805.07635) 2026-7-19 12:13 崇德苑 209 室
 
 
 
