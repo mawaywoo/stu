@@ -3678,7 +3678,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1089. 在 2.2.4. 节的 enriched in space S 时的例子可以得到 enriched 到一般情形的很多启发。[Yoneda lemma for enriched ∞-categories](https://arxiv.org/pdf/1805.07635) 2026-7-18 11:46 崇德苑 209 室
 
-1090. 由 27 页的 Lemma 可以看出 Lurie’s approximation of operads 的重要性：Strong approximation of operads **allows one to have an alternative description** of Op/O (see p.18). [Yoneda lemma for enriched ∞-categories](https://arxiv.org/pdf/1805.07635) 2026-7-19 12:13 崇德苑 209 室
+1090. 由 27 页的 Lemma（该引理上面那两段也很好解释了 Rune 和 Lurie 的双模 operad 定义的关系）可以看出 Lurie’s approximation of operads 的重要性：Strong approximation of operads **allows one to have an alternative description** of Op/O (see p.18). [Yoneda lemma for enriched ∞-categories](https://arxiv.org/pdf/1805.07635) 2026-7-19 12:13 崇德苑 209 室
 
 
 
