@@ -3683,7 +3683,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1091. 最近在读高阶范畴/代数相关的论文，虽然速度很慢，有时一天才读 10 页左右，但这是值得的，因为通过读这 10 多页的内容，我也在不断地吸收 Lurie 写的书 HA, HTT 中相关的定义和定理，**相信通过这种滚雪球的方式，终有一天，我会把 HA, HTT 中的大部分知识都消化掉**。2026-7-19 22:52 崇德苑 209 室
 
-1092. Definition 2.1.1 (Poset-stratified spaces) 中的 StTop ∶= Fun(∆^1, Top) ×_{Fun({1},Top)} Poset，**该拉回（拉回常常用来编码更多限制条件）可以读作**：拓扑空间态射 f: X ——> P (对应 Fun(∆^1, Top)) 且 P (对应取态射 f 的 codmain 对象 Fun({1},Top)) 为偏序集 (codomain P 的 Top 限制为 Poset) [On dualizability and invertibility in the higher Morita category](https://arxiv.org/pdf/2607.16953) 2026-7-22 22:38 崇德苑 209 室
+1092. Definition 2.1.1 (Poset-stratified spaces) 中的 StTop ∶= Fun(∆^1, Top) ×_{Fun({1},Top)} Poset，该拉回（**拉回常常用来编码更多限制条件**）可以读作：**拓扑空间态射 f: X ——> P (对应 Fun(∆^1, Top)) 且 P (对应取态射 f 的 codmain 对象 Fun({1},Top)) 为偏序集 (codomain P 的 Top 限制为 Poset)**；Construction 2.1.3 (Cones) 中 X 的锥构造 C(X) ∶= ∗ ∐_{X×{0}} X × [0,∞) 可以读作：**先把 X 变成圆柱X × [0,∞)，再把该圆柱的左端 X×{0} 捏做一个点 ∗** [On dualizability and invertibility in the higher Morita category](https://arxiv.org/pdf/2607.16953) 2026-7-22 22:38 崇德苑 209 室
 
 
 
