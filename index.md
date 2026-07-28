@@ -3689,6 +3689,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1094. 最近基本上在读和高阶范畴、高阶代数相关的论文，在读论文的时候，一般**同时打开三个文件：正在读的论文、HA、HTT**，用这种方式真的很高效，能比较快速地吸收 HA 和 HTT 中的相关内容。2026-7-26 11:39 崇德苑 209 室
 
+1095. 范畴论中，**fiber product** 是增加额外信息的常用方式之一（如 Lurie 的 HA Denition 5.1.0.2.），**函子的 domain** 也是增加信息的方式之一。**fiber category** 也是。2026-7-28 19:46 崇德苑 209 室
+
 
 
  
