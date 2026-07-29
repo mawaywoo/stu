@@ -3691,6 +3691,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1095. 范畴论中，**fiber product** 是增加额外信息的常用方式之一（如 Lurie 的 HA Denition 5.1.0.2.），**函子的 domain** 也是增加信息的方式之一。**fiber category** 也是。2026-7-28 19:46 崇德苑 209 室
 
+1096. 在梅州的小孙请在湛江的我看电影[爱心] 蜘蛛侠：崭新之日，天润影城(世贸店)，周三(07.29)14:20-16:45，5号(世贸好吃街)厅6排10座。2026-7-29 19:28 崇德苑 209 室
+
 
 
  
