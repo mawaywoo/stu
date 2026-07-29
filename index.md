@@ -3693,7 +3693,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1096. 在梅州的小孙请在湛江的我看电影 [爱心] 蜘蛛侠：崭新之日，天润影城 (世贸店)，周三 (07.29) 14:20-16:45，5 号 (世贸好吃街) 厅 6 排 10 座。2026-7-29 19:28 崇德苑 209 室
 
-1097. 这里的 suspension 函子实际上就是**拓扑中（和 Lurie HA 中的定义有点不一样**）的 suspension 构造 S(A)：**上下取两个点，中间填充 A 或者空集(这其实和 HA 的定义类似：点 <——> 零对象，填充 A <——> 推出构造)**，见 Corollary 2.1.32. and Definition 2.2.20. and Definition 2.2.21. and Example 2.2.23. [Fibrations in Oriented Category Theory](https://arxiv.org/pdf/2607.18418) 2026-7-29 21:54 崇德苑 209 室
+1097. 这里的 suspension 函子实际上就是拓扑中（和 Lurie HA 中的定义有点不一样；**可用拓扑中的构造来类比理解，事实上就是一般的范畴论构造，包括文中的 disk 以及它们的边界都是一般的范畴论构造，而不是具体的拓扑对象**）的 suspension 构造 S(A)：**上下取两个点，中间填充 A 或者空集(这其实和 HA 的定义类似：点 <——> 零对象，填充 A <——> 推出构造)**，见 Corollary 2.1.32. and Definition 2.2.20. and Definition 2.2.21. and Example 2.2.23. [Fibrations in Oriented Category Theory](https://arxiv.org/pdf/2607.18418) 2026-7-29 21:54 崇德苑 209 室
 
 
 
