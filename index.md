@@ -3695,6 +3695,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1097. 这里的 suspension 函子实际上就是拓扑中（和 Lurie HA 中的定义有点不一样；**可用拓扑中的构造来类比理解，事实上就是抽象的范畴论构造，包括文中的 disk 以及它们的边界都是抽象的范畴论构造，而不是具体的拓扑对象**）的 suspension 构造 S(A)：**上下取两个点，中间填充 A 或者空集(这其实和 HA 的定义类似：点 <——> 零对象，填充 A <——> 推出构造)**，见 Corollary 2.1.32. and Definition 2.2.20. and Definition 2.2.21. and Example 2.2.23. [Fibrations in Oriented Category Theory](https://arxiv.org/pdf/2607.18418) 2026-7-29 21:54 崇德苑 209 室
 
+1098. Proposition 3.1.9. 中的 C ×_{D_0} D^{D^1} **读作**范畴 D 中的态射 （D^{D^1}）且 domain 替换为 C 中对象（ C ×_{D_0} —），**拉回通常表示增加限制条件/信息**。[Fibrations in Oriented Category Theory](https://arxiv.org/pdf/2607.18418) 2026-7-30 17:07 崇德苑 209 室
+
 
 
  
