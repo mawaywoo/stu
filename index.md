@@ -3699,7 +3699,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1099. Corollary 2.2.6. 理解为一节**莲藕**（S(A) 有两端节点，中间藕段为 A，(C; X, Y ) 可类似理解为 S(A)，两节点 X, Y 以及藕段 V-Cat C），Corollary 2.2.8. 理解为多节莲藕（各节莲藕为 S(A_i) 连接起来）；Definition 2.2.7. 理解为两个**莲藕的拼接**；Remark 2.3.4. 中的左 Kan 扩张是为了得到 V 中的一个态射：大致相当于把 f_1, ..., f_n 的 codomain 张量起来，domain 不是直接张量，而是去掉所有 B_i 张量的情形的其他所有张量 colimit 起来，结合 n=2 的例子去理解，这其实也可以理解为“**取方体 B_1 \tensor ... B_n 的外边缘，即底面加侧面**”，将 n=2 的例子和 Lurie HTT 的 **Lemma 2.1.2.3 (Joyal)** 作类比。[Oriented Category Theory](https://arxiv.org/pdf/2510.10504)  2026-8-1 11:05 崇德苑 209 室
 
-1100. pullback 和 pushout 都通常能实现信息的增加，差异在于：pullback 通常进行性质的叠加，取更多的性质限制，**限制性质和条件变得更多**；而 pushout 通常进行结构体的粘接，**结构体变得更大**。两者都增加信息，**一个增加性质，一个增加结构**。2026-8-2 11:19 崇德苑 209 室
+1100. pullback 和 pushout 都通常能实现信息的增加，差异在于：pullback 通常进行性质的叠加，取更多的性质限制，**限制性质和条件变得更多**；而 pushout 通常进行结构体的粘接，**结构体变得更大**。两者都增加信息，**一个增加性质，一个增加结构**。也可以类比地理解 limit 和 colimit，特别地 product 和 coproduct 的差别。2026-8-2 11:19 崇德苑 209 室
 
 
 
