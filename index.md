@@ -3697,7 +3697,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1098. Proposition 3.1.9. 中的 C ×_{E_0} E^{D^1} **读作**范畴 E 中的态射 （E^{D^1}）且 domain 替换为 C 中对象（ C ×_{E_0} —），**拉回通常表示增加限制条件/信息**；Corollary 3.2.11. 中的 C ×_{Fun({0},E)} Fun(D1,E) 读作 E 中的一个态射以及该态射的 domain 在 C 中的一个原像：想象 phi: C ——> E 为一个纤维范畴，之前的那个纤维积可以表示为**底范畴 E 上的一个态射以及该态射的 domain 上方的 C 的一个对象**（这些数据主要考虑的是纤维范畴的提升问题）。[Fibrations in Oriented Category Theory](https://arxiv.org/pdf/2607.18418) 2026-7-30 17:07 崇德苑 209 室
 
-1099. Corollary 2.2.6. 理解为一节**莲藕**（S(A) 有两端节点，中间藕段为 A，(C; X, Y ) 可类似理解为 S(A)，两节点 X, Y 以及藕段 V-Cat C），Corollary 2.2.8. 理解为多节莲藕（各节莲藕为 S(A_i) 连接起来）；Definition 2.2.7. 理解为两个**莲藕的拼接**；Remark 2.3.4. 中的左 Kan 扩张是为了得到 V 中的一个态射：大致相当于把 f_1, ..., f_n 的 codomain 张量起来，domain 不是直接张量，而是去掉所有 B_i 张量的情形的其他所有张量 colimit 起来，结合 n=2 的例子去理解。[Oriented Category Theory](https://arxiv.org/pdf/2510.10504)  2026-8-1 11:05 崇德苑 209 室
+1099. Corollary 2.2.6. 理解为一节**莲藕**（S(A) 有两端节点，中间藕段为 A，(C; X, Y ) 可类似理解为 S(A)，两节点 X, Y 以及藕段 V-Cat C），Corollary 2.2.8. 理解为多节莲藕（各节莲藕为 S(A_i) 连接起来）；Definition 2.2.7. 理解为两个**莲藕的拼接**；Remark 2.3.4. 中的左 Kan 扩张是为了得到 V 中的一个态射：大致相当于把 f_1, ..., f_n 的 codomain 张量起来，domain 不是直接张量，而是去掉所有 B_i 张量的情形的其他所有张量 colimit 起来，结合 n=2 的例子去理解，这其实也可以理解为“**取方体 B_1 \tensor ... B_n 的外边缘，即底面加侧面**”，将 n=2 的例子和 Lurie HTT 的 **Lemma 2.1.2.3 (Joyal)** 作类比。[Oriented Category Theory](https://arxiv.org/pdf/2510.10504)  2026-8-1 11:05 崇德苑 209 室
 
 
 
