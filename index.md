@@ -3697,11 +3697,13 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1098. Proposition 3.1.9. 中的 C ×_{E_0} E^{D^1} **读作**范畴 E 中的态射 （E^{D^1}）且 domain 替换为 C 中对象（ C ×_{E_0} —），**拉回通常表示增加限制条件/信息**；Corollary 3.2.11. 中的 C ×_{Fun({0},E)} Fun(D1,E) 读作 E 中的一个态射以及该态射的 domain 在 C 中的一个原像：想象 phi: C ——> E 为一个纤维范畴，之前的那个纤维积可以表示为**底范畴 E 上的一个态射以及该态射的 domain 上方的 C 的一个对象**（这些数据主要考虑的是纤维范畴的提升问题）。[Fibrations in Oriented Category Theory](https://arxiv.org/pdf/2607.18418) 2026-7-30 17:07 崇德苑 209 室
 
-1099. Corollary 2.2.6. 理解为一节**莲藕**（S(A) 有两端节点，中间藕段为 A，(C; X, Y ) 可类似理解为 S(A)，两节点 X, Y 以及藕段 V-Cat C），Corollary 2.2.8. 理解为多节莲藕（各节莲藕为 S(A_i) 连接起来）；Definition 2.2.7. 理解为两个**莲藕的拼接**；Remark 2.3.4. 中的左 Kan 扩张是为了得到 V 中的一个态射：大致相当于把 f_1, ..., f_n 的 codomain 张量起来，domain 不是直接张量，而是去掉所有 B_i 张量的情形的其他所有张量 colimit 起来，结合 n=2 的例子去理解，这其实也可以理解为“**取方体 B_1 \tensor ... B_n 的外边缘，即底面加侧面**”，将 n=2 的例子和 Lurie HTT 的 **Lemma 2.1.2.3 (Joyal)** 作类比。[Oriented Category Theory](https://arxiv.org/pdf/2510.10504)  2026-8-1 11:05 崇德苑 209 室
+1099. Corollary 2.2.6. 理解为一节**莲藕**（S(A) 有两端节点，中间藕段为 A，(C; X, Y ) 可类似理解为 S(A)，两节点 X, Y 以及藕段 V-Cat C），Corollary 2.2.8. 理解为多节莲藕（各节莲藕为 S(A_i) 连接起来）；Definition 2.2.7. 理解为两个**莲藕的拼接**；Remark 2.3.4. 中的左 Kan 扩张是为了得到 V 中的一个态射：大致相当于把 f_1, ..., f_n 的 codomain 张量起来，domain 不是直接张量，而是去掉所有 B_i 张量的情形的其他所有张量 colimit 起来，结合 n=2 的例子去理解，这其实也可以理解为“**取方体 B_1 \tensor ... B_n 的外边缘，即底面加侧面**”，将 n=2 的例子和 Lurie HTT 的 **Lemma 2.1.2.3 (Joyal)** 作类比，还可以见 [A cubical model for (∞,n)-categories](https://arxiv.org/pdf/2005.07603) 第 2-3 页的 Leibniz product。[Oriented Category Theory](https://arxiv.org/pdf/2510.10504)  2026-8-1 11:05 崇德苑 209 室
 
 1100. pullback 和 pushout 都通常能实现信息的增加，差异在于：pullback 通常进行性质的叠加，取更多的性质限制，**限制性质和条件变得更多**；而 pushout 通常进行结构体的粘接，**结构体变得更大**。两者都增加信息，**一个增加性质，一个增加结构**。也可以类比地理解 limit 和 colimit，特别地 product 和 coproduct 的差别。2026-8-2 11:19 崇德苑 209 室
 
 1101. 结合上一条：**pushout 意味着粘接**，用此去理解 Lemma 1.9. 的 suspension 构造可通过粘接方式得到：将 C 变成一个圆柱面（推出的左边项），然后将它和两个点（推出的右边项）沿着圆柱面的上下边缘（推出的下面项）粘接起来便得到一个 suspension，比如取 C 为一个圆，它 suspension 成一个纺锥面，上下两个尖点。PS. 该文章对理解 Hadrian Heine 的一些文章很有帮助（比如上面关于 Oriented Category 的文章）；Definition 1.1. 的 **bipointed objects 可以理解为取定两个端点的对象**，想象成一个莲藕，标注出它的两个端点，Definition 1.5. 的 wedge sum 就需要考虑到端点的拼接（各种构造的几何图示：[拓扑中的有趣构造：一点并, 联合, 锥, 双角锥, smash积](https://zhuanlan.zhihu.com/p/109162161)），Remark 1.4. 也可以想象成两个藕段的拼接，该文章考虑**将 Theta 替换为 Cube，即将藕段替换为魔方块，藕段的拼接替换为魔方块在尖点处的拼接等**，Theorem 2.2. 可以想象成**一个正方体的中部截面和上、下面的中心点联合构成的椎体嵌入到该正方体**的情形（n=2 的情形）或者**一个正方形的中部直线与上、下边的中点联合构成的菱形嵌入到该正方形**的情形（n=1 的情形）；Lemma 3.3. 的证明给出了 Theorem 2.1. 中的嵌入和收缩映射的构造思路：考虑 m=n=1 的情形，即**两条相连直线嵌入到一个正方形和一个正方形收缩到两条相连直线的方式，两条相连直线通过映到正方形的上和右两条边，正方形中不在上和右两条边上的点都收缩到右上角的那个连接点，在上和右上的点保持不变**。[Cubes are dense in (infty, infty)-categories](https://arxiv.org/pdf/2209.09376) 2026-8-2 22:57 崇德苑 209 室
+
+1102. [A cubical model for (∞,n)-categories](https://arxiv.org/pdf/2005.07603) 2026-8-3 20:22 崇德苑 209 室
 
 
 
