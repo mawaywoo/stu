@@ -3701,7 +3701,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1100. pullback 和 pushout 都通常能实现信息的增加，差异在于：pullback 通常进行性质的叠加，取更多的性质限制，**限制性质和条件变得更多**；而 pushout 通常进行结构体的粘接，**结构体变得更大**。两者都增加信息，**一个增加性质，一个增加结构**。也可以类比地理解 limit 和 colimit，特别地 product 和 coproduct 的差别。2026-8-2 11:19 崇德苑 209 室
 
-1101. 结合上一条：**pushout 意味着粘接**，用此去理解 Lemma 1.9. 的 suspension 构造可通过粘接方式得到：将 C 变成一个圆柱面（推出的左边项），然后将它和两个点（推出的右边项）沿着圆柱面的上下边缘（推出的下面项）粘接起来便得到一个 suspension，比如取 C 为一个圆，它 suspension 成一个纺锥面，上下两个尖点。PS. 该文章对理解 Hadrian Heine 的一些文章很有帮助（比如上面关于 Oriented Category 的文章）[Cubes are dense in (infty, infty)-categories](https://arxiv.org/pdf/2209.09376) 2026-8-2 22:57 崇德苑 209 室
+1101. 结合上一条：**pushout 意味着粘接**，用此去理解 Lemma 1.9. 的 suspension 构造可通过粘接方式得到：将 C 变成一个圆柱面（推出的左边项），然后将它和两个点（推出的右边项）沿着圆柱面的上下边缘（推出的下面项）粘接起来便得到一个 suspension，比如取 C 为一个圆，它 suspension 成一个纺锥面，上下两个尖点。PS. 该文章对理解 Hadrian Heine 的一些文章很有帮助（比如上面关于 Oriented Category 的文章）；Definition 1.1. 的 **bipointed objects 可以理解为取定两个端点的对象**，想象成一个莲藕，标注出它的两个端点，Definition 1.5. 的 wedge sum 就需要考虑到端点的拼接。[Cubes are dense in (infty, infty)-categories](https://arxiv.org/pdf/2209.09376) 2026-8-2 22:57 崇德苑 209 室
 
 
 
