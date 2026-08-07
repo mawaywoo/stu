@@ -3709,6 +3709,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1104. In essence, an **∞-operad** is like a "machine" that encodes algebraic structures, while a **monoidal ∞-category** is one specific example of a structure that can be encoded by such a machine. The relationship is one of **specialization and generalization**. operad 和 monoidal category 的关系好比 Lawvere 的 **algebraic theory** 和具体的**阿贝尔群**的关系，即**一般和具体的关系**（monoidal category 需要加上 **coCartesian fibration 条件**，即函子性条件，某种程度上，monoidal category 的 tensor 更加 strict，fiber 间的变化更严格，有时候 operad 的定义也满足 coCartesian fibration 条件，只是 coCartesian fibration 相对于底范畴的**部分态射**，即部分态射可提升，所以 operad 和 monoidal category 的区别在于 **coCartesian fibration 的程度不同**：[The higher algebra of weighted colimits](https://arxiv.org/pdf/2406.08925)）。所以: **operad vs monoidal category = syntax vs semantic** 【语法与语义的关系】；常见的 **operad 有 Ass = Delta^op (non-symmetric, so order maps are considered), Comm (symmetric, finite pointed sets, orders are not matter), E_k (from non-symmetric to symmetric, since Ass = E_1, Comm = E_infinity), LM, RM, BM 等，对应的 monoidal category 也有 Delta, Comm, E_k, LM, RM, BM 等**。2026-8-6 22:38 崇德苑 209 室
 
+1105. 欣赏音乐的一个角度：仔细聆听歌手唱每个字的发音技巧和发音的变化情况，变化多吗？读法奇特吗？读音和情感搭吗？PS：今天依然在读高阶范畴和高阶代数的相关文章，感觉在不断地积累和理解，收获挺多的，好久没有在油管听学术报告了，感觉目前还是要好好啃论文把基础知识融汇贯通先。2026-8-7 16:20 崇德苑 209 室
+
 
 
  
