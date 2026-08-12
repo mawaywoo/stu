@@ -3719,6 +3719,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1108. 今天电脑屏幕换了，360 元。但感觉新换的屏幕颜色很暗，之前的屏幕和 iPad 平板的亮感是一样的，但换之后的屏幕的色感和亮度总感觉混混的，怀疑老板给我换的是次屏。2026-8-10 19:26 崇德苑 209 室
 
+1109. **函子的极限可以视为**常值函子和该函子间的自然变换，通过 unstraightening equivalence 可将这两个函子之间的关系转化为对应的 **cocartesian unstraightening 之间的关系**，见 Section 3：[On Cofiltered Limits of ∞-Categories and Adjunctions](https://arxiv.org/pdf/2608.06551) 2026-8-12 10:45 崇德苑 209 室
+
 
 
  
