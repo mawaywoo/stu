@@ -6,7 +6,7 @@
 
 **高阶范畴、高阶代数 = 用【高效的语言】清晰地表达模糊的想法和高阶相容的数据**
 
-**对高阶范畴的理解，见 1084-1087, 1101, 1104 条**
+**对高阶范畴的理解，见 1084-1087, 1101, 1104, 1110 条**
 
 ![ME](https://github.com/mawaywoo/stu/blob/main/psb.jpg)
 
@@ -3719,11 +3719,11 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1107. 今天电脑屏幕换了，360 元。但感觉新换的屏幕颜色很暗，之前的屏幕和 iPad 平板的亮感是一样的，但换之后的屏幕的色感和亮度总感觉混混的，怀疑老板给我换的是次屏。2026-8-10 19:26 崇德苑 209 室
 
-1108. **函子的极限可以视为**常值函子和该函子间的自然变换，通过 unstraightening equivalence 可将这两个函子之间的关系转化为对应的 **cocartesian unstraightening 之间的关系**，见 Section 3：[On Cofiltered Limits of ∞-Categories and Adjunctions](https://arxiv.org/pdf/2608.06551) 或者见 1618 页 Proposition 7.4.4.1. and Corollary 7.4.4.2. [Kerodon](https://kerodon.net/kerodon.pdf) 或者见 11 页 Section 3.2 (具有非正式的理解方式，即非正式的截断数据的描述，因为该篇文章不依赖具体的无穷范畴的模型，所以可以通过非正式的描述去理解) **粗略地讲，laxlim/laxcolim F 等同于取函子 F 的 Grothendieck 构造中的部分数据，这是因为取函子 F 的 lim/colim 就是在取函子 F 的部分数据，通过 unstraightening equivalence 就等同于取函子 F 的 Grothendieck 构造的数据** [Lax Additivity](https://arxiv.org/pdf/2402.12251) 2026-8-12 10:45 崇德苑 209 室
+1108. **函子的极限可以视为**常值函子和该函子间的自然变换，通过 unstraightening equivalence 可将这两个函子之间的关系转化为对应的 **cocartesian unstraightening 之间的关系**，见 Section 3：[On Cofiltered Limits of ∞-Categories and Adjunctions](https://arxiv.org/pdf/2608.06551) 或者见 1618 页 Proposition 7.4.4.1. and Corollary 7.4.4.2. [Kerodon](https://kerodon.net/kerodon.pdf) 或者见 11 页 Section 3.2 (具有非正式的理解方式，即非正式的截断数据的描述，因为该篇文章不依赖具体的无穷范畴的模型，所以可以通过非正式的描述去理解) **粗略地讲，laxlim/laxcolim F 等同于取函子 F 的 Grothendieck 构造中的部分数据，这是因为取函子 F 的 lim/colim 就是在取函子 F 的部分数据，通过 unstraightening equivalence 就等同于取函子 F 的 Grothendieck 构造的数据**（下接 1110 条） [Lax Additivity](https://arxiv.org/pdf/2402.12251) 2026-8-12 10:45 崇德苑 209 室
 
 1109. [Kerodon](https://kerodon.net/kerodon.pdf) 2026-8-12 12:20 崇德苑 209 室
 
-1110. lax matrices 大致可以理解为两个函子 X，Y 所有 fibers X_s, Y_t 之间的匹配关系，见 15 页以及 Example 4.1；第 16 页公式 (4.3) 的下角标记录的 fiber 的编号；**取 lim/colim/laxlim/laxcolim 是对某个函子进行的操作，所以一旦看到极限或余极限时，要识别是对哪个函子进行取极限，该函子怎么得到的**，如公式 (4.3) 中 colim 的函子的构造见上面 construct the composite functor 部分；这里**扭曲箭头范畴 Tw(S) 起到沟通和连接不同 fiber X_s, X_t 的作用**；这里涉及到两类 fiber，注意区分：**一类是同一个函子之间的 fibers，另一类是不同函子之间的 fibers，这两类 fibers 间的映射用不同的记号，同一个函子的直接用该函子 X 加下角标表示 X_f，不同函子的用 Phi 或者 Psi 表示**，Lemma 4.7. (2) 中 I 的定义涉及的都是同一个函子 X 的 fibers X_s, X_t 间的映射，所以用 X_f 表示，不涉及 Phi 和 Psi；Construction 4.10. 中的**切片范畴 Tw∗(S)/(s, t) 表示 S 的扭曲箭头范畴 Tw∗(S) 中以 s 为始点 t 为终点的态射，表示该态射只需三个 map，因为第四个 map 由这三个 map 唯一决定**，此外 Tw(S) 和 Tw(C) 中的已对象不一样了；第 20 页 Proof of Lemma 4.7, part (2) 中 **colimit 的计算和化简主要借助对 colimit 的指标范畴进行分析**，比如是否含有终对象等 [Lax Additivity](https://arxiv.org/pdf/2402.12251) 2026-8-14 10:08 崇德苑 209 室
+1110. （上接 1108 条）lax matrices 大致可以理解为两个函子 X，Y 所有 fibers X_s, Y_t 之间的匹配关系，见 15 页以及 Example 4.1；第 16 页公式 (4.3) 的下角标记录的 fiber 的编号；**取 lim/colim/laxlim/laxcolim 是对某个函子进行的操作，所以一旦看到极限或余极限时，要识别是对哪个函子进行取极限，该函子怎么得到的**，如公式 (4.3) 中 colim 的函子的构造见上面 construct the composite functor 部分；这里**扭曲箭头范畴 Tw(S) 起到沟通和连接不同 fiber X_s, X_t 的作用**；这里涉及到两类 fiber，注意区分：**一类是同一个函子之间的 fibers，另一类是不同函子之间的 fibers，这两类 fibers 间的映射用不同的记号，同一个函子的直接用该函子 X 加下角标表示 X_f，不同函子的用 Phi 或者 Psi 表示**，Lemma 4.7. (2) 中 I 的定义涉及的都是同一个函子 X 的 fibers X_s, X_t 间的映射，所以用 X_f 表示，不涉及 Phi 和 Psi；Construction 4.10. 中的**切片范畴 Tw∗(S)/(s, t) 表示 S 的扭曲箭头范畴 Tw∗(S) 中以 s 为始点 t 为终点的态射，表示该态射只需三个 map，因为第四个 map 由这三个 map 唯一决定**，此外 Tw(S) 和 Tw(C) 中的已对象不一样了；第 20 页 Proof of Lemma 4.7, part (2) 中 **colimit 的计算和化简主要借助对 colimit 的指标范畴进行分析**，比如是否含有终对象等 [Lax Additivity](https://arxiv.org/pdf/2402.12251) 2026-8-14 10:08 崇德苑 209 室
 
 
 
