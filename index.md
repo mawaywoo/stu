@@ -3723,6 +3723,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1109. [Kerodon](https://kerodon.net/kerodon.pdf) 2026-8-12 12:20 崇德苑 209 室
 
+1110. lax matrices 大致可以理解为两个函子 X，Y 所有 fibers X_s, Y_t 之间的匹配关系，见 15 页以及 Example 4.1；第 16 页公式 (4.3) 的下角标记录的 fiber 的编号。[Lax Additivity](https://arxiv.org/pdf/2402.12251) 2026-8-14 10:08 崇德苑 209 室
+
 
 
  
