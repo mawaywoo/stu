@@ -706,6 +706,8 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 
 [Ed Sheeran Full Hits Songs Collection Album 2025 - Ed Sheeran Best Songs Playlist 2025#ed](https://www.youtube.com/watch?v=N_E1E6VBoj8&list=RDN_E1E6VBoj8&start_radio=1)
 
+[Nostalgia ~ Throwback R&B Classics 90s 2000s - Akon, Usher, Rihanna, Chris Brown, Ne-Yo,Mariah Carey](https://www.youtube.com/watch?v=VZXY0VXCxcw) 最近喜欢上听 hip hop 2026-8-15 14:32
+
 
 ## 电影
 
