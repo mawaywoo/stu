@@ -3737,6 +3737,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1112. [逻辑验证漫游指南 2026 版](https://github.com/Lean-zh/LoVe-zh) 2026-8-17 17:27 崇德苑 209 室
 
+1113. 昨晚 github 瘫痪了 7-8 个小时，出现独角兽 🦄，一开始还以为个人账号被封了呢，后来在微信上偶然得知原来整个 github 宕机，还好资料还在。2026-8-18 11:25 崇德苑 209 室
+
 
 
 
