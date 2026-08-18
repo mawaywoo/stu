@@ -3739,6 +3739,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1113. 昨晚 github 瘫痪了 7-8 个小时，出现独角兽 🦄，一开始还以为个人账号被封了呢，后来在微信上偶然得知原来整个 github 宕机，还好资料还在。2026-8-18 11:25 崇德苑 209 室
 
+1114. [Complexes of stable ∞-categories](https://arxiv.org/pdf/2301.02606) 按规律，貌似 21 号国自然放榜，有点儿不知所措，毕竟今年是最后一次机会，虽然之前一直告诉自己，即使没中也不影响自己做科研，但当下的内心还是难以平静。她买了 21 号返校的车票。明天是七夕节。2026-8-18 22:41 崇德苑 209 室
+
 
 
 
