@@ -3742,6 +3742,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1114. [Complexes of stable ∞-categories](https://arxiv.org/pdf/2301.02606) 按规律，貌似 21 号国自然放榜，有点儿不知所措，毕竟今年是最后一次机会，虽然之前一直告诉自己，即使没中也不影响自己做科研，但当下的内心还是难以平静。她买了 21 号返校的车票。明天是七夕节。2026-8-18 21:41 崇德苑 209 室
 
 1115. （上接 1110 条，事实上，[Complexes of stable ∞-categories](https://arxiv.org/pdf/2301.02606) 的第一版拆分成了两部分，这是第一版的第一部分，所以它应该先于 [Lax Additivity](https://arxiv.org/pdf/2402.12251) 读）**一个函子可以视为一个行向量或者列向量，见 1110 条，所以对函子取 lim/colimt 就相当于对向量里的元素作运算或粘接**，例如第 5 页函子 Δ^1 → St_k 的 lax sum 就可以理解为对列向量 (A, B)' 里的元素 A, B 进行运算或粘接得到函子的 lax sum [Complexes of stable ∞-categories](https://arxiv.org/pdf/2301.02606) 2026-8-18 21:51 崇德苑 209 室
+   
+      **colimit–preserving** functor 可以理解为**保持加法**的映射 2026-8-19 16:30 崇德苑 209 室
 
 
 
