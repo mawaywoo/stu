@@ -3743,7 +3743,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1115. （上接 1110 条，事实上，[Complexes of stable ∞-categories](https://arxiv.org/pdf/2301.02606) 的第一版拆分成了两部分，这是第一版的第一部分，所以它应该先于 [Lax Additivity](https://arxiv.org/pdf/2402.12251) 读）**一个函子可以视为一个行向量或者列向量，见 1110 条，所以对函子取 lim/colimt 就相当于对向量里的元素作运算或粘接**，例如第 5 页函子 Δ^1 → St_k 的 lax sum 就可以理解为对列向量 (A, B)' 里的元素 A, B 进行运算或粘接得到函子的 lax sum [Complexes of stable ∞-categories](https://arxiv.org/pdf/2301.02606) 2026-8-18 21:51 崇德苑 209 室
    
-      **colimit–preserving** functor 可以理解为**保持加法**的映射 2026-8-19 16:30 崇德苑 209 室
+      **colimit–preserving** functor 可以理解为**保持加法**的映射；为什么要考虑 marked limit？**高阶范畴的 marked 起什么作用**？原因之一就是在高阶范畴中，常常要处理 lax 的交换图，但**处理的交换图又不完全是 lax 的，往往是一个交换图中有一部分是宽松的，有一部分是严格的**，所以这种部分宽松的交换图的数据该怎样记录呢？答案就是：**只需标记出严格交换的那部分即可**（其余的便是宽松的部分了），见第 13-14 页第 2.3 节 [Complexes of stable ∞-categories](https://arxiv.org/pdf/2301.02606) 2026-8-19 16:30 崇德苑 209 室
 
 
 
