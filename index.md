@@ -708,6 +708,8 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 
 [Nostalgia ~ Throwback R&B Classics 90s 2000s - Akon, Usher, Rihanna, Chris Brown, Ne-Yo,Mariah Carey](https://www.youtube.com/watch?v=VZXY0VXCxcw) 最近喜欢上听 hip hop，吸引我的是人声叠层艺术 2026-8-15 14:32
 
+[周杰伦 全部14张专辑| Jay Chou ALL Albums VIDEO | 周杰倫好聽的150首歌 All Songs Of Jay Chou 周杰倫最偉大的命中 [MV] ](https://www.youtube.com/watch?v=WV9Nzs2Xxnc&list=RDWV9Nzs2Xxnc&start_radio=1) 2026-8-20 14:34
+
 
 ## 电影
 
