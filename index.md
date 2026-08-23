@@ -3751,7 +3751,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       **增加序结构或者方向结构是缩减数据（实际上是在借助序结构来选取部分数据）的有效手段之一**，比如 Fin_* 或者 Delta 范畴。更一般的，**序结构其实可以视为两个对象之间的态射**，因此可以把序结构推广到态射，借助态射来选取部分数据，**给我们的启发就是可以考虑将高阶范畴、高阶代数中涉及到序结构的组合范畴替换为一般的范畴**，一个组合范畴的例子就是 Reedy 范畴？2026-8-21 1:21 崇德苑 209 室
 
-1116. [A categorified Dold-Kan correspondence](https://arxiv.org/pdf/1710.08356) 2026-8-23 13:20 崇德苑 209 室
+1116. 第 2 页倒数第 2 行中的 k 是**遍历所有**小于等于 n 的自然数，所以 2-单形包括 B_2, B_1, B_0 中的满足微分条件的元素，见下一页的例子 [A categorified Dold-Kan correspondence](https://arxiv.org/pdf/1710.08356) 2026-8-23 13:20 崇德苑 209 室
 
 
 
