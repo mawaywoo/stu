@@ -3753,7 +3753,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1116. （上接 1115 条）第 2 页倒数第 2 行中的 k 是**遍历所有**小于等于 n 的自然数，所以 2-单形包括 B_2, B_1, B_0 中的满足微分条件的元素，见下一页的例子 [A categorified Dold-Kan correspondence](https://arxiv.org/pdf/1710.08356) 2026-8-23 13:20 崇德苑 209 室
 
-      Definition 3.8 的条件 (2) 编码的是：对于 f: x ——> y, g: y ——> z，F(f)(Y) ——> X in F(X), F(g)(Z) ——> Y in, 在高阶范畴 F(x) 中 F(f)F(g)(Z) ——> X 的各种高阶态射 Delta^2 ——> F(x) [A categorified Dold-Kan correspondence](https://arxiv.org/pdf/1710.08356) 2026-8-24 21:25 崇德苑 209 室 
+      Definition 3.8 (The (∞, 1)-categorical Grothendieck construction) 的条件 (2) 编码的是：对于 f: x ——> y, g: y ——> z，F(f)(Y) ——> X in F(X), F(g)(Z) ——> Y in, 在高阶范畴 F(x) 中 F(f)F(g)(Z) ——> X 的各种高阶态射 Delta^2 ——> F(x) [A categorified Dold-Kan correspondence](https://arxiv.org/pdf/1710.08356) 2026-8-24 21:25 崇德苑 209 室 
 
 
 
