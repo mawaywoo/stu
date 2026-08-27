@@ -3757,6 +3757,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       talks [Tobias Dyckerhoff - A categorified Dold–Kan correspondence](https://www.youtube.com/watch?v=HQbM2BZ8Zis) and [Merlin Christ - Complexes of stable infinity categories](https://www.youtube.com/watch?v=NC8D0s93PFQ) 2026-8-25 11:36 崇德苑 209 室
 
+1117. 数学职工（通知、信息发布群）消息：栾姝 (2026-8-26 10:52) “热烈祝贺我院吴马威老师获得国家自然科学基金青年基金项目（C类）立项，全校共获得 5 项青年。[庆祝][庆祝][庆祝][玫瑰][玫瑰][玫瑰]” 。最后一年申请青基总算上岸了！2026-8-27 9:16 崇德苑 209 室     
+
 
 
 
