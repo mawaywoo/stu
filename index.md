@@ -472,6 +472,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [【Algebraic Stacks】【QGM】by Amit Hogadi](https://www.bilibili.com/video/BV1yJ411R72C/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [NCMW - Intersection Theory (2022)](https://www.youtube.com/playlist?list=PLzNx6FGVASN1WDsR-s8_y8MnQvuMrfgrv) | [Triple masterclass on Algebraic Geometry, June 2014](https://qgm.au.dk/video/mc/triple-masterclass/) |
 [Differentiable Stacks, Poisson Geometry and related geometric structures](https://www.youtube.com/playlist?list=PLqX5gFCSJtMBs7VJ27QqIzNB18JgVF-5N) | [NCCR SwissMAP - Master Class in Geometry, Topology and Physics](https://www.youtube.com/playlist?list=PLqX5gFCSJtMDqQP3DJtc1Bh06NjDIsxu9) | [Modern Algebraic Geometry Fields Academy Shared Graduate Course](https://www.youtube.com/playlist?list=PLArBKNfJxuulCCX0z_n5JJcvZrX9ej8uq) |
 [Ultracategories 与 Stone 对偶研讨会](https://www.bilibili.com/video/BV1txKy6RE7S?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) | [Edoardo Lanari, Gray tensor products and lax functors of (infinity,2)-categories](https://www.youtube.com/watch?v=2NIayvr3I8k&t=725s) | [Some remarks on the K-theory of exact infinity-categories - Christoph Winges (Regensburg)](https://www.youtube.com/watch?v=kJbieiifSzk) |
+[Christoph Winges: On the Farrell Jones conjecture for real algebraic K-theory](https://www.youtube.com/watch?v=33342v9pN9s) | []() | []() |
 []() |
 
 
