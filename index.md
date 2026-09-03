@@ -3760,7 +3760,9 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1117. 数学职工（通知、信息发布群）消息：栾姝 (2026-8-26 10:52) “热烈祝贺我院吴马威老师获得国家自然科学基金青年基金项目（C类）立项，全校共获得 5 项青年。[庆祝][庆祝][庆祝][玫瑰][玫瑰][玫瑰]” 。最后一年申请青基总算上岸了！2026-8-27 9:16 崇德苑 209 室
 
-1118. 用**数据的打碎重组**的角度去看这些结论，这里是**把高阶可构造层论的数据转译为高阶函子理论**，并把层论的各种构造（如截断）等等转译到函子世界；**视频末尾近 15 分钟的例子**很系统的诠释了这套理论，例子的计算也是清晰明了的。[Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&t=1995s) 2026-9-3 12:24 崇德苑 209 室   
+1118. 用**数据的打碎重组**的角度去看这些结论，这里是**把高阶可构造层论的数据转译为高阶函子理论**，并把层论的各种构造（如截断）等等转译到函子世界；**视频末尾近 15 分钟的例子**很系统的诠释了这套理论，例子的计算也是清晰明了的。[Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&t=1995s) 2026-9-3 12:24 崇德苑 209 室
+     
+      高阶层范畴的某类特殊子范畴（gentle sheaf）转译为函子范畴，计算了各种例子。[Merlin Christ 2/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=AvU6GejenxI&t=22s) 2026-9-3 16:00 崇德苑 209 室  
 
 
 
