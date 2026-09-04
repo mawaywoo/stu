@@ -3768,7 +3768,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       [Merlin Christ 4/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=OsZDWQdXrPY&t=40s) 2026-9-4 14:33 崇德苑 209 室
 
-1119. 如果仔细分析**数据（打碎、重组、连接）**，就会发现，**无穷范畴中的很多条件其实都是自然产生的（不得不、理应如此）**：无穷范畴中的 monoid 的定义的条件是自然产生的：因为需要由两个态射得到一个新的态射 M_1， 而这**需要 M_2 作为中间桥梁建立联系**，这就是 Segal 条件的产生的原因；Segal 对象和 monoid 对象的条件的差异也是自然产生的：monoid 考虑的对象只有一个，而 Segal 对象是 monoid 对象的多对象版本的推广，所以 monoid 对象的 Segal 条件涉及笛卡尔积而 Segal 对象则是纤维积（**单对象到多对象导致笛卡尔积到纤维积**） [HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2026-9-4 15:06 崇德苑 209 室      
+1119. 如果仔细分析**数据（打碎、重组、连接）**，就会发现，**无穷范畴中的很多条件其实都是自然产生的（不得不、理应如此）**：无穷范畴中的 monoid 的定义的条件是自然产生的：因为需要由两个态射得到一个新的态射 M_1， 而这**需要 M_2 作为中间桥梁建立联系**，这就是 Segal 条件的产生的原因；Segal 对象和 monoid 对象的条件的差异也是自然产生的：monoid 考虑的对象只有一个，而 Segal 对象是 monoid 对象的多对象版本的推广，所以 monoid 对象的 Segal 条件涉及笛卡尔积而 Segal 对象则是纤维积（**单对象到多对象导致笛卡尔积到纤维积**）；另一种**定义 E_n-monoidal 范畴：由加性定理，可以递归地定义**，E_1-monoidal 定义为 monoid 对象，由 Delta + Segal 条件，该条件递归后便得到 n-Delta + n-Segal 条件 [HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2026-9-4 15:06 崇德苑 209 室      
 
 
 
