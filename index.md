@@ -3766,6 +3766,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       这些例子的计算都很具体。[Merlin Christ 3/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=H1q2m1evdZo&t=2414s) 2026-9-4 9:23 崇德苑 209 室
 
+      [Merlin Christ 4/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=OsZDWQdXrPY&t=40s) 2026-9-4 14:33 崇德苑 209 室
+
 
 
 
