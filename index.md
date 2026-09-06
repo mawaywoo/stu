@@ -3768,7 +3768,9 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       [Merlin Christ 4/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=OsZDWQdXrPY&t=40s) 2026-9-4 14:33 崇德苑 209 室
 
-1119. 如果仔细分析**数据（打碎、重组、连接）**，就会发现，**无穷范畴中的很多条件其实都是自然产生的（不得不、理应如此）**：无穷范畴中的 monoid 的定义的条件是自然产生的：因为需要由两个态射得到一个新的态射 M_1， 而这**需要 M_2 作为中间桥梁建立联系**，这就是 Segal 条件的产生的原因；Segal 对象和 monoid 对象的条件的差异也是自然产生的：monoid 考虑的对象只有一个，而 Segal 对象是 monoid 对象的多对象版本的推广，所以 monoid 对象的 Segal 条件涉及笛卡尔积而 Segal 对象则是纤维积（**单对象到多对象导致笛卡尔积到纤维积**）；另一种**定义 E_n-monoidal 范畴：由加性定理，可以递归地定义**，E_1-monoidal 定义为 monoid 对象，由 Delta + Segal 条件，该条件递归后便得到 n-Delta + n-Segal 条件；高阶范畴中的各种条件都是自然产生的，**要想清楚这些条件为什么是自然的，可以问自己：这些条件是为了做什么的？如果去掉这些条件，什么事情实现不了？** [HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2026-9-4 15:06 崇德苑 209 室      
+1119. 如果仔细分析**数据（打碎、重组、连接）**，就会发现，**无穷范畴中的很多条件其实都是自然产生的（不得不、理应如此）**：无穷范畴中的 monoid 的定义的条件是自然产生的：因为需要由两个态射得到一个新的态射 M_1， 而这**需要 M_2 作为中间桥梁建立联系**，这就是 Segal 条件的产生的原因；Segal 对象和 monoid 对象的条件的差异也是自然产生的：monoid 考虑的对象只有一个，而 Segal 对象是 monoid 对象的多对象版本的推广，所以 monoid 对象的 Segal 条件涉及笛卡尔积而 Segal 对象则是纤维积（**单对象到多对象导致笛卡尔积到纤维积**）；另一种**定义 E_n-monoidal 范畴：由加性定理，可以递归地定义**，E_1-monoidal 定义为 monoid 对象，由 Delta + Segal 条件，该条件递归后便得到 n-Delta + n-Segal 条件；高阶范畴中的各种条件都是自然产生的，**要想清楚这些条件为什么是自然的，可以问自己：这些条件是为了做什么的？如果去掉这些条件，什么事情实现不了？** [HHHW01 Dr. Rune Haugseng Higher categories of higher categories](https://www.youtube.com/watch?v=jusFEMIwtYo) 2026-9-4 15:06 崇德苑 209 室
+
+1120. E_n 代数 Alg_n(S) 可以编码为 R^n 到 S 的分解代数（类似于层），从数据的打碎重组角度看，**E_n 在 S 的作用通过 R^n 在 S 上的作用来实现，而 R^n 上的分解代数本质上可以视为 R^n 上的层**，因此可以通过**画出在 R^n 上的取值**就可以把该分解代数画出来。[Claudia Scheimbauer - Higher Morita categories](https://www.youtube.com/watch?v=P50Tj58FTxg&t=1886s) 2026-9-6 9:28 崇德苑 209 室      
 
 
 
