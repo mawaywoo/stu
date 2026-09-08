@@ -3772,7 +3772,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1120. E_n 代数 Alg_n(S) 可以编码为 R^n 到 S 的分解代数（类似于层），从数据的打碎重组角度看，**E_n 在 S 的作用通过 R^n 在 S 上的作用来实现，而 R^n 上的分解代数本质上可以视为 R^n 上的层**，因此可以通过**画出在 R^n 上的取值**就可以把该分解代数画出来。[Claudia Scheimbauer - Higher Morita categories](https://www.youtube.com/watch?v=P50Tj58FTxg&t=1886s) **dualities = handle cancellations**, why: 因为对偶意味着各态射存在对偶，而**对偶单位/余单位可用范畴的图形语言翻译为将 S-形曲线拉伸为直线**，前一个视频在左伴随的构造也有展示 [Claudia Scheimbauer lecture 1](https://www.youtube.com/watch?v=IsfIMaN2rak&list=PLAMniZX5MiiILPlddbwaTTHCsNi9-rUSB&index=3) [Claudia Scheimbauer lecture 2](https://www.youtube.com/watch?v=xAaXHI5H0z4) 2026-9-6 9:28 崇德苑 209 室
 
-      [Scheimbauer lecture 3](https://www.youtube.com/watch?v=Ya1OeWtyuuQ) and 主要介绍**配边范畴**（单纯空间），单纯空间的每一个 k-cell 是“k 个配边构成的，只是把原来配边边界的**点变成了区间**”；在 40 分钟左右的 **n-fold Segal space 定义的条件 (2) 理解为把正方形的某些边等同**，如 double category 的正方形的左右两边等同就会得到 2-category；这节课关于配边范畴以及它的高阶推广的**构造很有趣** [Scheimbauer lecture 4](https://www.youtube.com/watch?v=WcwScwT601w) 2026-9-7 8:35 崇德苑 209 室
+      [Scheimbauer lecture 3](https://www.youtube.com/watch?v=Ya1OeWtyuuQ) and 主要介绍**配边范畴**（单纯空间），单纯空间的每一个 k-cell 是“k 个配边构成的，只是把原来配边边界的**点变成了区间**”；在 40 分钟左右的 **n-fold Segal space 定义的条件 (2) 理解为把正方形的某些边等同**，如 double category 的正方形的左右两边等同就会得到 2-category；这节课关于配边范畴以及它的高阶推广的**构造很有趣，本质上是如何在储存配边流形 M** [Scheimbauer lecture 4](https://www.youtube.com/watch?v=WcwScwT601w) 2026-9-7 8:35 崇德苑 209 室
      
 
 
