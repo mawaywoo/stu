@@ -3776,7 +3776,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       在解释分解代数的**左 Kan 扩张的余极限的存在性**时，指标范畴是 sifted 的，且考虑的函子的 monoidal 的，因此这就**逼迫出目标范畴 S 应满足的条件** tensor-sifted cocomplete（由此可见，很多条件都是自然产生的），见 9:15 [Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4) 2026-9-8 9:39 崇德苑 209 室
 
-      [Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c) 2026-9-9 11:21 湖光校区图书馆
+      **利用分解代数去构造高阶 Morita 范畴**，通过 Segal space 来实现，**每一个 k-cell 由不同流形上的分解代数（类似于不同拓扑空间上的层）来产生**，见 30:00，不同 cell 之间的分解代数间的映射类似于层范畴在不同拓扑空间上的推出和拉回来实现 [Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c) 2026-9-9 11:21 湖光校区图书馆
      
 
 
