@@ -3777,6 +3777,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
       在解释分解代数的**左 Kan 扩张的余极限的存在性**时，指标范畴是 sifted 的，且考虑的函子的 monoidal 的，因此这就**逼迫出目标范畴 S 应满足的条件** tensor-sifted cocomplete（由此可见，很多条件都是自然产生的），见 9:15 [Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4) 2026-9-8 9:39 崇德苑 209 室
 
       **利用分解代数去构造高阶 Morita 范畴**，通过 Segal space 来实现，**每一个 k-cell 由不同流形上的分解代数（类似于不同拓扑空间上的层）来产生**，见 30:00，不同 cell 之间的分解代数间的映射类似于层范畴在不同拓扑空间上的推出和拉回来实现；这个系列报告**介绍了 TQFT 的源范畴和汇范畴的具体构造**，即配边范畴（把配边流形恰当地装到某个容器里）和高阶 Morita 范畴（用分解代数去构造），**40:00 则给出 TQFT 函子的具体实现（主要是分解代数的推出构造，类似于层在不同拓扑空间的推出，有很形象的图示，50:00 有具体的例子的计算，这里“拓扑空间上的层”画成“在拓扑空间对应位置标上层在此处的取值”）** ，所以，**分解代数的思想实际上还是层的思想** [Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c) 2026-9-9 11:21 湖光校区图书馆
+
+      [Scheimbauer lecture 7](https://www.youtube.com/watch?v=02upJwCNht8)
      
 
 
