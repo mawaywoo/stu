@@ -3775,6 +3775,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
       [Scheimbauer lecture 3](https://www.youtube.com/watch?v=Ya1OeWtyuuQ) and 主要介绍**配边范畴**（单纯空间），单纯空间的每一个 k-cell 是“k 个配边构成的，只是把原来配边边界的**点变成了区间**”；在 40 分钟左右的 **n-fold Segal space 定义的条件 (2) 理解为把正方形的某些边等同**，如 double category 的正方形的左右两边等同就会得到 2-category，**有些指标是冗余的，如 00, 10, 11 分别编码对象、1-态射，2-态射，指标 01 就是多余的**；这节课关于配边范畴以及它的高阶推广的**构造很有趣，本质上是如何在储存配边流形 M，在构造承接 M 的容器**；见 1:07:00，**分解同调/代数 = E_n 代数（拓扑定义：Disk 到 S 的函子）的左 Kan 扩张（沿着 Disk 到 Mld），类比于沿着 Yoneda 嵌入的 Kan 扩张** [Scheimbauer lecture 4](https://www.youtube.com/watch?v=WcwScwT601w) 2026-9-7 8:35 崇德苑 209 室
 
       在解释分解代数的**左 Kan 扩张的余极限的存在性**时，指标范畴是 sifted 的，且考虑的函子的 monoidal 的，因此这就**逼迫出目标范畴 S 应满足的条件** tensor-sifted cocomplete（由此可见，很多条件都是自然产生的），见 9:15 [Scheimbauer lecture 5](https://www.youtube.com/watch?v=ckmJBXdsiA4) 2026-9-8 9:39 崇德苑 209 室
+
+      [Scheimbauer lecture 6](https://www.youtube.com/watch?v=1oqHSLanh4c) 2026-9-9 11:21 湖光校区图书馆
      
 
 
