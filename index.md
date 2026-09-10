@@ -3782,7 +3782,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1121. 数据的打碎重组 [Endomorphisms and Automorphisms of the Framed Little Disk Operad](https://www.youtube.com/watch?v=r0-FkI3TiyI) 2026-9-10 15:52 崇德苑 209 室
 
-1122. **分解代数 “=” 层论**，它将层论中的赋环座以及赋环座上的层范畴推广到**更一般、更差的几何对象或者高阶、同伦的层论情形**，见 29:00；**为了在几何对象上做分解代数，几何对象不能太差，需要满足一定的条件（流形这个几何对象具有能区分两个不同的点的能力，但一般的差的几何对象（比流形差）可能不具备这个能力，因此需要增加一个结构以实现这个能力，这个结构就是 35:00 所说的函子的 domian D 所编码、增添的信息）**，35:00 分钟就通过函子的 domian D 对几何对象 X 加上一个区分不同对象的结构（**通过函子的 domain 的方式增加信息、结构**） [Clark Barwick Factorization algebras in quite a lot of generality](https://www.youtube.com/watch?v=Ux4oBqJj47Q) 2026-9-10 16:34 崇德苑 209 室
+1122. **分解代数 “=” 层论（前者可以在【更差】的“几何对象”上做，很多时候，主要的困难就在于修正“更差”条件以实现分解代数）**，它将层论中的赋环座以及赋环座上的层范畴推广到**更一般、更差的几何对象或者高阶、同伦的层论情形**，见 29:00；**为了在几何对象上做分解代数，几何对象不能太差，需要满足一定的条件（流形这个几何对象具有能区分两个不同的点的能力，但一般的差的几何对象（比流形差）可能不具备这个能力，因此需要增加一个结构以实现这个能力，这个结构就是 35:00 所说的函子的 domian D 所编码、增添的信息）**，35:00 分钟就通过函子的 domian D 对几何对象 X 加上一个区分不同对象的结构（**通过函子的 domain 的方式增加信息、结构**） [Clark Barwick Factorization algebras in quite a lot of generality](https://www.youtube.com/watch?v=Ux4oBqJj47Q) 2026-9-10 16:34 崇德苑 209 室
      
 
 
