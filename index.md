@@ -3782,7 +3782,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1121. 数据的打碎重组 [Endomorphisms and Automorphisms of the Framed Little Disk Operad](https://www.youtube.com/watch?v=r0-FkI3TiyI) 2026-9-10 15:52 崇德苑 209 室
 
-1122. **分解代数 “=” 层论**，它将层论中的赋环座以及赋环座上的层范畴推广到**更一般、更差的几何对象或者高阶、同伦的层论情形**，见 29:00；**为了在几何对象上做分解代数，几何对象不能太差，需要满足一定的条件**，35:00 分钟就通过函子的 domian D 对几何对象加上一个区分不同对象的结构（**通过函子的 domain 的方式增加信息、结构**） [Clark Barwick Factorization algebras in quite a lot of generality](https://www.youtube.com/watch?v=Ux4oBqJj47Q) 2026-9-10 16:34 崇德苑 209 室
+1122. **分解代数 “=” 层论**，它将层论中的赋环座以及赋环座上的层范畴推广到**更一般、更差的几何对象或者高阶、同伦的层论情形**，见 29:00；**为了在几何对象上做分解代数，几何对象不能太差，需要满足一定的条件**，35:00 分钟就通过函子的 domian D 对几何对象 X 加上一个区分不同对象的结构（**通过函子的 domain 的方式增加信息、结构**） [Clark Barwick Factorization algebras in quite a lot of generality](https://www.youtube.com/watch?v=Ux4oBqJj47Q) 2026-9-10 16:34 崇德苑 209 室
      
 
 
