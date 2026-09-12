@@ -3794,7 +3794,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1126. [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) 2026-9-12 15:54 崇德苑 209 室
 
-1127. [John Francis: Factorization homology #ICBS2025](https://www.youtube.com/watch?v=deIhb0xVBnE) 2026-9-12 17:34 崇德苑 209 室
+1127. 低阶的例子 [John Francis: Factorization homology #ICBS2025](https://www.youtube.com/watch?v=deIhb0xVBnE) 2026-9-12 17:34 崇德苑 209 室
      
 
 
