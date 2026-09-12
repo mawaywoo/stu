@@ -3793,6 +3793,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1125. 有丰富的例子展示 Exit-path infinity category，很形象生动；34:21 的例子解释了在几何和拓扑中，无穷范畴是很自然产生的；层论转移为预层（函子）理论；**几何和拓扑是刚和柔的区别，但依然可以在代数几何中考虑分片同伦型，刚中找柔！** 见 57:00 和 1122 条 [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2679s) 2026-9-12 12:44 崇德苑 209 室
 
 1126. [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) 2026-9-12 15:54 崇德苑 209 室
+
+1127. [John Francis: Factorization homology #ICBS2025](https://www.youtube.com/watch?v=deIhb0xVBnE) 2026-9-12 17:34 崇德苑 209 室
      
 
 
