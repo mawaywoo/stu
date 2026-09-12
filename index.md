@@ -472,7 +472,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [【Algebraic Stacks】【QGM】by Amit Hogadi](https://www.bilibili.com/video/BV1yJ411R72C/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) | [NCMW - Intersection Theory (2022)](https://www.youtube.com/playlist?list=PLzNx6FGVASN1WDsR-s8_y8MnQvuMrfgrv) | [Triple masterclass on Algebraic Geometry, June 2014](https://qgm.au.dk/video/mc/triple-masterclass/) |
 [Differentiable Stacks, Poisson Geometry and related geometric structures](https://www.youtube.com/playlist?list=PLqX5gFCSJtMBs7VJ27QqIzNB18JgVF-5N) | [NCCR SwissMAP - Master Class in Geometry, Topology and Physics](https://www.youtube.com/playlist?list=PLqX5gFCSJtMDqQP3DJtc1Bh06NjDIsxu9) | [Modern Algebraic Geometry Fields Academy Shared Graduate Course](https://www.youtube.com/playlist?list=PLArBKNfJxuulCCX0z_n5JJcvZrX9ej8uq) |
 [Ultracategories 与 Stone 对偶研讨会](https://www.bilibili.com/video/BV1txKy6RE7S?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) | [Edoardo Lanari, Gray tensor products and lax functors of (infinity,2)-categories](https://www.youtube.com/watch?v=2NIayvr3I8k&t=725s) | [Some remarks on the K-theory of exact infinity-categories - Christoph Winges (Regensburg)](https://www.youtube.com/watch?v=kJbieiifSzk) |
-[Christoph Winges: On the Farrell Jones conjecture for real algebraic K-theory](https://www.youtube.com/watch?v=33342v9pN9s) | [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) | []() |
+[Christoph Winges: On the Farrell Jones conjecture for real algebraic K-theory](https://www.youtube.com/watch?v=33342v9pN9s) | [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) | [Emily Riehl -- Human Mathematicians in the Age of AI](https://www.youtube.com/watch?v=32nNC3q_DdY) |
 []() |
 
 
@@ -3792,7 +3792,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1125. 有丰富的例子展示 Exit-path infinity category，很形象生动；34:21 的例子解释了在几何和拓扑中，无穷范畴是很自然产生的；层论转移为预层（函子）理论；**几何和拓扑是刚和柔的区别，但依然可以在代数几何中考虑分片同伦型，刚中找柔！** 见 57:00 和 1122 条 [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2679s) 2026-9-12 12:44 崇德苑 209 室
 
-1126. [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) 2026-9-12 15:54 崇德苑 209 室
+1126. [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) and [Emily Riehl -- Human Mathematicians in the Age of AI](https://www.youtube.com/watch?v=32nNC3q_DdY) 2026-9-12 15:54 崇德苑 209 室
 
 1127. 低阶的例子 [John Francis: Factorization homology #ICBS2025](https://www.youtube.com/watch?v=deIhb0xVBnE) 2026-9-12 17:34 崇德苑 209 室
      
