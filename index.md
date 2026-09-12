@@ -3785,6 +3785,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1122. **分解代数 “=” 层论（前者可以在【更差】的“几何对象”上做，很多时候，主要的困难就在于修正“更差”条件以实现分解代数）**，它将层论中的赋环座以及赋环座上的层范畴推广到**更一般、更差的几何对象或者高阶、同伦的层论情形**，见 29:00；**为了在几何对象上做分解代数，几何对象不能太差，需要满足一定的条件（流形这个几何对象具有能区分两个不同的点的能力，但一般的差的几何对象（比流形差）可能不具备这个能力，因此需要增加一个结构以实现这个能力，这个结构就是 35:00 所说的函子的 domian D 所编码、增添的信息，差的 X 变为更好的 X 的 world object world(X)，从而可以借助 world(X) 实现分解代数，见 51:00，仅 X 做不到）**，35:00 分钟就通过函子的 domian D 对几何对象 X 加上一个区分不同对象的结构（**通过函子的 domain 的方式增加信息、结构**）；这个报告可以理解为：**通过 world object 修正差的几何对象，进而在差的几何对象上也实现更广义的层论：分解代数** [Clark Barwick Factorization algebras in quite a lot of generality](https://www.youtube.com/watch?v=Ux4oBqJj47Q) 2026-9-10 16:34 崇德苑 209 室
 
       Goal: do physics on Spec Z, two ways, 见 23:00；**24:00 的图示很形象地解释了分解代数和层论的差别：很多时候两个观测集不重合，无法粘接，所以不能做层论，但可以把它们（不交的两个观测集，这就是上一段为啥需要 world object 去区分不同的对象以建立分解代数）共同嵌入到第三个共同的观测集中去，这就是分解代数的思想**；在高阶范畴论中，**取函子的余极限 = 取该函子的 Grothendieck 构造的截断**，见 53:00；拓扑和几何的差异：**柔和刚** [Clark Barwick, Factorization Algebras](https://www.youtube.com/watch?v=i653fqozzgI)
+
+1123. 主定理可以视为“**赋予一个流形一个 n-范畴的方式**，进而可以进一步对流形提取不变量” [David Alaya - Factorization Homology](https://www.youtube.com/watch?v=UENa1-ZehG4) 2026-9-12 8:39 崇德苑 209 室
      
 
 
