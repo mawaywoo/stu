@@ -3789,7 +3789,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1123. 主定理可以视为“**赋予一个流形一个 n-范畴的方式**，进而可以进一步对流形提取不变量，例如：分解同调”；递归地定义范畴 perf^n 也很有趣，**perf^1 具有 monoidal 结构，所以可以考虑 Mod-perf^1**，进而考虑它的 colimit closed and retract closed 子范畴 perf^2 [David Alaya - Factorization Homology](https://www.youtube.com/watch?v=UENa1-ZehG4) 2026-9-12 8:39 崇德苑 209 室
 
-      类似于同调理论（事实上，**分解代数可以视为同调理论的推广（∫_M R "=" H(M, R) ∈ chain complex）**，并且有 alpha, beta 等不同的构造版本），**借助分解代数的一些公理，就可以做各种计算**，而不需要知道分解代数的具体定义 [David Ayala - Factorization homology of higher categories](https://www.youtube.com/watch?v=XCpKNlCOWM0&t=1014s) 2026-9-12 21:31 崇德苑 209 室
+      类似于同调理论（事实上，**分解代数可以视为同调理论的推广（∫_M R "=" H(M, R) ∈ chain complex，48:52 main thm）**，并且有 alpha, beta 等不同的构造版本），**借助分解代数的一些公理，就可以做各种计算**，而不需要知道分解代数的具体定义 [David Ayala - Factorization homology of higher categories](https://www.youtube.com/watch?v=XCpKNlCOWM0&t=1014s) 2026-9-12 21:31 崇德苑 209 室
 
 1124. 相对场论可以理解为配边范畴是由**两个配边范畴粘起来的场论**，或者两个函子的**自然变换**，见 17:00 的形象图示 [Claudia Scheimbauer - Relative field theories from relative dualizability](https://www.youtube.com/watch?v=86T21lj4qQ4) 正实数上的分解代数的具体例子对理解分解代数的定义很有帮助 [Eugene Rabinovich - Factorization algebras for quantum bulk boundary systems](https://www.youtube.com/watch?v=wk6zNuau9b4) 2026-9-12 9:05 崇德苑 209 室
 
