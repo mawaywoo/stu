@@ -3789,6 +3789,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1123. 主定理可以视为“**赋予一个流形一个 n-范畴的方式**，进而可以进一步对流形提取不变量，例如：分解同调”；递归地定义范畴 perf^n 也很有趣，**perf^1 具有 monoidal 结构，所以可以考虑 Mod-perf^1**，进而考虑它的 colimit closed and retract closed 子范畴 perf^2 [David Alaya - Factorization Homology](https://www.youtube.com/watch?v=UENa1-ZehG4) 2026-9-12 8:39 崇德苑 209 室
 
+      类似于同调理论，**借助分解代数的一些公理，就可以做各种计算**，而不需要知道分解代数的具体定义 [David Ayala - Factorization homology of higher categories](https://www.youtube.com/watch?v=XCpKNlCOWM0&t=1014s) 2026-9-12 8:39 崇德苑 209 室
+
 1124. 相对场论可以理解为配边范畴是由**两个配边范畴粘起来的场论**，或者两个函子的**自然变换**，见 17:00 的形象图示 [Claudia Scheimbauer - Relative field theories from relative dualizability](https://www.youtube.com/watch?v=86T21lj4qQ4) 正实数上的分解代数的具体例子对理解分解代数的定义很有帮助 [Eugene Rabinovich - Factorization algebras for quantum bulk boundary systems](https://www.youtube.com/watch?v=wk6zNuau9b4) 2026-9-12 9:05 崇德苑 209 室
 
 1125. 有丰富的例子展示 Exit-path infinity category，很形象生动；34:21 的例子解释了在几何和拓扑中，无穷范畴是很自然产生的；层论转移为预层（函子）理论；**几何和拓扑是刚和柔的区别，但依然可以在代数几何中考虑分片同伦型，刚中找柔！** 见 57:00 和 1122 条 [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2679s) 2026-9-12 12:44 崇德苑 209 室
