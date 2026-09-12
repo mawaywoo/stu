@@ -3787,6 +3787,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
       Goal: do physics on Spec Z, two ways, 见 23:00；**24:00 的图示很形象地解释了分解代数和层论的差别：很多时候两个观测集不重合，无法粘接，所以不能做层论，但可以把它们（不交的两个观测集，这就是上一段为啥需要 world object 去区分不同的对象以建立分解代数）共同嵌入到第三个共同的观测集中去，这就是分解代数的思想**；在高阶范畴论中，**取函子的余极限 = 取该函子的 Grothendieck 构造的截断**，见 53:00；拓扑和几何的差异：**柔和刚** [Clark Barwick, Factorization Algebras](https://www.youtube.com/watch?v=i653fqozzgI)
 
 1123. 主定理可以视为“**赋予一个流形一个 n-范畴的方式**，进而可以进一步对流形提取不变量，例如：分解同调” [David Alaya - Factorization Homology](https://www.youtube.com/watch?v=UENa1-ZehG4) 2026-9-12 8:39 崇德苑 209 室
+
+1124. [Claudia Scheimbauer - Relative field theories from relative dualizability](https://www.youtube.com/watch?v=86T21lj4qQ4) 2026-9-12 9:05 崇德苑 209 室
      
 
 
