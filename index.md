@@ -3790,7 +3790,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1124. 相对场论可以理解为配边范畴是由**两个配边范畴粘起来的场论**，或者两个函子的**自然变换**，见 17:00 的形象图示 [Claudia Scheimbauer - Relative field theories from relative dualizability](https://www.youtube.com/watch?v=86T21lj4qQ4) 正实数上的分解代数的具体例子对理解分解代数的定义很有帮助 [Eugene Rabinovich - Factorization algebras for quantum bulk boundary systems](https://www.youtube.com/watch?v=wk6zNuau9b4) 2026-9-12 9:05 崇德苑 209 室
 
-1125. 有丰富的例子展示 Exit-path infinity category，很形象生动 [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2679s) 2026-9-12 12:44 崇德苑 209 室
+1125. 有丰富的例子展示 Exit-path infinity category，很形象生动；34:21 的例子解释了在几何和拓扑中，无穷范畴是很自然产生的 [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2679s) 2026-9-12 12:44 崇德苑 209 室
      
 
 
