@@ -3796,7 +3796,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       **几何对象构成的范畴会自然产生无穷范畴**，如 12:00 的 framed manifold 范畴 Mfld_fr^n；[Juliet Cooke - Factorisation Homology and Factorisation Homology](https://www.youtube.com/watch?v=dO2FWjhWAuI&t=40s) 2026-9-13 15:14 崇德苑 209 室
 
-      [Factorization homology of rigid braided categories](https://www.youtube.com/watch?v=9HESDfUpZck) 2026-9-13 16:24 崇德苑 209 室
+      分解代数除了可以视为广义同调理论（∫_M R "=" H(M, R)），它**还可以视为 M 上 R-标注图的 moduli 空间**，见 17:30 [Factorization homology of rigid braided categories](https://www.youtube.com/watch?v=9HESDfUpZck) 2026-9-13 16:24 崇德苑 209 室
 
 1125. 相对场论可以理解为配边范畴是由**两个配边范畴粘起来的场论**，或者两个函子的**自然变换**，见 17:00 的形象图示 [Claudia Scheimbauer - Relative field theories from relative dualizability](https://www.youtube.com/watch?v=86T21lj4qQ4) 正实数上的分解代数的具体例子对理解分解代数的定义很有帮助 [Eugene Rabinovich - Factorization algebras for quantum bulk boundary systems](https://www.youtube.com/watch?v=wk6zNuau9b4) 2026-9-12 9:05 崇德苑 209 室
 
