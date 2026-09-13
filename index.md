@@ -474,7 +474,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Ultracategories 与 Stone 对偶研讨会](https://www.bilibili.com/video/BV1txKy6RE7S?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) | [Edoardo Lanari, Gray tensor products and lax functors of (infinity,2)-categories](https://www.youtube.com/watch?v=2NIayvr3I8k&t=725s) | [Some remarks on the K-theory of exact infinity-categories - Christoph Winges (Regensburg)](https://www.youtube.com/watch?v=kJbieiifSzk) |
 [Christoph Winges: On the Farrell Jones conjecture for real algebraic K-theory](https://www.youtube.com/watch?v=33342v9pN9s) | [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) | [Emily Riehl -- Human Mathematicians in the Age of AI](https://www.youtube.com/watch?v=32nNC3q_DdY) |
 [Emily Riehl – Higher Category Theory, Homotopy & AI in Math aboutlogic #15](https://www.youtube.com/watch?v=4MQbd5wTlI8) | [Lean Together 2026](https://youtube.com/playlist?list=PLlF-CfQhukNmAVSsoqc0gcTWcVZ3VVKhI) | [Inbar Klang - Equivariant factorization homology and tools for studying it](https://www.youtube.com/watch?v=GM1e3Jkdy8U) |
-[Juliet Cooke - Factorisation Homology and Factorisation Homology](https://www.youtube.com/watch?v=dO2FWjhWAuI&t=40s) | []() | []() |
+[Juliet Cooke - Factorisation Homology and Factorisation Homology](https://www.youtube.com/watch?v=dO2FWjhWAuI&t=40s) | [Factorization homology of rigid braided categories](https://www.youtube.com/watch?v=9HESDfUpZck) | []() |
 []() |
 
 
@@ -3795,6 +3795,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
       主定理（9:00）可以视为数据的打碎重组，**分解代数可以视为同调理论的推广（∫_M A "=" H(M, A)）**，主定理加入了群作用信息，并**考虑群作用、M、A 的打碎重组**；16:50 也提到了**分解代数的类似于广义同调理论的公理化计算**；分解代数的**直观图示：configurations of pts in M with labels in A, when pts colide, multiplite their labels（类似于层的图示：在开集上标注取值）**，见 21:00 的图示（无群作用），36:19 有 G-等变的分解代数的图示；27:00 的**分解代数形式的非阿贝尔庞加莱对偶**在离散情形时看的更清楚，非离散时看着像是数据的打碎重组；**G-表示 V 替换掉 R^n 的地位**，所以 Omega^V 等同于 Omega^n 的地位，E_V-代数等同于 E_n-代数的地位 [Inbar Klang - Equivariant factorization homology and tools for studying it](https://www.youtube.com/watch?v=GM1e3Jkdy8U) 2026-9-13 10:52 崇德苑 209 室
 
       **几何对象构成的范畴会自然产生无穷范畴**，如 12:00 的 framed manifold 范畴 Mfld_fr^n；[Juliet Cooke - Factorisation Homology and Factorisation Homology](https://www.youtube.com/watch?v=dO2FWjhWAuI&t=40s) 2026-9-13 15:14 崇德苑 209 室
+
+      [Factorization homology of rigid braided categories](https://www.youtube.com/watch?v=9HESDfUpZck) 2026-9-13 16:24 崇德苑 209 室
 
 1125. 相对场论可以理解为配边范畴是由**两个配边范畴粘起来的场论**，或者两个函子的**自然变换**，见 17:00 的形象图示 [Claudia Scheimbauer - Relative field theories from relative dualizability](https://www.youtube.com/watch?v=86T21lj4qQ4) 正实数上的分解代数的具体例子对理解分解代数的定义很有帮助 [Eugene Rabinovich - Factorization algebras for quantum bulk boundary systems](https://www.youtube.com/watch?v=wk6zNuau9b4) 2026-9-12 9:05 崇德苑 209 室
 
