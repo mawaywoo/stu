@@ -473,7 +473,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Differentiable Stacks, Poisson Geometry and related geometric structures](https://www.youtube.com/playlist?list=PLqX5gFCSJtMBs7VJ27QqIzNB18JgVF-5N) | [NCCR SwissMAP - Master Class in Geometry, Topology and Physics](https://www.youtube.com/playlist?list=PLqX5gFCSJtMDqQP3DJtc1Bh06NjDIsxu9) | [Modern Algebraic Geometry Fields Academy Shared Graduate Course](https://www.youtube.com/playlist?list=PLArBKNfJxuulCCX0z_n5JJcvZrX9ej8uq) |
 [Ultracategories 与 Stone 对偶研讨会](https://www.bilibili.com/video/BV1txKy6RE7S?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) | [Edoardo Lanari, Gray tensor products and lax functors of (infinity,2)-categories](https://www.youtube.com/watch?v=2NIayvr3I8k&t=725s) | [Some remarks on the K-theory of exact infinity-categories - Christoph Winges (Regensburg)](https://www.youtube.com/watch?v=kJbieiifSzk) |
 [Christoph Winges: On the Farrell Jones conjecture for real algebraic K-theory](https://www.youtube.com/watch?v=33342v9pN9s) | [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) | [Emily Riehl -- Human Mathematicians in the Age of AI](https://www.youtube.com/watch?v=32nNC3q_DdY) |
-[Emily Riehl – Higher Category Theory, Homotopy & AI in Math aboutlogic #15](https://www.youtube.com/watch?v=4MQbd5wTlI8) | [Lean Together 2026](https://youtube.com/playlist?list=PLlF-CfQhukNmAVSsoqc0gcTWcVZ3VVKhI) | []() |
+[Emily Riehl – Higher Category Theory, Homotopy & AI in Math aboutlogic #15](https://www.youtube.com/watch?v=4MQbd5wTlI8) | [Lean Together 2026](https://youtube.com/playlist?list=PLlF-CfQhukNmAVSsoqc0gcTWcVZ3VVKhI) | [Inbar Klang - Equivariant factorization homology and tools for studying it](https://www.youtube.com/watch?v=GM1e3Jkdy8U) |
 []() |
 
 
@@ -3791,13 +3791,15 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       类似于同调理论（事实上，**分解代数可以视为同调理论的推广（∫_M R "=" H(M, R) ∈ chain complex，48:52 main thm）**，并且有 alpha, beta 等不同的构造版本），**借助分解代数的一些公理，就可以做各种计算**，而不需要知道分解代数的具体定义 [David Ayala - Factorization homology of higher categories](https://www.youtube.com/watch?v=XCpKNlCOWM0&t=1014s) 2026-9-12 21:31 崇德苑 209 室
 
-1124. 相对场论可以理解为配边范畴是由**两个配边范畴粘起来的场论**，或者两个函子的**自然变换**，见 17:00 的形象图示 [Claudia Scheimbauer - Relative field theories from relative dualizability](https://www.youtube.com/watch?v=86T21lj4qQ4) 正实数上的分解代数的具体例子对理解分解代数的定义很有帮助 [Eugene Rabinovich - Factorization algebras for quantum bulk boundary systems](https://www.youtube.com/watch?v=wk6zNuau9b4) 2026-9-12 9:05 崇德苑 209 室
+      [Inbar Klang - Equivariant factorization homology and tools for studying it](https://www.youtube.com/watch?v=GM1e3Jkdy8U) 2026-9-13 10:52 崇德苑 209 室
 
-1125. 有丰富的例子展示 Exit-path infinity category，很形象生动；34:21 的例子解释了在几何和拓扑中，无穷范畴是很自然产生的；层论转移为预层（函子）理论；**几何和拓扑是刚和柔的区别，但依然可以在代数几何中考虑分片同伦型，刚中找柔！** 见 57:00 和 1122 条 [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2679s) 2026-9-12 12:44 崇德苑 209 室
+1125. 相对场论可以理解为配边范畴是由**两个配边范畴粘起来的场论**，或者两个函子的**自然变换**，见 17:00 的形象图示 [Claudia Scheimbauer - Relative field theories from relative dualizability](https://www.youtube.com/watch?v=86T21lj4qQ4) 正实数上的分解代数的具体例子对理解分解代数的定义很有帮助 [Eugene Rabinovich - Factorization algebras for quantum bulk boundary systems](https://www.youtube.com/watch?v=wk6zNuau9b4) 2026-9-12 9:05 崇德苑 209 室
 
-1126. [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) and [Emily Riehl -- Human Mathematicians in the Age of AI](https://www.youtube.com/watch?v=32nNC3q_DdY) and [Emily Riehl – Higher Category Theory, Homotopy & AI in Math aboutlogic #15](https://www.youtube.com/watch?v=4MQbd5wTlI8) and [Lean Together 2026](https://youtube.com/playlist?list=PLlF-CfQhukNmAVSsoqc0gcTWcVZ3VVKhI) 2026-9-12 15:54 崇德苑 209 室
+1126. 有丰富的例子展示 Exit-path infinity category，很形象生动；34:21 的例子解释了在几何和拓扑中，无穷范畴是很自然产生的；层论转移为预层（函子）理论；**几何和拓扑是刚和柔的区别，但依然可以在代数几何中考虑分片同伦型，刚中找柔！** 见 57:00 和 1122 条 [The geometry of ∞-categories, Clark Barwick LMS](https://www.youtube.com/watch?v=WeeLqSyxWV0&t=2679s) 2026-9-12 12:44 崇德苑 209 室
 
-1127. 低阶的例子 [John Francis: Factorization homology #ICBS2025](https://www.youtube.com/watch?v=deIhb0xVBnE) 2026-9-12 17:34 崇德苑 209 室
+1127. [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) and [Emily Riehl -- Human Mathematicians in the Age of AI](https://www.youtube.com/watch?v=32nNC3q_DdY) and [Emily Riehl – Higher Category Theory, Homotopy & AI in Math aboutlogic #15](https://www.youtube.com/watch?v=4MQbd5wTlI8) and [Lean Together 2026](https://youtube.com/playlist?list=PLlF-CfQhukNmAVSsoqc0gcTWcVZ3VVKhI) 2026-9-12 15:54 崇德苑 209 室
+
+1128. 低阶的例子 [John Francis: Factorization homology #ICBS2025](https://www.youtube.com/watch?v=deIhb0xVBnE) 2026-9-12 17:34 崇德苑 209 室
      
 
 
