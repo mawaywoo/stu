@@ -474,7 +474,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Ultracategories 与 Stone 对偶研讨会](https://www.bilibili.com/video/BV1txKy6RE7S?spm_id_from=333.788.videopod.sections&vd_source=02cc95fa17590f7325fe8cefd48b69e2&p=2) | [Edoardo Lanari, Gray tensor products and lax functors of (infinity,2)-categories](https://www.youtube.com/watch?v=2NIayvr3I8k&t=725s) | [Some remarks on the K-theory of exact infinity-categories - Christoph Winges (Regensburg)](https://www.youtube.com/watch?v=kJbieiifSzk) |
 [Christoph Winges: On the Farrell Jones conjecture for real algebraic K-theory](https://www.youtube.com/watch?v=33342v9pN9s) | [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) | [Emily Riehl -- Human Mathematicians in the Age of AI](https://www.youtube.com/watch?v=32nNC3q_DdY) |
 [Emily Riehl – Higher Category Theory, Homotopy & AI in Math aboutlogic #15](https://www.youtube.com/watch?v=4MQbd5wTlI8) | [Lean Together 2026](https://youtube.com/playlist?list=PLlF-CfQhukNmAVSsoqc0gcTWcVZ3VVKhI) | [Inbar Klang - Equivariant factorization homology and tools for studying it](https://www.youtube.com/watch?v=GM1e3Jkdy8U) |
-[Juliet Cooke - Factorisation Homology and Factorisation Homology](https://www.youtube.com/watch?v=dO2FWjhWAuI&t=40s) | [Factorization homology of rigid braided categories](https://www.youtube.com/watch?v=9HESDfUpZck) | []() |
+[Juliet Cooke - Factorisation Homology and Factorisation Homology](https://www.youtube.com/watch?v=dO2FWjhWAuI&t=40s) | [Factorization homology of rigid braided categories](https://www.youtube.com/watch?v=9HESDfUpZck) | [Juliet Cooke: Skein categories](https://www.youtube.com/watch?v=TwlGKZdye7Q) |
 []() |
 
 
