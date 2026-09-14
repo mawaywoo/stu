@@ -475,7 +475,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Christoph Winges: On the Farrell Jones conjecture for real algebraic K-theory](https://www.youtube.com/watch?v=33342v9pN9s) | [Daniel Litt Working with LLMs to do high quality math](https://www.youtube.com/watch?v=0wL8NlhxXcU) | [Emily Riehl -- Human Mathematicians in the Age of AI](https://www.youtube.com/watch?v=32nNC3q_DdY) |
 [Emily Riehl – Higher Category Theory, Homotopy & AI in Math aboutlogic #15](https://www.youtube.com/watch?v=4MQbd5wTlI8) | [Lean Together 2026](https://youtube.com/playlist?list=PLlF-CfQhukNmAVSsoqc0gcTWcVZ3VVKhI) | [Inbar Klang - Equivariant factorization homology and tools for studying it](https://www.youtube.com/watch?v=GM1e3Jkdy8U) |
 [Juliet Cooke - Factorisation Homology and Factorisation Homology](https://www.youtube.com/watch?v=dO2FWjhWAuI&t=40s) | [Factorization homology of rigid braided categories](https://www.youtube.com/watch?v=9HESDfUpZck) | [Juliet Cooke: Skein categories](https://www.youtube.com/watch?v=TwlGKZdye7Q) |
-[David Ayala - Factorization homology](https://www.youtube.com/watch?v=DIdciijOOEI&t=26s) | [HHHW01 Prof. John Francis Factorization homology (1)](https://www.youtube.com/watch?v=-lydyG-7eHk) | []() |
+[David Ayala - Factorization homology](https://www.youtube.com/watch?v=DIdciijOOEI&t=26s) | [HHHW01 Prof. John Francis Factorization homology (1)](https://www.youtube.com/watch?v=-lydyG-7eHk) | [HHHW01 Prof. John Francis Factorization homology (2)](https://www.youtube.com/watch?v=7ypET4LB4QM) |
 []() |
 
 
@@ -3803,7 +3803,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       framing 的作用是**指定方向**，如 22:30 里**流形上的一个三叉图**，frame 则给出了哪两个叉是**输入端**，哪个叉口是**输出端** [David Ayala - Factorization homology](https://www.youtube.com/watch?v=DIdciijOOEI&t=26s) 2026-9-14 13:41 崇德苑 209 室
 
-      [HHHW01 Prof. John Francis Factorization homology (1)](https://www.youtube.com/watch?v=-lydyG-7eHk) 2026-9-14 20:37 崇德苑 209 室
+      [HHHW01 Prof. John Francis Factorization homology (1)](https://www.youtube.com/watch?v=-lydyG-7eHk) and [HHHW01 Prof. John Francis Factorization homology (2)](https://www.youtube.com/watch?v=7ypET4LB4QM) 2026-9-14 20:37 崇德苑 209 室
 
 1125. 相对场论可以理解为配边范畴是由**两个配边范畴粘起来的场论**，或者两个函子的**自然变换**，见 17:00 的形象图示 [Claudia Scheimbauer - Relative field theories from relative dualizability](https://www.youtube.com/watch?v=86T21lj4qQ4) 正实数上的分解代数的具体例子对理解分解代数的定义很有帮助 [Eugene Rabinovich - Factorization algebras for quantum bulk boundary systems](https://www.youtube.com/watch?v=wk6zNuau9b4) 2026-9-12 9:05 崇德苑 209 室
 
