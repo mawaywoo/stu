@@ -3813,7 +3813,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1128. 低阶的例子 [John Francis: Factorization homology #ICBS2025](https://www.youtube.com/watch?v=deIhb0xVBnE) 2026-9-12 17:34 崇德苑 209 室
 
-1129. 
+1129. **切片范畴可以视为视为增加额外信息的一种方式**，如：Disk / X 表示所有**映到 X 的** Disk，而**不是任意的** Disk 2026-9-14 21:05 崇德苑 209 室
      
 
 
