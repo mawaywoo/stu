@@ -3818,7 +3818,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1129. **切片范畴可以视为视为增加额外信息的一种方式**，如：Disk / X 表示所有**映到 X 的** Disk，而**不是任意的** Disk 2026-9-14 21:05 崇德苑 209 室
 
-1130. [Tashi Walde, Assembly of Constructible Factorization Algebras, 1/4, GeoTop Masterclass](https://www.youtube.com/watch?v=yJUHnQRRANk&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=9&t=11s) 2026-9-19 10:32 崇德苑 209 室
+1130. 对分解代数的定义的动机解释得很好 [Tashi Walde, Assembly of Constructible Factorization Algebras, 1/4, GeoTop Masterclass](https://www.youtube.com/watch?v=yJUHnQRRANk&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=9&t=11s) 2026-9-19 10:32 崇德苑 209 室
      
 
 
