@@ -3820,7 +3820,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1130. 对分解代数的定义的动机解释得很好 [Tashi Walde, Assembly of Constructible Factorization Algebras, 1/4, GeoTop Masterclass](https://www.youtube.com/watch?v=yJUHnQRRANk&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=9&t=11s) 2026-9-19 10:32 崇德苑 209 室
 
-1131. 同样的构件方法，在不同的范畴中构建出来的结构是不一样的，因为不同范畴所提供的**基本构件是不一样的**，比如范畴 C 中的单纯对象构建，都是 **Delta 这种构造方式，选不同的底范畴 C，基本构件 X([n]) 是不一样的**（在 C **为 Cat 时，X([n]) 就已经含有对象和态射这些信息了**，而 C 若仅为某个 1-范畴时，X([n]) 仅表示 C 中的一个对象，再无其他信息），它们的粘接方式也会不一样，31:07；在高阶范畴中，通常会**把高阶态射前置地储藏在基本构件中**；此外，**一个构造中同一层级的结构可能编码的是高阶范畴中不同层级的结构，如 31:07 中 Cat 中单纯对象 X，X([0]) 和 X([1]) 都属于范畴，但它们编码的却分别是双范畴中的对象、水平态射以及垂直态射、2-态射这两个不同层级的结构**；在学习高阶范畴的各个结论时，要**尽量去“看”到高阶态射的位置和变换**。[BilTop Rune Haugseng | Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8&t=257s) 2026-9-24 14:36 崇德苑 209 室
+1131. 同样的构件方法，在不同的范畴中构建出来的结构是不一样的，因为不同范畴所提供的**基本构件是不一样的**，比如范畴 C 中的单纯对象构建，都是 **Delta 这种构造方式，选不同的底范畴 C，基本构件 X([n]) 是不一样的**（在 C **为 Cat 时，X([n]) 就已经含有对象和态射这些信息了**，而 C 若仅为某个 1-范畴时，X([n]) 仅表示 C 中的一个对象，再无其他信息），它们的粘接方式也会不一样，31:07；在高阶范畴中，通常会**把不同阶态射储藏在不同的基本构件中**；此外，**一个构造中同一层级的结构可能编码的是高阶范畴中不同层级的结构，如 31:07 中 Cat 中单纯对象 X，X([0]) 和 X([1]) 都属于范畴，但它们编码的却分别是双范畴中的对象、水平态射以及垂直态射、2-态射这两个不同层级的结构**；在学习高阶范畴的各个结论时，要**尽量去“看”到高阶态射的位置和变换**。[BilTop Rune Haugseng | Higher Morita categories](https://www.youtube.com/watch?v=67gGDM0ouS8&t=257s) 2026-9-24 14:36 崇德苑 209 室
      
 
 
