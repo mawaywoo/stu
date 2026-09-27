@@ -3825,6 +3825,9 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1132. [Transformer 到底是个啥？一个动画彻底搞懂](https://www.youtube.com/watch?v=jn7XU4OaIaE) and [到底什么是 KV Cache，为啥不是 QKV Cache，一个动画彻底搞懂！](https://www.youtube.com/watch?v=jAPvlIf64FM) and [从零看懂 Transformer：现代 AI 的核心秘密到底是什么](https://www.youtube.com/watch?v=YGJoekx6bug) 讲得很清楚 2026-9-26 14:32 崇德苑 209 室
 
 1133. [Geordie Williamson "Can AI Help Us Discover Interesting Mathematics?"](https://www.youtube.com/watch?v=0Tgftb5ELvE) 讲了三个例子 and [Geordie Williamson "Mental Models for Neural Networks"](https://www.youtube.com/watch?v=5LDagOaWZnw) and [Geordie Williamson "Searching for interesting mathematical objects with neural networks"](https://www.youtube.com/watch?v=hVIBiwWWaqM) 2026-9-26 16:54 崇德苑 209 室
+
+1134. 在无穷范畴当中，一定要区分清楚你要取的是**两个对象之间的一个态射还是这两个对象之间的整个态射谱**，前者不涉及无穷数据。[Merlin Christ - A gentle introduction to sheaves of stable infinity-categories](https://merlinchrist.eu/notes.html) 2026-9-27 13:08 崇德苑 209 室
+
      
 
 
