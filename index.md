@@ -3829,6 +3829,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1134. 在无穷范畴当中，一定要区分清楚你要取的是**两个对象之间的一个态射还是这两个对象之间的整个态射谱**，前者不涉及无穷数据。见 Definition 3.9 前面那一段：[Merlin Christ - A gentle introduction to sheaves of stable infinity-categories](https://merlinchrist.eu/notes.html) and [Introduction to perverse schobers](https://merlinchrist.eu/notes.html) and **类似于从函子（层）的 Grothendieck 构造产生一个代数，进而得到模范畴的等价，这里也是利用函子（层）的 Grothendieck 构造（limit）产生一个代数，进而得到导出范畴的等价**（此时考虑的是无穷范畴），见 26:50，其**本质都是从【函子的 Grothendieck 构造，即函子（层）的截断】中产生一个代数**，其背后的模式为：**函子或者层 <—— 函子或者层的截断（借助 Grothendieck 构造或者 limit）——> 代数**（⚠️） [Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) 2026-9-27 13:08 崇德苑 209 室
 
+1135. **类似于从函子（层）的 Grothendieck 构造产生一个代数，进而得到模范畴的等价，这里也是利用函子（层）的 Grothendieck 构造（limit）产生一个代数，进而得到导出范畴的等价**（此时考虑的是无穷范畴），见 26:50，其**本质都是从【函子的 Grothendieck 构造，即函子（层）的截断】中产生一个代数**，其背后的模式为：**函子或者层 <—— 函子或者层的截断（借助 Grothendieck 构造或者 limit）——> 代数，进而产生模范畴或者导出范畴的等价**（⚠️） [Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) 2026-9-27 14:45 崇德苑 209 室
+
      
 
 
