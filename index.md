@@ -3834,6 +3834,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1136. **在无穷范畴中，一定要区分清楚考虑的到底是两个对象 a, b 之间的一个态射 f: a ——> b，还是两个对象 a, b 之间的整个态射空间 Map(a, b)，前者不涉及无穷 data** [Higher Algebra 1: ∞-Categories](https://www.youtube.com/watch?v=3IjAy0gHRyY&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=1&t=3218s) and **在考虑 Map(x, y) 的时候取得是无穷 data（整个态射空间），仅仅取对象 x，或者态射 f: x ——> y，或者自然变换 eta: c_y ——> F 等都不涉及（⚠️）无穷数据，它们仅仅是取自无穷范畴中某个具体的数据（具体的某个 cell）**；报告最后的 remark 说这里采用的 limit 定义和其他书采用的定义是等价的，只是大家采用了不同的模型 [Higher algebra 2: Limits](https://www.youtube.com/watch?v=H_l4Rsfa_P0&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=2) 2026-9-28 21:20 崇德苑 209 室
 
+      [Higher Algebra 3: Colimits](https://www.youtube.com/watch?v=P64Ig3PUIS4&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=3)
+
      
 
 
