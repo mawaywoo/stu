@@ -3832,7 +3832,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1135. **类似于从函子（层）的 Grothendieck 构造产生一个代数，进而得到模范畴的等价，这里也是利用函子（层）的 Grothendieck 构造（limit）产生一个代数，进而得到导出范畴的等价**（此时考虑的是无穷范畴），见 26:50，其**本质都是从【函子的 Grothendieck 构造，即函子（层）的截断】中产生一个代数**，其背后的模式为：**函子或者层 <—— 函子或者层的截断（借助 Grothendieck 构造或者 limit）——> 代数，进而产生模范畴或者导出范畴的等价**（⚠️） [Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA) 2026-9-27 14:45 崇德苑 209 室
 
-1136. **在无穷范畴中，一定要区分清楚考虑的到底是两个对象 a, b 之间的一个态射 f: a ——> b，还是两个对象 a, b 之间的整个态射空间 Map(a, b)，前者不涉及无穷 data** [Higher Algebra 1: ∞-Categories](https://www.youtube.com/watch?v=3IjAy0gHRyY&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=1&t=3218s) 2026-9-28 21:20 崇德苑 209 室
+1136. **在无穷范畴中，一定要区分清楚考虑的到底是两个对象 a, b 之间的一个态射 f: a ——> b，还是两个对象 a, b 之间的整个态射空间 Map(a, b)，前者不涉及无穷 data** [Higher Algebra 1: ∞-Categories](https://www.youtube.com/watch?v=3IjAy0gHRyY&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=1&t=3218s) and **在考虑 Map(x, y) 的时候取得是无穷 data（整个态射空间），仅仅取对象 x，或者态射 f: x ——> y，或者自然变换 eta: c_y ——> F 等都不涉及（⚠️）无穷数据，它们仅仅是取自无穷范畴中某个具体的数据（具体的某个 cell）** [Higher algebra 2: Limits](https://www.youtube.com/watch?v=H_l4Rsfa_P0&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=2) 2026-9-28 21:20 崇德苑 209 室
 
      
 
