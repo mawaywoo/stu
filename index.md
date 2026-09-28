@@ -477,6 +477,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Juliet Cooke - Factorisation Homology and Factorisation Homology](https://www.youtube.com/watch?v=dO2FWjhWAuI&t=40s) | [Factorization homology of rigid braided categories](https://www.youtube.com/watch?v=9HESDfUpZck) | [Juliet Cooke: Skein categories](https://www.youtube.com/watch?v=TwlGKZdye7Q) |
 [David Ayala - Factorization homology](https://www.youtube.com/watch?v=DIdciijOOEI&t=26s) | [HHHW01 Prof. John Francis Factorization homology (1)](https://www.youtube.com/watch?v=-lydyG-7eHk) | [HHHW01 Prof. John Francis Factorization homology (2)](https://www.youtube.com/watch?v=7ypET4LB4QM) |
 [Chiral algebras, factorization algebras, and Borcherds' "singular commutative rings" approach  to vertex algebras](https://www.youtube.com/watch?v=FWnu0CN5G7Q) | [Panel Discussion: AI in Mathematical Research  September 15](https://www.youtube.com/watch?v=H7_d_sgui6o) | [Perverse Sheaves and their Categorification in Geometry and Representation Theory](https://www.univiu.org/study/summer-schools/perverse-sheaves-geometry-representation-theory) |
+[FRG workshop on higher categories and geometry](https://antieau.github.io/workshops/2026-03-frg.html) | []() | []() |
 []() |
 
 
