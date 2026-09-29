@@ -3836,6 +3836,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       **无穷范畴 admit geometric realization 是指具有 N(Delta^op)-indexed colimit**，见 46:20 [Higher Algebra 3: Colimits](https://www.youtube.com/watch?v=P64Ig3PUIS4&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=3) 2026-9-29 22:22 崇德苑 209 室
 
+      [Higher algebra 4: Derived categories as ∞-categories](https://www.youtube.com/watch?v=AJr7ntmIu3E&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=4)
+
      
 
 
