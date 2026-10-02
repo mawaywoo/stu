@@ -3855,7 +3855,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       我突然理解为什么范畴论专家（特别是无穷范畴论专家）都喜欢选择纤细的字体，因为要随意地拿出一个 cell 出来，有无穷多个 cell，**每个 cell 只是无穷数据中的沧海一粟**，而且也需要给后面的 cell 预留空间，好比画家作大幅画作时，总会使用纤细的笔触。我突然也喜欢上了这种纤细的字体，因为处理无穷，就需要把取出的每个单独的 cell 都预留位置以作窥探。2026-9-30 13:28 崇德苑 209 室
 
-1139. **对 Segal 条件解释得很自然**，见 28:16 的交换图，为了使左侧态射等价（n-态射的合成空间是可缩的），这就逼迫右侧态射等价（即 Segal 条件）[Jack Romo - Homotopy Bicategories of (infinity,2)-categories](https://www.youtube.com/watch?v=1YYWFcqKkSY&t=402s) 2026-10-2 20:33 崇德苑 209 室
+1139. **对 Segal 条件和 (infinity, n)-范畴的定义都解释得很自然**，见 28:16 的交换图，为了使左侧态射等价（n-态射的合成空间是可缩的），这就逼迫右侧态射等价（即 Segal 条件）[Jack Romo - Homotopy Bicategories of (infinity,2)-categories](https://www.youtube.com/watch?v=1YYWFcqKkSY&t=402s) 2026-10-2 20:33 崇德苑 209 室
 
 
 
