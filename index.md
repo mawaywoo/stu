@@ -3851,7 +3851,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       Grothendieck Universe 解决 size 问题，用的还是 sets 而不是 class 语言，原因就是 sets 具有选择公理可以用；见 24:00 Map(-, -) 的 codomain 可能是大空间，需要保证它是局部小的空间；这些 size 的问题都可以通过 Grothendieck Universe 解决，只要记录好各个 Universe 的层级；**范畴 C 的函子范畴 P(C) 以及它的关于某些 K-indexed 余极限封闭的子范畴 P^K(C) 可以理解为对 C 的线性化，因此 48:00 的等价 Fun^K(P^K(C), D) = Fun(C, D) 可以理解为线性函子与非线性函子范畴之间的等价**；几何实现（**geometric realization）是 Delta-indexed 余极限，x 是投射的当且仅当 Map(x, -) 和几何实现交换**，见 1:05:37 [Higher Algebra 7: Non-abelian derived functors](https://www.youtube.com/watch?v=8YlyEM4aRsA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=7) 2026-10-2 19:52 崇德苑 209 室
 
-      在谱范畴 Sp 中做类似于三角范畴的一些事情：比如：紧对象，紧生成性，t-结构，heart 等等 [Higher Algebra 8: Spectra](https://www.youtube.com/watch?v=JLiwKc7FZuc&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=8) 2026-10-3 16:27 崇德苑 209 室
+      在谱范畴 Sp 中做类似于三角范畴的一些事情：比如：紧对象，紧生成性，t-结构，heart 等等；可以**类比三角范畴理论去理解稳定无穷范畴理论，特别地，谱范畴 Sp 的理论** [Higher Algebra 8: Spectra](https://www.youtube.com/watch?v=JLiwKc7FZuc&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=8) 2026-10-3 16:27 崇德苑 209 室
 
       []() 2026-10-4 17:03 崇德苑 209 室
 
