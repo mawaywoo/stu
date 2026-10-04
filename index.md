@@ -3861,7 +3861,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1139. **对 Segal 条件和 (infinity, n)-范畴的定义都解释得很自然**，见 28:16 的交换图，为了使左侧态射等价（n-态射的合成空间是可缩的），这就逼迫右侧态射等价（即 Segal 条件）[Jack Romo - Homotopy Bicategories of (infinity,2)-categories](https://www.youtube.com/watch?v=1YYWFcqKkSY&t=402s) 2026-10-2 20:33 崇德苑 209 室
 
-1140. 这里的 lax limit 构造（28:10）[Merlin Christ - Complexes of stable infinity categories](https://www.youtube.com/watch?v=NC8D0s93PFQ) 和第 28 页的 Definition-Proposition 2.9.2 的构造一样 [Stable ∞-categories for representation theorists](https://arxiv.org/pdf/2603.14970) 2026-10-4 21:10 崇德苑 209 室
+1140. 这里的 lax limit 构造（28:10）；时刻区分自己取出的是一个数据还是一堆数据，这很重要❗️无穷范畴真的可以定位到每一个单独数据的，因此无穷范畴不是混在一起的！[Merlin Christ - Complexes of stable infinity categories](https://www.youtube.com/watch?v=NC8D0s93PFQ) 和第 28 页的 Definition-Proposition 2.9.2 的构造一样 [Stable ∞-categories for representation theorists](https://arxiv.org/pdf/2603.14970) 2026-10-4 21:10 崇德苑 209 室
  
 
 
