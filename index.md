@@ -3853,7 +3853,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       在谱范畴 Sp 中做类似于三角范畴的一些事情：比如：紧对象，紧生成性，t-结构，heart 等等；可以**类比三角范畴理论去理解稳定无穷范畴理论，特别地，谱范畴 Sp 的理论** [Higher Algebra 8: Spectra](https://www.youtube.com/watch?v=JLiwKc7FZuc&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=8) 2026-10-3 16:27 崇德苑 209 室
 
-      []() 2026-10-4 17:03 崇德苑 209 室
+      [Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9) 2026-10-4 17:03 崇德苑 209 室
 
 1138. 无穷范畴中的每一个 cell 都是独一无二存在的，并且无穷范畴中的**每一个 cell 都可以单独取出来**考虑的；每一个 cell 可以**想象成一箭头、二箭头、三箭头等等**（便于区分它们和看到它们）；在研究无穷范畴时，时刻区分清楚当下**取出来的到底是单个 cell 还是 cell 之间的无穷相融数据**，前者是单个数据，后者涉及无穷数据；**无穷范畴中的每个数据都可以单独 access 的**！（意识到这点很重要，这样就不会总感觉处理无穷范畴时，感觉这些无穷数据都是混在一起的）比如单独拎出来一个一箭头，或者单独拎出来**一个三箭头**来观察，有时也可以把**一个三箭头及其以上的箭头都一起拿出来**（此时拿出来的是无穷数据，而不是单个数据）。**时刻区分自己取出的是一个数据还是一堆数据，这很重要❗️无穷范畴真的可以定位到每一个单独数据的，因此无穷范畴不是混在一起的！** 2026-9-30 10:17 湖光校区图书馆
 
