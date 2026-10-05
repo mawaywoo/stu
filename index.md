@@ -3855,7 +3855,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       **类似于在 Mod-R 中张量积 M ten N 的定义方式：单位元、单位元的直和、自由分解、将 N 转化为它的自由分解，再与 M 做张量积，可在 Sp 中定义两个谱的张量积：也是利用任意谱的“自由分解”**，见 37:41；这里对称无穷张量范畴的定义方式：**把该范畴按【张量积的分量重数】“拼接”起来，每个重数都编码了无穷数据，不同重数之间用 Fin_{star}（非对称的情形用 Delta 范畴） 进行链接**；高阶态射产生的根源：**低阶定义中的各个“交换图”都由高阶态射来见证**，不是真正意义上的交换图 [Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9) 2026-10-4 17:03 崇德苑 209 室
 
-      用于定义 E_n-Algebras 的对称 mon. 无穷范畴是由很具体的 1-范畴通过 Nerv 构造产生的无穷范畴：该具体的 1-范畴是 topologically enriched 范畴，见 12:00；**Delta-indexed 余极限 = 几何实现，Delta-indexed 余极限常常用于 Bar 构造** [Higher Algebra 10: E_n-Algebras](https://www.youtube.com/watch?v=WNeYUvdX9E0&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=10) 2026-10-5 21:07 崇德苑 209 室
+      用于定义 E_n-Algebras 的对称 mon. 无穷范畴是由很具体的 1-范畴通过 Nerv 构造产生的无穷范畴：该具体的 1-范畴是 topologically enriched 范畴，见 12:00；**Delta-indexed 余极限 = 几何实现，filtered 余极限 + 几何实现 = sifted 余极限，Delta-indexed 余极限常常用于 Bar 构造** [Higher Algebra 10: E_n-Algebras](https://www.youtube.com/watch?v=WNeYUvdX9E0&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=10) 2026-10-5 21:07 崇德苑 209 室
 
       [Higher Algebra 11: p-adic completion (corrected)](https://www.youtube.com/watch?v=MAOUNQ-I0BQ&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=11) 2026-10-5 22:45 崇德苑 209 室 
 
