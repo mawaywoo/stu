@@ -3853,7 +3853,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       在谱范畴 Sp 中做类似于三角范畴的一些事情：比如：紧对象，紧生成性，t-结构，heart 等等；可以**类比三角范畴理论去理解稳定无穷范畴理论，特别地，谱范畴 Sp 的理论** [Higher Algebra 8: Spectra](https://www.youtube.com/watch?v=JLiwKc7FZuc&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=8) 2026-10-3 16:27 崇德苑 209 室
 
-      **类似于在 Mod-R 中张量积 M ten N 的定义方式：单位元、单位元的直和、自由分解、将 N 转化为它的自由分解，再与 M 做张量积，可在 Sp 中定义两个谱的张量积：也是利用任意谱的“自由分解”**，见 37:41；这里对称无穷张量范畴的定义方式：**把该范畴按【张量积的分量重数】“拼接”起来，每个重数都编码了无穷数据，不同重数之间用 Fin_{star}（非对称的情形用 Delta 范畴） 进行链接**；高阶态射来自于**低阶定义中的各个“交换图”都由高阶态射来见证**，不是真正意义上的交换图 [Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9) 2026-10-4 17:03 崇德苑 209 室
+      **类似于在 Mod-R 中张量积 M ten N 的定义方式：单位元、单位元的直和、自由分解、将 N 转化为它的自由分解，再与 M 做张量积，可在 Sp 中定义两个谱的张量积：也是利用任意谱的“自由分解”**，见 37:41；这里对称无穷张量范畴的定义方式：**把该范畴按【张量积的分量重数】“拼接”起来，每个重数都编码了无穷数据，不同重数之间用 Fin_{star}（非对称的情形用 Delta 范畴） 进行链接**；高阶态射产生的根源：**低阶定义中的各个“交换图”都由高阶态射来见证**，不是真正意义上的交换图 [Higher Algebra 9: Symmetric monoidal infinity categories](https://www.youtube.com/watch?v=H_MA5PNE-aA&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=9) 2026-10-4 17:03 崇德苑 209 室
 
       [Higher Algebra 10: E_n-Algebras](https://www.youtube.com/watch?v=WNeYUvdX9E0&list=PLsmqTkj4MGTDenpj574aSvIRBROwCugoB&index=10) 2026-10-5 21:07 崇德苑 209 室 
 
