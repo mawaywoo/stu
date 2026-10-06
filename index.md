@@ -3867,7 +3867,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1138. 这里的 lax limit 构造（28:10(这里是非正式的解释该构造在对象和态射上的情形，没有涉及到高阶数据的处理) and 37:00(这里是正式的定义，将无穷数据都处理好了)）；时刻区分自己取出的是一个数据还是一堆数据，这很重要❗️无穷范畴真的可以定位到每一个单独数据的，因此无穷范畴不是混在一起的！[Merlin Christ - Complexes of stable infinity categories](https://www.youtube.com/watch?v=NC8D0s93PFQ) 和第 28 页的 Definition-Proposition 2.9.2 的构造一样 [Stable ∞-categories for representation theorists](https://arxiv.org/pdf/2603.14970) 2026-10-4 21:10 崇德苑 209 室
 
-1139. 一个 operad O 是一个类似于范畴的结构，但**它不是一个真的范畴⚠️**；它的对象**指的是对象的类型，而不是对象个数**，一个态射的输入端的对象可以是同种类型的多个对象；O(Y, x) 指的**不是一个态射，而是一个态射集⚠️**，所以此时还是属于 1-范畴的情形（态射全体是一个集合，而不是一个拓扑空间），21:30 中的对应让人误解：Comm(2) |——> A * A ——> A，右边应该改为 {A * A ——> A}，因为 Comm(2) 是一个态射集合，不是一个态射，所以右边也应该是一个态射集合，虽然这个集合只有唯一的元素，写不写大括号都无所谓，但不写就会让人困惑，我之前就是分不清 O(Y, x) 指的是一个态射还是一个态射集 [Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=12) 2026-10-6 18:10 崇德苑 209 室
+1139. 一个 operad O 是一个类似于范畴的结构，但**它不是一个真的范畴⚠️**；它的对象**指的是对象的类型，而不是对象个数**，一个态射的输入端的对象可以是同种类型的多个对象；O(Y, x) 指的**不是一个态射，而是一个态射集⚠️**，所以此时还是属于 1-范畴的情形（态射全体是一个集合，而不是一个拓扑空间），21:30 中的对应让人误解：Comm(2) |——> A * A ——> A，右边应该改为 {A * A ——> A}，因为 Comm(2) 是一个态射集合，不是一个态射，所以右边也应该是一个态射集合，虽然这个集合只有唯一的元素，写不写大括号都无所谓，但不写就会让人困惑，我之前就是分不清 O(Y, x) 指的是一个态射还是一个态射集；RH 写的没错，我漏看了他实际上写的是 * \in Comm(2)，而不是 Comm(2) [Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=12) 2026-10-6 18:10 崇德苑 209 室
  
 
 
