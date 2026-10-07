@@ -3869,7 +3869,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1139. 一个 operad O 是一个类似于范畴的结构，但**它不是一个真的范畴⚠️**，所以后面会把它变成一个真正的范畴 category operators 36:00，进而将此 1-范畴推广到无穷范畴；它的对象**指的是对象的类型，而不是对象个数**，一个态射的输入端的对象可以是同种类型的多个对象；O(Y, x) 指的**不是一个态射，而是一个态射集⚠️**，所以此时还是属于 1-范畴的情形（态射全体是一个集合，而不是一个拓扑空间），21:30 中的对应让人误解：Comm(2) |——> A * A ——> A，右边应该改为 {A * A ——> A}，因为 Comm(2) 是一个态射集合，不是一个态射，所以右边也应该是一个态射集合，虽然这个集合只有唯一的元素，写不写大括号都无所谓，但不写就会让人困惑，我之前就是分不清 O(Y, x) 指的是一个态射还是一个态射集；RH 写的没错，我漏看了他实际上写的是 * \in Comm(2)，而不是 Comm(2)，在 22:54 时，RH 写出了 **Asso(2) 这个态射集中的两个元素 1<2, 2<1** 的对应方式 [Rune Haugseng, Introduction to Infinity Operads, 1/5, GeoTop Masterclass](https://www.youtube.com/watch?v=gawH6dKsN9Y&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=12) 2026-10-6 18:10 崇德苑 209 室
 
-      树的信息：点、边、叶子、根，根据这些信息可以定义树为 19:00；树产生 operad 时，**树的边对应 operad 的对象（不是树的点对应 operad 的对象⚠️），树的点对应 operad 的 multimorphism**；48:00 有**更一般的 Segal 条件（等同于更一般的 horn 条件⚠️），用 algebraic pattern 的语言来表达，将 X[0], X[1] 的拉回用更一般的初等对象上的极限来表示⚠️** [Rune Haugseng, Introduction to Infinity Operads, 2/5, GeoTop Masterclass](https://www.youtube.com/watch?v=--gzeW5_Mxo&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=11) 2026-10-6 21:02 崇德苑 209 室
+      树的信息：点、边、叶子、根，根据这些信息可以定义树为 19:00；树产生 operad 时，**树的边对应 operad 的对象（不是树的点对应 operad 的对象⚠️），树的点对应 operad 的 multimorphism**；48:00 有**更一般的 Segal 条件（等同于更一般的 horn 条件⚠️），用 algebraic pattern 的语言来表达，将 X[0], X[1] 的拉回用更一般的初等对象上的极限来表示，54:00 有 dendroidal set 的初等对象，单个边和 n-corolla，类似于 Delta 中的对象和 1-态射⚠️** [Rune Haugseng, Introduction to Infinity Operads, 2/5, GeoTop Masterclass](https://www.youtube.com/watch?v=--gzeW5_Mxo&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=11) 2026-10-6 21:02 崇德苑 209 室
 
       []()
 
