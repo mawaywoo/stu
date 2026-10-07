@@ -3877,7 +3877,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       []()
 
-1140. **Segal 条件 （一边的 n-cell，另一边是 horn or spine）= horn filling 条件，也可以理解为 decomposition 条件，Segal 条件有更一般的推广，见 1139 条的第二自然段**⚠️；函子范畴意味着用 codomain 范畴作为基础层级构件，按照 domain 范畴的方式去拼接新构件，如 double infinity- category，表示各个 cells 都是无穷范畴，用无穷函子按 Delta 的方式拼接出一个更高阶的新范畴；函子的理解（**不同于之前对函子理解**：将 domain 的结构加入 codomain，现在理解为 在 codomain 中模拟 domain）：**用 codomain 去模拟 domain，或者理解为 domain 在 codomain 中的影子**⚠️；举一些 RH 论文中的例子： **Coll_X(V) 表示在 V 中模拟对象取自 X 中元素的 operad 态射 (x_1, …, x_n, x)，Alg_O(Coll_X(V)) 表示进一步在 Coll_X(V) 中模拟 operad O 的结构** [Algebras for enriched ∞-operads](https://arxiv.org/pdf/1909.10042) 2026-10-7 10:54 崇德苑 209 室
+1140. **Segal 条件 （一边的 n-cell，另一边是 horn or spine）= horn filling 条件，也可以理解为 decomposition 条件，Segal 条件有更一般的推广，见 1139 条的第二自然段**⚠️；函子范畴意味着用 codomain 范畴作为基础层级构件，按照 domain 范畴的方式去拼接新构件，如 double infinity- category，表示各个 cells 都是无穷范畴，用无穷函子按 Delta 的方式拼接出一个更高阶的新范畴；函子的理解（**不同于之前对函子理解**：将 domain 的结构加入 codomain，现在理解为 在 codomain 中模拟 domain）：**用 codomain 去模拟 domain，或者理解为 domain 在 codomain 中的影子**⚠️；举一些 RH 论文中的例子： **Coll_X(V) 表示在 V 中模拟对象取自 X 中元素的 operad 态射 (x_1, …, x_n, x)，Alg_O(Coll_X(V)) 表示进一步在 Coll_X(V) 中模拟 operad O 的结构**；函子和纤维范畴（结合 1139 条的第三自然段）都可以理解为**在某个范畴中模拟另一个范畴，但需要问两个问题：1. 模拟的是哪个范畴 2. 模拟该范畴中的哪部分信息**，即**模拟是有程度之分的**⚠️ [Algebras for enriched ∞-operads](https://arxiv.org/pdf/1909.10042) 2026-10-7 10:54 崇德苑 209 室
  
 
 
