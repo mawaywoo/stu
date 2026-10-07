@@ -3871,7 +3871,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       树的信息：点、边、叶子、根，根据这些信息可以定义树为 19:00；树产生 operad 时，**树的边对应 operad 的对象（不是树的点对应 operad 的对象⚠️），树的点对应 operad 的 multimorphism**；48:00 有**更一般的 Segal 条件（等同于更一般的 horn 条件，也可以理解为 decomposition 条件，见 58：30⚠️），用 algebraic pattern 的语言来表达，将 X[0], X[1] 的拉回用更一般的初等对象上的极限来表示，54:00 有 dendroidal set 的初等对象，单个边和 n-corolla，类似于 Delta 中的对象和 1-态射，55:32 有具体的例子⚠️** [Rune Haugseng, Introduction to Infinity Operads, 2/5, GeoTop Masterclass](https://www.youtube.com/watch?v=--gzeW5_Mxo&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=11) 2026-10-6 21:02 崇德苑 209 室
 
-      纤维范畴也可以理解为函子，因此类似于 1140 条对函子的理解，**纤维范畴也可以理解为对底范畴进行模拟，上范畴是底范畴的影子，影子的厚度取决于上范畴提供的构件的厚度（e.g. 无穷范畴 or 1-范畴）** [Rune Haugseng, Introduction to Infinity Operads, 3/5, GeoTop Masterclass](https://www.youtube.com/watch?v=Ybfn7PnQfI4&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=8) 2026-10-7 15:31 崇德苑 209 室
+      纤维范畴也可以理解为函子，因此类似于 1140 条对函子的理解，**纤维范畴也可以理解为对底范畴进行模拟⚠️，上范畴是底范畴的影子，影子的厚度取决于上范畴提供的构件的厚度（e.g. 无穷范畴 or 1-范畴）**，此外，**纤维范畴的上范畴对底范畴的模拟也有程度之分⚠️，即模拟底范畴中的哪部分信息，或者说底范畴哪部分信息能够 lift 到上范畴中来，据此可以得到不同的 fibration**，如：左、右纤维范畴，（余）笛卡尔纤维范畴等等 [Rune Haugseng, Introduction to Infinity Operads, 3/5, GeoTop Masterclass](https://www.youtube.com/watch?v=Ybfn7PnQfI4&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=8) 2026-10-7 15:31 崇德苑 209 室
 
       []()
 
