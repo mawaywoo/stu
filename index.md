@@ -3871,7 +3871,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       [Rune Haugseng, Introduction to Infinity Operads, 2/5, GeoTop Masterclass](https://www.youtube.com/watch?v=--gzeW5_Mxo&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=11) 2026-10-6 21:02 崇德苑 209 室
 
-1140. **Segal 条件 （一边的 n-cell，另一边是 horn or spine）= horn filling 条件**；函子范畴意味着用 codomain 范畴作为基础层级构件，按照 domain 范畴的方式去拼接新构件，如 double infinity- category，表示各个 cells 都是无穷范畴，用无穷函子按 Delta 的方式拼接出一个更高阶的新范畴；函子的理解：**用 codomain 去模拟 domain，或者理解为 domain 在 codomain 中的影子**；举一些 RH 论文中的例子： **Coll_X(V) 表示在 V 中模拟对象取自 X 中元素的 operad 态射 (x_1, …, x_n, x)，Alg_O(Coll_X(V)) 表示进一步在 Coll_X(V) 中模拟 operad O 的结构** [Algebras for enriched ∞-operads](https://arxiv.org/pdf/1909.10042) 2026-10-7 10:54 崇德苑 209 室
+1140. **Segal 条件 （一边的 n-cell，另一边是 horn or spine）= horn filling 条件**⚠️；函子范畴意味着用 codomain 范畴作为基础层级构件，按照 domain 范畴的方式去拼接新构件，如 double infinity- category，表示各个 cells 都是无穷范畴，用无穷函子按 Delta 的方式拼接出一个更高阶的新范畴；函子的理解：**用 codomain 去模拟 domain，或者理解为 domain 在 codomain 中的影子**⚠️；举一些 RH 论文中的例子： **Coll_X(V) 表示在 V 中模拟对象取自 X 中元素的 operad 态射 (x_1, …, x_n, x)，Alg_O(Coll_X(V)) 表示进一步在 Coll_X(V) 中模拟 operad O 的结构** [Algebras for enriched ∞-operads](https://arxiv.org/pdf/1909.10042) 2026-10-7 10:54 崇德苑 209 室
  
 
 
