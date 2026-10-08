@@ -3873,7 +3873,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       纤维范畴也可以理解为函子，因此类似于 1140 条对函子的理解，**纤维范畴也可以理解为对底范畴进行模拟⚠️，上范畴是底范畴的影子，影子的厚度取决于上范畴提供的构件的厚度（e.g. 无穷范畴 or 1-范畴）**，此外，**纤维范畴的上范畴对底范畴的模拟也有程度之分⚠️，即模拟底范畴中的哪部分信息，或者说底范畴哪部分信息能够 lift 到上范畴中来，据此可以得到不同的 fibration**，如：左、右纤维范畴，（余）笛卡尔纤维范畴等等；**以后看到 sym. mon. 无穷范畴、无穷 operad、无穷范畴等，都需要从函子或者纤维范畴的角度去理解，进而理解为在某个范畴中模拟另一个范畴，故需要问两个问题：1. 模拟的是哪个范畴 2. 模拟该范畴中的哪部分信息，记得模拟是有程度之分的**⚠️ [Rune Haugseng, Introduction to Infinity Operads, 3/5, GeoTop Masterclass](https://www.youtube.com/watch?v=Ybfn7PnQfI4&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=8) 2026-10-7 15:31 崇德苑 209 室
 
-      [Rune Haugseng, Introduction to Infinity Operads, 4/5, GeoTop Masterclass](https://www.youtube.com/watch?v=ZQJPtIgvo8M&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=6)
+      包络 operad 构造的想法：在**已有的 L-coCartesian lift** 基础上**再添上 R-coCartesian lift Ar_R(C)**，便得到**所有的 coCartesian lift** [Rune Haugseng, Introduction to Infinity Operads, 4/5, GeoTop Masterclass](https://www.youtube.com/watch?v=ZQJPtIgvo8M&list=PLAMniZX5MiiKLaqLT7t8tFmBf44Sc-NDH&index=6) 2026-10-8 9:36 崇德苑 209 室
 
       []()
 
