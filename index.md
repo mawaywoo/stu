@@ -3887,7 +3887,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       **从 codomain 模拟 domain 的角度去理解函子**，这里的 domain 是 **Oriental 范畴，不同于 Delta，多了一些高维 cell data（比较 2-cell 的情形），需要将这些高维 cell 标记为 identities，就可以回到通常的 Nerve 函子了**，即 domain 为 Delta 的函子 [Orientals](https://www.youtube.com/watch?v=bs-Pe3Com0M&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=1&t=338s) 2026-10-9 21:27 崇德苑 209 室
 
-      Marked 单纯集的想法，见第一自然段末尾：**本质上就是在给出一套标记单纯集的法则（不是任意地标记方式都可以⚠️），即按某种指定的方式去标注单纯集中的各阶可逆态射**；Marked 单纯集比单纯集多了更多限制，但 Marked 单纯集的**全体**是比单纯集的全体要大的，因为单纯集也只是某种特殊的 Marked 单纯集（即没有任何 Marked 的单纯集），见 6:01 [Marked nerve](https://www.youtube.com/watch?v=H5IhBpOwFq8&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=2) 2026-10-10 10:31 湖光校区图书馆
+      Marked 单纯集的想法，见第一自然段末尾：**本质上就是在给出一套标记单纯集的法则（不是任意地标记方式都可以⚠️），即按某种指定的方式去标注单纯集中的各阶可逆态射**；Marked 单纯集比单纯集多了更多限制，但 Marked 单纯集的**全体**是比单纯集的全体要大的，因为单纯集也只是某种特殊的 Marked 单纯集（即没有任何 Marked 的单纯集），见 6:01 [Marked nerve](https://www.youtube.com/watch?v=H5IhBpOwFq8&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=2) and 这里的 Delta^k[n] 和 Delta[n] 不一样，前者表示 Marked 单形，k 表示 Marked 的位置，容易和 horn 的记号混淆 [Complicial simplices](https://www.youtube.com/watch?v=klGw2KEiVr0&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=3) 2026-10-10 10:31 湖光校区图书馆
  
 
 
