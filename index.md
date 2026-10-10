@@ -3885,9 +3885,9 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1141. **标记单形把 quasi-category 中“隐式的同伦”变成了“显式的标记”**。在 Lurie 的 marked simplicial set 中，通常只标记 1-单形，表示哪些 1-态射是等价。而在 complicial set 中，**标记可以出现在所有维度，称为薄单形，用来编码高阶等价**。**标记单纯集的底层是一个单纯集，额外指定了哪些单形是薄的。标记单纯集范畴的对象比单纯集范畴 sSet 多。因为同一个单纯集可以赋予不同的薄单形集合，从而得到不同的标记单纯集**。不像 quasi-category 那样，隐性地表述可逆态射的存在性，complicial set **直白地标出所有的可逆（各阶）态射⚠️**，见 37:30 的各个例子解释，**例子中的各种态射提升是指：只要具有态射 domain 的构造，就可以保证 codomain 的构造的存在性（domain 的构造及标记/同构一定会产生 codomain 的构造的标记/同构**），在单纯集上的标记虽然可以很任意，**但是在定义 complicial set 的时候，我们【让这些标记遵循一定的规定】，定义中这些态射提升就是在“制定标记单纯集的法则**”⚠️ 所以，简单来看，**complicial set 的定义本质上就是在给出一套标记单纯集的法则（不是任意地标记方式都可以⚠️），即按某种指定的方式去标注单纯集中的各阶可逆态射** ["n-Complicial sets as a model for (∞,n)-categories", talk by Martina Rovelli at CQTS @NYU Abu Dhabi](https://www.youtube.com/watch?v=T9Bg1AdaKv8&t=1578s) and [Complicial stuff](https://www.youtube.com/playlist?list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX) 2026-10-9 16:03 崇德苑 209 室
 
-      **从 codomain 模拟 domain 的角度去理解函子**，这里的 domain 是 **Oriental 范畴，不同于 Delta，多了一些高维 cell data（比较 2-cell 的情形），需要将这些高维 cell 标记为 identities，就可以回到通常的 Nerve 函子了**，即 domain 为 Delta 的函子 [Orientals](https://www.youtube.com/watch?v=bs-Pe3Com0M&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=1&t=338s)  2026-10-9 21:27 崇德苑 209 室
+      **从 codomain 模拟 domain 的角度去理解函子**，这里的 domain 是 **Oriental 范畴，不同于 Delta，多了一些高维 cell data（比较 2-cell 的情形），需要将这些高维 cell 标记为 identities，就可以回到通常的 Nerve 函子了**，即 domain 为 Delta 的函子 [Orientals](https://www.youtube.com/watch?v=bs-Pe3Com0M&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=1&t=338s) 2026-10-9 21:27 崇德苑 209 室
 
-      Marked 单纯集的想法，见第一自然段末尾：**本质上就是在给出一套标记单纯集的法则（不是任意地标记方式都可以⚠️），即按某种指定的方式去标注单纯集中的各阶可逆态射**；Marked 单纯集比单纯集多了更多限制，但 Marked 单纯集的**全体**是比单纯集的全体要大的，因为单纯集也只是某种特殊的 Marked 单纯集（即没有任何 Marked 的单纯集） [Marked nerve](https://www.youtube.com/watch?v=H5IhBpOwFq8&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=2)
+      Marked 单纯集的想法，见第一自然段末尾：**本质上就是在给出一套标记单纯集的法则（不是任意地标记方式都可以⚠️），即按某种指定的方式去标注单纯集中的各阶可逆态射**；Marked 单纯集比单纯集多了更多限制，但 Marked 单纯集的**全体**是比单纯集的全体要大的，因为单纯集也只是某种特殊的 Marked 单纯集（即没有任何 Marked 的单纯集），见 6:01 [Marked nerve](https://www.youtube.com/watch?v=H5IhBpOwFq8&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=2) 2026-10-10 10:31 湖光校区图书馆
  
 
 
