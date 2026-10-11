@@ -3889,7 +3889,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       Marked 单纯集的想法，见第一自然段末尾：**本质上就是在给出一套标记单纯集的法则（不是任意地标记方式都可以⚠️），即按某种指定的方式去标注单纯集中的各阶可逆态射**；Marked 单纯集比单纯集多了更多限制，但 Marked 单纯集的**全体**是比单纯集的全体要大的，因为单纯集也只是某种特殊的 Marked 单纯集（即没有任何 Marked 的单纯集），见 6:01 [Marked nerve](https://www.youtube.com/watch?v=H5IhBpOwFq8&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=2) and 这里的 Delta^k[n] 和 Delta[n] 不一样，前者表示 Marked 单形（所以 6:20 的交换图和 Lurie 的 Quasi-category 定义中的交换图的左下角不一样⚠️），k 表示 Marked 的位置，容易和 horn 的记号混淆，这些 Marked 单形看第一自然段中 Martina Rovelli 的报告会更形象，那里有图示 [Complicial simplices](https://www.youtube.com/watch?v=klGw2KEiVr0&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=3) and [Weak complicial sets](https://www.youtube.com/watch?v=5L_827DMMKs&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=4) and [Orientals as free weak ω-categories](https://www.youtube.com/watch?v=hXb8_ADkdjE&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=5) and [The category of orientals](https://www.youtube.com/watch?v=2p3erHx-q8E&list=PLwGhUK6zG5NQRQNa_JzLvVDGl6ki_T0mX&index=6) 2026-10-10 10:31 湖光校区图书馆
 
-1142. [Gustavo Jasso 1/4 - The Derived Auslander-Iyama Correspondence](https://www.youtube.com/watch?v=F92OtPaV6W8&list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b&index=8&t=213s) 2026-10-11 19:18 崇德苑 209 室
+1142. 三角范畴中的 shift [d] 理解为它的本意会更好（不仅仅理解为复形的平移），即自等价运算 [Gustavo Jasso 1/4 - The Derived Auslander-Iyama Correspondence](https://www.youtube.com/watch?v=F92OtPaV6W8&list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b&index=8&t=213s) 2026-10-11 19:18 崇德苑 209 室
  
 
 
