@@ -3895,7 +3895,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       能快速掌握稳定无穷范畴的理论的必要知识（结合前面两个报告）[Abstract representation theory via coherent Auslander-Reiten diagrams](https://arxiv.org/abs/2511.02731) 2026-10-12 13:02 崇德苑 209 室
 
-1144. Exit path category 是一个由 1-范畴通过 Nerve 产生的无穷范畴，所以，它本质上就是一个 1-范畴 [Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b&index=12) 2026-10-12 20:41 崇德苑 209 室
+1144. Exit path category 是一个由 1-范畴通过 Nerve 产生的无穷范畴，所以，它本质上就是一个 1-范畴 [Merlin Christ 1/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=iUQNpAwfLFs&list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b&index=12) and [Merlin Christ 2/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=AvU6GejenxI&list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b&index=11) 2026-10-12 20:41 崇德苑 209 室
  
 
 
