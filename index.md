@@ -3892,6 +3892,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1142. 三角范畴中的 shift [d] 理解为它的本意会更好（不仅仅理解为复形的平移），即自等价运算 [Gustavo Jasso 1/4 - The Derived Auslander-Iyama Correspondence](https://www.youtube.com/watch?v=F92OtPaV6W8&list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b&index=8&t=213s) 2026-10-11 19:18 崇德苑 209 室
 
 1143. [Bastiaan Cnossen - Introduction to stable ∞-categories, part 1 (1/7/25, KK+H workshop)](https://www.youtube.com/watch?v=0mI0gwzHNLc) and [Bastiaan Cnossen - Introduction to stable ∞-categories, part 2 (1/8/25, KK+H workshop)](https://www.youtube.com/watch?v=EmPQMKoh8TU) 2026-10-11 21:11 崇德苑 209 室
+
+      能快速掌握稳定无穷范畴的理论的必要知识（结合前面两个报告）[Abstract representation theory via coherent Auslander-Reiten diagrams](https://arxiv.org/abs/2511.02731) 2026-10-12 13:02 崇德苑 209 室
  
 
 
