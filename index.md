@@ -3899,7 +3899,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       把函子理解为 codomain 模拟 domain，**所以 domain 之间的各种变换就可以通过 codomain 的各种运算来实现，如图（1-范畴）的缩并就可以通过无穷范畴的拉回来模拟⚠️**；把函子理解为 codomain 模拟 domain，**所以各种 codomain 的运算也可以约化到 domain 的变换⚠️**，见 10:00 命题的证明 [Merlin Christ 3/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=H1q2m1evdZo&list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b&index=10) 2026-10-13 10:06 崇德苑 209 室
 
-1145. 神经网络其本质可以理解为一个**已经训练（通过为达到某些预期条件而定义的某些恰当的损失函数来规训、调整）好的确定的（固定的）**“函数”或者“算子” [【官方】2025小迈步之使用 AI 求解偏微分方程：探索 PINN 和 NO 的应用](https://www.bilibili.com/video/BV15ioiY5EJp/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2)  2026-11-11 10:06 崇德苑 209 室
+1145. 神经网络其本质可以理解为一个**已经训练（通过为达到某些预期条件而定义的某些恰当的损失函数来规训、调整）好的确定的（固定的）**“函数”或者“算子”，该“函数”可以理解为由线性 ax+b 和非线性 sin x 等的函数多重复合得到的 [【官方】2025小迈步之使用 AI 求解偏微分方程：探索 PINN 和 NO 的应用](https://www.bilibili.com/video/BV15ioiY5EJp/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2)  2026-11-11 10:06 崇德苑 209 室
  
 
 
