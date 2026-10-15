@@ -3900,9 +3900,11 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       把函子理解为 codomain 模拟 domain，**所以 domain 之间的各种变换就可以通过 codomain 的各种运算来实现，如图（1-范畴）的缩并就可以通过无穷范畴的拉回来模拟⚠️**；把函子理解为 codomain 模拟 domain，**所以各种 codomain 的运算也可以约化到 domain 的变换⚠️**，见 10:00 命题的证明；**逐点地计算（推出、拉回、极限、余极限等）无穷范畴层的截断（层 = 模拟 domain 形状的无穷范畴图表，截断 = 前面无穷范畴图表的元素图表），以实现截断的“粘接”**，见 56:00 [Merlin Christ 3/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=H1q2m1evdZo&list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b&index=10) 2026-10-13 10:06 崇德苑 209 室
 
-      [Merlin Christ 4/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=OsZDWQdXrPY&list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b&index=9) 2026-11-14 11:24 湖光校区图书馆
+      [Merlin Christ 4/4 - A gentle introduction to sheaves of stable infinity-categories](https://www.youtube.com/watch?v=OsZDWQdXrPY&list=PLAMniZX5MiiL87EMSooGUCg4vWMl3T0-b&index=9) 2026-10-14 11:24 湖光校区图书馆
+
+      把函子理解为 codomain 模拟 domain，这里的 sheaves 理解为**用稳定无穷范畴去模拟箭图**，见 15:20 [Merlin Christ: Perverse schobers and representation theory](https://www.youtube.com/watch?v=OOBArO2EHPA)  2026-10-15 9:43 崇德苑 209 室
  
-1145. 神经网络其本质可以理解为一个**已经训练（通过为达到某些预期条件而定义的某些恰当的损失函数来规训、调整）好的确定的（固定的）**“函数”或者“算子”，该“函数”可以理解为由线性 ax+b 和非线性 sin x 等的函数多重复合得到的 [【官方】2025小迈步之使用 AI 求解偏微分方程：探索 PINN 和 NO 的应用](https://www.bilibili.com/video/BV15ioiY5EJp/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-11-11 10:06 崇德苑 209 室
+1145. 神经网络其本质可以理解为一个**已经训练（通过为达到某些预期条件而定义的某些恰当的损失函数来规训、调整）好的确定的（固定的）**“函数”或者“算子”，该“函数”可以理解为由线性 ax+b 和非线性 sin x 等的函数多重复合得到的 [【官方】2025小迈步之使用 AI 求解偏微分方程：探索 PINN 和 NO 的应用](https://www.bilibili.com/video/BV15ioiY5EJp/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-10-11 10:06 崇德苑 209 室
  
 
 
