@@ -3907,7 +3907,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
  
 1145. 神经网络其本质可以理解为一个**已经训练（通过为达到某些预期条件而定义的某些恰当的损失函数来规训、调整）好的确定的（固定的）**“函数”或者“算子”，该“函数”可以理解为由线性 ax+b 和非线性 sin x 等的函数多重复合得到的 [【官方】2025小迈步之使用 AI 求解偏微分方程：探索 PINN 和 NO 的应用](https://www.bilibili.com/video/BV15ioiY5EJp/?spm_id_from=333.337.search-card.all.click&vd_source=02cc95fa17590f7325fe8cefd48b69e2) 2026-10-11 10:06 崇德苑 209 室
 
-1146. **lax limit/section 的粘接技术** [Gustavo Jasso: Deriving a theorem of Ladkani](https://www.youtube.com/watch?v=ZE6eVk6ETW8) also see Merlin Crist's work 见 1144 条 2026-10-22 22:15 崇德苑 209 室
+1146. **lax limit/section 的粘接技术，本质上是 recollment 的中间项（两端项粘接的结果）** [Gustavo Jasso: Deriving a theorem of Ladkani](https://www.youtube.com/watch?v=ZE6eVk6ETW8) also see Merlin Crist's work 见 1144 条 2026-10-22 22:15 崇德苑 209 室
  
 
 
