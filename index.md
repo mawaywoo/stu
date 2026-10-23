@@ -486,7 +486,7 @@ higher category theory, higher topos theory, higher algebra, math physics, quant
 [Chiral algebras, factorization algebras, and Borcherds' "singular commutative rings" approach  to vertex algebras](https://www.youtube.com/watch?v=FWnu0CN5G7Q) | [Panel Discussion: AI in Mathematical Research  September 15](https://www.youtube.com/watch?v=H7_d_sgui6o) | [Perverse Sheaves and their Categorification in Geometry and Representation Theory](https://www.univiu.org/study/summer-schools/perverse-sheaves-geometry-representation-theory) |
 [FRG workshop on higher categories and geometry](https://antieau.github.io/workshops/2026-03-frg.html) | [Seminars in Higher Category Theory](https://mathvideos.org/seminars/category-theory/higher-category-theory/) | [Jack Romo - Homotopy Bicategories of (infinity,2)-categories](https://www.youtube.com/watch?v=1YYWFcqKkSY&t=402s) |
 [Mitchell Taylo: Lean for the working mathematician 2026.10.13](https://www.youtube.com/watch?v=D5vkKgZVChc) | [mathlib](https://leanprover-community.github.io/) | [Kevin Buzzard - Mathematical Foundations of AI Conference 2026](https://www.youtube.com/watch?v=5FsNMoEDDfw) |
-[【漫士】AI怎么让NS方程爆炸的？流体力学不存在了？](https://www.youtube.com/watch?v=qCcAwWpHtPE) | [Gustavo Jasso: Deriving a theorem of Ladkani](https://www.youtube.com/watch?v=ZE6eVk6ETW8) | []() |
+[【漫士】AI怎么让NS方程爆炸的？流体力学不存在了？](https://www.youtube.com/watch?v=qCcAwWpHtPE) | [Gustavo Jasso: Deriving a theorem of Ladkani](https://www.youtube.com/watch?v=ZE6eVk6ETW8) | [袁新意 AI-generated paper](https://mathhelm.org/) |
 []() |
 
 
