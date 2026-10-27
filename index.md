@@ -3910,6 +3910,8 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 1146. **lax limit/section 的粘接技术，本质上是 recollment 的中间项（两端项粘接的结果）** [Gustavo Jasso: Deriving a theorem of Ladkani](https://www.youtube.com/watch?v=ZE6eVk6ETW8) also see Merlin Crist's work 见 1144 条 2026-10-22 22:15 崇德苑 209 室
 
 1147. **torsion obeject = 有冗余（柔），torsion-free object = 无冗余（刚**），如 in the category Preord of preordered sets 中，there is a natural notion of pretorsion theory,in which the **partially ordered sets** are the torsion-free objects and the **sets endowed with an equivalence relation** are thetorsion objects [Pretorsion theories, stable category and preordered sets](https://arxiv.org/abs/1902.06694)。2026-10-26 10:25 崇德苑 209 室
+
+1148. **在无穷范畴中，也能具体定位到单个的对象或态射**，那么在无穷范畴中操作时，和通常范畴中的操作的差别在哪呢？区别之一就是：我们依然可以对单个对象和态射做像通常范畴中那样的运算，只是此时的所有运算都带着无穷相容数据一起进行的，例如**取两个单独的对象，它们在无穷和通常范畴中都是一样的**，但是如果对这两个对象做 product 和 coproduct 运算时，在通常范畴中不用考虑高维的态射，但是**在无穷范畴中，这两种运算会自带高阶态射一起进行**。也就是说，**无穷范畴中的各种运算才是真正高维数据的搬运工**，通过它们可以把各种局部的高维数据进行组装。**想象 coproduct 运算：取粘液中的两个球，在通常范畴中的运算就是仅仅把两个球单独拿出来拼在一起，在高维范畴中运算就是把两个球以及它们身上的粘液一起拿出来，通过粘液把它们溶在一起；粘液就相当于高阶范畴中的高阶数据**。例如 Lemma 2.4. 中，X 和 X^tensor n 都是一个个无穷范畴中单个的对象，free 构造中的 coproduct 运算是无穷范畴中的运算，它会把各个对象自带的高维数据也整合在一起。**所以要意识到：无穷范畴中的运算是自带高维数据的运算！**[Homological and homotopical epimorphisms in monoidal ∞-categories](https://arxiv.org/pdf/2610.34592) 2026-10-27 23:04 崇德苑 209 室
  
 
 
