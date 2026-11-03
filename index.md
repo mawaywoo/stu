@@ -3923,7 +3923,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       **一个无穷范畴的数据可以完全被一个单纯集所编码**（见上一自然段编码无穷范畴 diagram），两个无穷范畴的 join, 见 Lurie 的 HTT 的 Denition 1.2.8.1. 则是**将两个单纯集的 cells 拼成一个新的单纯集的 cells**；在上一段的**单纯集 diagram (X_0 ——> X_1 ——> X_2 ——> ...) 的视觉下，通常范畴、无穷范畴、单纯集都没啥太大区别**，它们的差别仅仅在于那些 cells 的限制不一样，比如通常的范畴没有 2 以上的 cells. 2026-11-2 22:10 崇德苑 209 室
 
-      **Join 运算左右不是对称的**，因为只有从左到右的箭头，由此会有左 cone 和右 cone 的区别 Notation 1.2.8.4.；42 页的 join 和 slice category 的伴随可以形象地理解为：**拉弹弓，将 slice 范畴的 X 用力拉到 Hom 的第一个分量上来，并用钉子（join)勾住**。[Higher Topos Theory](https://www.math.ias.edu/~lurie/papers/HTT.pdf) 2026-11-3 8:26 崇德苑 209 室
+      **Join 运算左右不是对称的**，因为只有从左到右的箭头，由此会有左 cone 和右 cone 的区别 Notation 1.2.8.4.；42 页的 join 和 slice category 的伴随可以形象地理解为：**拉弹弓，将 slice 范畴的 X 用力拉到 Hom 的第一个分量上来，并用钉子（join)勾住**；Proposition 1.2.9.2 中的 join 和 slice 的伴随可以理解为：**拉多重弹弓**。[Higher Topos Theory](https://www.math.ias.edu/~lurie/papers/HTT.pdf) 2026-11-3 8:26 崇德苑 209 室
 
  
 
