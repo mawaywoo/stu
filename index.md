@@ -3925,7 +3925,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
       **Join 运算左右不是对称的**，因为只有从左到右的箭头，由此会有左 cone 和右 cone 的区别 Notation 1.2.8.4.；42 页的 join 和 slice category 的伴随可以形象地理解为：**⚠️拉弹弓⚠️，将 slice 范畴的 X 用力拉到 Hom 的第一个分量上来，并用钉子（join)勾住**；Proposition 1.2.9.2 中的 join 和 slice 的伴随可以理解为：**⚠️拉多重弹弓⚠️**；到底**拉到 Hom 第一个分量的左边还是右边钉住**？原则是：最省力的方式，如果是 overcategory，则把下边拉到 Hom 的第一个分量的右边钉住最省力，undercategory 则是拉到第一个分量的左边钉住，这样弹弓才有足够的张力；因此，**⚠️slice category 可以可视化为：拉紧的（多重）弹弓⚠️**，见 Proposition 1.2.9.3；该弹弓理解可应用于 Remark 1.2.13.5，即 Denition 1.2.13.4 中切片范畴的弹弓理解 [Higher Topos Theory](https://www.math.ias.edu/~lurie/papers/HTT.pdf) 2026-11-3 8:26 崇德苑 209 室
 
-1153. 前段时间几乎没怎么看书和论文，AI 出来后，感觉很浮躁，希望自己能静下来。2026-11-16 20:12 崇德苑 209 室
+1153. 前段时间几乎没怎么看书和论文，AI 出来后，感觉很浮躁，希望自己能静下来。**坚持阅读，远离 AI，保持大脑的思考训练**。2026-11-16 20:12 崇德苑 209 室
 
  
 
