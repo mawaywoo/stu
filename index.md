@@ -3927,7 +3927,7 @@ A fibration is a map of simplicial sets with a lifting property against certain 
 
 1153. 前段时间几乎没怎么看书和论文，AI 出来后，感觉很浮躁，希望自己能静下来。**坚持阅读，远离 AI，保持大脑的思考训练**。2026-11-16 20:12 崇德苑 209 室
 
-1154. Definition 3.1. 中映射的定义理解为需要将上面的线的 1-(a-b) 拉伸为下面的线长 1，**拉伸的比例为 1-(a-b) : 1；上面的坐标 x 映射到下面的坐标为多少完全由这个比例算出**：即上端的 x 和下端的坐标的比值等于该比值。[Duals and adjoints in higher Morita categories](https://arxiv.org/pdf/1804.10924) 2026-11-19 16:29 崇德苑 209 室
+1154. Definition 3.1. 中映射的定义理解为需要将上面的线的 1-(a-b) 拉伸为下面的线长 1，**拉伸的比例为 1-(a-b) : 1；上面的坐标 x 映射到下面的坐标为多少完全由这个比例算出**：即上端的 x 和下端的坐标的比值等于该比值。比如，b : ? = 1-(a-b) : 1, a-(a-b) : ? = 1-(a-b) : 1, 可求出 a, b 都映射到 b/1-(a-b) 这个点。**为什么是 a-(a-b) 而不是 a, 这是因为是把上端的 1-(a-b) 拉伸过来，所以 a 以后的点的坐标需要把 ba 这段移除掉**。[Duals and adjoints in higher Morita categories](https://arxiv.org/pdf/1804.10924) 2026-11-19 16:29 崇德苑 209 室
 
  
 
